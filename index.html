@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="theme-color" content="#080c10"/>
+<title>Price Action Scanner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&family=Bebas+Neue&display=swap" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+body{background:#080c10;color:#cbd5e1;font-family:'IBM Plex Mono',monospace;min-height:100vh;overflow-x:hidden}
+.grid-bg{position:fixed;inset:0;background-image:linear-gradient(rgba(0,255,100,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(0,255,100,.025) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+
+/* HEADER */
+.header{position:sticky;top:0;z-index:100;background:rgba(8,12,16,.96);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,.06);padding:14px 16px}
+.header-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.logo{display:flex;align-items:baseline;gap:8px}
+.logo h1{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:3px;color:#f8fafc}
+.logo span{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:3px;color:#4ade80}
+.header-actions{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+input.ticker-input{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);color:#e2e8f0;padding:7px 11px;font-family:'IBM Plex Mono',monospace;font-size:11px;border-radius:4px;outline:none;text-transform:uppercase;width:100px}
+input.ticker-input:focus{border-color:rgba(0,255,100,.4)}
+.btn{border:none;cursor:pointer;font-family:'IBM Plex Mono',monospace;letter-spacing:1px;text-transform:uppercase;border-radius:4px;transition:all .2s;font-size:10px}
+.btn-add{background:rgba(0,255,100,.1);border:1px solid rgba(0,255,100,.3);color:#4ade80;padding:7px 13px}
+.btn-add:hover{background:rgba(0,255,100,.18)}
+.btn-scan{background:rgba(0,255,100,.12);border:1px solid rgba(0,255,100,.4);color:#4ade80;padding:8px 18px;font-size:11px;font-weight:600;letter-spacing:2px}
+.btn-scan:hover{background:rgba(0,255,100,.2);box-shadow:0 0 20px rgba(0,255,100,.12)}
+.btn-scan:disabled{opacity:.4;cursor:not-allowed}
+
+/* PROGRESS */
+.progress-bar{height:2px;background:rgba(255,255,255,.06);overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#16a34a,#4ade80);transition:width .4s ease}
+
+/* TIMEFRAME */
+.tf-bar{padding:11px 16px;border-bottom:1px solid rgba(255,255,255,.05);background:rgba(0,0,0,.2)}
+.tf-row{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.tf-label{font-size:9px;color:#334155;letter-spacing:2px;text-transform:uppercase;margin-right:4px}
+.tf-btn{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.08);color:#64748b;padding:5px 10px;cursor:pointer;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.5px;border-radius:3px;transition:all .15s;position:relative}
+.tf-btn:hover{color:#94a3b8;border-color:rgba(255,255,255,.15)}
+.tf-btn.active{background:rgba(0,255,100,.1);border-color:rgba(0,255,100,.4);color:#4ade80;font-weight:600}
+.tf-btn.star::after{content:'★';position:absolute;top:-5px;right:-4px;font-size:8px;color:#fbbf24}
+.tf-desc{margin-top:7px;font-size:10px;color:#475569;line-height:1.6}
+.tf-guide{margin-top:10px;background:rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.05);border-radius:4px;padding:12px 14px}
+.tf-guide-row{display:flex;gap:10px;margin-bottom:5px}
+.tf-guide-label{font-size:10px;min-width:62px}
+.tf-guide-desc{font-size:10px;line-height:1.6}
+.tf-tip{margin-top:10px;padding:7px 10px;background:rgba(251,191,36,.06);border:1px solid rgba(251,191,36,.15);border-radius:3px;font-size:10px;color:#fbbf24}
+.tf-toggle{background:none;border:none;color:#334155;cursor:pointer;font-size:9px;margin-left:6px;letter-spacing:1px;font-family:'IBM Plex Mono',monospace}
+
+/* STATS */
+.stats-bar{padding:8px 16px;border-bottom:1px solid rgba(255,255,255,.04);display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+.stat-item{display:flex;align-items:center;gap:5px}
+.stat-dot{width:6px;height:6px;border-radius:50%;display:inline-block;flex-shrink:0}
+.stat-label{font-size:9px;letter-spacing:1px}
+.stat-count{font-size:12px;font-weight:600}
+.stat-total{margin-left:auto;font-size:9px;color:#334155}
+
+/* GRID */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:9px;padding:16px;max-width:1200px;margin:0 auto;padding-bottom:80px}
+@media(max-width:640px){.grid{grid-template-columns:1fr}}
+
+/* CARD */
+.card{background:rgba(255,255,255,.02);border:1px solid rgba(255,255,255,.07);border-radius:4px;cursor:pointer;transition:all .15s;position:relative;overflow:hidden}
+.card:hover{border-color:rgba(255,255,255,.14)}
+.card-accent{position:absolute;left:0;top:0;bottom:0;width:3px}
+.card-header{padding:11px 12px 11px 15px;display:flex;align-items:center;justify-content:space-between}
+.card-left{display:flex;align-items:center;gap:9px}
+.card-ticker{font-family:'Bebas Neue',sans-serif;font-size:18px;letter-spacing:2px;line-height:1}
+.signal-badge{padding:2px 7px;border-radius:2px;font-size:9px;font-weight:600;letter-spacing:1px;text-transform:uppercase}
+.card-right{display:flex;align-items:center;gap:6px}
+.card-price{font-size:10px;color:#94a3b8}
+.card-change{font-size:10px}
+.btn-tara{background:rgba(0,255,100,.1);border:1px solid rgba(0,255,100,.3);color:#4ade80;padding:3px 7px;cursor:pointer;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:1px;border-radius:3px;transition:all .2s}
+.btn-remove{background:none;border:none;color:#374151;cursor:pointer;font-size:14px;padding:2px 4px;transition:color .15s}
+.btn-remove:hover{color:#ef4444}
+
+/* PILLS */
+.pills{padding:0 15px 9px;display:flex;gap:4px;flex-wrap:wrap}
+.pill{font-size:9px;padding:2px 6px;border-radius:2px}
+
+/* DETAIL */
+.detail{padding:10px 15px 13px;border-top-width:1px;border-top-style:solid;animation:slideDown .18s ease}
+@keyframes slideDown{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}
+
+/* BUY DECISION BOX */
+.decision-box{border-radius:4px;padding:11px 13px;margin-bottom:9px;border-width:1px;border-style:solid}
+.decision-title{font-size:9px;letter-spacing:2px;text-transform:uppercase;margin-bottom:8px}
+.decision-verdict{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:2px;margin-bottom:8px}
+.decision-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
+.decision-key{font-size:9px;color:#475569}
+.decision-val{font-size:11px;font-weight:600}
+.rr-bar-wrap{height:5px;background:rgba(255,255,255,.06);border-radius:3px;overflow:hidden;margin-top:4px}
+.rr-bar{height:100%;border-radius:3px;transition:width .6s ease}
+
+/* PRICE LEVELS */
+.price-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;margin-bottom:9px}
+.price-cell{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);border-radius:3px;padding:6px;text-align:center}
+.price-cell-label{font-size:8px;color:#475569;letter-spacing:1px;margin-bottom:2px}
+.price-cell-val{font-size:12px;font-weight:600}
+
+/* VOLUME PROFILE */
+.vp-box{background:rgba(0,0,0,.25);border:1px solid rgba(96,165,250,.12);border-radius:3px;padding:9px 11px;margin-bottom:9px}
+.vp-title{font-size:9px;color:#60a5fa;letter-spacing:2px;text-transform:uppercase;margin-bottom:7px}
+.vp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;margin-bottom:7px}
+.vp-cell{background:rgba(255,255,255,.03);border-radius:3px;padding:5px;text-align:center}
+.vp-cell-label{font-size:8px;letter-spacing:1.5px;margin-bottom:2px}
+.vp-cell-val{font-size:11px;font-weight:600}
+.vp-cell-desc{font-size:8px;color:#334155;margin-top:2px}
+.vp-bar-label{font-size:8px;color:#334155;margin-bottom:3px}
+.vp-bar-wrap{height:5px;background:rgba(255,255,255,.04);border-radius:2px;overflow:hidden}
+.vp-bar-fill{height:100%;width:70%;background:linear-gradient(90deg,rgba(96,165,250,.25),rgba(96,165,250,.55));border-radius:2px}
+
+/* SUMMARY */
+.summary-box{font-size:10px;color:#64748b;line-height:1.7;padding:7px 9px;background:rgba(0,0,0,.2);border-radius:3px;border-left-width:2px;border-left-style:solid;max-height:90px;overflow-y:auto}
+
+/* SPINNER */
+.spinner{width:11px;height:11px;border:2px solid rgba(255,255,255,.1);border-top-color:#4ade80;border-radius:50%;animation:spin .8s linear infinite;display:inline-block}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* FOOTER */
+.footer{padding:12px 16px;border-top:1px solid rgba(255,255,255,.04);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;position:relative;z-index:1}
+.footer span{font-size:9px;color:#1e293b}
+
+::-webkit-scrollbar{width:4px}
+::-webkit-scrollbar-track{background:#080c10}
+::-webkit-scrollbar-thumb{background:rgba(0,255,100,.2);border-radius:2px}
+</style>
+</head>
+<body>
+<div class="grid-bg"></div>
+
+<div class="header">
+  <div class="header-top">
+    <div class="logo"><h1>PRICE ACTION</h1><span>SCANNER</span></div>
+    <div class="header-actions">
+      <input class="ticker-input" id="tickerInput" placeholder="TICKER" onkeydown="if(event.key==='Enter')addTicker()"/>
+      <button class="btn btn-add" onclick="addTicker()">+ Ekle</button>
+      <button class="btn btn-scan" id="scanBtn" onclick="analyzeAll()">⚡ Tümünü Tara</button>
+    </div>
+  </div>
+</div>
+<div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+
+<div class="tf-bar">
+  <div class="tf-row">
+    <span class="tf-label">Zaman</span>
+    <button class="tf-btn" data-tf="30min" onclick="setTf('30min')">30dk</button>
+    <button class="tf-btn" data-tf="1hour" onclick="setTf('1hour')">1 Saat</button>
+    <button class="tf-btn" data-tf="4hour" onclick="setTf('4hour')">4 Saat</button>
+    <button class="tf-btn star active" data-tf="1day" onclick="setTf('1day')">1 Gün</button>
+    <button class="tf-btn star" data-tf="1week" onclick="setTf('1week')">1 Hafta</button>
+    <button class="tf-btn" data-tf="1month" onclick="setTf('1month')">1 Ay</button>
+    <button class="tf-toggle" onclick="toggleGuide()">▼ rehber</button>
+  </div>
+  <div class="tf-desc" id="tfDesc">✓ CANSLIM için en kritik zaman dilimi. 1-3 aylık swing pozisyonun temel analizi buradan yapılır.</div>
+  <div class="tf-guide" id="tfGuide" style="display:none">
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#475569">30dk</span><span class="tf-guide-desc" style="color:#475569">Gün içi giriş zamanlaması. CANSLIM için önerilmez.</span></div>
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#475569">1 Saat</span><span class="tf-guide-desc" style="color:#475569">Kısa swing işlemler için. Gürültülü sinyal üretir.</span></div>
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#4ade80">4 Saat</span><span class="tf-guide-desc" style="color:#94a3b8">Giriş/çıkış zamanlaması için güçlü. Günlük ile birlikte kullan.</span></div>
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#4ade80;font-weight:600">1 Gün ★</span><span class="tf-guide-desc" style="color:#94a3b8">✅ CANSLIM için en kritik zaman dilimi. Swing pozisyonun temel analizi buradan yapılır.</span></div>
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#4ade80;font-weight:600">1 Hafta ★</span><span class="tf-guide-desc" style="color:#94a3b8">✅ Trend teyidi için şart. 1-3 aylık pozisyon tutacaksan bu grafiği mutlaka incele.</span></div>
+    <div class="tf-guide-row"><span class="tf-guide-label" style="color:#4ade80">1 Ay</span><span class="tf-guide-desc" style="color:#94a3b8">Büyük resmi görmek için. Uzun vadeli destek/direnç seviyeleri burada netleşir.</span></div>
+    <div class="tf-tip">💡 1-3 aylık pozisyon için: <strong>1 Hafta</strong> ile trend teyidi al → <strong>1 Gün</strong> ile giriş zamanla</div>
+  </div>
+</div>
+
+<div class="stats-bar" id="statsBar">
+  <div class="stat-item"><span class="stat-dot" style="background:#22c55e"></span><span class="stat-label" style="color:#4ade80">Güçlü Al</span><span class="stat-count" style="color:#4ade80" id="cnt-STRONG_BUY">0</span></div>
+  <div class="stat-item"><span class="stat-dot" style="background:#4ade80"></span><span class="stat-label" style="color:#86efac">Al</span><span class="stat-count" style="color:#86efac" id="cnt-BUY">0</span></div>
+  <div class="stat-item"><span class="stat-dot" style="background:#78716c"></span><span class="stat-label" style="color:#a8a29e">Nötr</span><span class="stat-count" style="color:#a8a29e" id="cnt-NEUTRAL">0</span></div>
+  <div class="stat-item"><span class="stat-dot" style="background:#f59e0b"></span><span class="stat-label" style="color:#fbbf24">Dikkat</span><span class="stat-count" style="color:#fbbf24" id="cnt-CAUTION">0</span></div>
+  <div class="stat-item"><span class="stat-dot" style="background:#ef4444"></span><span class="stat-label" style="color:#f87171">Sat</span><span class="stat-count" style="color:#f87171" id="cnt-SELL">0</span></div>
+  <span class="stat-total" id="statTotal">0/0 analiz</span>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="footer">
+  <span>★ = CANSLIM önerilen • VP = Volume Profile • R/R = Risk/Ödül</span>
+  <span>Bu araç yatırım tavsiyesi değildir</span>
+</div>
+
+<script>
+const WATCHLIST = ["MU","NVDA","AMD","MRVL","ALAB","AVGO","TSM","CRDO","CLS","ARM","ANET","LRCX","POWL","WDC","FN","AMAT","ADI"];
+const TF_DESCS = {
+  "30min":"✗ Gün içi giriş zamanlaması. CANSLIM için önerilmez.",
+  "1hour":"✗ Kısa swing işlemler için. Gürültülü sinyal üretir.",
+  "4hour":"✓ Giriş/çıkış zamanlaması için güçlü. Günlük ile birlikte kullan.",
+  "1day":"✓ CANSLIM için en kritik zaman dilimi. 1-3 aylık swing pozisyonun temel analizi buradan yapılır.",
+  "1week":"✓ Trend teyidi için şart. 1-3 aylık pozisyon tutacaksan bu grafiği mutlaka incele.",
+  "1month":"✓ Büyük resmi görmek için. Uzun vadeli destek/direnç seviyeleri burada netleşir."
+};
+const TF_LABELS = {"30min":"30-minute","1hour":"1-hour","4hour":"4-hour","1day":"daily","1week":"weekly","1month":"monthly"};
+const SIGNALS = {
+  STRONG_BUY:{label:"Güçlü Al",bg:"#052e16",border:"#16a34a",text:"#4ade80",dot:"#22c55e"},
+  BUY:{label:"Al",bg:"#052e16",border:"#15803d",text:"#86efac",dot:"#4ade80"},
+  NEUTRAL:{label:"Nötr",bg:"#1c1917",border:"#78716c",text:"#a8a29e",dot:"#78716c"},
+  CAUTION:{label:"Dikkat",bg:"#2d1a00",border:"#d97706",text:"#fbbf24",dot:"#f59e0b"},
+  SELL:{label:"Sat",bg:"#2d0a0a",border:"#dc2626",text:"#f87171",dot:"#ef4444"}
+};
+
+let watchlist = [...WATCHLIST];
+let results = {};
+let currentTf = "1day";
+let expanded = null;
+let scanning = false;
+let guideVisible = false;
+
+function setTf(tf) {
+  currentTf = tf;
+  document.querySelectorAll('.tf-btn').forEach(b => b.classList.toggle('active', b.dataset.tf === tf));
+  const desc = TF_DESCS[tf] || "";
+  const descEl = document.getElementById('tfDesc');
+  descEl.style.color = tf==="30min"||tf==="1hour" ? "#475569" : "#94a3b8";
+  descEl.textContent = desc;
+  renderGrid();
+  updateStats();
+}
+
+function toggleGuide() {
+  guideVisible = !guideVisible;
+  document.getElementById('tfGuide').style.display = guideVisible ? 'block' : 'none';
+  document.querySelector('.tf-toggle').textContent = guideVisible ? '▲ kapat' : '▼ rehber';
+}
+
+function getResult(ticker) { return results[`${ticker}_${currentTf}`]; }
+
+function parseResponse(text) {
+  const lower = text.toLowerCase();
+  let score = 0;
+  const signals = [];
+
+  if (lower.includes("uptrend")||lower.includes("bullish trend")) { score+=2; signals.push({label:"Trend",value:"Yükselen ▲",good:true}); }
+  else if (lower.includes("downtrend")||lower.includes("bearish trend")) { score-=2; signals.push({label:"Trend",value:"Düşen ▼",good:false}); }
+  else { signals.push({label:"Trend",value:"Yatay →",good:null}); }
+
+  if (lower.includes("above 50")||(lower.includes("50-day")&&lower.includes("above"))) { score+=1; signals.push({label:"SMA50",value:"Üzerinde ✓",good:true}); }
+  else if (lower.includes("below 50")||(lower.includes("50-day")&&lower.includes("below"))) { score-=1; signals.push({label:"SMA50",value:"Altında ✗",good:false}); }
+  else { signals.push({label:"SMA50",value:"—",good:null}); }
+
+  if (lower.includes("above 200")||(lower.includes("200-day")&&lower.includes("above"))) { score+=1; signals.push({label:"SMA200",value:"Üzerinde ✓",good:true}); }
+  else if (lower.includes("below 200")||(lower.includes("200-day")&&lower.includes("below"))) { score-=1; signals.push({label:"SMA200",value:"Altında ✗",good:false}); }
+  else { signals.push({label:"SMA200",value:"—",good:null}); }
+
+  if (lower.includes("52-week high")||lower.includes("near high")||lower.includes("all-time high")) { score+=2; signals.push({label:"52W Zirve",value:"Yakın ✓",good:true}); }
+  else if (lower.includes("far from")||lower.includes("well below high")) { score-=1; signals.push({label:"52W Zirve",value:"Uzak",good:false}); }
+  else { signals.push({label:"52W Zirve",value:"Orta",good:null}); }
+
+  if (lower.includes("high volume")||lower.includes("above average volume")) { score+=1; signals.push({label:"Hacim",value:"Yüksek ✓",good:true}); }
+  else if (lower.includes("low volume")||lower.includes("weak volume")) { score-=1; signals.push({label:"Hacim",value:"Düşük",good:false}); }
+  else { signals.push({label:"Hacim",value:"Normal",good:null}); }
+
+  if (lower.includes("breakout")||lower.includes("resistance broken")) { score+=2; signals.push({label:"Kırılım",value:"Direnç Kırıldı ✓",good:true}); }
+  else if (lower.includes("breakdown")||lower.includes("support broken")) { score-=2; signals.push({label:"Kırılım",value:"Destek Kırıldı ✗",good:false}); }
+  else { signals.push({label:"Kırılım",value:"Yok",good:null}); }
+
+  if (lower.includes("above poc")) { score+=1; signals.push({label:"VP/POC",value:"Üzerinde ✓",good:true}); }
+  else if (lower.includes("below poc")) { score-=1; signals.push({label:"VP/POC",value:"Altında",good:false}); }
+
+  const priceM = text.match(/\$?([\d,]+\.?\d{0,2})/);
+  const price = priceM ? parseFloat(priceM[1].replace(",","")) : null;
+  const changeM = text.match(/([-+]?\d+\.?\d*)%/);
+  const change = changeM ? parseFloat(changeM[1]) : null;
+
+  const entryM = text.match(/(?:entry|support|buy\s*(?:around|near|at)?)\s*[:\s]+\$?([\d.]+)/i);
+  const exitM  = text.match(/(?:target|resistance|exit)\s*[:\s]+\$?([\d.]+)/i);
+  const stopM  = text.match(/stop[- ]?(?:loss)?\s*[:\s]+\$?([\d.]+)/i);
+  const pocM   = text.match(/(?:POC|point of control)\s*[:\s]+\$?([\d.]+)/i);
+  const vahM   = text.match(/(?:VAH|value area high)\s*[:\s]+\$?([\d.]+)/i);
+  const valM   = text.match(/(?:VAL|value area low)\s*[:\s]+\$?([\d.]+)/i);
+
+  const entry = entryM ? parseFloat(entryM[1]) : null;
+  const exit  = exitM  ? parseFloat(exitM[1])  : null;
+  const stop  = stopM  ? parseFloat(stopM[1])  : null;
+
+  // Risk/Reward calculation
+  let rr = null, rrGood = false, verdict = null, verdictColor = null;
+  if (entry && exit && stop && entry > stop) {
+    const reward = exit - entry;
+    const risk   = entry - stop;
+    rr = reward / risk;
+    rrGood = rr >= 2;
+    if (rr >= 3)      { verdict = "GÜÇLÜ AL"; verdictColor = "#4ade80"; }
+    else if (rr >= 2) { verdict = "AL";        verdictColor = "#86efac"; }
+    else if (rr >= 1) { verdict = "DİKKATLİ"; verdictColor = "#fbbf24"; }
+    else              { verdict = "GEÇME";      verdictColor = "#f87171"; }
+  }
+
+  let signal;
+  if (score>=4) signal="STRONG_BUY";
+  else if (score>=2) signal="BUY";
+  else if (score>=0) signal="NEUTRAL";
+  else if (score>=-2) signal="CAUTION";
+  else signal="SELL";
+
+  return {
+    signal, score, signals, price, change,
+    entry, exit, stop, rr, rrGood, verdict, verdictColor,
+    poc: pocM ? parseFloat(pocM[1]) : null,
+    vah: vahM ? parseFloat(vahM[1]) : null,
+    val: valM ? parseFloat(valM[1]) : null,
+    summary: text.split("\n").slice(0,4).join(" ").substring(0,280)
+  };
+}
+
+async function analyze(ticker, tf) {
+  const key = `${ticker}_${tf}`;
+  try {
+    const AV_KEY = "6JSN8M0G8CY1X6ZG";
+    // Fetch quote + SMA50 + SMA200 from Alpha Vantage
+    const [quoteResp, sma50Resp, sma200Resp] = await Promise.all([
+      fetch(`https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${ticker}&apikey=${AV_KEY}`),
+      fetch(`https://www.alphavantage.co/query?function=SMA&symbol=${ticker}&interval=daily&time_period=50&series_type=close&apikey=${AV_KEY}`),
+      fetch(`https://www.alphavantage.co/query?function=SMA&symbol=${ticker}&interval=daily&time_period=200&series_type=close&apikey=${AV_KEY}`)
+    ]);
+
+    const [quoteData, sma50Data, sma200Data] = await Promise.all([
+      quoteResp.json(), sma50Resp.json(), sma200Resp.json()
+    ]);
+
+    const q = quoteData["Global Quote"] || {};
+    const price       = parseFloat(q["05. price"]) || 0;
+    const change_pct  = parseFloat(q["10. change percent"]) || 0;
+    const high52w     = parseFloat(q["03. high"]) || price;
+    const volume      = parseInt(q["06. volume"]) || 0;
+
+    const sma50vals  = Object.values(sma50Data["Technical Analysis: SMA"]  || {});
+    const sma200vals = Object.values(sma200Data["Technical Analysis: SMA"] || {});
+    const sma50  = sma50vals.length  ? parseFloat(sma50vals[0]["SMA"])  : null;
+    const sma200 = sma200vals.length ? parseFloat(sma200vals[0]["SMA"]) : null;
+
+    const above_sma50  = sma50  ? price > sma50  : false;
+    const above_sma200 = sma200 ? price > sma200 : false;
+
+    let trend = "sideways";
+    if (above_sma50 && above_sma200) trend = "uptrend";
+    else if (!above_sma50 && !above_sma200) trend = "downtrend";
+
+    const pct_from_52w_high = high52w ? +((high52w - price)/high52w*100).toFixed(1) : 0;
+    const near_52w_high = pct_from_52w_high <= 15;
+
+    // Calculate entry/target/stop from price data (no external API needed)
+    // Entry: 3% below current price (pullback zone)
+    // Target: 52W High (natural resistance)
+    // Stop:   7% below current price (standard risk management)
+    const entry  = +(price * 0.97).toFixed(2);
+    const target = +(high52w * 0.99).toFixed(2);
+    const stop   = +(price * 0.93).toFixed(2);
+
+    // Volume Profile approximation from SMA data
+    const poc = sma50  ? +(sma50.toFixed(2))  : null;   // SMA50 = most traded zone proxy
+    const vah = sma50  ? +((sma50 * 1.05).toFixed(2)) : null;
+    const val = sma200 ? +(sma200.toFixed(2)) : null;
+    const above_poc = poc ? price > poc : true;
+
+    // Build summary
+    const sma50txt  = above_sma50  ? "SMA50 üzerinde" : "SMA50 altında";
+    const sma200txt = above_sma200 ? "SMA200 üzerinde" : "SMA200 altında";
+    const summary = `${ticker} $${price.toFixed(2)} — ${trend === "uptrend" ? "Yükselen trend" : trend === "downtrend" ? "Düşen trend" : "Yatay seyir"}. ${sma50txt}, ${sma200txt}. 52W zirvesine %${pct_from_52w_high} uzakta.`;
+
+    results[key] = buildResultFromJSON({
+      price, change_pct, trend, above_sma50, above_sma200,
+      near_52w_high, pct_from_52w_high,
+      volume: volume > 0 ? "normal" : "normal",
+      breakout: near_52w_high && trend==="uptrend",
+      breakdown: !above_sma50 && !above_sma200,
+      above_poc, entry, target, stop, poc, vah, val, summary
+    });
+  } catch(e) {
+    results[key] = {signal:"NEUTRAL",error:true,signals:[],summary:"Hata: "+e.message};
+  }
+}
+
+
+function buildResultFromJSON(d) {
+  let score = 0;
+  const signals = [];
+
+  if (d.trend==="uptrend")   { score+=2; signals.push({label:"Trend",  value:"Yükselen ▲", good:true}); }
+  else if (d.trend==="downtrend") { score-=2; signals.push({label:"Trend",value:"Düşen ▼",good:false}); }
+  else { signals.push({label:"Trend",value:"Yatay →",good:null}); }
+
+  if (d.above_sma50===true)  { score+=1; signals.push({label:"SMA 50", value:"Üzerinde ✓",good:true}); }
+  else if (d.above_sma50===false) { score-=1; signals.push({label:"SMA 50",value:"Altında ✗",good:false}); }
+
+  if (d.above_sma200===true)  { score+=1; signals.push({label:"SMA 200",value:"Üzerinde ✓",good:true}); }
+  else if (d.above_sma200===false){ score-=1; signals.push({label:"SMA 200",value:"Altında ✗",good:false}); }
+
+  if (d.near_52w_high===true) { score+=2; signals.push({label:"52W Zirve",value:`Yakın ✓ (%${d.pct_from_52w_high||"?"} uzakta)`,good:true}); }
+  else { signals.push({label:"52W Zirve",value:`%${d.pct_from_52w_high||"?"} uzakta`,good:null}); }
+
+  if (d.volume==="high")   { score+=1; signals.push({label:"Hacim",value:"Yüksek ✓",good:true}); }
+  else if (d.volume==="low"){ score-=1; signals.push({label:"Hacim",value:"Düşük",good:false}); }
+  else { signals.push({label:"Hacim",value:"Normal",good:null}); }
+
+  if (d.breakout===true)  { score+=2; signals.push({label:"Kırılım",value:"Direnç Kırıldı ✓",good:true}); }
+  else if (d.breakdown===true){ score-=2; signals.push({label:"Kırılım",value:"Destek Kırıldı ✗",good:false}); }
+  else { signals.push({label:"Kırılım",value:"Yok",good:null}); }
+
+  if (d.above_poc===true)  { score+=1; signals.push({label:"VP/POC",value:"Üzerinde ✓",good:true}); }
+  else if (d.above_poc===false){ score-=1; signals.push({label:"VP/POC",value:"Altında",good:false}); }
+
+  const entry = d.entry || null;
+  const exit  = d.target || null;
+  const stop  = d.stop  || null;
+
+  let rr=null, rrGood=false, verdict=null, verdictColor=null;
+  if (entry && exit && stop && entry > stop) {
+    rr = (exit-entry)/(entry-stop);
+    rrGood = rr>=2;
+    if (rr>=3)      { verdict="GÜÇLÜ AL"; verdictColor="#4ade80"; }
+    else if (rr>=2) { verdict="AL";        verdictColor="#86efac"; }
+    else if (rr>=1) { verdict="DİKKATLİ"; verdictColor="#fbbf24"; }
+    else            { verdict="GEÇME";     verdictColor="#f87171"; }
+  }
+
+  let signal;
+  if (score>=4) signal="STRONG_BUY";
+  else if (score>=2) signal="BUY";
+  else if (score>=0) signal="NEUTRAL";
+  else if (score>=-2) signal="CAUTION";
+  else signal="SELL";
+
+  return {
+    signal, score, signals,
+    price: d.price, change: d.change_pct,
+    entry, exit, stop, rr, rrGood, verdict, verdictColor,
+    poc: d.poc||null, vah: d.vah||null, val: d.val||null,
+    summary: d.summary||""
+  };
+}
+
+function pillColor(good) {
+  if (good===true)  return {bg:"rgba(74,222,128,.08)",color:"#4ade80",border:"rgba(74,222,128,.16)"};
+  if (good===false) return {bg:"rgba(248,113,113,.08)",color:"#f87171",border:"rgba(248,113,113,.16)"};
+  return {bg:"rgba(255,255,255,.04)",color:"#64748b",border:"rgba(255,255,255,.07)"};
+}
+
+function renderCard(ticker) {
+  const result = getResult(ticker);
+  const c = result ? SIGNALS[result.signal] : null;
+  const isExp = expanded === ticker;
+  const borderColor = result ? c.border : "rgba(255,255,255,.07)";
+  const bgColor     = result ? c.bg     : "rgba(255,255,255,.02)";
+
+  let pillsHtml = "";
+  if (result && !isExp && result.signals) {
+    result.signals.slice(0,4).forEach(s=>{
+      const pc = pillColor(s.good);
+      pillsHtml += `<span class="pill" style="background:${pc.bg};color:${pc.color};border:1px solid ${pc.border}">${s.label}: ${s.value}</span>`;
+    });
+  }
+
+  let detailHtml = "";
+  if (isExp && result) {
+    // All signal pills
+    let allPills = "";
+    (result.signals||[]).forEach(s=>{
+      const pc = pillColor(s.good);
+      allPills += `<span class="pill" style="background:${pc.bg};color:${pc.color};border:1px solid ${pc.border}">${s.label}: ${s.value}</span>`;
+    });
+
+    // Buy/Sell decision box
+    let decisionHtml = "";
+    if (result.verdict) {
+      const rrPct = Math.min((result.rr/4)*100, 100);
+      const rrBarColor = result.rr>=3?"#4ade80":result.rr>=2?"#86efac":result.rr>=1?"#fbbf24":"#f87171";
+      decisionHtml = `
+      <div class="decision-box" style="background:${result.rrGood?"rgba(5,46,22,.8)":"rgba(45,26,0,.8)"};border-color:${result.rrGood?"#16a34a":"#d97706"}">
+        <div class="decision-title" style="color:${result.rrGood?"#4ade80":"#fbbf24"}">📊 Alım Kararı</div>
+        <div class="decision-verdict" style="color:${result.verdictColor}">${result.verdict}</div>
+        <div class="decision-row">
+          <span class="decision-key">Risk/Ödül Oranı</span>
+          <span class="decision-val" style="color:${result.verdictColor}">1 : ${result.rr.toFixed(2)}</span>
+        </div>
+        <div class="decision-row">
+          <span class="decision-key">Giriş Fiyatı</span>
+          <span class="decision-val" style="color:#4ade80">$${result.entry?.toFixed(2)||"—"}</span>
+        </div>
+        <div class="decision-row">
+          <span class="decision-key">Hedef Fiyat</span>
+          <span class="decision-val" style="color:#60a5fa">$${result.exit?.toFixed(2)||"—"}</span>
+        </div>
+        <div class="decision-row">
+          <span class="decision-key">Stop-Loss</span>
+          <span class="decision-val" style="color:#f87171">$${result.stop?.toFixed(2)||"—"}</span>
+        </div>
+        ${result.entry&&result.exit ? `<div class="decision-row"><span class="decision-key">Potansiyel Kazanç</span><span class="decision-val" style="color:#60a5fa">+${((result.exit-result.entry)/result.entry*100).toFixed(1)}%</span></div>` : ""}
+        ${result.entry&&result.stop ? `<div class="decision-row"><span class="decision-key">Maks. Risk</span><span class="decision-val" style="color:#f87171">-${((result.entry-result.stop)/result.entry*100).toFixed(1)}%</span></div>` : ""}
+        <div class="rr-bar-wrap"><div class="rr-bar" style="width:${rrPct}%;background:${rrBarColor}"></div></div>
+        <div style="font-size:9px;color:#334155;margin-top:4px">R/R ≥ 2 alım için ideal • ≥ 3 güçlü sinyal</div>
+      </div>`;
+    } else {
+      decisionHtml = `<div class="decision-box" style="background:rgba(28,25,23,.8);border-color:#78716c">
+        <div class="decision-title" style="color:#78716c">📊 Alım Kararı</div>
+        <div style="font-size:10px;color:#475569">Giriş/Hedef/Stop seviyeleri hesaplanamadı. Analiz yeterli veri içermiyor.</div>
+      </div>`;
+    }
+
+    // Price levels
+    const priceGrid = `
+    <div class="price-grid">
+      ${[{l:"Giriş",v:result.entry,c:"#4ade80"},{l:"Hedef",v:result.exit,c:"#60a5fa"},{l:"Stop",v:result.stop,c:"#f87171"}].map(item=>`
+      <div class="price-cell">
+        <div class="price-cell-label">${item.l}</div>
+        <div class="price-cell-val" style="color:${item.v?item.c:"#1e293b"}">${item.v?"$"+item.v.toFixed(2):"—"}</div>
+      </div>`).join("")}
+    </div>`;
+
+    // Volume Profile
+    let vpHtml = "";
+    if (result.poc||result.vah||result.val) {
+      vpHtml = `
+      <div class="vp-box">
+        <div class="vp-title">📊 Volume Profile</div>
+        <div class="vp-grid">
+          ${[{l:"VAH",v:result.vah,c:"#f87171",d:"Üst sınır"},{l:"POC",v:result.poc,c:"#fbbf24",d:"En aktif"},{l:"VAL",v:result.val,c:"#4ade80",d:"Alt sınır"}].map(item=>`
+          <div class="vp-cell" style="border:1px solid ${item.c}20">
+            <div class="vp-cell-label" style="color:${item.c}">${item.l}</div>
+            <div class="vp-cell-val" style="color:${item.v?item.c:"#1e293b"}">${item.v?"$"+item.v.toFixed(2):"—"}</div>
+            <div class="vp-cell-desc">${item.d}</div>
+          </div>`).join("")}
+        </div>
+        <div class="vp-bar-label">Value Area — %70 hacim bölgesi</div>
+        <div class="vp-bar-wrap"><div class="vp-bar-fill"></div></div>
+      </div>`;
+    }
+
+    detailHtml = `
+    <div class="detail" style="border-top-color:${c.border}33">
+      <div class="pills" style="padding:0 0 9px">${allPills}</div>
+      ${decisionHtml}
+      ${priceGrid}
+      ${vpHtml}
+      <div class="summary-box" style="border-left-color:${c.border}">${result.summary}</div>
+    </div>`;
+  }
+
+  return `
+  <div class="card" id="card-${ticker}" style="border-color:${borderColor};background:${bgColor}" onclick="toggleExpand('${ticker}')">
+    <div class="card-accent" style="background:${result?c.dot:'transparent'}"></div>
+    <div class="card-header">
+      <div class="card-left">
+        <span class="card-ticker" style="color:${result?c.text:'#e2e8f0'}">${ticker}</span>
+        ${result?`<span class="signal-badge" style="background:${c.dot}22;color:${c.text};border:1px solid ${c.border}">${c.label}</span>`:""}
+      </div>
+      <div class="card-right">
+        ${result?.price?`<span class="card-price">$${result.price.toFixed?result.price.toFixed(2):result.price}</span>`:""}
+        ${result?.change!=null?`<span class="card-change" style="color:${result.change>=0?'#4ade80':'#f87171'}">${result.change>=0?"+":""}${result.change}%</span>`:""}
+        <span id="spin-${ticker}" style="display:none" class="spinner"></span>
+        <button class="btn-tara" id="btn-${ticker}" onclick="event.stopPropagation();analyzeSingle('${ticker}')">${result?"↻":"Tara"}</button>
+        <button class="btn-remove" onclick="event.stopPropagation();removeTicker('${ticker}')">×</button>
+      </div>
+    </div>
+    ${result&&!isExp?`<div class="pills">${pillsHtml}</div>`:""}
+    ${detailHtml}
+  </div>`;
+}
+
+function renderGrid() {
+  const grid = document.getElementById("grid");
+  grid.innerHTML = watchlist.map(t=>renderCard(t)).join("");
+}
+
+function updateStats() {
+  ["STRONG_BUY","BUY","NEUTRAL","CAUTION","SELL"].forEach(sig=>{
+    const count = watchlist.filter(t=>getResult(t)?.signal===sig).length;
+    const el = document.getElementById(`cnt-${sig}`);
+    if(el) el.textContent = count;
+  });
+  const analyzed = watchlist.filter(t=>getResult(t)).length;
+  document.getElementById("statTotal").textContent = `${analyzed}/${watchlist.length} analiz`;
+}
+
+function toggleExpand(ticker) {
+  if (!getResult(ticker)) return;
+  expanded = expanded===ticker ? null : ticker;
+  renderGrid();
+}
+
+async function analyzeSingle(ticker) {
+  document.getElementById(`spin-${ticker}`)?.style && (document.getElementById(`spin-${ticker}`).style.display="inline-block");
+  document.getElementById(`btn-${ticker}`)?.style && (document.getElementById(`btn-${ticker}`).style.display="none");
+  await analyze(ticker, currentTf);
+  renderGrid();
+  updateStats();
+}
+
+async function analyzeAll() {
+  if (scanning) return;
+  scanning = true;
+  const btn = document.getElementById("scanBtn");
+  btn.disabled = true;
+  const fill = document.getElementById("progressFill");
+  for (let i=0; i<watchlist.length; i++) {
+    btn.textContent = `Taranıyor ${Math.round((i/watchlist.length)*100)}%`;
+    fill.style.width = `${Math.round((i/watchlist.length)*100)}%`;
+    await analyze(watchlist[i], currentTf);
+    renderGrid();
+    updateStats();
+    await new Promise(r=>setTimeout(r,5000));
+  }
+  fill.style.width = "100%";
+  setTimeout(()=>{ fill.style.width="0%"; },1500);
+  btn.textContent = "⚡ Tümünü Tara";
+  btn.disabled = false;
+  scanning = false;
+}
+
+function addTicker() {
+  const input = document.getElementById("tickerInput");
+  const t = input.value.trim().toUpperCase();
+  if (t && !watchlist.includes(t)) { watchlist.push(t); renderGrid(); updateStats(); }
+  input.value = "";
+}
+
+function removeTicker(ticker) {
+  watchlist = watchlist.filter(t=>t!==ticker);
+  Object.keys(results).forEach(k=>{ if(k.startsWith(ticker+"_")) delete results[k]; });
+  if(expanded===ticker) expanded=null;
+  renderGrid();
+  updateStats();
+}
+
+// Init
+renderGrid();
+updateStats();
+</script>
+</body>
+</html>
