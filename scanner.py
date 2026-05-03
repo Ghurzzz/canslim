@@ -1626,7 +1626,7 @@ def build_html(tf_data, timestamp, earnings_data=None, market_data=None, news_da
     html = html.replace("%%MARKET_DATA%%",   market_json)
     html = html.replace("%%NEWS_DATA%%",     news_json)
     html = html.replace("%%PORT%%",          port_json)
-    html = html.replace("%%GITHUB_TOKEN%%",  GITHUB_TOKEN)
+    html = html.replace("%%GITHUB_TOKEN%%",  "")
     html = html.replace("%%GITHUB_USER%%",  GITHUB_USER)
     html = html.replace("%%GITHUB_REPO%%",  GITHUB_REPO)
     return html
