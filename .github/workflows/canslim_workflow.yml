@@ -1,0 +1,35 @@
+name: CANSLIM Scanner
+
+on:
+  schedule:
+    # Her gun saat 06:00 UTC (Turkiye 09:00) ve 14:00 UTC (Turkiye 17:00)
+    - cron: '0 6 * * 1-5'
+    - cron: '0 14 * * 1-5'
+  workflow_dispatch:
+    # Manuel calistirma butonu
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance requests
+
+      - name: Run CANSLIM Scanner
+        env:
+          GITHUB_TOKEN: ${{ secrets.SCANNER_TOKEN }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: python scanner.py
+
+      - name: Done
+        run: echo "✅ Tarama tamamlandi!"
