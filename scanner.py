@@ -867,7 +867,13 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
     </div>
     <div style="background:rgba(16,185,129,.06);border:1px solid rgba(16,185,129,.2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:11px;color:var(--green)">✅ Değişiklikler kaydedilince bir sonraki Colab çalıştırmasında aktif olur.</div>
 <input type="hidden" id="ghTokenInput" placeholder="ghp_..." style="width:100%;background:var(--bg3);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:6px;font-size:11px;font-family:JetBrains Mono,monospace"/>
-    <div style="display:flex;gap:8px">
+    <div id="tokenSection" style="display:none;margin-bottom:12px;background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:12px">
+      <div style="font-size:10px;color:var(--muted);margin-bottom:6px">GitHub Token — bir kez gir, tarayici hatirlayacak</div>
+      <input id="ghTokenInput" placeholder="ghp_..." style="width:100%;background:var(--bg2);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:6px;font-size:11px;font-family:JetBrains Mono,monospace;margin-bottom:8px"/>
+      <button onclick="saveToken()" style="background:rgba(59,130,246,.15);border:1px solid rgba(59,130,246,.3);color:#60a5fa;padding:7px 14px;border-radius:6px;font-size:12px;cursor:pointer">Token Kaydet</button>
+    </div>
+    <div style="display:flex;gap:8px;align-items:center">
+      <button onclick="toggleTokenSection()" style="background:var(--bg3);border:1px solid var(--border);color:var(--muted);padding:8px 12px;border-radius:8px;font-size:11px;cursor:pointer">🔑 Token</button>
       <button onclick="saveListToGithub()" style="flex:1;background:rgba(16,185,129,.15);border:1px solid rgba(16,185,129,.3);color:var(--green);padding:10px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer">💾 GitHub'a Kaydet</button>
       <button onclick="closeEditPopup()" style="background:var(--bg3);border:1px solid var(--border);color:var(--muted);padding:10px 16px;border-radius:8px;font-size:13px;cursor:pointer">İptal</button>
     </div>
@@ -1131,7 +1137,7 @@ var SS={
 };
 
 function ib(key,label){
-  return label+' <span class="minfo" onclick="showInfo(\\''+key+'\\',event)">?</span>';
+  return label+' <span class="minfo" onclick="showInfo(\''+key+'\',event)">?</span>';
 }
 
 function setTab(t,el){
@@ -1203,7 +1209,7 @@ function buildCard(r){
     {l:"RSI",v:r.rsi||"?",g:r.rsi?r.rsi<30?true:r.rsi>70?false:null:null},
     {l:"52W",v:"%"+r.pct_from_52w+" uzak",g:r.near_52w}
   ].map(function(s){return '<span class="sp '+(s.g===true?"sg":s.g===false?"sb":"sn")+'">'+s.l+": "+s.v+"</span>";}).join("");
-  return '<div class="card" style="border-color:'+(r.portfolio?"rgba(16,185,129,.25)":ss.bd)+'" onclick="openM(\\''+r.ticker+'\\')">'
+  return '<div class="card" style="border-color:'+(r.portfolio?"rgba(16,185,129,.25)":ss.bd)+'" onclick="openM(\''+r.ticker+'\')">'
     +'<div class="accent" style="background:linear-gradient(90deg,'+ss.ac+','+ss.ac+'88)"></div>'
     +'<div class="cbody"><div class="ctop"><div><div style="display:flex;align-items:center;gap:4px">'
     +'<span class="ticker" style="color:'+ss.tx+'">'+r.ticker+'</span>'
@@ -1245,8 +1251,8 @@ function renderDashboard(){
     var s200=data.above200?'<span style="color:var(--green);font-size:10px">SMA200 ✓</span>':'<span style="color:var(--red2);font-size:10px">SMA200 ✗</span>';
     return '<div style="background:var(--bg3);border:1px solid var(--border);border-radius:10px;padding:14px 16px;flex:1;min-width:150px">'
       +'<div style="font-size:11px;color:var(--muted);margin-bottom:6px">'+name+'</div>'
-      +'<div style="font-family:\\'JetBrains Mono\\',monospace;font-size:20px;font-weight:700;color:var(--text)">$'+data.price+'</div>'
-      +'<div style="font-family:\\'JetBrains Mono\\',monospace;font-size:13px;color:'+cc+';margin-bottom:8px">'+cs+'</div>'
+      +'<div style="font-family:\'JetBrains Mono\',monospace;font-size:20px;font-weight:700;color:var(--text)">$'+data.price+'</div>'
+      +'<div style="font-family:\'JetBrains Mono\',monospace;font-size:13px;color:'+cc+';margin-bottom:8px">'+cs+'</div>'
       +'<div style="display:flex;gap:8px">'+s50+s200+'</div></div>';
   }
 
@@ -1259,12 +1265,12 @@ function renderDashboard(){
     portData.forEach(function(r){
       var dc=r.degisim>=0?"var(--green2)":"var(--red2)";
       var ss=SS[r.sinyal]||SS["DIKKAT"];
-      portHtml+='<div style="background:var(--bg3);border:1px solid '+ss.bd+';border-radius:8px;padding:10px;cursor:pointer" onclick="openM(\\''+r.ticker+'\\')">'
+      portHtml+='<div style="background:var(--bg3);border:1px solid '+ss.bd+';border-radius:8px;padding:10px;cursor:pointer" onclick="openM(\''+r.ticker+'\')">'
         +'<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px">'
-        +'<span style="font-family:\\'Bebas Neue\\',sans-serif;font-size:16px;letter-spacing:2px;color:'+ss.tx+'">'+r.ticker+'</span>'
+        +'<span style="font-family:\'Bebas Neue\',sans-serif;font-size:16px;letter-spacing:2px;color:'+ss.tx+'">'+r.ticker+'</span>'
         +'<span style="font-size:9px;background:'+ss.bg+';color:'+ss.tx+';padding:1px 5px;border-radius:2px">'+ss.lbl+'</span></div>'
-        +'<div style="font-family:\\'JetBrains Mono\\',monospace;font-size:13px;font-weight:600">$'+r.fiyat+'</div>'
-        +'<div style="font-family:\\'JetBrains Mono\\',monospace;font-size:11px;color:'+dc+'">'+(r.degisim>=0?"+":"")+r.degisim+'%</div></div>';
+        +'<div style="font-family:\'JetBrains Mono\',monospace;font-size:13px;font-weight:600">$'+r.fiyat+'</div>'
+        +'<div style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:'+dc+'">'+(r.degisim>=0?"+":"")+r.degisim+'%</div></div>';
     });
     portHtml+='</div></div>';
   }
@@ -1332,17 +1338,17 @@ function renderEarnings(){
     var yb=e.alert==="red"?'<span style="background:rgba(239,68,68,.15);color:var(--red2);padding:2px 8px;border-radius:3px;font-size:10px;font-weight:700">YAKINDA</span>':"";
     h+='<div style="background:'+ab+';border:1px solid '+abd+';border-radius:10px;margin-bottom:10px;padding:14px 16px">';
     h+='<div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">';
-    h+='<div style="display:flex;align-items:center;gap:10px"><span>'+ai+'</span><span style="font-family:\\'Bebas Neue\\',sans-serif;font-size:20px;letter-spacing:2px;color:var(--text)">'+e.ticker+'</span>'+yb+'</div>';
+    h+='<div style="display:flex;align-items:center;gap:10px"><span>'+ai+'</span><span style="font-family:\'Bebas Neue\',sans-serif;font-size:20px;letter-spacing:2px;color:var(--text)">'+e.ticker+'</span>'+yb+'</div>';
     h+='<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:center">';
-    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">RAPOR</div><div style="font-family:\\'JetBrains Mono\\',monospace;font-size:12px;font-weight:600;color:var(--text)">'+(e.next_date||"—")+'</div><div style="font-size:10px;color:'+(e.alert==="red"?"var(--red2)":e.alert==="yellow"?"var(--yellow)":"var(--muted)")+'">'+dt+'</div></div>';
-    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">EPS TAHMIN</div><div style="font-family:\\'JetBrains Mono\\',monospace;font-size:12px;font-weight:600;color:#60a5fa">'+(e.eps_estimate!=null?"$"+e.eps_estimate:"—")+'</div></div>';
-    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">ORT.HAREKET</div><div style="font-family:\\'JetBrains Mono\\',monospace;font-size:14px;font-weight:700;color:'+amCol+'">'+amStr+'</div><div style="font-size:8px;color:var(--muted)">son 4 rapor</div></div>';
+    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">RAPOR</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;font-weight:600;color:var(--text)">'+(e.next_date||"—")+'</div><div style="font-size:10px;color:'+(e.alert==="red"?"var(--red2)":e.alert==="yellow"?"var(--yellow)":"var(--muted)")+'">'+dt+'</div></div>';
+    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">EPS TAHMIN</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;font-weight:600;color:#60a5fa">'+(e.eps_estimate!=null?"$"+e.eps_estimate:"—")+'</div></div>';
+    h+='<div style="text-align:center"><div style="font-size:9px;color:var(--muted)">ORT.HAREKET</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:14px;font-weight:700;color:'+amCol+'">'+amStr+'</div><div style="font-size:8px;color:var(--muted)">son 4 rapor</div></div>';
     h+='</div></div>';
     if(e.history_eps&&e.history_eps.length){
       h+='<div style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,.06)"><div style="font-size:9px;color:var(--muted);margin-bottom:5px">SON 4 RAPOR</div><div style="display:grid;grid-template-columns:repeat(4,1fr);gap:4px">';
       e.history_eps.forEach(function(hh){
         var sc=hh.surprise_pct!=null?(hh.surprise_pct>0?"var(--green)":"var(--red2)"):"var(--muted)";
-        h+='<div style="background:var(--bg3);border-radius:4px;padding:6px;text-align:center;border:1px solid rgba(255,255,255,.05)"><div style="font-size:8px;color:var(--muted)">'+hh.date.substring(0,7)+'</div><div style="font-family:\\'JetBrains Mono\\',monospace;font-size:10px">'+(hh.actual!=null?"$"+hh.actual:"?")+'</div><div style="font-size:9px;color:'+sc+'">'+(hh.surprise_pct!=null?(hh.surprise_pct>0?"+":"")+hh.surprise_pct+"%":"?")+'</div></div>';
+        h+='<div style="background:var(--bg3);border-radius:4px;padding:6px;text-align:center;border:1px solid rgba(255,255,255,.05)"><div style="font-size:8px;color:var(--muted)">'+hh.date.substring(0,7)+'</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:10px">'+(hh.actual!=null?"$"+hh.actual:"?")+'</div><div style="font-size:9px;color:'+sc+'">'+(hh.surprise_pct!=null?(hh.surprise_pct>0?"+":"")+hh.surprise_pct+"%":"?")+'</div></div>';
       });
       h+='</div></div>';
     }
@@ -1370,7 +1376,7 @@ function openM(ticker){
     +'<span class="mtitle" style="color:'+ss.tx+'">'+r.ticker+'</span>'
     +'<span class="badge" style="background:'+ss.bg+';color:'+ss.tx+';border:1px solid '+ss.bd+';font-size:12px">'+ss.lbl+'</span>'
     +(r.portfolio?'<span class="port-badge" style="font-size:11px;padding:3px 8px">Portfolyo</span>':'')
-    +'</div><div style="font-size:20px;font-family:\\'JetBrains Mono\\',monospace;font-weight:600;margin-top:4px">$'+r.fiyat
+    +'</div><div style="font-size:20px;font-family:\'JetBrains Mono\',monospace;font-weight:600;margin-top:4px">$'+r.fiyat
     +' <span style="font-size:12px;color:'+dc+'">'+(r.degisim>=0?"+":"")+r.degisim+'%</span></div></div>'
     +'<button class="mclose" onclick="closeM()">✕</button></div>';
 
@@ -1379,23 +1385,23 @@ function openM(ticker){
   mh+='<div style="background:var(--bg3);border:1px solid var(--border);border-radius:10px;padding:14px;margin-bottom:12px">'
     +'<div style="font-size:9px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:8px">'+ib("EntryScore","Giris Kalitesi")+'</div>'
     +'<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">'
-    +'<span style="font-size:22px;font-weight:700;font-family:\\'JetBrains Mono\\',monospace;color:'+escol+'">'+r.entry_score+'<span style="font-size:13px;color:var(--muted)">/100</span></span>'
+    +'<span style="font-size:22px;font-weight:700;font-family:\'JetBrains Mono\',monospace;color:'+escol+'">'+r.entry_score+'<span style="font-size:13px;color:var(--muted)">/100</span></span>'
     +'<span style="font-size:13px;font-weight:600;color:'+escol+'">'+r.entry_label+'</span></div>'
     +'<div style="height:6px;background:var(--bg2);border-radius:3px;overflow:hidden;margin-bottom:8px"><div style="height:100%;width:'+r.entry_score+'%;background:'+escol+';border-radius:3px"></div></div>'
     +'<div style="display:flex;justify-content:space-between;font-size:11px">'
     +'<div><span style="color:var(--muted)">Su anki fiyat: </span><span style="color:'+pvcol+';font-weight:600">'+r.price_vs_ideal+'</span></div>'
-    +'<div><span style="color:var(--muted)">Ideal bolge: </span><span style="color:var(--green2);font-family:\\'JetBrains Mono\\',monospace">$'+r.ideal_entry_low+' - $'+r.ideal_entry_high+'</span></div>'
+    +'<div><span style="color:var(--muted)">Ideal bolge: </span><span style="color:var(--green2);font-family:\'JetBrains Mono\',monospace">$'+r.ideal_entry_low+' - $'+r.ideal_entry_high+'</span></div>'
     +'</div></div>';
 
   mh+='<div class="dbox" style="background:'+ss.bg+';border-color:'+ss.bd+';margin-bottom:12px">'
     +'<div class="dlbl" style="color:'+ss.tx+'">'+ib("RR","Alim Karari R/R")+'</div>'
     +'<div class="dverd" style="color:'+(kc[r.karar]||"var(--muted)")+'">'+(klbl[r.karar]||r.karar)+'</div>'
-    +'<div class="drow"><span class="dkey">Risk / Odul</span><span style="color:'+rrC+';font-weight:700;font-family:\\'JetBrains Mono\\',monospace">1 : '+r.rr+'</span></div>'
-    +'<div class="drow"><span class="dkey">Hemen Gir</span><span style="color:var(--green2);font-family:\\'JetBrains Mono\\',monospace">$'+r.entry_aggressive+'</span></div>'
-    +'<div class="drow"><span class="dkey">Geri Cekilme</span><span style="color:#60a5fa;font-family:\\'JetBrains Mono\\',monospace">$'+r.entry_mid+'</span></div>'
-    +'<div class="drow"><span class="dkey">Buyuk Duzeltme</span><span style="color:var(--yellow);font-family:\\'JetBrains Mono\\',monospace">$'+r.entry_conservative+'</span></div>'
-    +'<div class="drow"><span class="dkey">Hedef</span><span style="color:#60a5fa;font-family:\\'JetBrains Mono\\',monospace">$'+r.hedef+'</span></div>'
-    +'<div class="drow"><span class="dkey">Stop-Loss</span><span style="color:var(--red2);font-family:\\'JetBrains Mono\\',monospace">$'+r.stop+'</span></div>'
+    +'<div class="drow"><span class="dkey">Risk / Odul</span><span style="color:'+rrC+';font-weight:700;font-family:\'JetBrains Mono\',monospace">1 : '+r.rr+'</span></div>'
+    +'<div class="drow"><span class="dkey">Hemen Gir</span><span style="color:var(--green2);font-family:\'JetBrains Mono\',monospace">$'+r.entry_aggressive+'</span></div>'
+    +'<div class="drow"><span class="dkey">Geri Cekilme</span><span style="color:#60a5fa;font-family:\'JetBrains Mono\',monospace">$'+r.entry_mid+'</span></div>'
+    +'<div class="drow"><span class="dkey">Buyuk Duzeltme</span><span style="color:var(--yellow);font-family:\'JetBrains Mono\',monospace">$'+r.entry_conservative+'</span></div>'
+    +'<div class="drow"><span class="dkey">Hedef</span><span style="color:#60a5fa;font-family:\'JetBrains Mono\',monospace">$'+r.hedef+'</span></div>'
+    +'<div class="drow"><span class="dkey">Stop-Loss</span><span style="color:var(--red2);font-family:\'JetBrains Mono\',monospace">$'+r.stop+'</span></div>'
     +'<div class="rrbar"><div class="rrfill" style="width:'+rrP+'%;background:'+rrC+'"></div></div></div>';
 
   mh+='<div style="font-size:9px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:8px">Teknik Analiz</div>'
@@ -1457,7 +1463,25 @@ function openEditList(){
   editWatchlist = TF_DATA['1d'].filter(function(r){return !r.hata;}).map(function(r){return r.ticker;});
   editPortfolio = PORT.slice();
   renderEditLists();
+  // Load saved token from localStorage
+  var saved = localStorage.getItem('gh_token');
+  if(saved) document.getElementById("ghTokenInput").value = saved;
+  document.getElementById("tokenSection").style.display="none";
   document.getElementById("editPopup").classList.add("open");
+}
+
+
+function toggleTokenSection(){
+  var s=document.getElementById("tokenSection");
+  if(s) s.style.display=s.style.display==="none"?"block":"none";
+}
+
+function saveToken(){
+  var t=document.getElementById("ghTokenInput").value.trim();
+  if(!t){alert("Token bos!");return;}
+  localStorage.setItem("gh_token",t);
+  document.getElementById("tokenSection").style.display="none";
+  setEditStatus("✅ Token kaydedildi","green");
 }
 
 function closeEditPopup(e){
@@ -1473,15 +1497,15 @@ function renderEditLists(){
 
   we.innerHTML = editWatchlist.map(function(t,i){
     return '<div style="display:flex;align-items:center;justify-content:space-between;padding:5px 8px;background:var(--bg3);border:1px solid var(--border);border-radius:5px;margin-bottom:4px">'
-      +'<span style="font-family:\\'JetBrains Mono\\',monospace;font-size:12px;font-weight:600">'+t+'</span>'
-      +'<button onclick="removeTicker(\\'watch\\','+i+')" style="background:rgba(239,68,68,.15);border:none;color:var(--red2);width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:12px">✕</button>'
+      +'<span style="font-family:\'JetBrains Mono\',monospace;font-size:12px;font-weight:600">'+t+'</span>'
+      +'<button onclick="removeTicker(\'watch\','+i+')" style="background:rgba(239,68,68,.15);border:none;color:var(--red2);width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:12px">✕</button>'
       +'</div>';
   }).join('');
 
   pe.innerHTML = editPortfolio.map(function(t,i){
     return '<div style="display:flex;align-items:center;justify-content:space-between;padding:5px 8px;background:var(--bg3);border:1px solid rgba(16,185,129,.2);border-radius:5px;margin-bottom:4px">'
-      +'<span style="font-family:\\'JetBrains Mono\\',monospace;font-size:12px;font-weight:600;color:var(--green)">'+t+'</span>'
-      +'<button onclick="removeTicker(\\'port\\','+i+')" style="background:rgba(239,68,68,.15);border:none;color:var(--red2);width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:12px">✕</button>'
+      +'<span style="font-family:\'JetBrains Mono\',monospace;font-size:12px;font-weight:600;color:var(--green)">'+t+'</span>'
+      +'<button onclick="removeTicker(\'port\','+i+')" style="background:rgba(239,68,68,.15);border:none;color:var(--red2);width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:12px">✕</button>'
       +'</div>';
   }).join('');
 }
@@ -1504,7 +1528,8 @@ function removeTicker(list, idx){
 
 function saveListToGithub(){
   var token = document.getElementById("ghTokenInput").value.trim();
-  if(!token){ setEditStatus("❌ GitHub Token gerekli","red"); return; }
+  if(!token){ setEditStatus("❌ Token gerekli — kutuya gir","red"); return; }
+  localStorage.setItem('gh_token', token);
 
   var config = { watchlist: editWatchlist, portfolio: editPortfolio };
   var content = JSON.stringify(config, null, 2);
