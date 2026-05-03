@@ -16,7 +16,7 @@ import json, base64, urllib.request
 from datetime import datetime
 
 # ── AYARLAR ───────────────────────────────────────────────────
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
+GITHUB_TOKEN = os.environ.get('SCANNER_TOKEN', os.environ.get('GITHUB_TOKEN', ''))
 GITHUB_USER  = 'ghurzzz'
 GITHUB_REPO  = 'canslim'
 GITHUB_FILE  = 'index.html'
@@ -1553,21 +1553,62 @@ function setEditStatus(msg, color){
 
 # ── UPLOAD ────────────────────────────────────────────────────
 def upload_to_github(html_content):
-    import urllib.request, urllib.error, json as _json
+    import urllib.request, urllib.error, json as _json, time
     api_url = f'https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/contents/{GITHUB_FILE}'
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Content-Type": "application/json"}
-    sha = None
-    try:
-        req = urllib.request.Request(api_url, headers=headers)
-        with urllib.request.urlopen(req) as resp:
-            sha = _json.loads(resp.read()).get("sha")
-    except: pass
+    
+    # GitHub Actions'da GITHUB_TOKEN env variable'i override edilebilir
+    # SCANNER_TOKEN kullan
+    token = os.environ.get('SCANNER_TOKEN', os.environ.get('GITHUB_TOKEN', GITHUB_TOKEN))
+    headers = {
+        "Authorization": f"token {token}",
+        "Content-Type": "application/json",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    
     content_b64 = _b64.b64encode(html_content.encode("utf-8")).decode("utf-8")
-    payload = {"message": f"CANSLIM {datetime.now().strftime('%d.%m.%Y %H:%M')}", "content": content_b64}
-    if sha: payload["sha"] = sha
-    req = urllib.request.Request(api_url, data=_json.dumps(payload).encode("utf-8"), headers=headers, method="PUT")
-    with urllib.request.urlopen(req) as resp:
-        return resp.status in (200, 201)
+    
+    for attempt in range(5):
+        # Her denemede fresh SHA al
+        sha = None
+        try:
+            req = urllib.request.Request(api_url, headers=headers)
+            with urllib.request.urlopen(req) as resp:
+                data = _json.loads(resp.read())
+                sha = data.get("sha")
+                print(f"  SHA: {sha[:8] if sha else 'None'}...")
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                print("  Dosya yok, yeni olusturulacak")
+            else:
+                print(f"  SHA hatasi {e.code}: {e.read().decode()[:100]}")
+        
+        payload = {
+            "message": f"CANSLIM {datetime.now().strftime('%d.%m.%Y %H:%M')}",
+            "content": content_b64,
+            "branch": "main"
+        }
+        if sha:
+            payload["sha"] = sha
+        
+        try:
+            data = _json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(api_url, data=data, headers=headers, method="PUT")
+            with urllib.request.urlopen(req) as resp:
+                result = _json.loads(resp.read())
+                print(f"  Yuklendi: {result.get('content', {}).get('name', 'OK')}")
+                return True
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()
+            print(f"  Deneme {attempt+1} hatasi {e.code}: {body[:200]}")
+            if e.code == 409:
+                print(f"  409 Conflict - 3 saniye bekleniyor...")
+                time.sleep(3)
+                continue
+            else:
+                raise
+    
+    return False
+
 
 def build_html(tf_data, timestamp, earnings_data=None, market_data=None, news_data=None):
     tf_json       = json.dumps(tf_data, ensure_ascii=False)
