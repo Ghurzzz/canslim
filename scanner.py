@@ -16,7 +16,10 @@ import json, base64, urllib.request
 from datetime import datetime
 
 # ── AYARLAR ───────────────────────────────────────────────────
-GITHUB_TOKEN = os.environ.get('SCANNER_TOKEN', os.environ.get('GITHUB_TOKEN', ''))
+GITHUB_TOKEN = os.environ.get('SCANNER_TOKEN', '')
+if not GITHUB_TOKEN:
+    GITHUB_TOKEN = os.environ.get('GH_TOKEN', '')
+print(f'Token: {GITHUB_TOKEN[:8]}...' if GITHUB_TOKEN else 'Token: BOŞ!')
 GITHUB_USER  = 'ghurzzz'
 GITHUB_REPO  = 'canslim'
 GITHUB_FILE  = 'index.html'
