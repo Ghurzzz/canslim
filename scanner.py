@@ -866,7 +866,7 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
       </div>
     </div>
     <div style="background:rgba(16,185,129,.06);border:1px solid rgba(16,185,129,.2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:11px;color:var(--green)">✅ Değişiklikler kaydedilince bir sonraki Colab çalıştırmasında aktif olur.</div>
-<input type="hidden" id="ghTokenInput" value="%%GITHUB_TOKEN%%"/>
+<input type="hidden" id="ghTokenInput" placeholder="ghp_..." style="width:100%;background:var(--bg3);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:6px;font-size:11px;font-family:JetBrains Mono,monospace"/>
     <div style="display:flex;gap:8px">
       <button onclick="saveListToGithub()" style="flex:1;background:rgba(16,185,129,.15);border:1px solid rgba(16,185,129,.3);color:var(--green);padding:10px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer">💾 GitHub'a Kaydet</button>
       <button onclick="closeEditPopup()" style="background:var(--bg3);border:1px solid var(--border);color:var(--muted);padding:10px 16px;border-radius:8px;font-size:13px;cursor:pointer">İptal</button>
