@@ -168,6 +168,7 @@ def analyze(ticker, period='1y', interval='1d'):
         ps             = safe('priceToSalesTrailingTwelveMonths')
         pb             = safe('priceToBook')
         eps_growth     = safe('earningsQuarterlyGrowth')
+        eps_growth_fwd = safe('earningsGrowth')  # Forward yillik buyume tahmini
         rev_growth     = safe('revenueGrowth')
         net_margin     = safe('profitMargins')
         roe            = safe('returnOnEquity')
@@ -177,7 +178,8 @@ def analyze(ticker, period='1y', interval='1d'):
         sector         = info.get('sector', '')
         analyst_target = safe('targetMeanPrice')
 
-        if eps_growth   is not None: eps_growth   = round(eps_growth   * 100, 1)
+        if eps_growth     is not None: eps_growth     = round(eps_growth     * 100, 1)
+        if eps_growth_fwd is not None: eps_growth_fwd = round(eps_growth_fwd * 100, 1)
         if rev_growth   is not None: rev_growth   = round(rev_growth   * 100, 1)
         if net_margin   is not None: net_margin   = round(net_margin   * 100, 1)
         if roe          is not None: roe          = round(roe          * 100, 1)
@@ -225,11 +227,78 @@ def analyze(ticker, period='1y', interval='1d'):
         entry_aggressive   = entry_now
         entry_mid          = entry_pullback
         entry_conservative = entry_dip
-        # Hedef fiyat
+        # ── Pro Hedef Fiyat (4 yontem agirlikli ortalama) ────────────
+        target_components = []
+        target_weights    = []
+        target_details    = {}
+
+        # Yontem 1: Analist Konsensus (%40)
         if analyst_target and analyst_target > price:
-            target_price = round(analyst_target, 2)
+            target_components.append(float(analyst_target))
+            target_weights.append(0.40)
+            target_details['Analist'] = round(analyst_target, 2)
+
+        # Yontem 2: Forward P/E x Sektor P/E (%30)
+        sector_median_pe = {
+            'Technology': 32, 'Semiconductors': 28, 'Software': 38,
+            'Communication Services': 24, 'Consumer Cyclical': 22,
+            'Healthcare': 25, 'Financial Services': 14, 'Energy': 13,
+            'Industrials': 20, 'Materials': 18,
+        }
+        ref_pe = sector_median_pe.get(sector, 25)
+        # En iyi buyume verisini kullan: ceyreklik, yoksa yillik forward
+        best_growth = eps_growth if eps_growth else eps_growth_fwd
+        if eps_fwd and eps_fwd > 0:
+            growth_premium = 1.0
+            if best_growth and best_growth > 0:
+                if   best_growth >= 30: growth_premium = 1.20
+                elif best_growth >= 20: growth_premium = 1.10
+                elif best_growth >= 10: growth_premium = 1.05
+            fwd_pe_target = round(eps_fwd * ref_pe * growth_premium, 2)
+            if fwd_pe_target > price:
+                target_components.append(fwd_pe_target)
+                target_weights.append(0.30)
+                target_details['Fwd P/E'] = fwd_pe_target
+
+        # Yontem 3: PEG Bazlı (%20)
+        if eps_fwd and eps_fwd > 0 and best_growth and best_growth > 10:
+            peg_target_pe = min(best_growth, 50)
+            peg_target = round(eps_fwd * peg_target_pe, 2)
+            if peg_target > price:
+                target_components.append(peg_target)
+                target_weights.append(0.20)
+                target_details['PEG'] = peg_target
+
+        # Yontem 4: P/S Bazlı (%10)
+        sector_median_ps = {
+            'Technology': 8, 'Semiconductors': 7, 'Software': 12,
+            'Communication Services': 5, 'Consumer Cyclical': 2, 'Healthcare': 4,
+        }
+        ref_ps = sector_median_ps.get(sector, 5)
+        if ps and ps > 0:
+            rev_per_share = price / ps
+            ps_target = round(rev_per_share * ref_ps, 2)
+            if ps_target > price:
+                target_components.append(ps_target)
+                target_weights.append(0.10)
+                target_details['P/S'] = ps_target
+
+        # Agirlikli ortalama
+        if target_components:
+            total_w = sum(target_weights)
+            norm_w  = [w/total_w for w in target_weights]
+            target_price = round(sum(t*w for t,w in zip(target_components, norm_w)), 2)
+            target_price = min(target_price, price * 2.0)   # max 2x cap
+            target_price = max(target_price, round(price * 1.05, 2))  # min %5 upside
         else:
-            target_price = round(high52w * 1.05, 2) if pct_from_52w < 5 else round(high52w * 0.99, 2)
+            target_price = round(high52w * 0.99, 2) if high52w > price else round(price * 1.15, 2)
+            target_details['52W High'] = target_price
+        
+        # Debug: hangi yontemler kullanildi
+        if target_details:
+            methods_str = ', '.join([f"{k}:${v}" for k,v in target_details.items()])
+        else:
+            methods_str = 'yok'
 
         # Her senaryo için R/R hesapla
         def calc_rr(entry, target, stop_pct=0.07):
@@ -400,6 +469,7 @@ def analyze(ticker, period='1y', interval='1d'):
             'gross_margin': gross_margin,
             'fair_price_pe': fair_price_pe,
             'fair_price_analyst': fair_price_analyst,
+            'target_details': target_details,
             'sector': sector,
             'chart_closes': chart_closes, 'chart_dates': chart_dates,
             'portfolio': ticker in PORTFOLIO, 'hata': None
@@ -927,4 +997,4 @@ try:
         sys.exit(1)
 except Exception as e:
     print(f"❌ Hata: {e}")
-    sys.exit(1)
+    sys.exit(1)z
