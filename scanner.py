@@ -301,16 +301,33 @@ def analyze(ticker, period='1y', interval='1d'):
             methods_str = 'yok'
 
         # Her senaryo için R/R hesapla
-        def calc_rr(entry, target, stop_pct=0.07):
-            stop = round(entry * (1 - stop_pct), 2)
+        def calc_rr(entry, target, atr_val=None, multiplier=2.0):
+            # ATR bazlı stop: giriş - (ATR x çarpan)
+            # ATR yoksa volatilite bazlı fallback
+            if atr_val and atr_val > 0:
+                stop = round(entry - (atr_val * multiplier), 2)
+            else:
+                # ATR yoksa 52W pozisyona göre dinamik %
+                if w52_position >= 70:
+                    stop_pct = 0.08  # Zirveye yakın: daha geniş stop
+                elif w52_position >= 40:
+                    stop_pct = 0.07  # Orta: standart
+                else:
+                    stop_pct = 0.06  # Dipte: daha dar stop
+                stop = round(entry * (1 - stop_pct), 2)
+            
+            # Stop mantik kontrolu
+            stop = max(stop, round(entry * 0.85, 2))  # Max %15 risk
+            stop = min(stop, round(entry * 0.95, 2))  # Min %5 risk
+            
             if entry <= 0 or target <= entry or entry <= stop:
                 return stop, 0
             rr = round((target - entry) / (entry - stop), 2)
             return stop, rr
 
-        stop_agg,  rr_agg  = calc_rr(entry_aggressive,   target_price)
-        stop_mid,  rr_mid  = calc_rr(entry_mid,           target_price)
-        stop_cons, rr_cons = calc_rr(entry_conservative,  target_price)
+        stop_agg,  rr_agg  = calc_rr(entry_aggressive,   target_price, atr)
+        stop_mid,  rr_mid  = calc_rr(entry_mid,           target_price, atr)
+        stop_cons, rr_cons = calc_rr(entry_conservative,  target_price, atr)
 
         # Ana giriş = orta senaryo (en dengeli)
         entry  = entry_mid
@@ -997,4 +1014,4 @@ try:
         sys.exit(1)
 except Exception as e:
     print(f"❌ Hata: {e}")
-    sys.exit(1)z
+    sys.exit(1)
