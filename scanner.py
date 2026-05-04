@@ -24,6 +24,8 @@ GITHUB_USER  = 'ghurzzz'
 GITHUB_REPO  = 'canslim'
 GITHUB_FILE  = 'index.html'
 FINNHUB_KEY  = os.environ.get('FINNHUB_KEY', 'd7r51k9r01qtpsm132igd7r51k9r01qtpsm132j0')
+GMAIL_USER   = os.environ.get('GMAIL_USER', 'gursanbkr@gmail.com')
+GMAIL_PASS   = os.environ.get('GMAIL_PASS', 'dmsg nmfo ezju hgep')
 
 # Varsayilan liste — config.json varsa oradan okunur
 _DEFAULT_WATCHLIST = [
@@ -641,6 +643,119 @@ def get_news(watchlist, portfolio, finnhub_key):
     all_news.sort(key=lambda x: x['datetime'], reverse=True)
     return all_news[:20]  # Max 20 haber
 
+
+# ── EMAIL ALARM ───────────────────────────────────────────────
+def send_alarm_email(alerts):
+    if not alerts or not GMAIL_USER or not GMAIL_PASS:
+        return
+    try:
+        import smtplib
+        from email.mime.text import MIMEText
+        from email.mime.multipart import MIMEMultipart
+        
+        # Email icerigi olustur
+        subject = f"📊 CANSLIM Fiyat Alarmi — {len(alerts)} sinyal"
+        
+        html_body = """
+        <html><body style="font-family:Arial,sans-serif;background:#0d1117;color:#e2e8f0;padding:20px">
+        <h2 style="color:#10b981">📊 CANSLIM Fiyat Alarmlari</h2>
+        """
+        
+        for a in alerts:
+            color = "#10b981" if a['type'] == 'buy' else "#ef4444" if a['type'] == 'stop' else "#60a5fa"
+            icon = "🟢" if a['type'] == 'buy' else "⚠️" if a['type'] == 'stop' else "🎯"
+            html_body += f"""
+            <div style="background:#161b24;border:1px solid {color};border-radius:8px;padding:16px;margin-bottom:12px">
+                <h3 style="color:{color};margin:0 0 8px 0">{icon} {a['ticker']} — {a['message']}</h3>
+                <p style="margin:4px 0">Guncel Fiyat: <strong>${a['price']}</strong></p>
+                <p style="margin:4px 0">Seviye: <strong>${a['level']}</strong></p>
+                {"<p style='color:#10b981'>Portfoyunuzde var</p>" if a.get('portfolio') else ""}
+            </div>
+            """
+        
+        html_body += f"""
+        <p style="color:#4b5563;font-size:12px">Bu e-posta CANSLIM Scanner tarafindan otomatik gonderilmistir.<br>
+        Tarih: {datetime.now().strftime('%d.%m.%Y %H:%M')}</p>
+        </body></html>
+        """
+        
+        msg = MIMEMultipart('alternative')
+        msg['Subject'] = subject
+        msg['From'] = GMAIL_USER
+        msg['To'] = GMAIL_USER
+        msg.attach(MIMEText(html_body, 'html'))
+        
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
+            server.login(GMAIL_USER, GMAIL_PASS)
+            server.sendmail(GMAIL_USER, GMAIL_USER, msg.as_string())
+        
+        print(f"  ✅ Email gonderildi: {len(alerts)} alarm")
+    except Exception as e:
+        print(f"  ❌ Email hatasi: {e}")
+
+def check_alarms(tf_data, portfolio):
+    alerts = []
+    data_1d = tf_data.get('1d', [])
+    
+    for r in data_1d:
+        if r.get('hata'):
+            continue
+        
+        price = r.get('fiyat', 0)
+        ticker = r.get('ticker', '')
+        is_portfolio = ticker in portfolio
+        
+        # Hemen Gir seviyesine dusmus mu?
+        entry_agg = r.get('entry_aggressive')
+        if entry_agg and price <= entry_agg * 1.02:
+            alerts.append({
+                'type': 'buy',
+                'ticker': ticker,
+                'price': price,
+                'level': entry_agg,
+                'message': 'Hemen Gir seviyesine ulasti!',
+                'portfolio': is_portfolio
+            })
+        
+        # Geri cekilme seviyesine dusmus mu?
+        entry_mid = r.get('entry_mid')
+        if entry_mid and price <= entry_mid * 1.02 and (not entry_agg or price < entry_agg * 0.98):
+            alerts.append({
+                'type': 'buy',
+                'ticker': ticker,
+                'price': price,
+                'level': entry_mid,
+                'message': 'Geri Cekilme seviyesine ulasti',
+                'portfolio': is_portfolio
+            })
+        
+        # Hedef fiyata ulasti mi?
+        hedef = r.get('hedef')
+        if hedef and price >= hedef * 0.98:
+            alerts.append({
+                'type': 'target',
+                'ticker': ticker,
+                'price': price,
+                'level': hedef,
+                'message': 'Hedef fiyata ulasti!',
+                'portfolio': is_portfolio
+            })
+        
+        # Stop seviyesine dusmus mu? (sadece portfolyo)
+        if is_portfolio:
+            stop = r.get('stop')
+            if stop and price <= stop * 1.02:
+                alerts.append({
+                    'type': 'stop',
+                    'ticker': ticker,
+                    'price': price,
+                    'level': stop,
+                    'message': 'STOP seviyesine dusuu! Dikkat!',
+                    'portfolio': True
+                })
+    
+    return alerts
+
 # ── TARAMA ────────────────────────────────────────────────────
 print('CANSLIM Scanner v2 baslatiliyor...')
 print(f'Watchlist: {len(WATCHLIST)} hisse | Portfolio: {len(PORTFOLIO)} hisse')
@@ -667,6 +782,17 @@ for tf_key, cfg in TF_CONFIG.items():
     tf_data[tf_key] = tf_results
 
 print(f'\nTarama tamamlandi! {len(tf_data)} zaman dilimi x {len(WATCHLIST)} hisse')
+
+# ── ALARM KONTROLU ─────────────────────────────────────────────
+print('\n🔔 Alarm kontrolu yapiliyor...')
+alerts = check_alarms(tf_data, PORTFOLIO)
+if alerts:
+    print(f'  {len(alerts)} alarm bulundu:')
+    for a in alerts:
+        print(f"  {'🟢' if a['type']=='buy' else '⚠️' if a['type']=='stop' else '🎯'} {a['ticker']}: {a['message']} (${a['price']})")
+    send_alarm_email(alerts)
+else:
+    print('  Alarm yok')
 
 # ── PİYASA VERİSİ ─────────────────────────────────────────────
 print('\n📊 Piyasa verisi cekiliyor...')
