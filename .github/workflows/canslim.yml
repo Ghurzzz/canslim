@@ -26,6 +26,7 @@ jobs:
         env:
           SCANNER_TOKEN: ${{ secrets.SCANNER_TOKEN }}
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
         run: python scanner.py
 
       - name: Done
