@@ -24,7 +24,7 @@ GITHUB_USER  = 'ghurzzz'
 GITHUB_REPO  = 'canslim'
 GITHUB_FILE  = 'index.html'
 FINNHUB_KEY  = os.environ.get('FINNHUB_KEY', 'd7r51k9r01qtpsm132igd7r51k9r01qtpsm132j0')
-ANTHROPIC_KEY = os.environ.get('ANTHROPIC_KEY', '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')
+ANTHROPIC_KEY = os.environ.get('ANTHROPIC_KEY', '')
 GMAIL_USER   = os.environ.get('GMAIL_USER', 'gursanbkr@gmail.com')
 GMAIL_PASS   = os.environ.get('GMAIL_PASS', 'dmsg nmfo ezju hgep')
 
