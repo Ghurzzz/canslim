@@ -1070,6 +1070,22 @@ def build_html(tf_data, timestamp, earnings_data=None, market_data=None, news_da
     html = html.replace("%%GITHUB_REPO%%",  GITHUB_REPO)
     return html
 
+# ── AI ANALİZLERİ ─────────────────────────────────────────────
+print('\n🤖 AI analizleri yapiliyor...')
+data_1d = tf_data.get('1d', [])
+ai_analyses = {}
+for r in data_1d:
+    if r.get('hata') or r.get('sinyal') not in ['GUCLU AL','AL']:
+        continue
+    if len(ai_analyses) >= 5:
+        break
+    print(f'  {r["ticker"]} analiz ediliyor...')
+    analysis = get_ai_analysis(r['ticker'], r, news_data)
+    if analysis:
+        ai_analyses[r['ticker']] = analysis
+        print(f'  ✅ {r["ticker"]} tamamlandi')
+print(f'  {len(ai_analyses)} AI analizi tamamlandi')
+
 # ── MAIN ──────────────────────────────────────────────────────
 timestamp = datetime.now().strftime("%d.%m.%Y %H:%M")
 print("\n📊 HTML olusturuluyor...")
