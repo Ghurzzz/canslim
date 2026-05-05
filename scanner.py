@@ -1075,10 +1075,8 @@ print('\n🤖 AI analizleri yapiliyor...')
 data_1d = tf_data.get('1d', [])
 ai_analyses = {}
 for r in data_1d:
-    if r.get('hata') or r.get('sinyal') not in ['GUCLU AL','AL']:
+    if r.get('hata'):
         continue
-    if len(ai_analyses) >= 5:
-        break
     print(f'  {r["ticker"]} analiz ediliyor...')
     analysis = get_ai_analysis(r['ticker'], r, news_data)
     if analysis:
