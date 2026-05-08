@@ -55,6 +55,27 @@ TF_CONFIG = {
     '1mo': {'period': '5y',  'interval': '1mo', 'label': '1 Ay'},
 }
 
+# ── FINNHUB ANLИК FİYAT ──────────────────────────────────────
+def get_realtime_price(ticker, finnhub_key):
+    import urllib.request, json as _json
+    try:
+        url = f'https://finnhub.io/api/v1/quote?symbol={ticker}&token={finnhub_key}'
+        req = urllib.request.Request(url)
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            data = _json.loads(resp.read())
+            # c=current, pc=previous close, d=change, dp=change%
+            if data.get('c') and data['c'] > 0:
+                return {
+                    'price':  round(float(data['c']), 2),
+                    'change': round(float(data.get('dp', 0)), 2),
+                    'prev':   round(float(data.get('pc', 0)), 2),
+                    'high':   round(float(data.get('h', 0)), 2),
+                    'low':    round(float(data.get('l', 0)), 2),
+                }
+    except Exception as e:
+        pass
+    return None
+
 # ── ANALİZ ────────────────────────────────────────────────────
 def analyze(ticker, period='1y', interval='1d'):
     try:
@@ -656,6 +677,12 @@ def get_market_data():
             price  = round(float(closes.iloc[-1]), 2)
             prev   = round(float(closes.iloc[-2]), 2) if len(closes) > 1 else price
             change = round((price - prev) / prev * 100, 2)
+            
+            # Finnhub anlık fiyat ile güncelle
+            rt = get_realtime_price(ticker, FINNHUB_KEY)
+            if rt and rt['price'] > 0:
+                price  = rt['price']
+                change = rt['change']
             sma50  = round(float(closes.tail(50).mean()), 2) if len(closes) >= 50  else None
             sma200 = round(float(closes.tail(200).mean()), 2) if len(closes) >= 200 else None
             above50  = price > sma50  if sma50  else False
