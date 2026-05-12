@@ -206,5 +206,69 @@
   "https://finnhub.io/api/news?id=1469bedcd99c5f214337151fe89e51d4993d4bb56844bc42848302c6da795d9e": {
     "headline_tr": "LRCX'in Brüt Marjı %50'ye Yakın: AI Tarafından Yönlendirilen Talep Ortasında Daha Fazla Yükseliş mi?",
     "summary_tr": "Lam Research'ün non-GAAP brüt marjı %49,9'a ulaştı ve rehberlik %50,5'i işaret ediyor; AI çip talebinin gelirleri, EPS'yi ve araç fiyatlandırma gücünü artırması."
+  },
+  "https://finnhub.io/api/news?id=f462003861ce03005546713eb84aa768b615b82556390c1a71a0782a04f185b0": {
+    "headline_tr": "Şimdi Satın Alıp Uzun Vadede Tutacak 3 Harika Büyüme Hissesi",
+    "summary_tr": "Bir dekad boyunca tutacak değeri olan şirketler nadiren şu anda en çok haber yapılan olanlar arasındadır."
+  },
+  "https://finnhub.io/api/news?id=7aa156ce24f78ebce56a76024c31fd0ed0305b0ffe9db08d4100e5021d2fb5bc": {
+    "headline_tr": "Dell (DELL) Hissesi Neden Bugün Yükseliş Gösteriyor",
+    "summary_tr": "Bilgisayar donanımı ve BT çözümleri şirketi Dell'in (NYSE:DELL) hisseleri, şirketin Nvidia ile birlikte enerji firması TotalEnergies ile büyük bir sözleşme imzalamasının ardından öğleden sonra oturumunda %7,2 oranında yükseldi"
+  },
+  "https://finnhub.io/api/news?id=fb07ac7bba93ef7117d75132e15108929af98523163b5d6e031ea3c3f28cf9e9": {
+    "headline_tr": "S&P 500, Nasdaq baskı altında çünkü çip stokları kızıl görmektedir",
+    "summary_tr": "ABD hisse senetleri (^DJI, ^IXIC, ^GSPC) Salı günü piyasa kapanışından önce karışık seyrinde ilerlerken Nasdaq Composite, çip stokları düşüşü tarafından aşağıya çekilerek yüzde 1'den fazla düşüş yaşamaktadır. Yahoo Finance Pazar ve Veri Editörü Jared"
+  },
+  "https://finnhub.io/api/news?id=4f53eaa024d01e0e416cf199068999d46e7237daa188765587f027247a015851": {
+    "headline_tr": "Bu S&P500 hisse senetleri bugünün seansında hareket ediyor",
+    "summary_tr": "S&P500 endeksinde bugünün seansında neler olduğunu merak mı ediyorsunuz? Salı günü S&P500 endeksindeki en çok hareket eden hisse senetleri hakkında bilgi sahibi olun."
+  },
+  "https://finnhub.io/api/news?id=00bc4442254d95be8d9e4bea7aea8ef15cec801b16f7cef038a11592e319f8a0": {
+    "headline_tr": "Dow Neredeyse Düz Seyrederken Pazar Canlanıyor",
+    "summary_tr": "Hisse senedi piyasası öğleden sonra işlemlerinde biraz canlanıyor. S&P 500 yüzde 0,6 düşüşteyken, daha erken saatlerde yüzde 1'e varan kayıplar yaşamıştı. Teknoloji ağırlıklı Nasdaq kayıplarını genişleterek yüzde 1,4 düşüştü."
+  },
+  "https://finnhub.io/api/news?id=6963bb0f24a4d1961c810c7bfa97853e96fe10f1844046bc610ee02416470b0e": {
+    "headline_tr": "Seaport Research, Lam Research Corporation (LRCX)'i Louis Navellier'in Portföyündeki En İyi Teknoloji Hisse Senetlerinden Biri Olarak Doğruladı",
+    "summary_tr": "Lam Research Corporation (NASDAQ:LRCX), Louis Navellier'in portföyündeki en iyi teknoloji hisse senetlerinden biridir. 5 Mayıs'ta, Seaport Research analisti Jay Goldberg, Lam Research Corporation (NAS"
+  },
+  "https://finnhub.io/api/news?id=b0239d4889d341b1f6634f0f99ff83ed24b1232476cdbef7fbe87e9e45f29102": {
+    "headline_tr": "Teknoloji Satışları Nedeniyle Hisse Senetleri Gün İçinde Düştü",
+    "summary_tr": "ABD kıyaslama hisse senedi endeksleri gün içinde çoğunlukla düşüş gösterdi, teknoloji satışlarından etkilenerek"
+  },
+  "https://finnhub.io/api/news?id=788882beaf4211666566e4fd75b108bfd7c32f660dcfa7adf67f129917127f4d": {
+    "headline_tr": "Bugünün seansında en aktif S&P500 hisse senetleri merak ediyorsunuz?",
+    "summary_tr": "Salı seansında S&P500 endeksindeki en aktif hisse senetleri hakkında bilgi sahibi olun. En yüksek işlem hacmine sahip ve pazar aktivitesini yönlendiren hisse senetlerini keşfedin."
+  },
+  "https://finnhub.io/api/news?id=3f84d4dcc730a2ab340b67241f9d1f80b60d11b365a8df1c4081ae230f87daae": {
+    "headline_tr": "Nisan Başından Bu Yana Yaklaşık %40 Yükselen Broadcom Hissesi Hala Satın Almaya Değer mi?",
+    "summary_tr": "Broadcom yatırımcıları işletmeyi değerlendirmek için 2027'nin projeksiyonlarına bakmalıdır."
+  },
+  "https://finnhub.io/api/news?id=7afaf2777e3717117dd9a1a14c96ee514a363c13213d96a004fb1b58ff50f843": {
+    "headline_tr": "Intel %10 Düştü, AMD %5 Geriledi - Çip Ticareti Paraboik Yükselişten Sonra Soğudu",
+    "summary_tr": "Intel (NASDAQ:INTC) hisseleri Salı günü işleminde %10 düşüş göstererek 116 dolar civarında işlem görüyor. Hisse Pazartesi günü 129,44 dolardan kapanmıştı. Advanced Micro Devices (NASDAQ:AMD) de aynı şekilde %5 düşüşle gerilemektedir."
+  },
+  "https://finnhub.io/api/news?id=22c1718285c81a9932b4889f933dc0a0aa8352c23c7b431065ed5866ca5d3bf2": {
+    "headline_tr": "Applied Materials Hafif Çeyreklik Beklentiyi Aşmaya Hazır, Güçlü Görünüm, RBC Diyor",
+    "summary_tr": "Applied Materials (AMAT) mali ikinci çeyrek sonuçlarının Wall Street beklentilerinin hafif üzerinde olması bekleniyor"
+  },
+  "https://finnhub.io/api/news?id=13ea9a0a0e6e63d3108d59445337ee9d1609aad754e0f0e4ca932395ce6263f4": {
+    "headline_tr": "Bellek Uzmanları, AI Çiplerine Kıyasla AI Patlamasından Kar Etmenin Daha İyi Bir Yolu mu?",
+    "summary_tr": "AI çip patlamasını kaçırdıysanız, bellek alanı kar elde etmek için ikinci bir fırsat olabilir."
+  },
+  "https://finnhub.io/api/news?id=e535471ad357e6e1fea4c2633c9f694228c690a6af2ac93ee2369678982da5c7": {
+    "headline_tr": "Qualcomm, Yeni 52 Haftalık En Yüksek Seviyenin Ardından Çıkışını Hızlandırıyor",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=37dcc29b2a886ac3fe95a79f5e12fa49cd8c146d3c2be0cf1407a99336604aca": {
+    "headline_tr": "Kirli SOX",
+    "summary_tr": "Philadelphia SOX Endeksindeki 30 yarı iletken hissesi, 11/05/26 tarihi itibariyle yıl başından bu yana ortalama %73 oranında artış kaydetti. Daha fazla bilgi için buraya tıklayın."
+  },
+  "https://finnhub.io/api/news?id=0f6e13fc9c6c9f35dbca16322e742cab2131d8c8c853f5d2721daf8a1474d095": {
+    "headline_tr": "Qualcomm Hisse Senedi %11 Düştü: AI Momentum Kâr Realizasyonu Duvarına Çarptı, 20 Milyar Dolarlık Geri Alıma Rağmen",
+    "summary_tr": "Qualcomm (QCOM) hisseleri kâr realizasyonu yarı iletken sektörünü vurunca %11'den fazla düşüş yaşadı. Aşırı alım RSI'sinin 88'i ve makroekonomik baskının, yeni 20 milyar dolarlık geri alım ve yapay zeka büyümesine rağmen neden düşüşü tetiklediğini öğrenin"
+  },
+  "https://finnhub.io/api/news?id=657eb907dee8786d6553af05039703dfa9fda115bd1959841ca74bb2d1d1ed4a": {
+    "headline_tr": "POET Technologies Hissesi Neden Salı Günü Yükseliş Gösteriyor?",
+    "summary_tr": "POET Technologies, Q1 kazanç açıklamasından önce yarıiletken sektörü veteranı Sandeep Kumar'ı COO olarak atadığı için hisse senedi yükseliş gösteriyor."
   }
 }
