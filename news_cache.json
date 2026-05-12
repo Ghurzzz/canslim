@@ -162,5 +162,49 @@
   "https://finnhub.io/api/news?id=85643141410b92330c835f450c55211c01885efadb0da080a48f6850b156f991": {
     "headline_tr": "Astera Labs: AI Bağlantı Darboğazına Saldırı",
     "summary_tr": "Astera Labs, bağlantı yığınında yukarı doğru hareket ederek AI veri merkezlerinde daha fazla sistem değeri yakalamaktadır. ALAB hissesinin neden Tutunmalı olduğunu öğrenin."
+  },
+  "https://finnhub.io/api/news?id=7ea6fa9ff324afd6e0c813e59508f0514fd4be0086a6824f8140365db1093292": {
+    "headline_tr": "Bu Gözden Kaçan Büyüme Hisse Senedi Yeni Bir Terfi Aldı",
+    "summary_tr": "Bu uygulama her yedi akıllı telefonda birinde bulunuyor, ancak çoğu yatırımcı bunun halka açık olduğunu bile bilmiyor."
+  },
+  "https://finnhub.io/api/news?id=3b5a43c088942df876cf9f1c1ac6a547637b8a1acc9a5f5631edda46fc29aef4": {
+    "headline_tr": "Netflix Geri Dönüşü Gerçekleşmedi",
+    "summary_tr": "Netflix (NASDAQ: NFLX) Warner Bros. Discovery yarışından çıktığında, geri sıçrayması gerekiyordu. Şirketin çoğu yatırımcısı Netflix'in birincil olarak ne peşinde olacağını göremiyordu"
+  },
+  "https://finnhub.io/api/news?id=759abe468df80d4b11638a3f7d660154efab913b42712d1ebc8cda464089874b": {
+    "headline_tr": "Nvidia'nın Jensen Huang, Trump'ın Çin gezisi listesinden çıkarıldı",
+    "summary_tr": "Jensen Huang'ın yokluğu yeni jeopolitik soruları gündeme getiriyor"
+  },
+  "https://finnhub.io/api/news?id=1b6fac7e41c1652ef0a0a539d0153d40e74419d62829eddb331cc4b8b2302819": {
+    "headline_tr": "AI Çip Süper Döngüsünün Sonraki Aşaması Başladı. Çok Geç Olmadan Önce 1 Büyüme Hissesi Satın Alın (İpucu: Intel veya Broadcom Değil)",
+    "summary_tr": "Arm Holdings, önümüzdeki beş yıl içinde gelir ve kazançlarda önemli bir artış beklenmektedir."
+  },
+  "https://finnhub.io/api/news?id=ecd79dc9060c5203c73c87cbd739e2dc0e0d1ecbcb210050de9fc1a89a487177": {
+    "headline_tr": "Intel ve AMD, 135 Milyar Dolarlık AI Sunucu Pazarında Baskınlık Kurmaya Hazırlanıyor",
+    "summary_tr": "AMD ve Intel, GF Securities'e Göre Masif AI Sunucu Patlaması İçin Hazırlanıyor"
+  },
+  "https://finnhub.io/api/news?id=9f1565183ab07a23077a776ba8e13d754d86cbfab62eb4ef8cda4c8a689b7547": {
+    "headline_tr": "Al, Sat veya Tut: SanDisk 1.562 Dolardan ve Micron 746 Dolardan",
+    "summary_tr": "İki bellek hissesi, iki farklı kurulum: 1.562 dolardan SanDisk (NASDAQ:SNDK) satış tavsiyesi, 746 dolardan Micron Technology (NASDAQ:MU) ise tutma tavsiyesi almıştır. Her iki hisse de NAND'deki parabolik yükselişin ardından tüm zamanların en yüksek seviyelerinde işlem görmektedir."
+  },
+  "https://finnhub.io/api/news?id=a664d9f17c468944ca550bce1977ceaa85a5d45704e14fc6bb4f816c82decda2": {
+    "headline_tr": "Micron Hissesi 9 Kat Yükseldi Ancak Tarih İhtiyat Edilmesini Öne Sürüyor",
+    "summary_tr": "Micron Technology'nin hissesi son on iki ay içinde yaklaşık 9 kat yükselmiş, pazar değerini 800 milyar doların üzerine çıkarmış - şirketin dört dekadlık tarihinde en büyük tek yıllık kazançlarından biri"
+  },
+  "https://finnhub.io/api/news?id=c21117cd22cc802d9ec7aa90fa49f17464e559bf0406a7dc96c8459b488b98c4": {
+    "headline_tr": "Bugün Borsa: Dow Sabit, Teknoloji Hisseleri 100 Dolar Petrol ve Güney Kore AI Haberleriyle Düştü; Enflasyon Arttı (Canlı Takip)",
+    "summary_tr": "Petrol fiyatları 100 doları aştığı sürece teknoloji vadeli işlemleri düştü, Güney Kore haberleri Q1 hisse senetlerinde kayıplara neden oldu. TÜFE enflasyonu yükseldi."
+  },
+  "https://finnhub.io/api/news?id=7cac37e366b8a5a87692ec7e4bf3a0dc64cd043695f18245e9a12b7c3ce0bf17": {
+    "headline_tr": "VergeIO, VMware Stack'i Çökerten Kubernetes Desteğini Sunuyor",
+    "summary_tr": "ANN ARBOR, Mich., 12 Mayıs 2026--Özel Bulut İşletim Sistemi şirketi VergeIO, bugün VergeOS'ta Kubernetes desteğinin genel olarak kullanılabilir hale geldiğini duyurdu. Yayın bir CSI depolama sürücüsü ve Cloud ekliyor"
+  },
+  "https://finnhub.io/api/news?id=d687f7d571f068042ae752aa685c47277bb0274d73ac65c5e5c7bcad53b58568": {
+    "headline_tr": "Broadcom hissesinde Citi tarafından hedef fiyat yükseltildi, beklenen kazanç artışından önce",
+    "summary_tr": "Investing.com -- Citi, Salı günü yayınladığı bir notta Broadcom için hedef fiyatını hisse başına 500 dolara yükseltti, çip üreticisi hakkında Satın Al tavsiyesini yineledi ve 2026 için en iyi yarı iletken seçimi olarak nitelendirdi,"
+  },
+  "https://finnhub.io/api/news?id=1469bedcd99c5f214337151fe89e51d4993d4bb56844bc42848302c6da795d9e": {
+    "headline_tr": "LRCX'in Brüt Marjı %50'ye Yakın: AI Tarafından Yönlendirilen Talep Ortasında Daha Fazla Yükseliş mi?",
+    "summary_tr": "Lam Research'ün non-GAAP brüt marjı %49,9'a ulaştı ve rehberlik %50,5'i işaret ediyor; AI çip talebinin gelirleri, EPS'yi ve araç fiyatlandırma gücünü artırması."
   }
 }
