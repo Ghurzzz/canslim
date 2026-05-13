@@ -334,5 +334,81 @@
   "https://finnhub.io/api/news?id=e81d64ed4beef92568305946e1056f5799e50cecdaa30b61e04bd2e85243a423": {
     "headline_tr": "Yariiletken Hisseleri ABD Büyük Teknoloji Şirketlerinin Hayat Kaynağını Kurutturuyor",
     "summary_tr": "Yapay Zeka CapEx yariiletken hisselerini güçlendiriyor ancak hiperölçekli şirketler borç ve nakit akışı baskısı ile karşı karşıya. Bu sektöre ve teknoloji hisseleri üzerindeki etkisine ilişkin analiz için tıklayın."
+  },
+  "https://finnhub.io/api/news?id=52e561d57db3c48e471fadbbb6db016a442a1c3f8dde6e9ee5700ad5dc7ef9df": {
+    "headline_tr": "S&P500 endeksinde bugünün en çok yükselen ve düşen hisse senetlerini keşfedin.",
+    "summary_tr": "Çarşamba günü piyasaların kapanışından bir saat önce S&P500 endeksinde en iyi performans gösteren hisse senetleri hakkında merak ediyorsanız, bugünün oturumunun kapsamlı bir özeti için en çok yükselen ve düşen hisse senetleri listesine göz atın."
+  },
+  "https://finnhub.io/api/news?id=cf985bb9079075dda3a309de987b8a1dc3ea74b8d2a06f9694dfcdc4c4e6ea62": {
+    "headline_tr": "Bu S&P500 hisse senetleri bugünün seansında en aktif olanlar",
+    "summary_tr": "Bugünün seansında en aktif S&P500 hisse senetleri hakkında merak ediyor musunuz? İşlem hacmi ve pazar ilgisi açısından öncü konumdaki hisse senetleri hakkında bilgi edinin."
+  },
+  "https://finnhub.io/api/news?id=7e0f5255640020189e27cd93af9538b0391cfe7be4a9a3c3e34cb67f97c0d938": {
+    "headline_tr": "Çarşamba günü en aktif hisseler hangileri?",
+    "summary_tr": "Çarşamba seansı yüksek aktiviteyle dolu. En fazla ilgiyi çeken ve pazar aktivitesini yönlendiren hisseleri kontrol edin!"
+  },
+  "https://finnhub.io/api/news?id=54dc6e3c644878400b7847fdc1c0cdd27c9d1332bfee5540859caebf8725f3b9": {
+    "headline_tr": "Wall Street'e Göre Mayıs Ayında Eli Kulağında Alınacak 1 Muhteşem Büyüme Hissesi",
+    "summary_tr": "Datadog'un büyüyen yapay zeka ürünleri portföyü patlayıcı talep görüyor."
+  },
+  "https://finnhub.io/api/news?id=45f139f9a44a0e5610a3aae954295ef26eb6af689164b3379e4012b24dbabb9b": {
+    "headline_tr": "Yüksek Üretici Fiyatları Ortasında ABD Hisse Senedi Endeksleri Karışık Seyirde, Teknoloji Kazanç Elde Ediyor",
+    "summary_tr": "ABD hisse senedi endeksleri Çarşamba günü öğleden sonra karışık bir şekilde işlem gördü; sıcak üretici fiyat enflasyonu baskısı başarısız oldu"
+  },
+  "https://finnhub.io/api/news?id=f8a8c7d3c5a397d36fca5ab5eb132c29b60109c18e4ed5e9ab139b6f3b5563a8": {
+    "headline_tr": "Wall Street Firmaları Neden Advanced Micro Devices Inc. (AMD) Hakkında Yükseliş Eğiliminde Olduklarını Açıklıyor: En İyi AI Hissesi",
+    "summary_tr": "Advanced Micro Devices Inc. (NASDAQ:AMD), milyarder David Tepper'a göre 2026 için alınacak en iyi AI hisselerinden biri. 6 Mayıs'ta Goldman Sachs ve Bernstein'daki analistler Advanced Micro'yu yükselttiler"
+  },
+  "https://finnhub.io/api/news?id=b71a276792b034893c9a6b4c38b0b20fda3bbe7eae4f13c77b876bf51accbec1": {
+    "headline_tr": "İkinci AI Dalgası Neden Birincisinden Daha Fazla Milyoner Yaratacak -- ve Sahip Olunması Gereken Hisse Senetleri",
+    "summary_tr": "Bu hisse senetleri AI'nin sonraki dalgası için iyi konumlandırılmışlardır."
+  },
+  "https://finnhub.io/api/news?id=b02c8471f940fc094f80e3821929a536d027f6dcc32048f29a3b7ef1bb3ba848": {
+    "headline_tr": "Milyarder David Tepper'a Göre Micron Technology, Inc. (MU) En İyi AI Hissesi mi?",
+    "summary_tr": "Micron Technology Inc. (NASDAQ: MU), milyarder David Tepper'a göre 2026 için satın alınması gereken en iyi yapay zeka hisselerinden biridir. 10 Mayıs'ta Micron Technology Inc. (NASDAQ: MU), arkasında..."
+  },
+  "https://finnhub.io/api/news?id=bb995e8c08d5e6385e1a37a155010fc47eebba5470ede3054f723d259f0f3e64": {
+    "headline_tr": "AMD Bir Ayda %76 Sıçradı: Hisse Senedinin Yükselişe Devam Etmesi İçin Alan Var mı?",
+    "summary_tr": "AMD, EPYC ve Instinct'in veri merkezi büyümesini desteklemesiyle yılbaşından bu yana %75,8 oranında yükseldi, ancak yoğun rekabet ve yüksek F/K oranı hisse senedini bekleme konumunda bıraktı."
+  },
+  "https://finnhub.io/api/news?id=25311efa7206c1733f60ad43f4ac19c4d6befb861d6f201632bce627d48c8469": {
+    "headline_tr": "20 Yıl Önce Lam Research'e Yatırılan 1000 Doların Bugün Ne Kadar Değerinde Olacağı",
+    "summary_tr": "Lam Research (NASDAQ:LRCX), son 20 yılda pazarı yıllık bazda %13,78 oranında geride bırakmış ve ortalama yıllık %23,04 getiri sağlamıştır. Şu anda Lam Research'ün pazar değeri"
+  },
+  "https://finnhub.io/api/news?id=c77906252528faa6889c1f7749adaa651e24cd21b36d5e84d26b12c385394d71": {
+    "headline_tr": "Marvell Teknoloji Hissesi Neden Bugün Yükselişte",
+    "summary_tr": "Teknoloji şirketinin hissesi ünlü bir analistten destek aldı. Ancak, teknoloji alanında önemli bir oyuncunun hissedar haline gelmesi daha da önemli bir gelişme."
+  },
+  "https://finnhub.io/api/news?id=0e67815901a1b24cbe173af3fb18927f6cae0b1491fc084465ff20d8f71c7002": {
+    "headline_tr": "ABD Hisse Senedi Endeksleri Karışık Seyrediyor - Yüksek Üretici Fiyatları Dow Jones Endüstriyel Ortalamasını Aşağı Çekiyor",
+    "summary_tr": "ABD hisse senedi endeksleri, Çarşamba günü öğle saatlerinde karışık bir seyir izlerken, yüksek üretici fiyat enflasyonu baskısı altında işlem gördü"
+  },
+  "https://finnhub.io/api/news?id=5c05f9b5c5cf68b64101e4a6772014bbcf51e584a4c148ec10015fd77bdb0364": {
+    "headline_tr": "ABD Yarı İletken Sektörü Yapay Zeka Kaynaklı Hızlanmaya Hazır, BofA Diyor",
+    "summary_tr": "ABD yarı iletken şirketleri, yapay zeka tarafından yönlendirilen daha hızlı satış büyümesi ve daha güçlü getiriler için hazır durumdadır"
+  },
+  "https://finnhub.io/api/news?id=04af508be7b927e7505f973c0e76fbeb34b1b1a667b4738bafa36681a5d2e841": {
+    "headline_tr": "Lam Research Corporation (LRCX) Şu Anda Satın Almak İçin İyi Bir Hisse mi?",
+    "summary_tr": "LRCX iyi bir satın alma hissesi mi? Nikhs'in Substack'inde Lam Research Corporation hakkında bir yükseliş tezine rastladık. Bu makalede, LRCX hakkındaki boğaların tezini özetleyeceğiz. Lam Research Corporation'ın"
+  },
+  "https://finnhub.io/api/news?id=1a33379c64730dd5605a792871cd85fb8242ed6d2d7dce70cc73f58d12906967": {
+    "headline_tr": "Bu 5 Şirketten Hangisi Çin Gümrük Tarifelerinin Hafiflemesinden En Çok Faydalanır?",
+    "summary_tr": "Washington, Pekin ile yeniden iş birliğinin sinyallerini gönderiyor ve yatırımcılar gümrük tarifelerinin hafiflemesi, ihracat kontrolleri gevşemesi ve Çin tüketici talebinin istikrar kazanması durumunda hangi hisse senetlerinin faydalanacağını anlamaya çalışıyor."
+  },
+  "https://finnhub.io/api/news?id=7d389ff61533a054ae7a91e7afff225334a44236de8d60b740eded227e11b21e": {
+    "headline_tr": "Jim Cramer, Applied Materials ve Yarıiletken Ekipmanı Kıtlığını Vurguluyor",
+    "summary_tr": "Applied Materials, Inc. (NASDAQ:AMAT), Jim Cramer'ın Mad Money'deki hisse senedi önerileri arasında yer aldı. Cramer, yarıiletken ve yapay zeka altyapısı hisse senetlerinin piyasayı nasıl yukarı çektiğini tartışırken Applied Materials'i vurguladı."
+  },
+  "https://finnhub.io/api/news?id=c426f040f32756b81cb8575c4edd16ca77ee4426e8b294c934062870e8cd20f0": {
+    "headline_tr": "Bugünün Seansında 10 Bilişim Teknolojisi Hissesinde Balina Aktivitesi",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=68cf18552a8c250d0df217a74db3a897226ee09102993f4cce4764a66940926b": {
+    "headline_tr": "Nvidia: Pazar Sonrasının Ne Olacağını Hafife Alıyor",
+    "summary_tr": "Nvidia Corporation, hiper ölçekli CapEx 725 milyar dolara ulaştığında AI kazananı olarak öne çıkıyor. Bu NVDA kazanç önizlemesi için tıklayın ve değeri inceleyin."
+  },
+  "https://finnhub.io/api/news?id=caf02b3bb849c63e6da3dd3929aca1f870468c8d3c6850f0a34a4f9eda4351c5": {
+    "headline_tr": "SanDisk ve Micron'un Zamanı Geçti – Bu Yeni 'Fotoniks' ETF'si İçinde 15 Üç Haneli Kazananı Barındırıyor",
+    "summary_tr": "İlk ABD'de listelenen fotoniks ETF'si, Lumentum, Coherent ve AAOI'nin uçuşuyla debut yapıyor. EUV'nin 40 holdinginin 15'i zaten yıl başından bu yana %100'den fazla artış gösteriyor."
   }
 }
