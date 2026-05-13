@@ -270,5 +270,69 @@
   "https://finnhub.io/api/news?id=657eb907dee8786d6553af05039703dfa9fda115bd1959841ca74bb2d1d1ed4a": {
     "headline_tr": "POET Technologies Hissesi Neden Salı Günü Yükseliş Gösteriyor?",
     "summary_tr": "POET Technologies, Q1 kazanç açıklamasından önce yarıiletken sektörü veteranı Sandeep Kumar'ı COO olarak atadığı için hisse senedi yükseliş gösteriyor."
+  },
+  "https://finnhub.io/api/news?id=97010fe6fba24cfe26a76ef3e2b0840bd0afc76b60e24f3c29e6bbbd97815d25": {
+    "headline_tr": "Çarşamba ön-pazar seansı: S&P500 endeksinde en çok yükselenler ve düşenler",
+    "summary_tr": "Çarşamba günü açılış zilinden önce aktivite gösteren S&P500 hisse senetleri hakkında merak ediyor musunuz?"
+  },
+  "https://finnhub.io/api/news?id=0aa814990852696512221e2b8a426813c7c859045bd5e5f75f52a4f6e87ab2a7": {
+    "headline_tr": "Nvidia tarafından desteklenen bu 13 dolarlık Yapay Zeka (AI) hissesi az önce Anduril ile ortaklık kurdu. Yatırımcıların bilmesi gerekenler.",
+    "summary_tr": "Geçen Ekim ayında Nvidia, Nokia'ya 1 milyar dolar yatırım yaptı."
+  },
+  "https://finnhub.io/api/news?id=76460272764b423ea41a70c120570dfe12d7aeffe6b81555f9e7aa50fa889bd8": {
+    "headline_tr": "Nvidia vs. AMD: 2026 için Daha İyi AI Çip Hissesi",
+    "summary_tr": "Nvidia ve AMD bu yıl borsa da zıt kaderleri yaşadılar, bu nedenle bunlardan biri gerçekten cazip bir değerlemede mevcut."
+  },
+  "https://finnhub.io/api/news?id=6cf1711eb0d7e34d333ef9c09000d7035e3a3ca4f311db5b96591435bc9fb377": {
+    "headline_tr": "Nvidia'nın Huang'ı Trump'la birlikte Çin ziyaretine katılırken yapay zeka çipi hisseleri yeniden yükselişe geçiyor",
+    "summary_tr": "Investing.com -- Yarıiletken, optik ağ ve veri depolama şirketlerinin hisseleri Çarşamba günü pazar öncesi işlemlerde sıçrama yaşadı; bu artış küresel bellek çipi arzının daralması ve talepteki artıştan kaynaklandı"
+  },
+  "https://finnhub.io/api/news?id=58a8cc6d87d688eb7befc47568dd25ab6e10aaedbacbe00a083a51cb08bd7804": {
+    "headline_tr": "Yapay Zeka Çiplerinde Son Haberler - Vapi, 50 Milyon Dolarlık Series B ile Ses Yapay Zekasını İlerletti",
+    "summary_tr": "Yapay zeka çipi sektörü, kurumsal ses yapay zeka sistemlerini devrimleştirmeyi amaçlayan Vapi'nin son 50 milyon dolarlık Series B finansman turuyla önemli ilerlemeler yaşadı. Yapay zeka platformuyla tanınan Vapi..."
+  },
+  "https://finnhub.io/api/news?id=aac668d24463f2f09ded6e8e423eeee2998109edebd694c9cd8a5cad7dd45d1a": {
+    "headline_tr": "Enflasyon ve Petrol Endişeleri Sonrasında Yapay Zeka Çipi Satışında Marvell Technology (MRVL) Değerleme Kontrolü",
+    "summary_tr": "Marvell Technology (MRVL), yapay zeka altyapısı rallisinin soğuması, Nisan ayında yükselen ABD enflasyon verileri ve yükselen petrol fiyatlarının hisse senedi fiyatlarını olumsuz etkilemesi sonucunda diğer çip üreticileriyle birlikte hisse senedi değerinde düşüş yaşaması nedeniyle yeniden odak noktası haline geldi."
+  },
+  "https://finnhub.io/api/news?id=332d3d778f36486a47225839f2d4256e59e6cecf7d36612e9bac8d8be72602fa": {
+    "headline_tr": "Broadcom (AVGO) Neden Özel AI Silikon Alanında Daha Güçlü Bir Güç Haline Geliyor",
+    "summary_tr": "Broadcom Inc. (NASDAQ:AVGO) şu anda satın almak için en iyi AI etkinleştirici hisse senetlerinden biridir. En son AI altyapısı açısından 11 Mayıs'ta SDxCentral, Blackstone ve Apollo Global Management'ın raporladığı"
+  },
+  "https://finnhub.io/api/news?id=bb5e9770717bc859177087ab569d508e77b2936c196997317b36573f9cc1a135": {
+    "headline_tr": "Marvell Technology (MRVL) Neden AI Bağlantısı ve Özel Silikon Alanında Ilerleme Kaydediyor",
+    "summary_tr": "Marvell Technology, Inc. (NASDAQ:MRVL) şu anda satın alınması gereken en iyi yapay zeka etkinleştirici hisse senetlerinden biridir. Daha güçlü yapay zeka altyapısı açısından 22 Nisan'da Marvell Technology, Inc. (NASDAQ:MRVL) Pola'yı satın aldığında ilerleme kaydedildi"
+  },
+  "https://finnhub.io/api/news?id=1b548dd729d6053142c12368a9d28e04ea86cf64b35268ccde84a2c3af41010a": {
+    "headline_tr": "S&P 500 Artık Çeşitlendirilmiş Olmayabilir",
+    "summary_tr": "Apollo, mega cap hakimiyetinin piyasayı yeniden şekillendirdiği konusunda uyarıda bulunuyor"
+  },
+  "https://finnhub.io/api/news?id=38f610aa01badb329e12f56d666dfc1985201030ec44b0efaa4a9390903d4d6e": {
+    "headline_tr": "Nvidia Earnings Önizlemesi: Q1 Sonuçlarından Önce Alım Yapıyorum",
+    "summary_tr": "Nvidia Corporation Q1 FY27 önizlemesi: Güçlü Alım ancak mükemmellik için fiyatlandırılmış. Hiperölçekli CapEx, Rubin/Blackwell boru hattını ve daha fazlasını takip edin. Bu NVDA güncellemesi için tıklayın."
+  },
+  "https://finnhub.io/api/news?id=d92719778e3139b81404ee7276f3bfc6d2f7ec0d7b25b142caf5ad77429469ca": {
+    "headline_tr": "S&P 500'ü Bir Temettü ETF'si ile Yenmek: Temettüden Vazgeçin.",
+    "summary_tr": "First Trust Rising Dividend Achievers, geçtiği 10 yılda yıllık %15,8 getiri sağlamıştır. Ancak temettüsüne çok yakından bakmayın."
+  },
+  "https://finnhub.io/api/news?id=f9e33fd0f5bf00b5e63231690de917ae94df9431f238716d820622cff0eb1a54": {
+    "headline_tr": "Allspring Premier Large Company Growth Fund 2026 Q1 Katkıda Bulunanlar ve Olumsuz Etkileyen Faktörler",
+    "summary_tr": "Allspring'in fonu, yapay zeka altyapısı kazançları sayesinde 2026 Q1'de Russell 1000 Growth Endeksini geride bıraktı. Daha fazla detay için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=f26042ba2bfb89c7aecbf5b0ffcbcd313823689b9d4bdc8bd741153e381ad68d": {
+    "headline_tr": "Marvell Technology (MRVL) Geniş Pazar Ortalamasından Daha Keskin Düşüş Yaşıyor: Yatırımcıların Bilmesi Gerekenler",
+    "summary_tr": "Son işlem seansında, Marvell Technology (MRVL) 164,5 dolar seviyesinde kapanış yaptı ve bir önceki işlem gününe kıyasla -3,71 oranında değişim gösterdi."
+  },
+  "https://finnhub.io/api/news?id=addab5695f1c362a91c7ba50bfda1ad3dd800a6f80cd18f6ce323ca829a4e275": {
+    "headline_tr": "Hisse Senetleri Teknoloji Zayıflığı ve Enflasyon Baskıları Nedeniyle Karışık Kapandı",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Salı günü -%0,16 düşüşle kapandı, Dow Jones Sanayi Ortalaması ($DOWI) (DIA) +%0,11 yükselişle kapandı ve Nasdaq 100 Endeksi ($IUXX) (QQQ) -%0,87 düşüşle kapandı. Haziran E-m"
+  },
+  "https://finnhub.io/api/news?id=fed92cb1f8b39682869c6c17c56c24dce4743e111dd68cc99e32eee450a57837": {
+    "headline_tr": "Bellek Kıtlığı Bu AI Hissesini Süper Hızlandırdı ve Bir Yılda %293 Yükseldi. Daha da Yükselebilir (İpucu: Ne Micron Ne de Sandisk)",
+    "summary_tr": "Bellek çipi kıtlığı, ekipman ve altyapıya yapılan yatırımları artırıyor ve bu da Lam Research yatırımcıları için harika bir haber."
+  },
+  "https://finnhub.io/api/news?id=e81d64ed4beef92568305946e1056f5799e50cecdaa30b61e04bd2e85243a423": {
+    "headline_tr": "Yariiletken Hisseleri ABD Büyük Teknoloji Şirketlerinin Hayat Kaynağını Kurutturuyor",
+    "summary_tr": "Yapay Zeka CapEx yariiletken hisselerini güçlendiriyor ancak hiperölçekli şirketler borç ve nakit akışı baskısı ile karşı karşıya. Bu sektöre ve teknoloji hisseleri üzerindeki etkisine ilişkin analiz için tıklayın."
   }
 }
