@@ -506,5 +506,81 @@
   "https://finnhub.io/api/news?id=a81b8fe593a82a3f6a9e1a748ba6a204a881ce101428733b2e1d850871eb0075": {
     "headline_tr": "Temelller Her Şeyden Önemli",
     "summary_tr": "Tech Contrarians'tan Sara Awad, yarı momentum hakkında konuşuyor. Nvidia kazançları; Marvell ve Broadcom; Micron, Credo, AMD, Intel, Arm, Apple ve Nebius."
+  },
+  "https://finnhub.io/api/news?id=b6ff455e822bc810d346ed2dfd4b6839b1be3899483fbcfc42efb9895b6fff06": {
+    "headline_tr": "Tesla $445'te: Almak, Satmak mı yoksa Tutmak mı?",
+    "summary_tr": "Tesla (NASDAQ:TSLA) $445.27'de bir bekleme pozisyonundadır. Hisse, temiz bir Q1 marj sıfırlaması nedeniyle geçen ay %26,35 oranında yükselmiş, ancak şu anda Street'in fikir birliği hedefinin üzerinde işlem görmektedir ve neredeyse yakın olan katları talep eden seviyelerde işlem görmektedir"
+  },
+  "https://finnhub.io/api/news?id=71cd2273c31a84c396de3a7ab5207f0e4b6a4026002b0b0c0f05c0bd2479b4b3": {
+    "headline_tr": "Kevin Warsh Yeni Fed Başkanı ve Faiz Oranları Bu Yıl Düşmeyebilir. Portföyünüz İçin Ne Anlama Geliyor?",
+    "summary_tr": "Uzun ve tartışmalı bir sürecin ardından, ABD Senatosu Kevin Warsh'ı Federal Rezerv'in yeni başkanı olarak onayladı."
+  },
+  "https://finnhub.io/api/news?id=c52d2f48a4e1a63d3a83596d423533d9a3e4158352121caf9dfe5a755b6879cd": {
+    "headline_tr": "Xi, Banket Öncesinde Trump'ı Tayvan Konusunda Olası 'Çatışma' Hakkında Uyardı",
+    "summary_tr": "Perşembe günü Pekin'in Büyük Halk Sarayı'ndaki devlet ziyafetinde Başkan Trump ile kadeh kaldırmadan saatler önce, Çin lideri Xi Jinping Tayvan konusunda keskin bir uyarıda bulundu. Eğer bu konu"
+  },
+  "https://finnhub.io/api/news?id=f0acab777a83ecc4b1f42e3e46414e733a60d3c0b71e391014a87330c54b770f": {
+    "headline_tr": "Intel Bir Ayda %82 Yükseldi, Ancak AMD'yi Geçebiliyor mu?",
+    "summary_tr": "Intel (NASDAQ:INTC) hisseleri Perşembe günü öğlen saatlerinde 115 dolardan işlem görmektedir ve bu seansda %4 düşüştedir. Bugünkü geri çekilişe rağmen, INTC hissesi geçtiğimiz ay içinde %82 oranında yükselmiştir ve bu gerçekten etkileyici bir harekettir."
+  },
+  "https://finnhub.io/api/news?id=9bc9a1523f1363a6d62fde81abe5ca2f7665a0765509c1313a5cdd62d5a99703": {
+    "headline_tr": "Dow Jones İlk Kez 50.000'i Aştı; Nvidia ve Broadcom Pazar Endekslerini Yükseliyor",
+    "summary_tr": "Dow Jones ilk kez 50.000'i geçti ve üç ana endeks de öğle saatlerinde yaklaşık %1 yükselişte. İşte hareketleri neyin tetiklediği ve portföyünüz için ne anlama geldiği."
+  },
+  "https://finnhub.io/api/news?id=d9e344d50c6c9a87c55701e26660bfc2afb9a8e0328fb777e8126ed1061e4e1b": {
+    "headline_tr": "Cerebras Hissesi 350 Dolardan Açıldı, IPO Fiyatının Neredeyse İki Katı",
+    "summary_tr": "Cerebras'ın halka arzı çip stoklarının yükselişe geçtiği ve birçoğunun tüm zamanların en yüksek seviyelerine ulaştığı dramatik bir zamanda gerçekleşiyor."
+  },
+  "https://finnhub.io/api/news?id=9df207a5f3a5072e7df20ebdc12ffcc008a9cc35953e202adda1e35514eb134c": {
+    "headline_tr": "Alphabet (GOOGL)'nin Yapay Zeka Bulut Yükselişi Hızlanıyor: Anthropic, Google Altyapısına 200 Milyar Dolar Taahhüt Ediyor",
+    "summary_tr": "%7,8 yükseliş potansiyeli ile Alphabet Inc. (NASDAQ:GOOGL) şu anda satın alınması gereken en iyi acentelik yapay zeka hisse senetleri listemizde yerini almıştır. Alphabet Inc. (NASDAQ:GOOGL) rolünü genişletmeye devam ediyor görülmektedir"
+  },
+  "https://finnhub.io/api/news?id=43256db614b17f1b8a7e3270194ff0ddf24f043e8d81800d0adec8981d5ca855": {
+    "headline_tr": "Lam Research (LRCX) İnanılmaz Bir Büyüme Hissesi: 3 Nedeni",
+    "summary_tr": "Lam Research (LRCX), sağlam büyüme özellikleri nedeniyle olağanüstü getiriler sağlayabilir."
+  },
+  "https://finnhub.io/api/news?id=07171dddf928dd5bcb23a992f9044b1b5001b4da267c98e95b5e9481375ddf36": {
+    "headline_tr": "Micron Bir Yılda %698 Yükseldi. Wall Street Fark Etmeden Önce Aynı AI Bellek Dalgasına Binecek 3 Hisse $15'ın Altında",
+    "summary_tr": "Bellek, yapay zeka ekonomisinin yeni petrolü haline geldi ve Micron Technology (NASDAQ:MU) bunun en büyük yararlanıcısı olmuştur. Hisse senedi yıl başından bu yana %124,41 ve geçen bir yılda şaşırtıcı bir şekilde %698,01 yükselmiştir."
+  },
+  "https://finnhub.io/api/news?id=d068c1a1617d618c0e16aaa5ebcc42c131f5e919b0506c8d690bf7f07ef05f25": {
+    "headline_tr": "Micron Yerine Bu AI Çip Hissesini Mi Seçmelisiniz?",
+    "summary_tr": "Bu AI çip hissesi 2026'da yatırımcıları hoş bir şekilde şaşırtabilir."
+  },
+  "https://finnhub.io/api/news?id=351ef2d688bcc9e3cfa3b5f0fe452b9b128796045b5013b255e2c2c50d997834": {
+    "headline_tr": "Broadcom Hissesi Perşembe Günü Neden Yükseldi",
+    "summary_tr": "Yariiletken uzmanı Wall Street'ten olumlu tepki aldı."
+  },
+  "https://finnhub.io/api/news?id=c50af81ecdb42c66d31248b1af5ea058f611148782fd4d90041aa7baf411625d": {
+    "headline_tr": "Alphabet vs. Micron Technology: Şu Anda En İyi Yapay Zeka Yatırımı Hangisi?",
+    "summary_tr": "Bir şirketin çok yönlü yapay zeka büyüme stratejisi var; diğeri kıt olan anahtar donanım üretiyor."
+  },
+  "https://finnhub.io/api/news?id=9b656d9b1a02d3fe2167b0da234a81192fcba26490b30c37d53ca8a428b7fea6": {
+    "headline_tr": "Credo'nun Bilançosu Yapay Zeka Genişlemesinin Sonraki Aşamasına Güç Verebilir mi?",
+    "summary_tr": "CRDO'nun güçlü nakit pozisyonu ve rekor büyümesi, AEC ölçeklendirmesi, optik bahisler ve stratejik satın almalar yoluyla genişlemeyi desteklemektedir."
+  },
+  "https://finnhub.io/api/news?id=b905690b0dcfb82f2524cd72496e6e4a7a0668bacbfb6c718cd4e15be56ec986": {
+    "headline_tr": "Bugünün Seansında 9 Bilişim Teknolojisi Hissesinde Usta Yatırımcı Aktivitesi",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=42bf895ff30cfa590641b0b3bd5ce5d67c54c07bd26d7ed9c06c6d25bcbba895": {
+    "headline_tr": "Wall Street'in Yükseliş Görüşlerine Dayanarak Lam Research (LRCX)'e Yatırım Yapmak Değer mi?",
+    "summary_tr": "Lam Research (LRCX) için ortalama aracı kurum tavsiyesi (ABR) Satın Al'a eşdeğerdir. Wall Street analistlerinin aşırı iyimser tavsiyeleri, bu yüksek talep gören şirketin etkinliğini..."
+  },
+  "https://finnhub.io/api/news?id=7900d7f2fda25a8d1ec25fc2619503cfb403a44e37d6b4fc9fa0a67e261c3ea2": {
+    "headline_tr": "ABD-Çin Görüşmesi Ortamında S&P 500 ve Nasdaq Yeni Rekorlara Ulaştıktan Sonra ABD Hisse Senedi Vadeli İşlemleri Borsa Öncesi Yükselişe Geçti",
+    "summary_tr": "Teknoloji hisseleri yeni rekor seviyeleri yönlendirdikçe, ABD hisse senedi vadeli işlemleri Perşembe günü borsa öncesi saatlerde yükselişe geçti"
+  },
+  "https://finnhub.io/api/news?id=652eb8d9e142adf2b01cd1e55e7afbb3cefd27cc9e82a888af7de3e2a22a7a0e": {
+    "headline_tr": "Herkes Micron'dan Bahsediyor. Akıllı Parası Bu Hisse Senedini İzliyor",
+    "summary_tr": "Micron Technology (NASDAQ:MU), şu anda her bellek döngüsü başlığına hakim olan ticker sembolü olup, tüccarlar DRAM ve NAND fiyatlandırmasının yapay zeka altyapısı kurulumunun yanında doğru orantılı olarak yükselişe geçeceği varsayımına para yatırmaktadır."
+  },
+  "https://finnhub.io/api/news?id=5904787145da92508a400d07826e7d5d3f6d6ed9b33f84a3ca3cbc4516fe4f4b": {
+    "headline_tr": "Bloom Energy, SanDisk MEME ETF Dalgasını Güçlendiriyor ve Nasdaq 100 Getirilerini Üçe Katladı",
+    "summary_tr": "Roundhill MEME ETF, Nisan ayından bu yana %75 oranında artış gösterdi. Goldman Sachs'a göre perakende işlem hacimleri %28 oranında artarken, marj borcu rekor kıran 1,3 trilyon dolara ulaştı."
+  },
+  "https://finnhub.io/api/news?id=8f5ac1956bc12d543c230eda327caf4edafe306ed1b4c1c602218b256bc7ec1d": {
+    "headline_tr": "Intel Hisse Senedi Neden Perşembe Günü Düşüyor?",
+    "summary_tr": "Intel (INTC) hisseleri yatırımcılar kar realizasyonu yaparken düşüş gösterirken, yeni bir Apple üretim tesisi anlaşması ve yurt içi genişleme devasa uzun vadeli büyümeyi işaret ediyor."
   }
 }
