@@ -582,5 +582,57 @@
   "https://finnhub.io/api/news?id=8f5ac1956bc12d543c230eda327caf4edafe306ed1b4c1c602218b256bc7ec1d": {
     "headline_tr": "Intel Hisse Senedi Neden Perşembe Günü Düşüyor?",
     "summary_tr": "Intel (INTC) hisseleri yatırımcılar kar realizasyonu yaparken düşüş gösterirken, yeni bir Apple üretim tesisi anlaşması ve yurt içi genişleme devasa uzun vadeli büyümeyi işaret ediyor."
+  },
+  "https://finnhub.io/api/news?id=729244f7b9f7ae82543fbe3264d99b43b493577c0f6362352c158e9415a6747c": {
+    "headline_tr": "Tahmin: Micron Yılın Sonunda Bu Fiyattan İşlem Görecek",
+    "summary_tr": "Bellek, emtia statüsünden stratejik bir varlığa dönüştü ve Micron Technology (NASDAQ:MU) halka açık piyasalarda en büyük yararlanıcı oldu. Hisseler geçtiği bir yılda %828,56 oranında yükseldi ve yapay zeka..."
+  },
+  "https://finnhub.io/api/news?id=15d598ec9769dcc9cd4700fc4192300d894f7357ec11be7b5e95f3979ea1c88f": {
+    "headline_tr": "ABD Hisse Senedi Endeksleri Yükselişe Geçti, Teknoloji Sektörü Listenin Başında",
+    "summary_tr": "ABD hisse senedi endeksleri Perşembe kapanışından önce yükselişe geçti, teknoloji sektöründeki güçlü kazançlar S&P 500'ü destekledi"
+  },
+  "https://finnhub.io/api/news?id=38e213c9b58ab6a4afc8effd9a372a1dc3e1f9849641b68520179bb981a5ca22": {
+    "headline_tr": "NVIDIA Bir Ayda %20 Yükseldi. 20 Mayıs Kazanç Raporu Bunu Geri İndebilir mi?",
+    "summary_tr": "NVIDIA (NASDAQ:NVDA) hisselerinin Perşembe öğleden sonra işlemlerinde 236 dolardan işlem gördüğü, seansda %4,5 yükselişle kapandığı bildirildi. Bu hareket, çip üreticisini geçtiğimiz ay boyunca %20 ve yıldan bu yana %27 artıran bir rallinin devamını oluşturmaktadır."
+  },
+  "https://finnhub.io/api/news?id=772a0eb5b0f71d6fe6293f9dfbff6f6bbc5bb2582c9d652a46d40ec797901913": {
+    "headline_tr": "Jim Cramer OnlyFans'ın NVIDIA'dan (NVDA) Daha İyi Performans Gösterdiğini Paylaştı",
+    "summary_tr": "Yakında Jim Cramer'ın Büyük Yapay Zeka Yatırım Korkusunu Ortaya Koyan ve Bu 20 Hisseyi Tartıştığı Yayını yayınladık. NVIDIA Corporation (NASDAQ:NVDA) Jim Cramer tarafından tartışılan hisse senetlerinden biridir. Hisselerinin başarısına rağmen"
+  },
+  "https://finnhub.io/api/news?id=187b1b929b2b5b3a8303fcecdd1b129d6f309c22491e14da7b8d74ad8f6c9230": {
+    "headline_tr": "Jim Cramer, Micron'un (MU) Betty Crocker Karışımlarını Yapan Şirketten Neden Daha İyi Olduğunu Açıklıyor",
+    "summary_tr": "Yakın zamanda Jim Cramer'ın Büyük Yapay Zeka Yatırım Korkusunu Ortaya Çıkardı ve Bu 20 Hisseyi Tartıştı başlıklı bir makale yayınladık. Micron Technology, Inc. (NASDAQ:MU), Jim Cramer tarafından tartışılan hisselerden biridir. Bellek çipi üreticisi"
+  },
+  "https://finnhub.io/api/news?id=11ed15ba2ff15024d5d217d5919bb2105adece4e815f6a0f80b77e91ad6a2183": {
+    "headline_tr": "Jim Cramer Broadcom (AVGO) CEO'su Hakkında Büyük İddia Yaptı",
+    "summary_tr": "Yakında Jim Cramer'ın Büyük Yapay Zeka Yatırım Korkusunu Ortaya Koyan ve Bu 20 Hisse Senedini Tartıştığı Yazımızı Yayınladık. Broadcom Inc. (NASDAQ:AVGO), Jim Cramer tarafından tartışılan hisse senetlerinden biridir. Broadcom Inc. (NASDAQ:AVGO)"
+  },
+  "https://finnhub.io/api/news?id=805bf1a55d5a53d8f308cd1316cbd34c0637e82edd6b618164286c611dc788bd": {
+    "headline_tr": "Cerebras, IPO Fiyatlandırmasını Aralığın Üzerinde Yaparak Nasdaq Açılışında Yükseltildi",
+    "summary_tr": "Yapay zeka şirketi Cerebras Systems (CBRS), Perşembe günü halka arz fiyatlandırmasını belirlenen aralığın üzerinde yaparak kamu piyasalarına güçlü bir giriş yaptı"
+  },
+  "https://finnhub.io/api/news?id=c28a64a82e1bf6a683e3f81845c25b039d01afaad0fb253710ff38e049ed332e": {
+    "headline_tr": "Micron'un Bu Yıl 1 Trilyon Dolarlık Pazar Değerine Ulaşabilmesinin Nedenleri",
+    "summary_tr": "Hafıza çipi üreticisi 1 trilyon dolarlık bir değerlemeye doğru ilerliyorsa, bu bir yıl önce son derece olası görülmüyordu."
+  },
+  "https://finnhub.io/api/news?id=1ecd5600b881affd7c4ed5a47a4078682eaefcc721bbe82d9b213194cf17f964": {
+    "headline_tr": "Broadcom vs. Taiwan Semiconductor: Şu Anda Hangi AI Çip Devi Daha İyi Bir Satın Alma Seçeneği?",
+    "summary_tr": "Her iki şirket de yapay zeka altyapısı kurulumunda kritik bir rol oynamaktadır. Ancak birinin büyüme profili ve sipariş defteri onu daha cazip bir satın alma seçeneği haline getirmektedir."
+  },
+  "https://finnhub.io/api/news?id=021a02c08a834587b8e9927f0701b9bd40ca49a9bd04b583ac12ba893391cb5e": {
+    "headline_tr": "AMD vs Intel: Biri Serbest Nakit Akışını Üçe Katlarken Diğeri Foundry Hayalleri için Milyarları Yakıyor",
+    "summary_tr": "AMD (NASDAQ:AMD) ve Intel (NASDAQ:INTC) her ikisi de Q1 mali 2026 sonuçlarını iki hafta içinde açıkladı ve karşıtlık çarpıcı. AMD, yapay zeka hızlandırıcıları tarafından desteklenen 10,25 milyar dolarlık geliri bildirdi"
+  },
+  "https://finnhub.io/api/news?id=8a851700df84ea137c66bc9cee03311c0d607b7a26e0cb6e6904349ed82846e5": {
+    "headline_tr": "ALAB Güçlü UALink Büyümesinden Faydalanıyor: Daha Fazla Yükseliş Mümkün mü?",
+    "summary_tr": "Astera Lab'ın UALink 2.0 girişimi ve Scorpio anahtarı genişlemesi yapay zeka altyapısı büyümesini destekliyor, dağıtımlar 2027'de bekleniyor."
+  },
+  "https://finnhub.io/api/news?id=ec32ca8013d8fc3c91c62c50ebeef925c5c2be070a6b7c1b81bf7ab5872503f1": {
+    "headline_tr": "Trump'ın Ticaret Açıklaması Nvidia, AMD, Microsoft, Oracle ve Diğer Büyük Hisse Senetlerinde Aktiviteyi Gösteriyor",
+    "summary_tr": "İşlemlerin Trump tarafından doğrudan alım-satım faaliyetini mi yoksa yönetilen hesaplar aracılığıyla yapılan faaliyeti mi yansıttığı net değildir."
+  },
+  "https://finnhub.io/api/news?id=3fd571e69f20574497aa77c871464d8c941be514ddedd6cbff24dc11a68473c9": {
+    "headline_tr": "Analistler Söylüyor: Ajanit AI İki Yıl İçinde Akıllı Telefonların Üçte Birini Güçlendirecek",
+    "summary_tr": "Qualcomm ve MediaTek Ajanit AI Hakimiyeti İçin Yarışıyor. Dimensity 9400 ve Snapdragon 8 Elite'in Premium Pazarı Nasıl Yeniden Şekillendirdiğini Görün."
   }
 }
