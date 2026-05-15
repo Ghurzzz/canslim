@@ -1610,6 +1610,31 @@ def build_html(tf_data, timestamp, earnings_data=None, market_data=None, news_da
     html = html.replace("%%GITHUB_REPO%%",  GITHUB_REPO)
     return html
 
+# ── ANA TARAMA ────────────────────────────────────────────────
+print('\n📊 Hisse analizi yapiliyor...')
+tf_data = {}
+for tf_key, tf_cfg in TF_CONFIG.items():
+    print(f'  {tf_cfg["label"]} zaman dilimi...')
+    tf_results = []
+    for i, ticker in enumerate(WATCHLIST, 1):
+        print(f'  [{i:2}/{len(WATCHLIST)}] {tf_cfg["label"]} {ticker:<6}...', end=' ', flush=True)
+        r = analyze(ticker, period=tf_cfg['period'], interval=tf_cfg['interval'])
+        tf_results.append(r)
+        print(r.get('sinyal', 'HATA'))
+    tf_data[tf_key] = tf_results
+print(f'\nTarama tamamlandi! {len(TF_CONFIG)} zaman dilimi x {len(WATCHLIST)} hisse')
+
+# ── ALARM KONTROLU ─────────────────────────────────────────────
+print('\n🔔 Alarm kontrolu yapiliyor...')
+alerts = check_alarms(tf_data, PORTFOLIO)
+if alerts:
+    print(f'  {len(alerts)} alarm bulundu:')
+    for a in alerts:
+        print(f"  {'🟢' if a['type']=='buy' else '⚠️' if a['type']=='stop' else '🎯'} {a['ticker']}: {a['message']} (${a['price']})")
+    send_alarm_email(alerts)
+else:
+    print('  Alarm yok')
+
 # ── AI ANALİZLERİ ─────────────────────────────────────────────
 print('\n🤖 AI analizleri yapiliyor...')
 data_1d = tf_data.get('1d', [])
