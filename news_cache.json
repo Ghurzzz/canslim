@@ -702,5 +702,77 @@
   "https://finnhub.io/api/news?id=501960ab04d8564723d98c85504ddde7e08f005699980dac10edc57cba4de11e": {
     "headline_tr": "Nvidia'nın 4 Milyar Dolarlık Optik Stratejisinin İçinde--Ve Neden CPO Her Şeyi Değiştiriyor",
     "summary_tr": "Nvidia Corporation'ın Coherent ve Lumentum'a yaptığı 2 milyar dolarlık yatırımları, Broadcom ile mücadelesi sırasında büyük bir CPO lansmanını işaret ediyor. NVDA hisse senedi güncellemesi için tıklayın."
+  },
+  "https://finnhub.io/api/news?id=fb9a553d3c10b3fa1e873b652142dc2222c1ab4fe7b436ec52ccafd4424771c5": {
+    "headline_tr": "Bu S&P500 hisseleri bugünün seansında en aktif olanlar",
+    "summary_tr": "Cuma günü S&P500 endeksini keşfedin ve bugünün seansında hangi hisselerin en aktif olduğunu öğrenin. Pazar ilgisini çeken ve pazar hareketlerini yönlendiren hisseleri takip ederek güncel kalın."
+  },
+  "https://finnhub.io/api/news?id=3ff8ddff7d999df7c4e43f3fc8acd93f7c3882846d405a03910e61e931368b82": {
+    "headline_tr": "Cuma seansında en aktif hisse senetlerini keşfedin.",
+    "summary_tr": "Cuma seansında en aktif hisse senetlerini keşfedin. En yüksek işlem hacmine sahip hisse senetleri hakkında bilgi sahibi olun!"
+  },
+  "https://finnhub.io/api/news?id=f60d4d76177e6ed5cdfdbc2b798a29ced58556c1657afe1609a91cdbc44fa7fa": {
+    "headline_tr": "SanDisk Fiyat Tahmini: Ralli Çok Mu İleri Gitti?",
+    "summary_tr": "Hafıza rallisi dönemin en olağanüstü hareketlerinden biri olmuştur ve SanDisk (NASDAQ:SNDK) bunun merkezinde yer almaktadır. Geçtiğimiz bir yılda %3.197 kazanç ve yılbaşından bu yana %482'lik bir yükseliş sonrasında,"
+  },
+  "https://finnhub.io/api/news?id=2f0f690013d4ef266838658490e15148c3d3bedfd05d26b4a8c6e739a0f7932c": {
+    "headline_tr": "Sektor Güncellemesi: Teknoloji Hisseleri Öğleden Sonra Düşüşte",
+    "summary_tr": "Teknoloji hisseleri Cuma öğleden sonra düşüşteydi; State Street Technology Select Sector SPDR ETF (XLK) aşağı yönlü hareket gösterdi."
+  },
+  "https://finnhub.io/api/news?id=f64b90bde4407fa0fd6435a1cef27243a346ae23bc25c98e4c23e85f4ef33ea3": {
+    "headline_tr": "Yapay Zeka Veri Merkezi Oyunu ve Çip Üreticisi Broadcom Analisti Tarafından En İyi Seçim Olarak Adlandırıldı",
+    "summary_tr": "Çip lideri Broadcom, büyük ölçüde teknoloji şirketleri tarafından yönetilen bu güçlü trentte satın almayı düşünmeye değer en iyi hisse senetlerinden biridir."
+  },
+  "https://finnhub.io/api/news?id=9980bf516597234606413bb84e43cf491ad9249d27550253cc352951fb6bfe50": {
+    "headline_tr": "Sandisk Hissesi Neden Bugün Yükseldi?",
+    "summary_tr": "Çin olmasa bile, Nvidia ve Sandisk çipleri üretebilecekleri hızda satıyorlar."
+  },
+  "https://finnhub.io/api/news?id=e6dffdf1471a973a1f69aa7ad42c8ac449bbab1ef3d4f057123e0d4f69bb613a": {
+    "headline_tr": "Microsoft %4 Yükselişe Geçti, NASDAQ Düşüşüne Direniş Gösteriyor",
+    "summary_tr": "Microsoft (NASDAQ:MSFT) hisseleri Cuma günü gün ortası işlemlerinde yükselişe geçerek %4 artarak yaklaşık 424,65 dolara çıkmış olsa da, daha geniş NASDAQ endeksi düşüş göstermektedir. Bu hareket dikkat çekicidir çünkü neredeyse diğer tüm yüksek beta teknoloji"
+  },
+  "https://finnhub.io/api/news?id=b3cb3322557c873ea3236c2d6962c9d6a3bd620b22c4333cb6fda244e81cf514": {
+    "headline_tr": "Bu Bellek Çipi ETF'i Grafikten Çıktı. Çip Hisse Senedi Patlaması Sadece Bunun Bir Kısmı.",
+    "summary_tr": "Pazar, bellek çipi üreticilerine karşı çılgın bir iştahı gösteriyor, ancak yarı iletken endüstrisinin bu alt sektörü biraz çok sıcak görünüyor. Bellek şirketleri son zamanlarda yapay zekanın faydalarından yararlanmaya başlayan en son hak sahipleri oldu."
+  },
+  "https://finnhub.io/api/news?id=db111f4b076a8878a0832aa8bb9d4ffd3e09a092a384c148dbc67199a549541f": {
+    "headline_tr": "Bugün Borsa: Artan Getiriler ve Petrol Fiyatlarıyla Dow Baskı Altında; Nvidia Düşüşte (Canlı Yayın)",
+    "summary_tr": "Petrol fiyatları ve Hazine getirileri yükselirken büyük endeksler düştü. Yapay zeka çip oyuncuları Applied Materials, Nvidia ve Cerebras geri çekildi. Trump-Xi zirvesi sona erdi."
+  },
+  "https://finnhub.io/api/news?id=19a38f36368625b37849005196c589c0f23d59b7f8d4a5b2838c8200f0a2787c": {
+    "headline_tr": "INTC McLaren'ın Bilişim Altyapısını Güçlendiriyor: Büyümeyi Tetikleyecek mi?",
+    "summary_tr": "Intel, McLaren ile ortaklık kurarak Formula 1 gerçek zamanlı operasyonlarında Xeon ve Core Ultra çiplerini sergileyerek yapay zeka destekli yarış analitiğini güçlendiriyor."
+  },
+  "https://finnhub.io/api/news?id=b5766ab247133d4ccbfad5498a32f81fd7e3abef277e92073f62537447b5d364": {
+    "headline_tr": "Broadcom vs Microsoft. İkisi de Yapay Zeka Yarışında Kazanıyor. Yalnızca Biri Bunun Fiyatı Kadar Değerleniyor",
+    "summary_tr": "Broadcom (NASDAQ:AVGO) ve Microsoft (NASDAQ:MSFT) her ikisi de yapay zeka destekli üç aylık dönemleri sunarak iki farklı oyun planı ortaya koydular. Broadcom, hiper ölçekli veri merkezleri için özel silikon ve anahtarlar satıyor. Microsoft..."
+  },
+  "https://finnhub.io/api/news?id=039c392930a42d609351a9182eda5e4da7518833e0cd6d1c052f4afc68d13c08": {
+    "headline_tr": "Borsa Bugün: Petrol Fiyatları ve Getiriler Yükselirken Dow ve Nasdaq Düştü; Nvidia, Cerebras Geriledi (Canlı Yayın)",
+    "summary_tr": "Petrol fiyatları ve Hazine getirilerinin yükselmesiyle ana endeksler düştü. Yapay zeka çip şirketleri Applied Materials, Nvidia ve Cerebras gerilediler. Trump-Xi zirvesi sona erdi."
+  },
+  "https://finnhub.io/api/news?id=c94b45c3914a04ba861ba6fd6023fac397bdaad19d34aa090e6cb5aa9068106b": {
+    "headline_tr": "Cuma seansı: S&P500 endeksinde boşluk açan ve boşluk kapatan hisse senetleri",
+    "summary_tr": "Cuma günü ABD piyasalarında neler olup bittiğine bakalım. Aşağıda bugünün seansında S&P500 boşluk açan ve boşluk kapatan hisse senetlerini bulabilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=2fa81a69f957c040848b48b67a46b8939b6ebd27cf08a87e83205298d3dbb1af": {
+    "headline_tr": "Bu Küçük Yapay Zeka Hissesi Aniden Devasa İlgi Görüyor",
+    "summary_tr": "POET Technologies (NASDAQ:POET) birkaç hafta içinde bilinmeyen bir mikro-kap konumundan WallStreetBets'teki en gürültülü hisse senetlerinden birine dönüştü. Hisse, duyuru yaptıktan sonra geçtiğimiz haftada tek başına %114,72 artış kaydetti"
+  },
+  "https://finnhub.io/api/news?id=3822877e884f150009f9d6877451876cc133961c097f5deaaae25bdf29688701": {
+    "headline_tr": "Borsa Bugün: Petrol Fiyatları ve Getiriler Yükselirken Dow Düşüyor; Nvidia, Cerebras Geriledi (Canlı Yayın)",
+    "summary_tr": "Petrol fiyatları ve Hazine getirilerinin yükselmesi üzerine ana endeksler düştü. Yapay zeka çip üreticileri Applied Materials, Nvidia ve Cerebras geri çekildi. Trump-Xi zirvesi sona erdi."
+  },
+  "https://finnhub.io/api/news?id=bdc694feadd5528f0b2113400f297996e11ab4a150e1e2259f889631d9253e25": {
+    "headline_tr": "Trump: ABD'nin '9.500 Mil Uzakta' Bir Savaşa İhtiyacı Yok, Ancak Tahmin Piyasaları Onun Tayvan Politikasına Güveniyor mu?",
+    "summary_tr": "Trump, Xi ile görüştükten sonra gazetecilere ABD'nin '9.500 mil uzakta' bir savaşa ihtiyacı olmadığını söyledi. Onun bu açıklaması, onlarca yıllık ABD Tayvan politikasından koptuğu anlamına mı geliyor?"
+  },
+  "https://finnhub.io/api/news?id=a8ba4734b4356639a43a63de366d93786300e73624c6739be6617f3b52b3f94b": {
+    "headline_tr": "10 Yıl Önce Lam Research'e 1000 Dolar Yatırım Yapsaydınız, Bugün Ne Kadar Değerde Olurdu?",
+    "summary_tr": "Belirli hisse senetlerine yapılan yatırımlar, özellikle on yıl veya daha uzun süre tutarsanız, uzun vadede karşılığını verebilir."
+  },
+  "https://finnhub.io/api/news?id=5136eaad393488ee69d549cf27223ce1ed037c8e0af5f3dc1afe0ba704669ab3": {
+    "headline_tr": "Çip Hisseleri Yapay Zeka Patlaması Ortasında Uzatıldı; Biri Satın Alma Bölgesinde Bekliyor",
+    "summary_tr": "Çip hisseleri borsada yeni zirvelere çıktı ve yapay zeka ticaretinin 2025'teki muazzam kazançlardan sonra alıcıları çekmeye devam ettiğini göstermiştir. Ancak IBD 50'de bu, çoğunun..."
   }
 }
