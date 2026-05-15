@@ -698,5 +698,9 @@
   "https://finnhub.io/api/news?id=51fe43747e0c3d4669973545ff8019387b6a55b00d62c627784c104fb091edf4": {
     "headline_tr": "AMD: Pazar Lisa Su'nun Söylediklerini Yanlış Fiyatlandırdı",
     "summary_tr": "Advanced Micro Devices, Inc. agentic AI'ın veri merkezi büyümesini ve sunucu CPU TAM'ını artırmasıyla güçlü Q1 2026 sonuçlarını açıklamıştır. AMD güncellemesi için tıklayınız."
+  },
+  "https://finnhub.io/api/news?id=501960ab04d8564723d98c85504ddde7e08f005699980dac10edc57cba4de11e": {
+    "headline_tr": "Nvidia'nın 4 Milyar Dolarlık Optik Stratejisinin İçinde--Ve Neden CPO Her Şeyi Değiştiriyor",
+    "summary_tr": "Nvidia Corporation'ın Coherent ve Lumentum'a yaptığı 2 milyar dolarlık yatırımları, Broadcom ile mücadelesi sırasında büyük bir CPO lansmanını işaret ediyor. NVDA hisse senedi güncellemesi için tıklayın."
   }
 }
