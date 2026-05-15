@@ -694,5 +694,9 @@
   "https://finnhub.io/api/news?id=d7ab25720fd914b2aab211f3e02ea17f5e99718c891d527bee358d3eb35b1d97": {
     "headline_tr": "Orta Doğu çatışmasından kaynaklanan genel pazar zayıflığı ortamında geniş teknoloji sektörü içindeki şirketlerin hisseleri düşüş eğilimi gösteriyor.",
     "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=51fe43747e0c3d4669973545ff8019387b6a55b00d62c627784c104fb091edf4": {
+    "headline_tr": "AMD: Pazar Lisa Su'nun Söylediklerini Yanlış Fiyatlandırdı",
+    "summary_tr": "Advanced Micro Devices, Inc. agentic AI'ın veri merkezi büyümesini ve sunucu CPU TAM'ını artırmasıyla güçlü Q1 2026 sonuçlarını açıklamıştır. AMD güncellemesi için tıklayınız."
   }
 }
