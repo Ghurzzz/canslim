@@ -1481,6 +1481,11 @@ def get_weekly_performance(watchlist, portfolio):
 
 weekly_data = get_weekly_performance(WATCHLIST, PORTFOLIO)
 
+# ── PİYASA VERİSİ ────────────────────────────────────────────
+print('\n📊 Piyasa verisi cekiliyor...')
+market_data = get_market_data()
+print(f'  M Kriteri: {market_data.get("M_LABEL","?")}')
+
 # ── CANSLIM SCREENER ──────────────────────────────────────────
 print('\n🔍 CANSLIM Screener çalışıyor...')
 canslim_results = run_canslim_screener(market_data, WATCHLIST, PORTFOLIO)
