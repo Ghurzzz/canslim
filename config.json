@@ -11,11 +11,8 @@
     "CLS",
     "ARM",
     "LRCX",
-    "POWL",
-    "WDC",
     "AMAT",
     "ADI",
-    "SMCI",
     "FLNC",
     "ETN",
     "VRT",
@@ -26,7 +23,9 @@
     "RXT",
     "QCOM",
     "BA",
-    "GLW"
+    "GLW",
+    "TDC",
+    "FICO"
   ],
   "portfolio": [
     "MRVL",
