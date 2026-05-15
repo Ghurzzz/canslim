@@ -634,5 +634,65 @@
   "https://finnhub.io/api/news?id=3fd571e69f20574497aa77c871464d8c941be514ddedd6cbff24dc11a68473c9": {
     "headline_tr": "Analistler Söylüyor: Ajanit AI İki Yıl İçinde Akıllı Telefonların Üçte Birini Güçlendirecek",
     "summary_tr": "Qualcomm ve MediaTek Ajanit AI Hakimiyeti İçin Yarışıyor. Dimensity 9400 ve Snapdragon 8 Elite'in Premium Pazarı Nasıl Yeniden Şekillendirdiğini Görün."
+  },
+  "https://finnhub.io/api/news?id=63c9e36ba55ebdcf02f3751cef1329f17ee79e32fb2ee24f43ed86276fb82550": {
+    "headline_tr": "Google'ın YouTube Geliri Wall Street'in Tahmininden Daha Büyük Olabilir, Netflix'i Geçiyor",
+    "summary_tr": "YouTube, Wall Street analistlerinin düşündüğünden daha büyük bir şekilde Google'ın gelir döngüsünün parçası olabilir. Google hissesi 2026'da %27 ilerlemiştir."
+  },
+  "https://finnhub.io/api/news?id=75d9c6af9eaf2f6a812fb2464ea7607795d3570c62d0e28a332e17dd7dd0eae6": {
+    "headline_tr": "Dow Jones Vadeli İşlemleri Düşüyor; Getiriler %4,5'i Aştı, Trump Sonrası Petrol Fiyatları Yükseliyor; Xi Zirvesi Sona Erdi",
+    "summary_tr": "Hazine getirileri ve petrol fiyatları Trump'ın açıklamaları sonrasında yükselirken vadeli işlemler düştü. Nvidia'nın yükselmesi ve Cerebras IPO'sunun rekor kırması ardından Trump-Xi zirvesi sona erdi."
+  },
+  "https://finnhub.io/api/news?id=64ead02c6b72565c53452d98b96cd550b717b06432ea02754ed43b800da91e86": {
+    "headline_tr": "Bu Hafta AI Çiplerinde - Keskin Teknolojik Gelişmelerle Desteklenen AI Yatırım Momentumu",
+    "summary_tr": "AI çip sektöründeki son gelişmeler, 2024'te küresel AI teknolojisi finansmanının yaklaşık 297 milyar dolara ulaştığı önemli yatırım momentumunu vurgulamaktadır. Bu artış, büyük ölçüde ileri teknolojik gelişmelerle desteklenmektedir."
+  },
+  "https://finnhub.io/api/news?id=6c259fdfa58d5a3c88fb5eda6448d5f537f296d73f4e264ba35b8f76a4fa9bfd": {
+    "headline_tr": "AVGO Hisse Senedi 440 Dolarında Pahalı mı?",
+    "summary_tr": "Broadcom (AVGO) hisse senedi şu anda 440 dolarında işlem görmekte olup, yapay zeka odaklı altyapıya küresel geçişte kilit bir güç konumuna gelmektedir. 2026 kazançlarına dayalı 38,5x ileri P/E ile değerleme..."
+  },
+  "https://finnhub.io/api/news?id=c4d02f9dcfc0319963beb09fd89745cd7bda1c5eba0a4f465a20ff1349d7c548": {
+    "headline_tr": "Daha İyi Süper Yarıiletken Hissesi: Advanced Micro Devices (AMD) mi yoksa Broadcom mu?",
+    "summary_tr": "AMD ve Broadcom'un hisseleri yapay zeka sayesinde olağanüstü kazançlar sağlamıştır."
+  },
+  "https://finnhub.io/api/news?id=3a7d9c705d502ebfa2ca30966f9ecd5e955f3259befc64fb0c4a61d2e04ee77a": {
+    "headline_tr": "Applied Materials Güçlü Kazançlar ve Beklentiler Sundu. Hisse Senedi Düştü.",
+    "summary_tr": "Applied Materials'in beklentileri, yapay zeka çip üretim ekipmanlarından elde edilecek bir kazancın beklenenden daha erken gelebileceğini göstermektedir."
+  },
+  "https://finnhub.io/api/news?id=dbbdd459ba8882267fe4ff67c297d4f8c47b5af5eeac9acc5bfacee2adb9aa9f": {
+    "headline_tr": "Advanced Micro Devices (AMD) Fiyat Hedefi Güçlü Q1 Sonrasında 110 Dolar Artırıldı",
+    "summary_tr": "Advanced Micro Devices, Inc. (NYSE:AMD) Milyarderler Tarafından Önerilen En İyi 10 ABD Hissesi Arasında Yer Almaktadır. Advanced Micro Devices, Inc. (NYSE:AMD) Bir Yarı İletken Şirketi Olarak Faaliyet Göstermektedir"
+  },
+  "https://finnhub.io/api/news?id=2db89f28599d7b6ea77afb4c36012cf1a8d95bbeb954b298d1d67238729b8dac": {
+    "headline_tr": "Zacks Analist Blogu Home Depot, TJX Companies, Marvell Technology ve C&F Financial'ı Vurguluyor",
+    "summary_tr": "HD, TJX, MRVL ve CFFI, büyüme stratejileri, yapay zeka talep eğilimleri ve güçlü pazar performansı nedeniyle dikkat çekiyor."
+  },
+  "https://finnhub.io/api/news?id=5f1ec673ab42e059538ec289faef53000e06db71aa7c70ccda65cc39eb607e6e": {
+    "headline_tr": "7.500 Tamamlandı. Yapay Zeka Hedefleri Değiştirdi.",
+    "summary_tr": "Yedi bin beş yüz. Üç ay önce uzak görünen bir sayı, şimdi sadece bir dipnot haline geldi."
+  },
+  "https://finnhub.io/api/news?id=ce576a2cc6f41c8da579be355f54f975a38c70b6d4b3c4ad69dd06870b6988ce": {
+    "headline_tr": "Zacks Yatırım Fikirleri öne çıkanlar: Micron, Sandisk ve Nvidia",
+    "summary_tr": "MU ve SNDK, yapay zeka tarafından yönlendirilen HBM, DRAM ve SSD depolama talebinin bellek piyasasında arzı sıkılaştırmasıyla yükseliş gösteriyor."
+  },
+  "https://finnhub.io/api/news?id=2888935033c78dc5f116b9b221254cc9a1382aa0756c7a3ecc235b789f178d58": {
+    "headline_tr": "Lam Research, Yapay Zeka Patlamasıyla Rekor Sonuçlar ve Marj Genişlemesiyle Yükseliyor",
+    "summary_tr": "Lam Research (NasdaqGS:LRCX), yapay zeka bağlantılı yariiletken üretim ekipmanı talebinin hızlanmasıyla rekor çeyreklik gelir ve hisse başına kazanç bildiriyor. Şirket yapısal marj genişlemesine dikkat çekiyor"
+  },
+  "https://finnhub.io/api/news?id=8f9dd28cd3c7d7a8671c136047f10337952f226d4a77ef87af9eb5e8730f40a6": {
+    "headline_tr": "CIBC Capital Markets CDR'ler Pazarı Kapatiyor",
+    "summary_tr": "Toronto, Ontario--(Newsfile Corp. - 14 Mayıs 2026) - CIBC Capital Markets'in Yönetim Kurulu Üyesi ve Başkanı Elliot Scherer, Wealth Solutions Group'un Başkanı ve ekibi, Yönetim Kurulu Üyesi Graham MacKenzie ile birlikte katılmıştır."
+  },
+  "https://finnhub.io/api/news?id=46c76db9b06d6f6c677c923f2aaa1f4dec9e3c4070f4b88111afca2a5a551d07": {
+    "headline_tr": "Hisse Senetleri Güçlü Teknoloji Kazançları ve Ekonomik Dayanıklılık ile Yükselişle Kapandı",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Perşembe günü %0,77 yükselişle, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %0,75 yükselişle ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0,73 yükselişle kapandı. Haziran E-mini"
+  },
+  "https://finnhub.io/api/news?id=a6b9cf900e68aa73e53993e3f6e13e6606a2acbc1e11e948f365529f85df17ad": {
+    "headline_tr": "Cerebras CEO'su ABD Çip Üretiminin Yetişmesinin 15 Yıl Alabileceği Konusunda Uyarıda Bulundu",
+    "summary_tr": "Nvidia'nın rakibi Cerebras (CBRS) 185 dolar hisse fiyatıyla halka açılıyor. CEO Andrew Feldman, halka arzın masif yapay zeka genişlemesinin bir sonraki aşamasını finanse edeceğini söylüyor."
+  },
+  "https://finnhub.io/api/news?id=d7ab25720fd914b2aab211f3e02ea17f5e99718c891d527bee358d3eb35b1d97": {
+    "headline_tr": "Orta Doğu çatışmasından kaynaklanan genel pazar zayıflığı ortamında geniş teknoloji sektörü içindeki şirketlerin hisseleri düşüş eğilimi gösteriyor.",
+    "summary_tr": ""
   }
 }
