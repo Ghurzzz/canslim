@@ -854,5 +854,53 @@
   "https://finnhub.io/api/news?id=9ebd1997c028f3b9c6a5e8abf6969dd0c86b5d2723c87d2a73a71e573fde5427": {
     "headline_tr": "Nvidia Hala Teknoloji Sektörünün 'En Ucuz Adı': Q1 Kazançları Sizi 'Şaşırtacak'",
     "summary_tr": "CJ Muse, Q1 kazançlarından önce Nvidia'yı teknolojinin 'en ucuz adı' olarak nitelendirirken, uzmanlar 'çene düşüren' bir finansal patlamayı tahmin ediyor. Tahminleri okuyun."
+  },
+  "https://finnhub.io/api/news?id=c4a0a8a9e91e36ace0cdac051ab085abbf440017e58be824330b6e3dab438de3": {
+    "headline_tr": "Pazartesi seansında S&P500 endeksinde en aktif hisse senetleri hakkında bilgi edinin.",
+    "summary_tr": "Pazartesi günü ABD piyasalarında neler olup bittiğine bir göz atalım. Aşağıda bugünün seansında en aktif S&P500 hisse senetlerini bulabilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=3446459ba63d9a8eede3a83498d6ebd079b58e46d01e774f40d7b9fe50a36552": {
+    "headline_tr": "Pazartesi seansı: en aktif hisse senetleri",
+    "summary_tr": "Pazartesi günü ABD piyasalarındaki hareketliliği yakından inceleyelim. Bugün piyasayı yönlendiren en aktif hisse senetleri şunlardır."
+  },
+  "https://finnhub.io/api/news?id=1bd54aa74cb9fa9f349252db3eb23565f2d0893cbda170eb18e677a6b8ac3f0b": {
+    "headline_tr": "Yarı iletken stokları: Morgan Stanley WFE görünümünü yükseltiyor ve derecelendirmeleri değiştiriyor",
+    "summary_tr": "Investing.com -- Morgan Stanley, yarı iletken sermaye ekipmanları döngüsünün görünümünü yükselterek, wafer fab ekipmanı (WFE) tahminlerini artırıyor ve ana endüstri şirketleri arasında derecelendirmeleri yeniden düzenliyor"
+  },
+  "https://finnhub.io/api/news?id=b8a9e1e5f2b37f5899b6d046da5ebe182916cce995040960d15d36d07b799d2d": {
+    "headline_tr": "Leopold Aschenbrenner'ın 'Durumsal Farkındalık' Dosyası 13F Üç Aylık Yatırım İfşaatı",
+    "summary_tr": "Gen Z AI dahisinin milyarlarca dolarlık fonu, çip üreticilerine karşı bir dizi kısa pozisyon alırken, hesaplama ve bellek stokları üzerindeki yükseliş bahislerini genişletti."
+  },
+  "https://finnhub.io/api/news?id=e7eda18900538087da31480076658c6894aed9eeb497a19903fe09450840c632": {
+    "headline_tr": "Nvidia Q1 kazançları: Bu analistin izleyeceği 3 şey",
+    "summary_tr": "AI çip lideri Nvidia (NVDA), bu çarşamba 20 Mayıs'ta ilk çeyrek kazançlarını açıklayacak. D.A. Davidson teknoloji araştırmaları başkanı Gil Luria, neleri izleyeceğini açıklamak için Julie Hyman ile bir araya geliyor."
+  },
+  "https://finnhub.io/api/news?id=2c8b26022b39881081204d38b0aa0ec259270b627c53d05fd8141678d7132b0e": {
+    "headline_tr": "Hiperölçekli Şirketleri Unutun, Bu Hisse Senetleri Yeni Yapay Zeka Oyunları",
+    "summary_tr": "Önde gelen yapay zeka çip şirketleri her yapay zeka başlığına hakim olmakta ve bunun iyi nedenleri var: onların çipleri ve platformları altyapının merkezinde yer alıyor. Ama gerçekte dikkat etmeniz gereken şey şu. Kalabalık"
+  },
+  "https://finnhub.io/api/news?id=d6cae9d1cec2aa58a1e8a2fac7beffd00a8d7c89f1aa3164c118ff99ae4538d1": {
+    "headline_tr": "Broadcom (AVGO) Yatırım Hikayesi AI Umutları ve Yeni Endişelerle Nasıl Değişiyor?",
+    "summary_tr": "Broadcom'un adil değer tahmini US$475.49'dan US$476.78'e hafifçe değişmiş olup, analistlerin hisse senedinin uzun vadeli potansiyelini gördükleri yerde sadece mütevazı bir ayarlamayı yansıtmaktadır. Bu küçük hareket,"
+  },
+  "https://finnhub.io/api/news?id=84347ce36814f672dff665f2bb3770e8f0b083748296a6ac204831ef6aab3ae6": {
+    "headline_tr": "Micron Hissesi Neden Bugün Düştü?",
+    "summary_tr": "Micron için bugün kötü haberler olabilir, ancak varsa, bunlar uzak gelecekte yatmaktadır."
+  },
+  "https://finnhub.io/api/news?id=60ad25329ba2062d0d4dc97a6c63bc3296a4e7fe3d5696c271e2f03f2f25f456": {
+    "headline_tr": "Applied Materials'in Marjı Tarihi Zirveye Ulaştı: Sürdürülebilir Mi?",
+    "summary_tr": "AMAT, yapay zeka çip talebinin, premium ürün ve hizmetlerin karlılık artışını tetiklemesiyle 25 yılın en yüksek brüt marjına ulaştı."
+  },
+  "https://finnhub.io/api/news?id=0cd5a8dc4075979803b3008782bb0b01db17399f72ccbf1f3deef55cdb248dcb": {
+    "headline_tr": "Bugünün Seansında Balina Uyarıları Olan 10 Bilişim Teknolojisi Hissesi",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=a1af1ca7c8109f83fd709a09c4cb74b280aafb1e36013362d9d9f7da3b66a249": {
+    "headline_tr": "Cerberus'un Tersyüz Olması, Cuma Günü Hisse Senetleri Enflasyonla Düştü, Hisse Senetleri Daha Düşük Seviyelere Gidebilir",
+    "summary_tr": "Cerebras, aşırı hype ile piyasaya çıktı, sadece iki ödeme yapan BAE müşterisiyle 100 milyar dolardan fazla bir değerlemeye yükselerek hızla yaklaşık %28 düştü. Pazar hakkında daha fazla bilgi için okuyun."
+  },
+  "https://finnhub.io/api/news?id=4855e3f953cd1e5b671dd7bfb0c15408325228ee984ada02ce93d2f3940b351d": {
+    "headline_tr": "Rocket Lab, Tower Semiconductor ve Palo Alto Geçen Hafta En İyi 10 Büyük Sermayeli Kazananlar Arasında (11 Mayıs-15 Mayıs): Diğerleri Sizin Portföyünüzde mi?",
+    "summary_tr": "Yapay zeka, yarı iletken ve dijital altyapı şirketleri geçen haftanın büyük sermayeli kazananlarına liderlik etti; güçlü kazançlar, iyimser rehberlik ve analist iyimserliği geniş yatırımcı momentumunu körükledi."
   }
 }
