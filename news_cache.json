@@ -774,5 +774,85 @@
   "https://finnhub.io/api/news?id=5136eaad393488ee69d549cf27223ce1ed037c8e0af5f3dc1afe0ba704669ab3": {
     "headline_tr": "Çip Hisseleri Yapay Zeka Patlaması Ortasında Uzatıldı; Biri Satın Alma Bölgesinde Bekliyor",
     "summary_tr": "Çip hisseleri borsada yeni zirvelere çıktı ve yapay zeka ticaretinin 2025'teki muazzam kazançlardan sonra alıcıları çekmeye devam ettiğini göstermiştir. Ancak IBD 50'de bu, çoğunun..."
+  },
+  "https://finnhub.io/api/news?id=1a1efe3820bba943bc64dbb57643725ad137aad25bcf1c39f5b34fe94bfe70b2": {
+    "headline_tr": "AMD Marvell Hisse Yatırımcılarına Harika Haber Verdi",
+    "summary_tr": "Advanced Micro Devices, Marvell Technology'de bir hisse pozisyonu açıkladı."
+  },
+  "https://finnhub.io/api/news?id=ab51fb0f048902948141c6101c111ab0b48abade55350949b04a2e7c3aaf5748": {
+    "headline_tr": "Archer Aviation'ın 700 Milyon Dolarlık Nakit Harcaması Havalanışını Engelliyor",
+    "summary_tr": "Bu eVTOL şirketi, 2028 Olimpiyatlarından önce ilk ticari hava taksi hizmetini başlatmayı hedefliyor."
+  },
+  "https://finnhub.io/api/news?id=6dea7198ed6bdcbcf19184883276f6492f8e38b16286b791d2aeca7db6be04e1": {
+    "headline_tr": "71 Yaşında Gerçek Emeklilik: Üç Yıllık Getiri Dizisi Hasarından Sonra 1.1 Milyon Dolarla Nasıl Görünüyor",
+    "summary_tr": "Bu senaryodaki emekli 67 yaşında 1.5 milyon dolarlık bir portföy ile işten ayrıldı ve basit bir plana sahipti: yılda 60.000 dolar çekmek ve Sosyal Güvenlik'ten 32.000 dolar almak, toplam emeklilik geliri yaklaşık"
+  },
+  "https://finnhub.io/api/news?id=1e41a91a296356357e95889a92a1c7c99e633665824841e028a8386efc43ccdc": {
+    "headline_tr": "BofA, Salesforce'a Düşük Performans Notu Veriyor, $160 Fiyat Hedefi: AI Hikayesi Mi Çöküyor?",
+    "summary_tr": "Bank of America (NYSE:BAC) Wall Street'te kurumsal yazılım devi hakkında en çelişkili çağrılardan birini yaptı. Analist Tal Liani, Salesforce (NYSE:CRM) üzerindeki kapsama alanını Düşük Performans notu ile yeniden başlattı."
+  },
+  "https://finnhub.io/api/news?id=5a618c81b4d7e609b33c3654090aa228e720eb304eea37860107d7a359b32299": {
+    "headline_tr": "10 Dolardan Az Olan 2 AI Hisse Senedi Uzun Vadeli Kazançlara Yol Açabilir",
+    "summary_tr": "SoundHound AI ve Aurora Innovation'ın her ikisinin de fırsatı gelire dönüştürmek için başarılı olması gerekiyor."
+  },
+  "https://finnhub.io/api/news?id=5635e9bdeb1516435cebb7eb7d94f74275d6060dbd89a0beb3096919f934fa0f": {
+    "headline_tr": "Citi Intel Fiyat Hedefini 130 Dolara Yükseltti: Agentic CPU Patlaması Hikayeyi Yeniden Şekillendiriyor",
+    "summary_tr": "Citi, yapay zeka çağında CPU hikayesinin cesur bir yeniden değerlendirmesini yaptı. Analist Atif Malik, firmanın Intel için fiyat hedefini 95 dolardan 130 dolara yükseltti ve Intel (NASDAQ:INTC) üzerinde Satın Al notasını korudu."
+  },
+  "https://finnhub.io/api/news?id=e6c4cb55b4141a85a3c6280031b6ae224f32540d8be4530180d2fa0cdd8782ff": {
+    "headline_tr": "Advanced Micro Devices (AMD): Şimdi Satın Almak İçin En Hızlı Büyüyen S&P 500 Hissesi",
+    "summary_tr": "Advanced Micro Devices, Inc. (NASDAQ:AMD), şu anda satın almak için en hızlı büyüyen 10 S&P 500 hissesinden biridir. 13 Mayıs 2026'de BofA, Advanced Micro Devices, Inc. (NASDAQ:AMD) için fiyat hedefini yükseltmiştir."
+  },
+  "https://finnhub.io/api/news?id=3a3955f0ebe55711dd248d25108290e98e11333c99590f519c011a334278f610": {
+    "headline_tr": "B. Riley, Lam Research (LRCX) için Fiyat Hedefini Yükseltti",
+    "summary_tr": "Lam Research Corporation (NASDAQ:LRCX), şu anda satın alınabilecek en hızlı büyüyen 10 S&P 500 hissesinden biridir. 12 Mayıs 2026'de B. Riley, Lam Research Corporation (NASDAQ:LRCX) için şirketin fiyat hedefini yükseltti"
+  },
+  "https://finnhub.io/api/news?id=4e6489df60c78f9f5d22efb3436f35564ecfe4f0b8aa7ee6f74c7aa293381193": {
+    "headline_tr": "Samsung Grevi Bellek Çipi Kıtlığı Korkularını Artırırken Micron Hissesi Düşüyor",
+    "summary_tr": "Micron Technology hissesi Pazartesi sabahında düşüş gösteriyor. Yatırımcılar, bellek çipi arzını kesintiye uğratabilecek ve fiyatları daha da yükseltebilecek rakip Samsung Electronics'teki işçi eylemi izlemektedirler."
+  },
+  "https://finnhub.io/api/news?id=97e13f634683f4e6c521ba8bf38be91ca231a9697280b8a0e46d81a970f0f8cc": {
+    "headline_tr": "Broadcom (AVGO) Şu Anda Satın Almak İçin En Hızlı Büyüyen S&P 500 Hissesi mi?",
+    "summary_tr": "Broadcom Inc. (NASDAQ:AVGO), şu anda satın almak için en hızlı büyüyen 10 S&P 500 hissesinden biridir. 14 Mayıs 2026'de Wells Fargo, Broadcom Inc. (NASDAQ:AVGO) için fiyat hedefini 430'dan 545'e yükseltmiştir."
+  },
+  "https://finnhub.io/api/news?id=fbfb5908e90e3dfd4fc109102980842d7ba67dfb5d84dbdca99647c4b02b7bdc": {
+    "headline_tr": "Jim Cramer Broadcom (AVGO)'nin Neden Güçlü Olduğunu Ortaya Koyu",
+    "summary_tr": "Kısa süre önce Jim Cramer'ın Gizemli Sarı Işık ve Bu 9 Hisse Senedi Hakkında Tartıştığı yazısını yayınladık. Broadcom Inc. (NASDAQ:AVGO), Jim Cramer tarafından tartışılan hisse senetlerinden biridir. Broadcom Inc. (NASDAQ:AVGO), hisse senetlerinden biridir."
+  },
+  "https://finnhub.io/api/news?id=db6f44a432b1a7df6d633a45074a44984cdd51729f3310ce79c3b66bdccd00f3": {
+    "headline_tr": "AI Çıkarım Süper Döngüsü Başladı. Bu Megatrendin En Büyük Kazananları Bu 2 Hisse Olacak (İpucu: Broadcom veya Intel Değil)",
+    "summary_tr": "Bellek, AI çıkarım iş yüklerinde merkezi bir rol oynayacak ve bu Micron Technology ve Sandisk yatırımcıları için harika haberler."
+  },
+  "https://finnhub.io/api/news?id=85be100730cef65a9c1341f002fc7b081f333224ac4b9b53bc45ab7989640fb5": {
+    "headline_tr": "Nvidia'nın kazançları büyük başarı sağlamalı",
+    "summary_tr": "İdeal olarak, Nvidia büyük bir kazanç günü yaşayacaktır."
+  },
+  "https://finnhub.io/api/news?id=11b19343aafc7e2b00b0fb40d783211daf876ae1ad3be0241a32f2fa3f92573f": {
+    "headline_tr": "\"Kan Dökülü Araba Kazasının Sahnesi, Bunun Olmadan Birkaç Dakika Önce\": Burry'nin NVIDIA Çağı Uyarısı ve Neden Henüz Satmıyorum",
+    "summary_tr": "Çocuklarım bana sık sık \"bugün\"ün en iyi veya en kötü gün olduğunu söylerler. Bazen her ikisi de aynı gün başına gelir. Görünüşe göre haftada birden fazla kez en kötü gün yaşamak mümkün. İlgisiz. Be"
+  },
+  "https://finnhub.io/api/news?id=562f3dda70b37ca88b66a8452203d6f1b1f7fe52ce787f0dc537ff9ccf11665e": {
+    "headline_tr": "Pazartesi açılış öncesinde S&P500 hisse senetleri nasıl hareket ediyor?",
+    "summary_tr": "ABD piyasası pazartesi günü açılışa hazırlanırken, işlem öncesi seansında erken bir bakış atalım ve kazanç ve kayıplar açısından öncü konumdaki S&P500 hisse senetlerini belirleyelim."
+  },
+  "https://finnhub.io/api/news?id=7daf572bdefe08ed4bd96e34e914a2002e23ad881e8b554f639cfefb750a281d": {
+    "headline_tr": "POET Technologies: Fotonikte Yatırım Yapmak İçin Yanlış Yol",
+    "summary_tr": "POET Technologies Inc., fotonik sektörünün FOMO'suna rağmen çekici bir yatırım değildir ve ciddi seyreltme riski ile karşı karşıyadır. POET hissesi hakkında daha fazla bilgi için okuyun."
+  },
+  "https://finnhub.io/api/news?id=64484dec8a760ea98e62090d15069715c8112c31311c594614912111812ec067": {
+    "headline_tr": "Marvell, AI Büyümesi ve Değerleme Soruları Artarken Optik Ağa Odaklanıyor",
+    "summary_tr": "Marvell Technology (NasdaqGS:MRVL) işletmesini yapay zeka veri merkezleri için optik ara bağlantı çözümlerine yeniden odaklandırıyor. Şirket, optik ara bağlantılar için büyüme tahminini FY27'de %50'ye yükseltmiştir."
+  },
+  "https://finnhub.io/api/news?id=a3096fba88605c5f82d90bddb64ce5554726b0c89277b5714906b6fe6d3c2b80": {
+    "headline_tr": "Astera'nın Sonraki Büyüme Dalgası Zaten Başladı",
+    "summary_tr": "Astera, UALink, optik, NVLink Fusion birlikte çalışabilirliği ve yapay zeka çıkarımı mimarileri için özel bellek kumaşları alanında genişliyor. ALAB hissesinin neden Al olduğunu öğrenin."
+  },
+  "https://finnhub.io/api/news?id=601c38bfb804f295c5c79c687a54db8cee0cbd723361234f07db4710d9a01224": {
+    "headline_tr": "Trump, Intel'de Daha Büyük Bir Hisse Istememekten Pişman",
+    "summary_tr": "INTC hissesi, Trump'ın hükümet tarafından Intel'de daha büyük bir öz sermaye payı istememekten pişman olduğunu açıklamasıyla hareket ediyor. Son güncellemeleri okuyun."
+  },
+  "https://finnhub.io/api/news?id=9ebd1997c028f3b9c6a5e8abf6969dd0c86b5d2723c87d2a73a71e573fde5427": {
+    "headline_tr": "Nvidia Hala Teknoloji Sektörünün 'En Ucuz Adı': Q1 Kazançları Sizi 'Şaşırtacak'",
+    "summary_tr": "CJ Muse, Q1 kazançlarından önce Nvidia'yı teknolojinin 'en ucuz adı' olarak nitelendirirken, uzmanlar 'çene düşüren' bir finansal patlamayı tahmin ediyor. Tahminleri okuyun."
   }
 }
