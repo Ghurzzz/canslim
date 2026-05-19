@@ -1050,5 +1050,69 @@
   "https://finnhub.io/api/news?id=c74799e8f93e21799192c27a75ee23dafb6c3a5bf72efef3505f788ca85cbfa5": {
     "headline_tr": "Cramer Yapay Zeka Kazananlarını İşaretliyor, STMicro'nun 51x Kazançta 'Çok Geç' Olduğunu Uyarıyor",
     "summary_tr": "Cramer en son Lightning Round'da doğalgaz ve yapay zeka çipine bahis yapıyor; Devon Energy'nin gaz hamlesini beğeniyor, TSM'nin daha da yükselebileceğini söylüyor."
+  },
+  "https://finnhub.io/api/news?id=d89271d705a31b62aea3926b1bec1ff32230416061f00c415fb7f1ae80fd0e19": {
+    "headline_tr": "Sektör Güncellemesi: Teknoloji Hisseleri Salı Öğleden Sonra Karışık Seyretti",
+    "summary_tr": "Teknoloji hisseleri Salı öğleden sonra karışık bir seyir izlerken State Street Teknoloji Seç Sektör SPDR ETF"
+  },
+  "https://finnhub.io/api/news?id=b7e3333bd5f896837f8d69d430c61ea8657a72df72988da8f27908e0531aebd0": {
+    "headline_tr": "CoreWeave Şu Anda Satın Almak İçin Güvenli Bir Hisse mi?",
+    "summary_tr": "CoreWeave hissesi değerlendirmeye değer, ancak bunun cesur olmayan yatırımcılar için uygun olmadığını unutmayın."
+  },
+  "https://finnhub.io/api/news?id=63367b6a26b2c6b91695de0d4ed914d60fae42c55022563316629be1931d9a64": {
+    "headline_tr": "Bugünün Borsa: Trump-İran Tehdidi Arasında Nasdaq Kırmızıda; Enerji Hisseleri Satın Alma Bölgesinde",
+    "summary_tr": "Home Depot'un kazançlarından sonra Dow düşüş yaşadı. Daha fazla perakende kazançları ve Google'ın I/O etkinliği odakta."
+  },
+  "https://finnhub.io/api/news?id=2e337008a1ff5b4393625278d2d7b9017200a7dcdfc8a741387e736cd4e9c4a2": {
+    "headline_tr": "Nvidia'nın görünümü pazar tepkisinden daha önemli, uzman diyor",
+    "summary_tr": "Nvidia'nın çarşamba günü (20 Mayıs) başka bir rekor kıran kazanç raporu sunması bekleniyor, ancak bu yatırımcıların hisse fiyatını yükseltmesini garantilemez. Son birkaç çeyrek..."
+  },
+  "https://finnhub.io/api/news?id=c7bab48d857be0fbd9450d96ce2a442fa31a0a73b77137805422723ae9707763": {
+    "headline_tr": "Micron Hissesi Neden Yeniden Yükseldi",
+    "summary_tr": "Micron hissesi, Citi ve Mizuho tarafından fiyat hedefi artışlarıyla desteklenerek yeniden yükseliyor."
+  },
+  "https://finnhub.io/api/news?id=b93d38e22d8b90ff997aabe32d6dc806d3529ba34485bfe4f00706dbd48d07f9": {
+    "headline_tr": "Milyarder David Tepper Az Önce Büyük Bir Bahis Yaptı. Onun Örneğini Takip Etmeli misiniz?",
+    "summary_tr": "Milyarder Amazon'daki hissesini iki katına çıkardı."
+  },
+  "https://finnhub.io/api/news?id=7e4623e382e6cb44bd247b5451d12bd544029ef4a842ef24a6a6144726b9dd0f": {
+    "headline_tr": "Intel (INTC) Hisseleri Neden Bugün Düşüyor",
+    "summary_tr": "Bilgisayar işlemci üreticisi Intel (NASDAQ:INTC) hisseleri, bir araştırma raporunun şirketin kritik sunucu işlemci pazarında pazar payını kaybettiğini doğrulaması sonrasında öğleden sonra seansında %5,8 düştü"
+  },
+  "https://finnhub.io/api/news?id=e592b65c2e13840efb0ef053aac4e0c113c47348c6f939f72c8ccc4c50680940": {
+    "headline_tr": "Salı seansında en aktif S&P500 hisse senetleri",
+    "summary_tr": "Salı günü ABD piyasalarında neler olduğuna bakalım. Aşağıda bugünün seansında en aktif S&P500 hisse senetlerini bulabilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=b50e559febaf9575bd4c9c3cacdfabb61182718c8b5e86338d18a68a333918eb": {
+    "headline_tr": "Intel Hissesi Nihayet Kaybetme Serisini Kırıyor",
+    "summary_tr": "Intel, Salı öğleden sonra kaybetme serisini kırma yolunda ilerliyordu ve yatırımcılara beş ardışık işlem günü kaybından bir rahatlama sağlıyordu. Birçok çip hissesi temellerinden daha ileride giderken,"
+  },
+  "https://finnhub.io/api/news?id=c76cfca5ac177217e4cc3a68f41160019fb397ac322c9bb8c72e6d82b2bec787": {
+    "headline_tr": "ABD Hisseleri Düşüyor: Yükselen Getiriler Teknoloji Rallisini Ezdi ve Çip Hisseleri Keskin Düşüşü Öncü Aldı",
+    "summary_tr": "Tahvil Getirileri Teknoloji Sektöründe Değerleme Endişelerini Tetiklerken Nasdaq Üçüncü Günü Art Arda Düşüş Kaydetti"
+  },
+  "https://finnhub.io/api/news?id=db6e425c3f7fd297d10daca2621174bb863f61374bacc1fe4579f7159324bd78": {
+    "headline_tr": "AMD, Broadcom ve Qualcomm Nvidia Kazanç Raporu Öncesinde Çip Hisse Satışına Öncülük Ediyor",
+    "summary_tr": "Nvidia kazanç şoku ortaya çıkıyor çünkü çip hisseleri düşüyor ve AI sektörü genelinde düşüş bahisleri artıyor"
+  },
+  "https://finnhub.io/api/news?id=cb3a1b8b764221e8694c414a933de36558a28a700ac10c5a42690ae3bc4ac33c": {
+    "headline_tr": "Çoğu Gelir Yatırımcısı Bu 3 ETF'yi Hiç Duymadı. Biri Aylık %14 Ödüyor",
+    "summary_tr": "Gelir yatırımcıları son iki yılda sessizce geleneksel temettü hisse senetlerinden, kurumsal hisse senetleri yerine opsiyon primlerinden nakit akışı üreten daha yeni bir fon kategorisine göç ettiler"
+  },
+  "https://finnhub.io/api/news?id=9174c7c4908ed249635b16b853b452816652e25e620686b1b071d8df1ba8d1b7": {
+    "headline_tr": "Çip Hisse Senetleri Rekor Aşırı Alım Seviyesine Ulaştı: Tarih Sonrasının Zor Olduğunu Gösteriyor",
+    "summary_tr": "BofA teknik stratejisti Paul Ciana bu hafta VanEck Yariiletken ETF'sinde tüm zamanların en yüksek haftalık RSI'sını işaret etti. 1995'ten bu yana yedi önceki sinyal, yaklaşık 73 hafta süren ortalama %44'lük bir düşüşü göstermiştir."
+  },
+  "https://finnhub.io/api/news?id=b37e3876aef59ec8838f376a59b2537cfb7b89d06668e653f44e1a2f2e473293": {
+    "headline_tr": "30 Yıllık Getiriler 19 Yıllık Zirveye Çıkarken Nasdaq 100 %1 Düştü: Bugünün Borsa Haberleri",
+    "summary_tr": "ABD hisse senetleri Salı günü geriledi; 30 yıllık getiri %5,2 civarında 19 yıllık zirveye çıktı, çip üreticileri düşüş gösterdi, petrol ise İran krizinin etkisiyle 103 doların üzerinde kaldı."
+  },
+  "https://finnhub.io/api/news?id=49e1de185e3a77bba54fdbaf51c61b17d4e342034a19b8118043a484a36edf47": {
+    "headline_tr": "Wall Street Öğlen: Eski OpenAI Araştırmacısının Fonu Nvidia'ya ve AI Çip Hisse Senetlerine Karşı Short Pozisyon Alıyor",
+    "summary_tr": "Eski OpenAI (OPENAI) araştırmacısı Leopold Aschenbrenner tarafından kurulan bir hedge fonu, Nvidia (NVDA) ve diğer önde gelen yapay zeka çip hisse senetlerine karşı önemli düşüş bahisleri yapmıştır."
+  },
+  "https://finnhub.io/api/news?id=fa5993f57d2eb494d2c8c664228d85ed314a733fcdd62c7390c135d2a94d5965": {
+    "headline_tr": "Chamath AI Bilişim Krizini Uyarıyor: İzlenecek 8 Hisse",
+    "summary_tr": "Chamath Palihapitiya, LLM token maliyetlerinin artışını eleştiriyor. İşte bilişim kıtlığından yararlanabilecek bazı hisseler."
   }
 }
