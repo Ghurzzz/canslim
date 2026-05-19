@@ -902,5 +902,77 @@
   "https://finnhub.io/api/news?id=4855e3f953cd1e5b671dd7bfb0c15408325228ee984ada02ce93d2f3940b351d": {
     "headline_tr": "Rocket Lab, Tower Semiconductor ve Palo Alto Geçen Hafta En İyi 10 Büyük Sermayeli Kazananlar Arasında (11 Mayıs-15 Mayıs): Diğerleri Sizin Portföyünüzde mi?",
     "summary_tr": "Yapay zeka, yarı iletken ve dijital altyapı şirketleri geçen haftanın büyük sermayeli kazananlarına liderlik etti; güçlü kazançlar, iyimser rehberlik ve analist iyimserliği geniş yatırımcı momentumunu körükledi."
+  },
+  "https://finnhub.io/api/news?id=81cf66c0858270f2acc92b582c260a028b0a8bec5fa264612cf9a839fff8b310": {
+    "headline_tr": "Cerebras Sonraki Nvidia Olabilir mi?",
+    "summary_tr": "Cerebras, yapay zeka çipinin mevcut liderlerden daha iyi performans gösterdiğini söylüyor."
+  },
+  "https://finnhub.io/api/news?id=8e18a73bf5cf0581a71767cfeb80de47f879b1dfaa572dc42d907caf08313d93": {
+    "headline_tr": "Trump'ın İran Açıklamaları Barış Anlaşması Umutlarını Artırırken Piyasalar Petrol ve Yapay Zeka Momentumunu Takip Ediyor: Dow Jones, S&P, Nasdaq, Wall Street Vadeli İşlemleri",
+    "summary_tr": "ABD vadeli işlemleri önemli kazanç raporlamaları öncesinde temkinli işlem görüyor"
+  },
+  "https://finnhub.io/api/news?id=7a94233dd3b68baaec93234e370988263f838737277de438f856fcab1df854a5": {
+    "headline_tr": "Milyarder Stanley Druckenmiller Google Sahibi Alphabet'i Sattı ve Hızla Yükselen Üç Bellek ve Depolama Hissesine Yoğunlaştı",
+    "summary_tr": "Duquesne'nin milyarder başkanı, \"Muhteşem Yedi\"nin en sıcak üyesini terk ederek, yapay zeka donanımı için doyumsuz talebi kârlı olan durdurulamaz bir üçlüye yatırım yaptı."
+  },
+  "https://finnhub.io/api/news?id=3d883f22ae48186601d1e935db655ec6f4b35f20cf7a78d28562094838e17db9": {
+    "headline_tr": "Greg Abel Az Önce Amazon'u Sattı. David Tepper Hissesini Neredeyse İkiye Katladı. Birisi Çok Akıllı Görünmek Üzere.",
+    "summary_tr": "İki üst düzey yatırımcı Q1'de bu e-ticaret ve bulut devi ile ilgili çok farklı yaklaşımlar benimsedi."
+  },
+  "https://finnhub.io/api/news?id=a2afeb98f9696f2e18d1a766558411d0ccf0a6a658e8b37c28084d04f323ef0d": {
+    "headline_tr": "Cerebras Systems'in Halka Arzından Sonra Hisse Senedi Yükseldikten Sonra Satın Almak Çok Geç mi?",
+    "summary_tr": "Yapay zeka çip üreticisinin hisse senedi geçen hafta işlem açılışında yükseldi ve hala halka arz fiyatının çok üzerinde."
+  },
+  "https://finnhub.io/api/news?id=812f648a681dd575dd6a531707fe9d3cc524e31aa27b91018f8f43a662b7f7db": {
+    "headline_tr": "Çin'in en büyük flaş bellek çipi üreticisi YMTC, yatırım bankası ile halka arz öncesi eğitime başladı",
+    "summary_tr": "Çin'in en büyük flaş bellek çipi üreticisi YMTC, potansiyel bir halka arz için sözde \"rehberlik\" sürecine başlamıştır; bu süreçte şirket bir yatırım bankasından resmi halka arz öncesi rehberlik alır."
+  },
+  "https://finnhub.io/api/news?id=e6dbaea3a85c088a6299a2f61966d1fc4feb01690706dd75eb353e46fcd533e6": {
+    "headline_tr": "Marvell Technology (NASDAQ:MRVL) Minervini Trend Template ile Güçlü Momentum Gösteriyor ve Yüksek Büyüme Temelleri",
+    "summary_tr": "Marvell Technology (MRVL), güçlü teknik yükseliş trendi ve hızlanan kazanç/gelir büyümesi göstererek, Mark Minervini'nin potansiyel pazar liderleri tanımlamak için momentum kriterlerini karşılamaktadır."
+  },
+  "https://finnhub.io/api/news?id=b00712fd8b27516b7cbd4470f267fbe34a07103398fe6a4c4cf437153733f3c3": {
+    "headline_tr": "725 Dolardan Micron Hissesi Pahalı mı? İşte Hisselerin Neden Hala Çok Ucuz Olduğunu Gösteren Matematik",
+    "summary_tr": "Micron'un hisse senedi fiyatı son bir ayda neredeyse iki katına çıkmıştır."
+  },
+  "https://finnhub.io/api/news?id=a11b9d6ef4156fabab58b25241abb0fb5e565a29a1cf0ce6b5437d0384544d68": {
+    "headline_tr": "LSEG, Broadcom ile Ortaklığını Yenilerek Teknoloji Altyapısını ve Müşteri Deneyimini Geliştiriyor",
+    "summary_tr": "Yeni beş yıllık anlaşma, LSEG'in çok bulut stratejisinin bir parçası olarak VMware Cloud Foundation kullanımını genişletecek"
+  },
+  "https://finnhub.io/api/news?id=761f75151bf2fd4597dc4a7bbb8bd9507fcb7db1eafb4ef70bc51c4bcb12f613": {
+    "headline_tr": "Çin Ablukası Riskleri TSMC'nin Merkezi Çip Rolünü Sorguya Açıyor",
+    "summary_tr": "Çin ile artan jeopolitik gerginlikler, Tayvan'ın olası bir ablukası riskine olan odaklanmayı keskinleştirdi. Böyle bir hamle, Tayvan Yarı İletken İmalat'ın çip üretimini ciddi şekilde kesintiye uğratabilir"
+  },
+  "https://finnhub.io/api/news?id=1804af02891d15c9f3231a3ebf5cb48f78073998b480b0713e943a59e365fd76": {
+    "headline_tr": "Daha İleri Araştırma İçin 3 Pazar Üstü Performans Gösteren Hisse Senedi",
+    "summary_tr": "En iyi performans gösteren hisse senetleri tipik olarak güçlü satış büyümesine, artan marjlara ve yükselen sermaye getirisine sahiptir ve bunu yıl boyunca sürdürebilen şirketler çoğu zaman efsane haline gelir."
+  },
+  "https://finnhub.io/api/news?id=db99a74cb7cdce0d100f8e97e4470c712241da404b006f8db62f2e391d9b7934": {
+    "headline_tr": "AMD vs Intel: AI CPU Ticareti Hala AMD'yi Destekliyor - Ancak Korumalı",
+    "summary_tr": "AMD ve Intel, CPU merkezli bir yapay zeka anlatısında yükseliş gösteriyor. Yapay zeka maruziyeti sağlarken aşağı yönlü oynaklığa karşı koruma sağlayan korumalı bir AMD uzun pozisyon/INTC kısa pozisyon çerçevesini inceleyin."
+  },
+  "https://finnhub.io/api/news?id=e515ced016bad02630331116b54948e2bd85eff4f48df9b51fbf516a01bb8a11": {
+    "headline_tr": "UBS, Broadcom hisse senedi fiyat tahminini agresif bir şekilde düşürüyor",
+    "summary_tr": "Bazen en ilginç analist hareketleri düzenli temiz yükseltişler değil, farklı görünen harekettir. Broadcom'da gördüğümüz şey iyi bir örnek. Analist firması bir rakamı düşürdü, hedefi yükseltti"
+  },
+  "https://finnhub.io/api/news?id=d7a214f1fa37dd295eb4faa24433bb532aa422063ce2dfba6a2708ea850f7d80": {
+    "headline_tr": "Diamond Hill Uzun-Kısa Strateji Q1 2026 Portföy Hareketleri: Kazançlar, Düşüşler ve İşlemler",
+    "summary_tr": "Diamond Hill'in Q1 raporu pazar oynaklığını ve yazılım holdingleri üzerindeki yapay zekanın performans etkilerini tartışmaktadır. Daha fazla ayrıntı için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=0bcabeecd3a6f5007b63dae73f4d05a9d1c27e68de3c9a31705553e7477eba1f": {
+    "headline_tr": "Marvell Technology (MRVL) Genel Piyasadan Daha Büyük Düşüş Yaşıyor: Temel İçgörüler",
+    "summary_tr": "Marvell Technology (MRVL) son işlem gününü 168,93 dolardan kapattı ve bir önceki işlem seansından %4,5 düşüş gösterdi."
+  },
+  "https://finnhub.io/api/news?id=041d4c8dc9dd80a833177a74c0edce95ba74d7015fc7ed410897a60ffc9bdf55": {
+    "headline_tr": "Hisse Senetleri İran Savaşı Çözümlenmediği için Karışık Kapandı",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Pazartesi günü %0.07 düşüşle, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %0.32 artışla ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0.45 düşüşle kapandı. Haziran E-mi"
+  },
+  "https://finnhub.io/api/news?id=2381363ba345143de69deb66210fe3e3dbc2fea38b2cfc1ccb19d7d3c5ecca58": {
+    "headline_tr": "Credo Technology: Üç Müşteriye Bağımlı, Aşırı Pahalı Bir İşletme",
+    "summary_tr": "Credo Technology, güçlü son dönem performansına ve yapay zeka tarafından desteklenen büyüme potansiyeline rağmen, aşırı yüksek değerlemesi nedeniyle Sat olarak derecelendirilmektedir. CRDO hissesi hakkında daha fazla bilgi için okuyun."
+  },
+  "https://finnhub.io/api/news?id=1d8cfae6af9ab1bd7c90c79c7887585ffd37071bfbff9155b97af8aa425cd126": {
+    "headline_tr": "Dan Loeb Microsoft'tan Çıkıyor, Nvidia ve Demiryolu Hisse Senetlerini Q1'de Kapsamlı Portföy Revizyonunda Kesintiye Uğratıyor",
+    "summary_tr": "Daniel Loeb'in Third Point fonu, Q1'de Meta, Alphabet, Broadcom ve yarı iletken şirketlerini portföyüne eklerken, Nvidia ve Microsoft pozisyonlarını keskin şekilde azalttı."
   }
 }
