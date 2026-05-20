@@ -1186,5 +1186,69 @@
   "https://finnhub.io/api/news?id=41f1c8e47b5889e29491599f20508b6814a6968cd7ab10005d53ea3e9d5af001": {
     "headline_tr": "TAT Technologies Güçlü Q1 Kazançlarını Açıkladı, Roivant Sciences, Immunitybio ve Diğer Büyük Hisse Senetleriyle Birlikte Çarşamba Günü Yükselişe Geçti",
     "summary_tr": "TAT Technologies Ltd (TATT) beklentileri aşan Q1 sonuçlarını açıklayarak hisse senetlerinin %11,7 oranında yükselişe geçmesini sağladı. Diğer büyük kazananlar arasında IMVT, SLS, TE, VUZI, ROIV, POET, ARM, AMC, ALAB, DSGN ve TLN yer almaktadır."
+  },
+  "https://finnhub.io/api/news?id=eed10178ee0ca03ad4822538a6a674b4898b63c9b55c50ab891a1d78ef1dad06": {
+    "headline_tr": "NVIDIA CORP (NASDAQ:NVDA) Rekor Q1 Geliri ve Kazanç Beklentisini Aşıyor, Hisse Senedi Borsa Sonrası İşlemlerde Yükseliyor",
+    "summary_tr": "NVIDIA, Q1 FY2027 tahminlerini 81,6 milyar dolar gelir ve 1,87 dolar EPS ile aşıyor, yıllık %85 artış kaydediyor. Hisse senedi yapay zeka talebinin etkisiyle borsa sonrası işlemlerde %7,6 kazanç elde ediyor, ancak ileri kılavuzluğun olmaması büyüme belirsizliğini artırıyor."
+  },
+  "https://finnhub.io/api/news?id=f270e270a80498889a67dc5166dd3598ad297379e009cc489adbee413ffd7fb3": {
+    "headline_tr": "Vanguard'ın 94 Milyar Dolarlık Orta Ölçekli ETF'i Ellili Yıllık Bir Strateji ile Sessizce S&P 500'ü Geride Bırakıyor",
+    "summary_tr": "S&P 500 endeks fonuna sahip olan çoğu emekli, mega-cap teknoloji şirketlerine hakim bir portföy tutarken, orta ölçekli işletmeler kurumsal Amerika'nın anlamlı bir payını oluşturmasına rağmen neredeyse hiç ağırlık almıyor"
+  },
+  "https://finnhub.io/api/news?id=ff4dc8c52e24972c97daa2b6a59595442ac6e16ef508fded42d01dadd7832d1e": {
+    "headline_tr": "Bu 2 Yapay Zeka Devi Hareketsiz Kaldı. İşte Tam Bu Nedenle Yatırımcıları Şaşırtabilirler",
+    "summary_tr": "Yapay zeka ticareti favori oyuncuları oldu. NVIDIA, Microsoft, Alphabet ve Meta anlatıyı yönetti, oysa iki kurumsal teknoloji devi sessizce kazançlarını bileştirdi ve çoğu perakende yatırımcının fark etmediği siparişleri oluşturdu."
+  },
+  "https://finnhub.io/api/news?id=5d838dbc7a11b5ff2d7cda812271b54b20ef690117591fa38d1668258d8ce8f2": {
+    "headline_tr": "DRAM Nisan Ayından Bu Yana Neredeyse İki Katına Çıktı ve AI Bellek Kıtlığını Günlük Olarak Takip Ettikten Sonra Bu 3 Yarı İletken ETF'i Araştırmamda Yükselişte Devam Ediyor",
+    "summary_tr": "4 Nisan 2026'de faaliyete geçen Roundhill Memory ETF'i (CBOE:DRAM) başlangıcından bu yana yaklaşık %79 getiri sağlamış ve yatırımcı sermayesini yaklaşık yedi haftada neredeyse iki katına çıkarmıştır. Bu, performans açısından önemli bir başarıdır"
+  },
+  "https://finnhub.io/api/news?id=9fc1062714f5a7d5213cc0467e130a605c834d8fa4bbd64f65e7663fa8f53e9d": {
+    "headline_tr": "Çarşamba seansında S&P500'ün en büyük hareketleri",
+    "summary_tr": "Çarşamba günü piyasaların kapanışından bir saat önce ABD piyasalarında neler olup bittiğini görelim. Aşağıda bugünün seansında S&P500'ün en büyük kazananlarını ve kaybedenlerini bulabilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=90e83bc54107bb5970a1f6bc2522c1442b831056ff4ec82b896d92812470f909": {
+    "headline_tr": "Micron Hissesi Yükselişte. Çip Kıtlığı Tehdidi Ortaya Çıkıyor ve Samsung Grev Görüşmeleri Çöküyor.",
+    "summary_tr": "Micron Technology hissesi Çarşamba günü yükseldi. Hafıza çipi rakibi Samsung Electronics artan grev tehdidiyle karşı karşıya. Micron hisseleri öğleden sonra işlemlerde %4,1 oranında yükseldi. Zaten yükselen fiyatlar..."
+  },
+  "https://finnhub.io/api/news?id=a24b209747d8b66a8aeba1d37b7909803b386550183dcb149a509025d3d2fdf5": {
+    "headline_tr": "Alphabet, Nvidia'nın Alanına Mı Giriyor?",
+    "summary_tr": "Nvidia, AI patlamasının başından beri AI çip alanında hakimiyet sağlamıştır."
+  },
+  "https://finnhub.io/api/news?id=867393333067394fb2087cea95e3e3569169f864677c100511f493b8e004daab": {
+    "headline_tr": "Marvell Hissesi: Yüksek Kazanç Volatilitesinden Nasıl Yararlanılır",
+    "summary_tr": "Marvell hissesinin kazanç duyurusu etrafındaki yüksek zımni volatilitesinden yararlanmak için nakit teminatlı satış işlemi yapmanın yolu."
+  },
+  "https://finnhub.io/api/news?id=e42c8e7eb05dee9868d9e5ae0a91543e8247fa2811fdcfd0ab0eb8f3be8f24c4": {
+    "headline_tr": "Üst analist AI artışının ardından Micron hisse senedi için şok edici fiyat tahmini yaptı",
+    "summary_tr": "Wall Street, 18 Mayıs'ta Micron Technology (MU) ile garip bir şey yaptı. Hisse senedi neredeyse %6 düşerken aynı sabah üç büyük firma daha iyimser hale geldi. Tape ve"
+  },
+  "https://finnhub.io/api/news?id=b547587fde12a8bca9d9c113db59037feb9ffe9f846c6d912c522e3a611bc29e": {
+    "headline_tr": "Bugün S&P500'de en aktif hisse senetleri merak ediyor musunuz?",
+    "summary_tr": "Çarşamba günü S&P500 endeksini keşfedin ve bugünün oturumunda hangi hisse senetlerinin en aktif olduğunu öğrenin. Pazar ilgisini çeken ve pazar hareketlerini yönlendiren hisse senetleriyle güncel kalın."
+  },
+  "https://finnhub.io/api/news?id=2eb6003332bf6902cec704320b3fbbab7c6c1b493527a5a2f9f5e66224d0c5fb": {
+    "headline_tr": "Bellek Çipi Silahlanma Yarışını Unutun. Gerçek Ticaret Her Çip Üreticisinin İlk Ödemesi Gereken 3 Ekipman Şirketidir",
+    "summary_tr": "Samsung ve bellek çipi grubu, HBM fiyatlandırması ve yapay zeka bellek talebinin öğürtüsü dalgasında, teknoloji alanında şu an en yüksek ses çıkaran ticaret haline geldi. Ancak gerçekten izlemeniz gereken şey: pi"
+  },
+  "https://finnhub.io/api/news?id=256eb52b2fad239c0f1d526ef16df9e3e65533acd67dcd9cb5b59b6e790340ee": {
+    "headline_tr": "Intel Hissesi Çip Rallisi Yeniden Başlarken Yükseliyor",
+    "summary_tr": "Intel, beş günlük kayıp serisini geride bırakırken Çarşamba günü ikinci gün üst üste kazanç elde etmeye çalışıyor."
+  },
+  "https://finnhub.io/api/news?id=31a67a202d9bcda926240dbc5ea24f4cbf7d3dc05b617c4265ea867846ee1dc6": {
+    "headline_tr": "Bugün Borsa, 20 Mayıs: Nvidia Yatırımcılar Yapay Zeka Rehberliğini Beklerken Yükseliyor",
+    "summary_tr": "20 Mayıs 2026'de, Nvidia'nın kazanç öncesi rallisi, düşen getiriler ve petrol fiyatlarının son pazar endişelerini sakinleştirmesi nedeniyle daha geniş bir toparlanmayı güçlendirdi."
+  },
+  "https://finnhub.io/api/news?id=b5bf7b22918586de427f4b066d276da31a91c0ab748181078ad7156ee0223c59": {
+    "headline_tr": "Lam Research ve KLA Corporation Hisseleri Düştü, Bilmeniz Gerekenler",
+    "summary_tr": "Samsung'da olası bir grev haberi ve Taiwan Yarı İletken Üretim şirketinin hisse satışının ardından yarı iletken sektörünü etkileyen geniş tabanlı bir satış dalgasının ardından öğleden sonra seansında bir dizi hisse düştü"
+  },
+  "https://finnhub.io/api/news?id=4e568371cb21fa7daf756e5063736200b007b678d34b90019b4703766c5f9192": {
+    "headline_tr": "Nvidia, Micron ve AMD Çip Rallisini Öncüyor Samsung Grevine Karşı Tehdidi Çip Arzını Sallıyor",
+    "summary_tr": "Samsung İşçi Müzakereleri Çöktükten Sonra Çip Hisse Senetleri Yükselişe Geçti"
+  },
+  "https://finnhub.io/api/news?id=7287645aa8992cf9d5c16477c141d83805d4d7c16a9c9cd5832b122dc1606d56": {
+    "headline_tr": "S&P 500 Nvidia'nın Raporundan Önce Toparlanıyor, Petrol İran Ateşkes Umutları ile %5 Düştü: Bugünün Borsa Haberi",
+    "summary_tr": "ABD hisse senetleri üç günlük düşüşü durdurdu çünkü petrol, yeniden canlanmış İran ateşkes umutları nedeniyle %5 düştü ve Nvidia'nın kapanış sonrası sonuçlarından önce enflasyon endişelerini hafifletdi."
   }
 }
