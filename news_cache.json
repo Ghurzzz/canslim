@@ -1114,5 +1114,77 @@
   "https://finnhub.io/api/news?id=fa5993f57d2eb494d2c8c664228d85ed314a733fcdd62c7390c135d2a94d5965": {
     "headline_tr": "Chamath AI Bilişim Krizini Uyarıyor: İzlenecek 8 Hisse",
     "summary_tr": "Chamath Palihapitiya, LLM token maliyetlerinin artışını eleştiriyor. İşte bilişim kıtlığından yararlanabilecek bazı hisseler."
+  },
+  "https://finnhub.io/api/news?id=a4bc8bc24fab48489609972c27b418b0315a2f37076318c1e8df1e6f0938339e": {
+    "headline_tr": "S&P500 endeksinde bugünkü seansda en çok kazananları ve kaybedenileri keşfedin.",
+    "summary_tr": "Çarşamba günü öğle saatlerinde ABD piyasalarında neler olduğuna bakalım. Aşağıda bugünkü seansda S&P500'ün en çok kazanan ve kaybedenleri bulabilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=3032f7f1a9c89e2a6cb9bb3ba04c613039381cb818a5279cc7b62244ce22884d": {
+    "headline_tr": "Himax, Western Digital ve Amkor Hisseleri Düşüyor, Bilmeniz Gerekenler",
+    "summary_tr": "Öğleden sonra seansında çok sayıda hisse senedi, Samsung'da olası bir grev haberi ve Taiwan Semiconductor Manufacturing'in hisse satışı sonrasında yarı iletken sektörünü vuran geniş tabanlı bir satış dalgasının ardından düştü"
+  },
+  "https://finnhub.io/api/news?id=c760f63abd4f2310851f0fa50ed2fa3139b97eaae0487c5c996b4dee23aa149c": {
+    "headline_tr": "Yapay Zeka Çip Üretim Patlamasını Güçlendiren Yarıiletken Ekipman Hisse Senetleri: Oyma",
+    "summary_tr": "Yarıiletken endüstrisi, dünyanın en gelişmiş ve karmaşık endüstrilerinden biridir. Yarıiletken endüstrisi, son derece uzmanlaşmış tedarik zincirleri ve üretim ekipmanlarına bağlıdır. Bu ekosistem"
+  },
+  "https://finnhub.io/api/news?id=ca4c6ffdaafeffe7128d476bddb6837494b91696d4ce01b0413a9aace75896c2": {
+    "headline_tr": "Öğle Saati Başlıca Haberler: Target Q1 Beklentilerini Aştı, Satış Rehberliğini Yükseltti, Ancak Hisseler Düştü; Intuit Küresel İşgücünün %17'sini İşten Çıkarıyor",
+    "summary_tr": "ABD'nin üç büyük borsa endeksi Çarşamba günü geç saatlarda yükselişte olurken, bir gün önceki alışveriş endeksindeki artışın ardından"
+  },
+  "https://finnhub.io/api/news?id=176b54c0c7b1a9ac8df52e85ca1c13f261a6c277c57d21e21dfe7fc8ad4b3210": {
+    "headline_tr": "Lam Research, Panel Seviyesi Çip Paketlemesini İlerlendirmek İçin Avusturya Laboratuvarını Açıyor",
+    "summary_tr": "Salzburg tesisi, ölü alanı azaltmak ve çip başına maliyeti düşürmek için dairesel waferler yerine kare panelleri kullanıyor"
+  },
+  "https://finnhub.io/api/news?id=1e9582bc62f8226a0e74f15d7b66883c8f0aaee8b7acd3227b1a0740c10fbd61": {
+    "headline_tr": "Marvell Technology Mali Q1 Sonuçları ve Q2 Görünümünde Yükselişe Hazır, Oppenheimer Söylüyor - AI Ağı, Özel Çiplerle Destekleniyor",
+    "summary_tr": "Marvell Technology (MRVL), mali Q1 sonuçlarında ve Q2 görünümünde yükselişe hazırlık gösteriyor, yapay zeka ağı ve özel çiplerle destekleniyor"
+  },
+  "https://finnhub.io/api/news?id=c1067e07ed07571c280948a68bc9fc4f9a3e51116ab6edd49feea3d92261a4a0": {
+    "headline_tr": "Nvidia Kazançlarının Diğer Çip Şirketleri İçin Anlamı",
+    "summary_tr": "Nvidia kazançları diğer çip şirketlerini etkileme eğilimindedir ve bu sefer de muhtemelen farklı olmayacaktır. Nvidia hissesinin birkaç yıldır muazzam kazançlar elde etmesinin ardından beklentiler inanılmaz derecede yüksektir. \"NVDA için,"
+  },
+  "https://finnhub.io/api/news?id=bf28055343f715f04f4a65c00580216a5fdae1b7085c1a402c12714be7b8d301": {
+    "headline_tr": "Milyarder Stanley Druckenmiller Alphabet'in Her Hissesini Sattı. Bunun Yerine %581'den %3,467'ye Yükselen AI Bellek Hisse Senetlerine Yatırım Yaptı",
+    "summary_tr": "Stanley Druckenmiller'ın Duquesne Family Office, 2026'nın ilk çeyreğinde Alphabet pozisyonundan tamamen çıktı ve sermayeyi üç AI donanım \"kazma-kürek\" hisse senedine döndürdü: SanDisk, Micro"
+  },
+  "https://finnhub.io/api/news?id=3e5976f395e6556eaecf30d205fffac2adeb3b2d8a52051b77da95377b0627a4": {
+    "headline_tr": "Wells Fargo'nun Marvell Fiyat Hedefi AWS Trainium ve Özel Silikon Momentumunda $195'e Yükseldi",
+    "summary_tr": "Wells Fargo bu çeyrekten itibaren önemli bir yapay zeka yarı iletken şirketinde en agresif fiyat hedefi revizyonlarından birini sundu. Firma, Marvell Technology (NASDAQ:MRVL) için fiyat hedefini önceki seviyeden $195'e yükseltti"
+  },
+  "https://finnhub.io/api/news?id=9ccbf73f2db0c3253a170cbc7d70b173c44e7ce28a5b8b02d47c1c16fce54c9f": {
+    "headline_tr": "Marvell Technology Hissesi Neden Yükseliş Gösteriyor",
+    "summary_tr": "Wall Street, Marvell hissesinin harika göründüğünü düşünüyor."
+  },
+  "https://finnhub.io/api/news?id=5c54f3053e4121ce7226794230142b395184c86f059d363ddda9cce7f690c7d0": {
+    "headline_tr": "AMD CEO'su Pekin'de Çin Başyardımcısı ile Görüştü",
+    "summary_tr": "Görüşme, çip ticareti gerilimlerinin odakta kaldığı sırada gerçekleşti"
+  },
+  "https://finnhub.io/api/news?id=3eb2f95be0c5e311886204c9c0bad3a4d8455f8f46c7cbf0e227dbe005e987d8": {
+    "headline_tr": "MU Hisse Senedi: Tarih %13 Düşüşün Ardından Toparlanmayı İşaret Ediyor",
+    "summary_tr": "Micron Technology (MU) hisse senedi, 13 Mayıs 2026'de 803,63 dolardan şu anki 698,74 dolara kadar yaklaşık bir haftada %13,1 düşmüştür. Bu düşüş, Micron'un agresif sermaye harcama genişlemesi ve daha geniş yarı iletken endüstrisi ile ilgili endişelerden kaynaklanmaktadır."
+  },
+  "https://finnhub.io/api/news?id=cce00b23a69a808c6b6cc8bcc18a223d2c6fe1048db046edac13d148fa41db22": {
+    "headline_tr": "Brokerler Broadcom Inc. (AVGO) Yatırımını Öneriyorlar: Bahis Koymadan Önce Bunu Okuyun",
+    "summary_tr": "Broadcom Inc. (AVGO) için ortalama aracı kuruluş tavsiyesi (ABR) Satın Al'a eşdeğerdir. Wall Street analistlerinin aşırı iyimser tavsiyeleri, bu yüksek talep gören tavsiyenin etkinliğini"
+  },
+  "https://finnhub.io/api/news?id=a73dea00a287f2e751c6aeec38df5513cdc1bede768eb7695ccad62c004b650a": {
+    "headline_tr": "Broadcom (AVGO) Güçlü Bir Yıllık Rallisinden Sonra Değerlendirmeye Almak Çok Geç Mi?",
+    "summary_tr": "Broadcom'un mevcut hisse senedi fiyatının güçlü bir koşudan sonra hala mantıklı olup olmadığını merak ediyorsanız, sonraki bölümler sayıların değer hakkında ne söylediğini açıklayacaktır. Hisse senedi yakın zamanda kapanmıştır"
+  },
+  "https://finnhub.io/api/news?id=ce0f03596b6ad154dabbb02e96be3435cff3d6de7a60e9e1bf9fa11c6f51f399": {
+    "headline_tr": "Yapay Zeka Capex Patlaması Uluslararası Bir Adrese Sahip",
+    "summary_tr": "ABD capex patlamasının etkisi, bir \"Büyük Küresel Yeniden Dengelemenin\" gerçekleşmekte olduğunun başka bir kanıtıdır. Daha fazla bilgi için buraya tıklayın."
+  },
+  "https://finnhub.io/api/news?id=eacf41de3afbe1ab0120eb1c7600b46702b4c138f648d8430cd9b84840008e0f": {
+    "headline_tr": "TSM (NYSE:TSM): Güçlü Büyüme ve Teknik Kırılım Kurulumu",
+    "summary_tr": "TSM hissesi güçlü fundamentaller ile teknik kırılım kuruluşunu birleştiriyor. Yüksek büyüme ve karlılık derecelendirmeleri düşük değerleme puanı ile çelişirken, ana seviyenin üzerinde net bir geri çekilme konsolidasyon paterni"
+  },
+  "https://finnhub.io/api/news?id=8c0bf2520c50783818b0d1d6b480292f0ddf9b94f4af5d7561ac0c4c77ac3252": {
+    "headline_tr": "Intel CEO 'Işık Hızında' Çalışan 'Yeni Intel' İnşa Ediyor",
+    "summary_tr": "Intel CEO'su Lip-Bu Tan, çip üreticisinin 'ışık hızında' karar alma, daha düz yönetim yapısı ve yürütmeye yenilenen odaklanma ile 'yeni bir Intel' inşa ettiğini söylüyor."
+  },
+  "https://finnhub.io/api/news?id=41f1c8e47b5889e29491599f20508b6814a6968cd7ab10005d53ea3e9d5af001": {
+    "headline_tr": "TAT Technologies Güçlü Q1 Kazançlarını Açıkladı, Roivant Sciences, Immunitybio ve Diğer Büyük Hisse Senetleriyle Birlikte Çarşamba Günü Yükselişe Geçti",
+    "summary_tr": "TAT Technologies Ltd (TATT) beklentileri aşan Q1 sonuçlarını açıklayarak hisse senetlerinin %11,7 oranında yükselişe geçmesini sağladı. Diğer büyük kazananlar arasında IMVT, SLS, TE, VUZI, ROIV, POET, ARM, AMC, ALAB, DSGN ve TLN yer almaktadır."
   }
 }
