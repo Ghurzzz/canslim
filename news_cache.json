@@ -1250,5 +1250,81 @@
   "https://finnhub.io/api/news?id=7287645aa8992cf9d5c16477c141d83805d4d7c16a9c9cd5832b122dc1606d56": {
     "headline_tr": "S&P 500 Nvidia'nın Raporundan Önce Toparlanıyor, Petrol İran Ateşkes Umutları ile %5 Düştü: Bugünün Borsa Haberi",
     "summary_tr": "ABD hisse senetleri üç günlük düşüşü durdurdu çünkü petrol, yeniden canlanmış İran ateşkes umutları nedeniyle %5 düştü ve Nvidia'nın kapanış sonrası sonuçlarından önce enflasyon endişelerini hafifletdi."
+  },
+  "https://finnhub.io/api/news?id=16826dba17bff65418a018a23f0d1281e51009b75a10df304c80b7f5b7392a25": {
+    "headline_tr": "SpaceX Sessizce Facebook'un Halka Arzından 23 Kat Daha Büyük Bir Fiyatla İşlem Görüyor",
+    "summary_tr": "Bir düşün deneyi ile bir margin call arasında bir yerde SpaceX'in bir fiyatı var. Merkeziyetsiz bir türev platformu olan Hyperliquid'de, SPCX-USD adında sentetik bir kontrat son zamanlarda yaklaşık 203 dolardan işlem gördü"
+  },
+  "https://finnhub.io/api/news?id=446a9f1fb9e6e5d23ae14af5d724924d21f1d4964c44a23af73dcb4d3a164311": {
+    "headline_tr": "AMD Hisse Senedi Bu Yıl 600 Dolara Ulaşır mı? Cevap Sizi Şaşırtmayabilir",
+    "summary_tr": "AMD (NASDAQ: AMD) gelecek 12 ay için 24/7 Wall St. tarafından belirlenen hedef fiyat 600 dolar olup, hisse şu anda 447,58 dolardan işlem görmektedir. Bu, kabaca yüzde 34 yukarı potansiyel anlamına gelmekte ve hisseleri b"
+  },
+  "https://finnhub.io/api/news?id=a99ca6c5a70081774634d11cc5aee2e3c108db4a1c0d8d294f1ba5cffca970a9": {
+    "headline_tr": "Öğle Saati En Önemli Haberler: Yüksek Lider Zenginleştirilmiş Uranın İran'da Kalması Gerektiğini Söyledi; Nvidia Q1 Kazançları, Q2 Rehberliği Tahminleri Aştı, Ancak Hisseler Düştü",
+    "summary_tr": "İran'ın yüksek lideri bildiri yayınladıktan sonra üç büyük ABD borsası düştü ve petrol fiyatları yükseldi"
+  },
+  "https://finnhub.io/api/news?id=2414674f29b9e2728c6cfa6cfa51facac174efef6832dadf6728cf4d5a2dc316": {
+    "headline_tr": "Broadcom Hissesiyle Opsiyon Kullanmak İçin İleri Bir Teknik",
+    "summary_tr": "Broadcom hissesinin mevcut güçlü performansından ve yaklaşan kazanç raporundan yararlanmanın bir yolu çapraz satış opsiyonu spread'i kullanmaktır."
+  },
+  "https://finnhub.io/api/news?id=9c837a2e6af1141e3a5b7bff77e5aba9d57237847cebc95d3a047193be3ad3ec": {
+    "headline_tr": "SpaceX'in Halka Arz Başvurusu Tesla ile Kesinleştirilmiş Terafab Anlaşması Olmadığını Gösteriyor",
+    "summary_tr": "SpaceX'in son başvurusu, Terafab yapay zeka çip fabrikasında iki ortağı Tesla ve Intel ile yapılan anlaşmalar hakkında yeni detayları göstermektedir."
+  },
+  "https://finnhub.io/api/news?id=c9c4f9c7688ba6539f689c09c66e5a368da99e99b39796df6c448d66f30c4628": {
+    "headline_tr": "AMD, Tayvan'da Yapay Zeka Genişleme Stratejisine 10 Milyar Dolar Yatırım Yapıyor",
+    "summary_tr": "Yatırım, gelişmiş paketleme ve raf ölçekli yapay zeka sistemlerini hedefliyor"
+  },
+  "https://finnhub.io/api/news?id=a4b11009e2a0b2c4b4a100c60382a907a0151ae515bf66266a93539892d28501": {
+    "headline_tr": "Nvidia'nın Vera Rubin Ramp'ı AI Fabrika Ekonomisinde Liderliği Güçlendirebilir, Morgan Stanley Söylüyor",
+    "summary_tr": "Nvidia (NVDA) Q1'de tüm metriklerde temiz bir başarı sağladı ve beklenen Vera Rubin ramp'ını"
+  },
+  "https://finnhub.io/api/news?id=6addec0629d813b922fe3bef2ed66610156bef7e5fbd4985809765af80cadcee": {
+    "headline_tr": "Mizuho bu 3 yapay zeka kazananını yeniden değerlendirdi",
+    "summary_tr": "Mizuho analisti Vijay Rakesh bu hafta Micron Technology (MU), STMicroelectronics (STMPA) ve Texas Instruments (TXN) hisse senetleri için fiyat hedeflerini yükselterek, yapay zeka veri merkezi talebinin dayanıklı bir talep yarattığını savundu"
+  },
+  "https://finnhub.io/api/news?id=c54fc5aaeb6f1af7cb7ead57ce7a82b8c382e6a1fcfa3b7e69931c363f1d1a12": {
+    "headline_tr": "NVIDIA Q1 Kazançları Blackwell Rampı ve Veri Merkezi Gücüyle Beklentileri Aştı",
+    "summary_tr": "NVDA, Blackwell üretiminin artması ve Veri Merkezi gelirlerinin %92 artması ile Q1'27 tahminlerini aşarken, Q2 rehberliği 91 milyar dolar satış çağrısında bulunuyor."
+  },
+  "https://finnhub.io/api/news?id=1572b1d01293bc97c251a51447369fc59ceab109a4853e2293d18ba48f5d689e": {
+    "headline_tr": "MU vs. AMD: Hangi Yapay Zeka Yarı İletken Hissesi Daha İyi Bir Satın Alma Seçeneği?",
+    "summary_tr": "Micron'un Yapay Zeka bellek patlaması rekor sonuçları sürüyorken, Advanced Micro Devices'tan daha düşük F/K oranı onu daha iyi bir yatırım seçeneği haline getiriyor."
+  },
+  "https://finnhub.io/api/news?id=6bf0b1b750a1b675a026fdadee801374caafa027510924b99c6138545d28b887": {
+    "headline_tr": "Jim Cramer canlı yayında Trump'ın 3.700 hisse senedi işlemini görünce dondu — işte başkanın portföyünde neler var",
+    "summary_tr": "Yeni etik dosyaları, portföyün yönetiminin en büyük anlaşmalarını şekillendiren şirketlerde yoğunlaştığını ortaya koymaktadır."
+  },
+  "https://finnhub.io/api/news?id=a3780671dc0b988f3f52d02764c329b6ea201472aa424ff38c0307974338978d": {
+    "headline_tr": "Lam Research (LRCX) 20 Günlük Hareketli Ortalamayı Geçti",
+    "summary_tr": "Bir hisse senedi 20 günlük basit hareketli ortalamayı aştığında iyi şeyler ufukta olabilir. Yatırımcılar nasıl tepki vermelidir?"
+  },
+  "https://finnhub.io/api/news?id=4f45195e2fc86e5b1079e2423b0853546292dd394a1a54c52eaea8c6e702aefc": {
+    "headline_tr": "AI Factory Ortaklığı Rebellions ile Credo'nun Hisselerini %8 Yükseltti",
+    "summary_tr": "CRDO, Rebellions ile ortaklık kurarak ZeroFlap kablolarını RebelPOD'a entegre etmek için %8,3 yükseldi ve kurumsal çıkarım için ölçeklenebilir AI fabrikaları hedefliyor."
+  },
+  "https://finnhub.io/api/news?id=c8e78f5f3b5dc009e844887a53c8521654e8197c9761e564a57df402c19efd58": {
+    "headline_tr": "Marvell Technology, Inc. (MRVL) Trend Olan Bir Hisse Senedi: Yatırım Yapmadan Önce Bilinmesi Gereken Gerçekler",
+    "summary_tr": "Zacks.com kullanıcıları son zamanlarda Marvell (MRVL) hisse senedini oldukça yakından takip etmektedir. Bu nedenle, hisse senedinin beklentilerini belirleyebilecek gerçekleri bilmek önemlidir."
+  },
+  "https://finnhub.io/api/news?id=cc393593735a2b8c84466ecfc6db18c382b53f4637118c981ccc50eb21f361f2": {
+    "headline_tr": "LAM RESEARCH CORP (NASDAQ:LRCX) Güçlü Büyüme ve Makul Değerleme ile GARP Stratejisine Uyuyor",
+    "summary_tr": "Lam Research (LRCX), %46,8 EPS büyümesi, makul değerleme ve birinci sınıf karlılık ile Makul Fiyattan Büyüme stratejisine uymaktadır. GARP yatırımcıları için önemli bir yarı iletken ekipmanı hisse senedi"
+  },
+  "https://finnhub.io/api/news?id=18ff230928c44726deb80366368703d33f86cdba804cef60669f351edbb66f51": {
+    "headline_tr": "TSMC Paradoksu: Muazzam Yapay Zeka Silikon Arzı vs. Sınırlı Altyapı",
+    "summary_tr": "Taiwan Semiconductor, kısa vadeli silikon fotonikleri artışına rağmen marj erozyonu ve veri merkezi gecikmelerle karşı karşıya. TSM hissesinin neden bir satın alma olduğunu okuyun."
+  },
+  "https://finnhub.io/api/news?id=1f10bf078f09ad9c6e57c7fa83e7ad72bb36dc980bef9caf439b1fd270dff048": {
+    "headline_tr": "Intel Hissesi Perşembe Günü Neler Oluyor?",
+    "summary_tr": "Intel piyasa öncesi düşüş gösteriyor ancak güçlü uzun vadeli trendi koruyor. INTC teknik seviyeleri, SMA verileri ve MACD momentum göstergelerini kontrol edin."
+  },
+  "https://finnhub.io/api/news?id=81b55c79aa8e80c7b09ed93098aca2faadf7e1b74e32b0a53f0da994575ba137": {
+    "headline_tr": "Perşembe Günü Taiwan Semiconductor Hissesinde Neler Oluyor?",
+    "summary_tr": "Taiwan Semiconductor hissesi, AMD'nin TSM'nin ileri 2nm işleminde yeni nesil yapay zeka çiplerini hızlandırması ile hafif yükselişe geçiyor. Tam teknik analizi alın."
+  },
+  "https://finnhub.io/api/news?id=15934cd376718a4e6d043e3e3fc41d1d3b7ab46304e8d4f7a73344b917153d1a": {
+    "headline_tr": "Hisse Senetleri İran Umudu ile Keskin Şekilde Yükseldi",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Çarşamba günü %1,08 yükselişle kapandı, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %1,31 yükselişle kapandı ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %1,66 yükselişle kapandı. Haziran E-min"
   }
 }
