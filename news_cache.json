@@ -1326,5 +1326,61 @@
   "https://finnhub.io/api/news?id=15934cd376718a4e6d043e3e3fc41d1d3b7ab46304e8d4f7a73344b917153d1a": {
     "headline_tr": "Hisse Senetleri İran Umudu ile Keskin Şekilde Yükseldi",
     "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Çarşamba günü %1,08 yükselişle kapandı, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %1,31 yükselişle kapandı ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %1,66 yükselişle kapandı. Haziran E-min"
+  },
+  "https://finnhub.io/api/news?id=1a4965c6e25b5c4d62eb235e10b7c6e768a3ba0b046ab69aebec16a06c3e6147": {
+    "headline_tr": "Borsa Bugün: Dow 250 Puan Yükselişte Nvidia Kayıplarını Kısıyor; Intuit Çöküyor Ama Rio Tinto, Yapay Zeka Şirketleri Yükseliş Yaşıyor (Canlı Takip)",
+    "summary_tr": "Borsa Bugün: Dow Jones endeksi Perşembe günü beklenmedik işsizlik başvurusu verileriyle dalgalanmıştır. Nvidia hisse senedi güçlü kazanımlarına rağmen düşüş yaşamıştır."
+  },
+  "https://finnhub.io/api/news?id=55694558760e81b844c2e724da7f89d514563805511ffdc442c827e57f13a2ae": {
+    "headline_tr": "Jensen Huang, Nvidia Q1 başarısının ardından cesur yeni mesaj veriyor",
+    "summary_tr": "Her pazar döngüsünde, tek bir sayının artık bir sayı olmaktan çıkıp bir karar haline geldiği bir an vardır. Benim için, bu an 2026'da iki şeye bağlıdır: Federal Rezerv konuştuğunda ve daha fazlası..."
+  },
+  "https://finnhub.io/api/news?id=7d4d3daf438da1cc7a0c40e128a3cb4ac30e2c1841e5cf9c3745bc54cb0094cb": {
+    "headline_tr": "Marvell Hissesi Rekor Seviyeye Doğru İlerlemiyor",
+    "summary_tr": "Marvell, yapay zeka ve optik ağ ürünleri için özel entegre devreler tasarlar, geliştir ve satarlar."
+  },
+  "https://finnhub.io/api/news?id=7da62a092c00cd96b2ad6b7f665424015e9a9fa7ada99749d79f035dd6ecc6e2": {
+    "headline_tr": "Yatırımcılar Nvidia'nın Q1 kazançlarından mı yoksa İran'dan mı daha fazla endişeli?",
+    "summary_tr": "ABD hisse senetleri (^DJI, ^IXIC, ^GSPC) — özellikle Dow Jones Endüstriyel Ortalaması — Perşembe kapanışından önce yatırımcılar Nvidia'nın (NVDA) ilk çeyrek kazançlarını sindirilmeye devam ettikçe biraz zemin kazanıyor"
+  },
+  "https://finnhub.io/api/news?id=60dd71dd075cb64bbbbe893946f7c6d56a7b4b9d229f4b681107030d14feaa77": {
+    "headline_tr": "Amkor, Arizona'da daha fazla arazi satın aldıktan sonra AMD ile gelişmiş paketleme üzerinde çalışıyor",
+    "summary_tr": "Amkor Technology, Perşembe günü AMD'nin çiplerinin paketlenmesi konusunda Advanced Micro Devices ile çalıştığını bildirdi. Amkor, bu hafta başında Arizona'da yanında bulunan 67 hektar ek arazi güvence altına aldığını duyurdu."
+  },
+  "https://finnhub.io/api/news?id=0458a0e41fce071f523b95bcf31bf8b7274ce0895404f51039d1b837aa301fc2": {
+    "headline_tr": "AMD, kritik teknoloji merkezinde 10 milyar dolarlık büyük bir hamle yapıyor",
+    "summary_tr": "Advanced Micro Devices (AMD) hissesi, Yahoo Finance'e göre 20 Mayıs işlem seansında %8,1 artışla 447,58 dolardan kapandı. Yahoo Finance'e göre işlem saati itibariyle şu anda %0,8 düşüşle 444,0 dolardan işlem görmektedir."
+  },
+  "https://finnhub.io/api/news?id=e1cad096663d7501aa1127b720954f8f1dfb836735f4a4f8e8a27e4e1c837779": {
+    "headline_tr": "Intel, AMD'nin 2026 Kazançlarını İkiye Katladı. Çip Hisse Senetlerinizi Yeniden Dengelemek Zamanı Mı?",
+    "summary_tr": "Intel (NASDAQ:INTC) hisseleri Perşembe öğleden sonra işlemlerinde 119 dolara yakın seviyelerde işlem görmekte, oturumda pratik olarak sabit kalırken, Advanced Micro Devices (NASDAQ:AMD) hissesi 446 dolara yakın seviyelerde gezinmekte ve sadece hafif düşüş göstermektedir."
+  },
+  "https://finnhub.io/api/news?id=c12e1cf550279e19296e641a39af23c2cfc7fd1bfbb507d237f477b198a54d9c": {
+    "headline_tr": "SanDisk %9 Yükseliş Gösterirken, Western Digital %5 Rallisi ve Micron %3 Artışı ile Bellek Ticareti Yeniden Canlanıyor",
+    "summary_tr": "Bellek hisseleri Perşembe günü öğle saatlerinde sektörün zor bir haftasının ardından sert bir şekilde toparlanıyor. SanDisk (NASDAQ:SNDK) hisseleri %9 artışta, Western Digital (NASDAQ:WDC) hissesi %5 yüksekte ve Micron Tech"
+  },
+  "https://finnhub.io/api/news?id=8442a0aa5ce48a9dd512d18b613ebfb71bce0fa32a912a8d634d931f9d7aeb4e": {
+    "headline_tr": "Çip stokları yapay zeka destekli toparlanmayla geri yükseliş yaparken Micron hızlı sıçrıyor",
+    "summary_tr": "Micron satış basıncından kurtulmasına rağmen rekor seviyelerin gerisinde kalıyor, volatilite devam ediyor"
+  },
+  "https://finnhub.io/api/news?id=2023966a20c4a4fdf942c634f2796d3e226cd28962ac2881cf4e076e89a13b32": {
+    "headline_tr": "Tahmin: POET Hissesinin Görünümü Kararıyor",
+    "summary_tr": "POET Technologies (NASDAQ:POET), 2026'nın en vahşi küçük sermaye yapılı yapay zeka altyapısı hikayelerinden biri olmuştur ve hisseler önemli bir Lumilens tedarik anlaşması sayesinde yıldan bugüne %133,49'luk bir ralli yaşamıştır. Ardından..."
+  },
+  "https://finnhub.io/api/news?id=677f2e59156ecb0d1990f4a7afbae9d4bb05d49c637c75af2ee99d15e16e32b4": {
+    "headline_tr": "Broadcom Inc. (AVGO) Sağlam Bir Büyüme Hissesi mi? Evet Demek İçin 3 Sebep",
+    "summary_tr": "Broadcom Inc. (AVGO), sağlam büyüme özelliklerine sahip olup, piyasayı rahatça geçebilecek potansiyele sahiptir."
+  },
+  "https://finnhub.io/api/news?id=37ea0ec7e733719f5802720cf3f77f895f9f388be1b4fc1bd65104bc7884f587": {
+    "headline_tr": "S&P 500, Uluslararası Çip Fonları ve Gelişen Pazar ETF'lerinden Küresel Zorlukla Karşı Karşıya",
+    "summary_tr": "Uluslararası ve gelişen pazar ETF'leri 2026'da ralli yapıyor çünkü Tayvan ve Kore çip hisseleri küresel piyasaların S&P 500 ile aynı hızda ilerlemesine yardımcı oluyor."
+  },
+  "https://finnhub.io/api/news?id=2ecf3ab1f8ee6ac74ef374dc49a15baccf0553aeab9c13422e9dded0ef64bc3e": {
+    "headline_tr": "Astera Labs Hisseleri Önemli Ticaret Sinyalinin Ardından %6'dan Fazla Yükseldi",
+    "summary_tr": "$268.57 fiyatında Astera Labs hisseleri için önemli bir ticaret sinyali yanıp söndükten sonra, ALAB gün içi en yüksek seviyeye %6'dan fazla yükseldi."
+  },
+  "https://finnhub.io/api/news?id=bfd711be048e7c8f23aeb24ed1fdd26a1e9b4a4c316314960b348073eb1128ff": {
+    "headline_tr": "Tower Semiconductor ve Axiro Semiconductor, Tower'ın Silikon Germanium Teknolojisi Üzerine İnşa Edilen Axiro'nun Radar Beam Forming Entegre Devrelerinin Kullanılabilirliğini Duyurdu",
+    "summary_tr": ""
   }
 }
