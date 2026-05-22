@@ -1462,5 +1462,73 @@
   "https://finnhub.io/api/news?id=3f356ce10268fc5087bb5c511e238fd353d38022f164d5143128416397594512": {
     "headline_tr": "Lam Research, ABD genişlemesini hedeflerken çip üretim araçlarına yapay zeka eklemeye odaklanıyor, CEO açıklama yaptı",
     "summary_tr": "Lam Research, Arizona ve California'daki operasyonlarını genişletmeyi planlarken, yariiletken üretim araçlarına algılama ve yapay zeka yetenekleri ekleyerek daha verimli hale getirmeye odaklanıyor"
+  },
+  "https://finnhub.io/api/news?id=486a37ae765a2e27a9b9b34c9d6ba4dbfc9d9ff197ee3f39d63508626634c988": {
+    "headline_tr": "Bu S&P500 hisseleri bugünün seansında en aktif olanlar",
+    "summary_tr": "Bugünün seansında en aktif S&P500 hisselerini mi arıyorsunuz? Cuma günü ABD pazarlarına dalış yapın ve ticaret aktivitesine hakim olan ve tempoyu belirleyen hisseleri keşfedin"
+  },
+  "https://finnhub.io/api/news?id=ff31d13467c0d3a3e7a17e0a453470f9d307d21b5422c7c6a099928a0198a573": {
+    "headline_tr": "Bu hisse senetleri bugünün seansında en çok ses getiriyor.",
+    "summary_tr": "Cuma günü en aktif hisse senetlerinin hangileri olduğunu merak mı ediyorsunuz? Pazar hareketine hangi hisse senetlerinin hakim olduğunu öğrenin!"
+  },
+  "https://finnhub.io/api/news?id=eb859fc56e60e7533544c2269eb73bef93aac4b8dcc183adf4e5b3a2567a2e42": {
+    "headline_tr": "Marvell hisseleri Stifel'in yapay zeka talebine ilişkin fiyat hedefi artışıyla sıçradı",
+    "summary_tr": "Wall Street yapay zeka sunucu talebine büyük bahis yaptıktan sonra Marvell hissesi yükseldi"
+  },
+  "https://finnhub.io/api/news?id=d304091fd8cf4528b14ac3a9129d0ae76369a4581fe2c7303a9bcef51d832188": {
+    "headline_tr": "Kongre Ortak Ekonomi Komitesi Medicare Advantage Fazla Ödemelerini Yıllık 7 Milyar Dolar Olarak Belirliyor ve Artıyor",
+    "summary_tr": "Kiplinger'e göre, Kongre Ortak Ekonomi Komitesi Medicare Advantage'ın sigorta şirketlerine kayıtlı kişi başına 212 dolar fazla ödeme yaptığını bulmuştur. Bu rakam küçük görünse de ölçeklendirdiğinde önem kazanmaktadır. Veriler ölçeklendirilerek"
+  },
+  "https://finnhub.io/api/news?id=2cab19e666c5fc9e46144c44d71e23180022967a11b6106fde6276347acc779e": {
+    "headline_tr": "Arm Hisse Senedi Neden Bugün Yeniden Yükselişe Geçti",
+    "summary_tr": "CPU pazarındaki momentum devam ediyor."
+  },
+  "https://finnhub.io/api/news?id=41eb93f71857ee2a9694766218724a20cc93d94901370b0403983fa8bb1d29c8": {
+    "headline_tr": "Bugün Borsa: Fed'de Warsh Dönemi Başlarken Dow Yükseliyor (Canlı Kapsama)",
+    "summary_tr": "Bugün Borsa: Dow Jones endeksi, önemli bir enflasyon anketi öncesinde Cuma günü yükseldi. AMD hisse senedi rekor seviyelerine yakın yükseldi."
+  },
+  "https://finnhub.io/api/news?id=31c0412f84149f3d3e31b3163ec25b2134575096fad9f5a891e0f46b7aca21c7": {
+    "headline_tr": "Qualcomm %12 Yükselişte, Skyworks %9 Rallisi, Qorvo %7 Artışta: Mobil Çip Ticareti Daha Küçük Kazananları Seçiyor",
+    "summary_tr": "Qualcomm (NASDAQ:QCOM) hisseleri Cuma günü öğlen saatlerinde %11 yükselişte, Skyworks Solutions (NASDAQ:SWKS) %9 yukarıda ve Qorvo (NASDAQ:QRVO) %7 kazanç gösteriyor. Mobil ve RF (radyo frekansı) çip ticareti..."
+  },
+  "https://finnhub.io/api/news?id=6d5fd10ee32c33491825b076f6facae83af48bfb92492ce565859432dbf8d013": {
+    "headline_tr": "Cisco Bir Ayda %33 Yükseldi: Hisse Senedini Neden Satın Almanız Gerektiğini İşte Burada",
+    "summary_tr": "CSCO hisseleri, yapay zeka ağ iletişim siparişlerinin artması ve marj baskısına rağmen hiperölçekli yapay zeka görünümünün iyileşmesi nedeniyle bir ayda %33 yükseldi."
+  },
+  "https://finnhub.io/api/news?id=a3de0b1cf19da9e3d084882e38419197f96538ba3f82cb240535fe087a0b58ae": {
+    "headline_tr": "SpaceX Halka Arzı İçin Bir Sorun",
+    "summary_tr": "Trilyon dolarlık şirketler tipik olarak kârlıdır. SpaceX, halka arz kayıt beyanına göre 2025 yılında yaklaşık 5 milyar dolar zarar etmiştir."
+  },
+  "https://finnhub.io/api/news?id=296d0f1cfd057ad718ce563837713f68a813cb9bc954a40e751a569270a6bb04": {
+    "headline_tr": "Borsa Haftası Öncesi: Marvell, Dell ve Fed'in Enflasyon Göstergesi",
+    "summary_tr": "Borsa rekor seviyelerinde ve birkaç lider hisse alım noktasına yakın. Marvell, Dell ve Costco kazanç raporlaması gündemde, Fed'in enflasyon göstergesi de bekleniyor."
+  },
+  "https://finnhub.io/api/news?id=0eb8e4664bd457a5246ba883192b708445c3898c5c0de4fd29caa3932316379e": {
+    "headline_tr": "Micron ABD'de 1-Alpha DRAM Çipleri Üretmeye Başladı, 'Amerika'nın Yerli Hafıza Arzını Güçlendirecek' Diyor",
+    "summary_tr": "Şirket, kritik hafıza çipini üretmek için Virginia'daki Manassas tesisinde üretimi genişletmek amacıyla 2 milyar dolar yatırım yaptı."
+  },
+  "https://finnhub.io/api/news?id=cca96d9f60f209eb223533d201bc7ff6fec62614204a9045994880560d7631a0": {
+    "headline_tr": "Lam Research (LRCX) Son Kazanç Raporundan Bu Yana Neden %16,9 Yükseldi?",
+    "summary_tr": "Lam Research (LRCX) 30 gün önce kazanç raporu yayınladı. Hisse senedi için sırada ne var? Ipuçları için kazanç tahminlerine bakıyoruz."
+  },
+  "https://finnhub.io/api/news?id=52c7e240fd1c6c5545afecc5454c9999f5a8d9353ccdba99b555fc8aa62ef199": {
+    "headline_tr": "Lam Research Salzburg Laboratuvarı Yapay Zeka Paketlemesi Hedefliyor ve Yüksek Değerli Hisseler",
+    "summary_tr": "Lam Research, Avusturya'nın Salzburg şehrinde yeni bir araştırma laboratuvarıyla panel düzeyinde çip paketlemesine genişliyor. Laboratuvar, yapay zeka ile ilgili yarı iletken endüstrisinde çip yoğunluğunu artırmaya ve paketleme maliyetini azaltmaya odaklanıyor"
+  },
+  "https://finnhub.io/api/news?id=bdc4a0779cc4f70292a193e0c60f8561956893fb4bb0ddd2985afecca9a9854d": {
+    "headline_tr": "MRVL Q1 Kazançlarını Açıklayacak: Hisse Senedini Almak, Satmak mı yoksa Tutmak mı?",
+    "summary_tr": "Marvell Technology, Q1 kazanç sonuçlarına yapay zeka güdümlü veri merkezi talebinin, patlamaya hazır özel silikon büyümesinin ve artan rekabetin odak noktasında girmektedir."
+  },
+  "https://finnhub.io/api/news?id=8e11d0b51514adcd8a3977ecd4beacceac64107aab738359cdd6cd8bd15e7b5a": {
+    "headline_tr": "Melius Research, Qualcomm (QCOM) Fiyat Hedefini Yükseltti, Yapay Zeka Yarı İletken Stoklarında Daha Fazla Potansiyel Görüyor",
+    "summary_tr": "QUALCOMM Incorporated (NASDAQ:QCOM), Hedge Fonları Tarafından Satın Alınması Önerilen 10 Yüksek Kaliteli Hisse Senedi Arasında Yer Almaktadır. 18 Mayıs'ta Melius Research, QUALCOMM Incorporated (N) üzerindeki fiyat önerisini yükselttiklerini açıkladı"
+  },
+  "https://finnhub.io/api/news?id=296fae53fcfad729bcb6bea66bc836dc8c9eaa2486418267a705a364021fb6ad": {
+    "headline_tr": "Cuma Günü AMD Hissesine Ne Oluyor?",
+    "summary_tr": "AMD hissesi, CEO Lisa Su'nun 2nm Venice CPU ailesinde hacimli üretimi başlatmasıyla ön piyasada $457.82'ye yükseliyor. Muazzam $10 milyar Tayvan yatırımı ve %35 CPU pazar patlamasının 2026'da AMD'yi nasıl besleyeceğini görmek için."
+  },
+  "https://finnhub.io/api/news?id=9dcaa2727a256bcb1d8567a6e215994310ced0adf8d0336cecbaed204cc7f413": {
+    "headline_tr": "Asya'nın Yapay Zeka Ticareti Taiwan Yariiletkeninin Ötesine Genişliyor: Analist",
+    "summary_tr": "Yapay zeka ticareti genişledikçe, yatırımcılar Taiwan Yariiletkeninden MediaTek ve Samsung gibi yükselen kazananlara yöneliyorlar."
   }
 }
