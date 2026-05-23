@@ -1530,5 +1530,65 @@
   "https://finnhub.io/api/news?id=9dcaa2727a256bcb1d8567a6e215994310ced0adf8d0336cecbaed204cc7f413": {
     "headline_tr": "Asya'nın Yapay Zeka Ticareti Taiwan Yariiletkeninin Ötesine Genişliyor: Analist",
     "summary_tr": "Yapay zeka ticareti genişledikçe, yatırımcılar Taiwan Yariiletkeninden MediaTek ve Samsung gibi yükselen kazananlara yöneliyorlar."
+  },
+  "https://finnhub.io/api/news?id=3a50d8fba72a3edc31aa2c155957071fb430eda529cd0fa1d34e10ab4f8edb6e": {
+    "headline_tr": "SPHD 2012'den Beri Aylık Gelir Ödemeyi Aksatmıyor; İşte Serinin Kırılabileceği Durumlar",
+    "summary_tr": "Invesco S&P 500 Yüksek Temettü Düşük Volatilite ETF'si (NYSEARCA:SPHD) her ay hissedarlara gelir gönderiyor; dağıtımlar 2025'te yaklaşık %23 artarken, 2026 aylık ödemeleri yaklaşık olarak yükselme eğilimindedir"
+  },
+  "https://finnhub.io/api/news?id=d41b7108435f0388ebe28120d32f3bd754e12c3295ee91ebedb71bcd071dbb6f": {
+    "headline_tr": "AMD: Güçlü Yapay Zeka Satışları, Ancak Kazanç Zaten Fiyatlandırıldı",
+    "summary_tr": "AMD'nin Veri Merkezi franchises gerçek sonuçlar sağlıyor, ancak yaklaşık olarak 78 kez forward kazançtan piyasa, boğa senaryosunun gerektirdiği her olumlu sonucu zaten fiyatlandırdı."
+  },
+  "https://finnhub.io/api/news?id=29bf7aeac73037afaec12e1f775188b7f9ac8dd8c4c251224e075b36d4fbe84d": {
+    "headline_tr": "Şu Anda 3.000 Dolarla Satın Alınacak En İyi Warren Buffett Hisse Senetleri",
+    "summary_tr": "Artık Berkshire Hathaway'in portföyünden sorumlu olmasa da, seçimleri bir nedenden dolayı hala yerinde."
+  },
+  "https://finnhub.io/api/news?id=e00d924942ee5a58f05d6f51279a35809ac326da4180909350b226e3ecfa1ef8": {
+    "headline_tr": "Bellek Çipi Süper Döngüsü 2026: Micron ve Sandisk Neden Şu Anda En Sıcak Bahisler",
+    "summary_tr": "Bellek endüstrisinin yükselen geliri, bu hisse senetlerinin kızgın rallisinin devam etmesini sağlamalıdır."
+  },
+  "https://finnhub.io/api/news?id=36278d1c42e5b339d8233a4029b8c6b4c151181ec55ccfa7736c4dc397b27b44": {
+    "headline_tr": "Advanced Micro Devices (AMD) Hikayesi Yapay Zeka Iyimserliği ve Değerleme Endişeleriyle Nasıl Değişiyor?",
+    "summary_tr": "Advanced Micro Devices için temel durum adil değer tahmini yaklaşık 289,61 ABD dolarından yaklaşık 472,17 ABD dolarına hisse başına değişmiştir; bu, hisse senedinin değerleme modellerinde nasıl çerçevelendiğinin önemli bir değişimidir."
+  },
+  "https://finnhub.io/api/news?id=bf8abda452ad06e5122ed4f3f0fd104e739e7cd42f569e92d2b2d82170360cb4": {
+    "headline_tr": "Impinj, Lam Research ve FormFactor Hisseleri Yükselişte, Bilmeniz Gerekenler",
+    "summary_tr": "AI çip lideri Nvidia rekor satış ve gelir bildirdikten sonra öğleden sonra oturumunda bir dizi hisse yükselişe geçti. Bu artış, şirketin CEO'su tarafından AI altyapısına yönelik 'parabolik' talep olarak tanımlanan talep tarafından destekleniyor."
+  },
+  "https://finnhub.io/api/news?id=fd85f5a08ae43ecd05681bb2dced97d2133b6324cc62cdc70bfb3aa1c410bed1": {
+    "headline_tr": "Amphenol Neden AI ve Robotik Patlaması İçin En İyi Kazma-Kürek Seçimi",
+    "summary_tr": "Amphenol (APH) bir alım olabilir: Yapay zeka/veri merkezi büyümesi, elektrikli araç ve robotik katalizörleri ve düşük değerlenmiş 26x P/E - adil değer hedefi 144 dolar üzeri."
+  },
+  "https://finnhub.io/api/news?id=060c503a6717e67a9eb3a51c0f5cf399f9edfc374e4fa24c68c853aa00d35091": {
+    "headline_tr": "Micron (MU) Hissesi Bugün Neden Yükselişte",
+    "summary_tr": "Bellek çipi üreticisi Micron'un (NASDAQ:MU) hisseleri, yapay zeka çipi lideri Nvidia'nın rekor satış ve gelir bildirmesinin ardından öğleden sonra oturumunda %2,3 oranında yükseldi. Nvidia CEO'su bunu 'parabolik' talep olarak tanımladı"
+  },
+  "https://finnhub.io/api/news?id=162293c11b236a00311f0cf02a4cd7caf84dc352d7069a8edc6728afca81c93c": {
+    "headline_tr": "Alphabet ve AMD, Russell Endekslerini Yeniden Yapılandırırken Değer Hisse Senedi Statüsünden Çıkarıldı",
+    "summary_tr": "FTSE Russell, Cuma günü pazar kapanışından sonra endekslerindeki değişikliklerin ön listesini açıkladı ve bazı Büyük Teknoloji şirketleri yeniden sınıflandırılıyor. Google'ın ana şirketi Alphabet ve Advanced Micro Devices..."
+  },
+  "https://finnhub.io/api/news?id=18f75ab7ef49dc790477c4d913ec8a1a95606ae6886943695fc48fe7160fce35": {
+    "headline_tr": "Dow Jones Vadeli İşlemleri: Borsa Yükseklere Geri Döndü; Tesla, Bu Beş Yapay Zeka Hissesi Satın Alma Noktasında",
+    "summary_tr": "Borsa güçlü haftalık kazançlarla geri döndü ve lider hisseler yükselişe geçti. Tesla, ASML ve diğer birkaç yapay zeka hissesi ile birlikte satın alma noktasına yakın. İşte yapılması gerekenler."
+  },
+  "https://finnhub.io/api/news?id=86c64e14d4c265f1516b605d4bc5eed4d6bf546dc7f9eda57b531c1f1b0c4d7c": {
+    "headline_tr": "Hisse Senetleri İran Barış Umutları ve Teknoloji Gücü ile Yükseldi",
+    "summary_tr": "S&P 500 Endeksi (SPX) (SPY) Cuma günü %0,37 yükselerek, Dow Jones Endüstriyel Ortalaması (DOWI) (DIA) %0,58 yükselerek ve Nasdaq 100 Endeksi (IUXX) (QQQ) %0,42 yükselerek kapandı. Haziran E-mini S"
+  },
+  "https://finnhub.io/api/news?id=291bd3da85ecd4c1124bdfb5cd792a9066732e22e8cba67a0eaa10dfe825ac84": {
+    "headline_tr": "SpaceX Paradoksu: Para Kaybeden Bir Şirket Nasıl 2 Trilyon Dolar Değerinde Olabilir?",
+    "summary_tr": "Trilyon dolarlık şirketler tipik olarak kârlıdır. SpaceX, halka arz kayıt beyanına göre 2025'te yaklaşık 5 milyar dolar kaybetmiştir."
+  },
+  "https://finnhub.io/api/news?id=e0c0d759f074fc87eef2a811efbbd7340611ea44925d85bee17be1b84384acac": {
+    "headline_tr": "Nesil Başına Bir Kez Yaşanan Fırsat: Muazzam Artış Potansiyeline Sahip 5 Yapay Zeka (AI) Hissesi",
+    "summary_tr": "Yapay zeka altyapı kurulumu henüz başlangıç aşamasında ve bu şirketler bundan faydalanmak için konumlanmıştır."
+  },
+  "https://finnhub.io/api/news?id=162fede4e6d5e45da9ff0e60a7e1b6ef789f6b092e1d9b6bc0187959e617312e": {
+    "headline_tr": "Wall Street Lam Research Hissesi Konusunda Boğa mı Ayı mı?",
+    "summary_tr": "Lam Research geçtiğimiz yıl içinde genel piyasayı geride bıraktığı için, Wall Street analistleri hissenin beklentileri konusunda güçlü bir iyimser görünüm sürdürmektedir."
+  },
+  "https://finnhub.io/api/news?id=d2b985ef480d298652ccb84ff0b6f49e41d7b0cdd87141b2666c00649575acc2": {
+    "headline_tr": "Broadcom Hızlanan Yarıiletken Gelirlerine Binişi: Önümüzde Neler Var?",
+    "summary_tr": "AVGO'nun yapay zeka odaklı yarıiletken büyümesi Q1'de hız kazanıyor ve yapay zeka gelirleri ikiye katlanırken hiper ölçekli talep daha güçlü Q2 tahminlerini destekliyor."
   }
 }
