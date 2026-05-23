@@ -1590,5 +1590,29 @@
   "https://finnhub.io/api/news?id=d2b985ef480d298652ccb84ff0b6f49e41d7b0cdd87141b2666c00649575acc2": {
     "headline_tr": "Broadcom Hızlanan Yarıiletken Gelirlerine Binişi: Önümüzde Neler Var?",
     "summary_tr": "AVGO'nun yapay zeka odaklı yarıiletken büyümesi Q1'de hız kazanıyor ve yapay zeka gelirleri ikiye katlanırken hiper ölçekli talep daha güçlü Q2 tahminlerini destekliyor."
+  },
+  "https://finnhub.io/api/news?id=db0f9ab32b153f085d94d5cbe2235c8cf8c7599a88510bc5ef83f0079ddd6672": {
+    "headline_tr": "NVIDIA Corporation (NVDA) Şu Anda Yatırım Yapılacak En İyi Yarıiletken Hisse Senetlerinden Biri mi?",
+    "summary_tr": "NVIDIA Corporation (NASDAQ:NVDA) şu anda yatırım yapılacak en iyi yarıiletken hisse senetlerinden biridir. NVIDIA Corporation (NASDAQ:NVDA), 20 Mayıs'ta mali dönem Q1 2027 için finansal sonuçlarını açıkladı ve"
+  },
+  "https://finnhub.io/api/news?id=6fdeab5cd69f7a3fb8d391bccf6088d52bea7d2c0c5402acc588393f0cffcd0b": {
+    "headline_tr": "Micron Technology Inc (NASDAQ:MU) Navellier'in Sekiz Sütunlu Büyüme Taramasından Geçti",
+    "summary_tr": "Micron Technology, Louis Navellier'in sekiz büyüme hisse senedi kriterini karşılıyor; %103 kazanç revizyonu, %85 satış büyümesi ve %410 nakit akışı artışı gösteriyor. Bu kanıtlanmış stratejinin en iyi hisse senetlerini nasıl belirlediğini keşfedin"
+  },
+  "https://finnhub.io/api/news?id=c7f1233f4e71bce994aefb4f3ad142b17c2f440df20e9e0e166f9320b8ac8d55": {
+    "headline_tr": "Ticaret Yapmak İstemeyen Yatırımcılar İçin İnşa Edilen AI Hisse Senedi -- Sadece Bileşik",
+    "summary_tr": "Google, Gemini'yi bir kar motoruna dönüştürüyor."
+  },
+  "https://finnhub.io/api/news?id=007ce9c736aac89f9235eaa22322e32740f63e30c71a29e51b5d1720f9b81bd6": {
+    "headline_tr": "Chainlink Hiç Duymadığınız En Önemli Kripto Para Olabilir",
+    "summary_tr": "Chainlink, benimseme arttıkça yükselişe geçebilecek bir kazma-kürek blockchain oyunudur."
+  },
+  "https://finnhub.io/api/news?id=ba3bdb01cf811ae640c6d10ad80b8fe601a685adfe9b95d1341d1892d9288e6c": {
+    "headline_tr": "Micron'un ABD 1-Alpha DRAM Üretimi AI Hikayesini ve Değerleme Risklerini Tetikliyor",
+    "summary_tr": "Micron Technology, Virginia'nın Manassas tesisinde ileri 1-alpha DRAM'ın ABD hacim üretimini başlatmıştır. Bu hamle, savunma, otomotiv ve diğer sektörler için yerli bellek arzını genişletmektedir."
+  },
+  "https://finnhub.io/api/news?id=ca7b0408f7f9b0881b3f1e622b6d6e87d1cb776474147ae69adcabde9f1babe4": {
+    "headline_tr": "Applied Materials, Değerleme Tartışması Büyürken UCLA AI Çip Merkezini Seçti",
+    "summary_tr": "Applied Materials (NasdaqGS:AMAT), Meta, Broadcom, GlobalFoundries ve Synopsys ile birlikte UCLA'da yeni 125 milyon dolarlık bir yariiletken araştırma merkezini finanse etmek için ortaklık yapıyor. Merkez, yeni nesil çip teknolojilerine odaklanmaktadır."
   }
 }
