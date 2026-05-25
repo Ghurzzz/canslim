@@ -1746,5 +1746,53 @@
   "https://finnhub.io/api/news?id=569b1534135a7fb18c8b38e1b5b54db688f668d484dccdb84178f54a364af385": {
     "headline_tr": "D-Wave, Dell ve IonQ Geçen Hafta En İyi 10 Büyük Kapasite Kazananı Arasında (18-22 Mayıs): Diğerleri Portföyünüzde mi?",
     "summary_tr": "Kuantum bilişim, yapay zeka ve yariiletken bağlantılı hisse senetleri geçen haftanın büyük kapasite kazananlarını domine etti çünkü yatırımcılar yeni hükümet finansmanı, analist iyimserliği, düzenleyici onaylar ve genişleyen veri tabanını kutladı"
+  },
+  "https://finnhub.io/api/news?id=247ad0413dad8b943bad0d84eca3e16b1edfbe64988dd0ec4362481281b6fa19": {
+    "headline_tr": "SSR Mining, Copler Madenindeki Hissesini 1.5 Milyar Dolara Satıyor. Bu Madencilik Hissesi İçin Olumlu Bir İşaret mi?",
+    "summary_tr": "Altın madencisi güçlü bir yılı geride bırakmış olup, güçlü bir bilançoyu oluştururken bu yılın daha da iyi olacağını beklemektedir."
+  },
+  "https://finnhub.io/api/news?id=e8e05ff97cb7640fbdd1c114da21e1dcac33f647672ded7821fd9aa12c3dda25": {
+    "headline_tr": "AGNC Investment'ın Net Faiz Marjı Neden %14 Temettü Veriminden Daha Önemlidir",
+    "summary_tr": "Bu mREIT'in temel işi bu dalgalı piyasada yavaş yavaş istikrar kazanıyor."
+  },
+  "https://finnhub.io/api/news?id=12b6f4e29bda72417170cf7cb55ac74d787836b2fd5207ac18a6d880e8f7e012": {
+    "headline_tr": "5 Yıl Önce SMH'ye Sadece 1.000 Dolar Yatırsaydınız, Bugün Ne Kadar Olurdu",
+    "summary_tr": "Yarı iletken hisse senetleri son birkaç yılda çok sıcak günler geçirdi. Ne kadar sıcak olduğu sizi şaşırtabilir."
+  },
+  "https://finnhub.io/api/news?id=3585ed086033b9ca576398640a2dd295f03ef0c4b88cc511007c2bc997d13252": {
+    "headline_tr": "VIG'e Aylık 500 Dolar Temettü Elde Etmek İçin Ne Kadar Yatırım Yapmanız Gerekir",
+    "summary_tr": "Vanguard Dividend Appreciation ETF (VIG), en tutarlı temettü büyümesi fonlarından biri olabilir. Ancak en yüksek getirili olanlardan biri değildir."
+  },
+  "https://finnhub.io/api/news?id=96069cb3870c28384d269879d0c50f6f5381d12504f47bf1e16e5f06d5613831": {
+    "headline_tr": "IREN'in CEO'su Yapay Zeka Patlamasına Acı Bir Gerçeklik Kontrolü Yapan 11 Kelimeyi Söyledi",
+    "summary_tr": "Yapay zeka patlaması, erken internet çağından bu yana en büyük altyapı yarışlarından birini başlattı. Nvidia (NASDAQ:NVDA) GPU'ları paketlenmesinden daha hızlı satılıyor. Yüksek bant genişliği"
+  },
+  "https://finnhub.io/api/news?id=87fbb769233092e7b6e29b1aa2d324831fcc8d634ba5c971e5a8511e2734133c": {
+    "headline_tr": "VIG Yatırımcıları: Bu Hafta 10 Yıllık Treasury Verimini İzleyin—%4,75 Tehlike Çizgisidir",
+    "summary_tr": "Vanguard Dividend Appreciation Index Fund ETF Shares (NYSEARCA:VIG) hissesi yaklaşık 229 dolarda ve yılbaşından bu yana %5 kazançla, büyük ölçekli temettü büyümesi itibarına göre daha sakin bir yıl geçirmektedir"
+  },
+  "https://finnhub.io/api/news?id=5afb5c49125a07c6341167b5d7a411286d6e119de9b85d9ac8eda92c11bed9f4": {
+    "headline_tr": "Advanced Micro Devices, Inc. (AMD) Trend Olan Bir Hisse Senedi: Yatırım Yapmadan Önce Bilmeniz Gerekenler",
+    "summary_tr": "Advanced Micro (AMD), son zamanlarda Zacks.com kullanıcıları tarafından en çok takip edilen hisse senetlerinden biri olmuştur. Bu nedenle, hisse senedinin geleceğinde neler olacağını araştırmaya değer."
+  },
+  "https://finnhub.io/api/news?id=0a7de7050add3d6d0484f8c807ba318d77c459bf517706bcf9c88006b596f424": {
+    "headline_tr": "Micron'un %50 Sorunu: Neden Çok Az Mikroçip Olması Yatırımcıları Zengin Yapıyor",
+    "summary_tr": "Micron Technology (NASDAQ:MU) CEO'su Sanjay Mehrotra, 22 Mayıs 2026'da şirketin Virginia'daki Manassas tesisinden Bloomberg röportajında, bellek döngüsünü yatırımcılar için yeniden çerçevelendiren bir mesaj sundu"
+  },
+  "https://finnhub.io/api/news?id=6ff2e07bf8048115335b671f4a956bc778e86c33987343331dd0c97ee6a519a7": {
+    "headline_tr": "İndeks Yatırımcılarını Korkutması Gereken Matematik: Yapay Zeka Çipleri S&P 500 Kazançlarının Neredeyse Tümünü Oluşturuyor",
+    "summary_tr": "Her pasif indeks yatırımcısını duraksamaya geçirmesi gereken veri noktası şu: Retire SMART Podcast Bölüm 416'da sunucu matematiği ortaya koydu: \"Eğer Nvidia, AMD gibi yapay zeka çiplerini çıkarırsak, bunlar...\""
+  },
+  "https://finnhub.io/api/news?id=6f1e7fbbc8c3796a1f5607147a2721240c79f27c921c8c085aac3138de1e450a": {
+    "headline_tr": "AI Çipleri Güncellemesi - AI Platformu Gausspeed Dijital İçerik İş Akışı Verimliliğini Artırıyor",
+    "summary_tr": "Global Mofy AI Limited, üretken yapay zeka platformu Gausspeed için önemli bir geliştirme kilometre taşını duyurmuştur. Bu ilerleme, NVIDIA Omniverse'i şirketin kapsamlı 3D dijital teknolojileriyle entegre etmektedir."
+  },
+  "https://finnhub.io/api/news?id=0fae78711cf7e6581fbf2cfa1ca5e950e84f1c925f3f2f8ca7548eab1a93ab8d": {
+    "headline_tr": "BofA'nın Vivek Arya, Agentic AI'nin \"Benzeri Görülmemiş\" Çip Döngüsünü Sürüklemesiyle Nvidia'yı 350 Dolardan Görüyor",
+    "summary_tr": "Bank of America'nın Vivek Arya, fikir birliğinin çok üzerinde bir rakamla CNBC'ye çıktı. NVIDIA (NASDAQ:NVDA) üzerindeki fiyat hedefi 350 dolar, hisse senedi 215 dolar civarında işlem görüyor. Arya uzun vadeli bir pozisyon almaktadır"
+  },
+  "https://finnhub.io/api/news?id=cd47c0dbb6246ee063c16026cc4d59a62863d6dd2edf45b603b6642ac336a896": {
+    "headline_tr": "Marvell Hisse Senedi Kazanç Sonrası Ne Kadar Hareket Etmesi Bekleniyor?",
+    "summary_tr": "Marvell Technology'nin kazanç sonuçları Çarşamba öğleden sonra açıklanacak ve yarı iletken hissesinin sonuçlar sonrasında yeni bir rekor seviyeye çıkması bekleniyor."
   }
 }
