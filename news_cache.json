@@ -1794,5 +1794,45 @@
   "https://finnhub.io/api/news?id=cd47c0dbb6246ee063c16026cc4d59a62863d6dd2edf45b603b6642ac336a896": {
     "headline_tr": "Marvell Hisse Senedi Kazanç Sonrası Ne Kadar Hareket Etmesi Bekleniyor?",
     "summary_tr": "Marvell Technology'nin kazanç sonuçları Çarşamba öğleden sonra açıklanacak ve yarı iletken hissesinin sonuçlar sonrasında yeni bir rekor seviyeye çıkması bekleniyor."
+  },
+  "https://finnhub.io/api/news?id=9023b961e223fdcb7d9bddede2c4aa0428f66a3033d8e7428a680944f922deb1": {
+    "headline_tr": "İlk AI Rallisini Kaçırdınız mı? Bu 3 AI Hissesi Yeni Başlıyor.",
+    "summary_tr": "Son dönemdeki yükselişe rağmen AI sektöründe hala çok fazla yükseliş potansiyeli vardır."
+  },
+  "https://finnhub.io/api/news?id=51dd076689a1ec4511af90b032f1e7e3871d200e481928da6f57719a9c3110ab": {
+    "headline_tr": "Jim Cramer, Yalnızca Teknoloji Yatırımcılarından Stratejisine Onay Vermeden Önce Talep Ettiği Bir Şey",
+    "summary_tr": "Jim Cramer, hemen hemen tamamen kendi hisse senedi tavsiyelerine dayalı olarak inşa edilmiş bir portföyü onaylamayı reddetti ve bu dersin üzerinde durmaya değer olduğu açıktır. Mad Money'nin 22 Mayıs bölümünde, bir çağrıda..."
+  },
+  "https://finnhub.io/api/news?id=37b3731da6272d1122223e9df20ca0c27e9f1ba5ef8e492d0bd1c114a44e08a2": {
+    "headline_tr": "Bu Teknoloji Hissesi Düştü -- ve Geçmişte Her Bu Durumda Bir Fırsat Olmuştur",
+    "summary_tr": "Microsoft hissesi nadiren bu kadar düşük değerleme seviyelerinde işlem görmektedir."
+  },
+  "https://finnhub.io/api/news?id=6593bd44102ae92697bbd6be4e0a083810a335f401e43ef22bde6baed9028aae": {
+    "headline_tr": "Yapay Zeka (AI) Hisseleri Çok Sıcak, Ama İşte Neden Onlara Dokunmuyorum",
+    "summary_tr": "Yüksek değerli hisseleri kovalamak, yatırımcıları daha sonra önemli düşüşlere karşı savunmasız bırakabilir."
+  },
+  "https://finnhub.io/api/news?id=abe6d3aec7daf21172e020c6d229ad7e16f49343f1733c3a9cd386f10d64c8fb": {
+    "headline_tr": "Micron (MU) Sağlam Bir Büyüme Hissesi mi? Evet Demek İçin 3 Neden",
+    "summary_tr": "Micron (MU), sağlam büyüme özellikleri nedeniyle istisnai getiriler sağlayabilir."
+  },
+  "https://finnhub.io/api/news?id=a3063045d31e708e53ce34cbc558765d2e64bfbdc1fc58d22f092caddf3f6278": {
+    "headline_tr": "Bu Invesco ETF'si Bugün Mevcut En Değersiz Kalmış Endeks Fonu Olabilir",
+    "summary_tr": "Ve hayır, bu Invesco QQQ değildir."
+  },
+  "https://finnhub.io/api/news?id=834b645ecbacfbc9d334bec9b93e7aaf8268274f6c64cb44a98f671a1cbe3546": {
+    "headline_tr": "Baron Opportunity Fund Q1 2026 Portföy Aktivitesi",
+    "summary_tr": "İlk çeyrek döneminde, Google'ın ana şirketi olan ve dünyanın en değerli teknoloji şirketlerinden biri olan Alphabet Inc.'de bir pozisyon açtık."
+  },
+  "https://finnhub.io/api/news?id=89b1e13bb4537b66ac90220cb12550638e8b3a03c8fb58c1aa93459879732262": {
+    "headline_tr": "Huawei Çip Üretiminde Atılım Yaptığını Söyledi. ABD Yaptırımları Geri Teper mi?",
+    "summary_tr": "Huawei, TSMC ile arasındaki farkı kapatabilecek bir çip üretim atılımı yaptığını söyleyerek, ABD'nin yariiletken yaptırımlarının Çin'in teknolojik bağımsızlığa yönelik çabalarını hızlandırıp hızlandırmadığı sorusunu gündeme getirdi."
+  },
+  "https://finnhub.io/api/news?id=8d19621e07a712e8652f2afce1a0117f591df83d8e5a10a93f0209ec81abd783": {
+    "headline_tr": "Opsiyon Volatilitesi ve 25-29 Mayıs Için Kazanç Raporu",
+    "summary_tr": "Kazanç sezonunun sona ermesine rağmen, hala birkaç büyük şirketin rapor vereceği haftalar kaldı. Bu hafta Dell Technologies, Marvell Technology, Snowflake, Salesforce ve Costco'nun hepsi rapor verecek."
+  },
+  "https://finnhub.io/api/news?id=e51bd70afadfe26bf5f98604d8cc35bebf79745b692ef2317f1ae210df1fb5f0": {
+    "headline_tr": "TSM Hissesinin Yükseliş Trendi En İyi Analistin 'En Güvenilir AI Compounder' Çağrısını Doğruluyor",
+    "summary_tr": "TSM hisse senedi momentumu ilk %10'a yükseliyor, Bernstein'ın 430 dolar fiyat hedefini ve 'en güvenilir AI compounder' çağrısını doğruluyor."
   }
 }
