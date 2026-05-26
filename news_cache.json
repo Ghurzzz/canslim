@@ -1914,5 +1914,73 @@
   "https://finnhub.io/api/news?id=695b3004a15745e63970135c8166c2ecbf095b9417c59d5d47b95f3a7f00f63a": {
     "headline_tr": "iPhone 17e'nin Japonya'da Öncülüne Karşı Gerilemesinin Gerçek Nedeni",
     "summary_tr": "Apple iPhone 17e satışları güçlü bir başlangıçtan sonra Japonya'da yavaşladı ve 16e'nin gerisinde %9,8 oranında kaldı, diyor Counterpoint. Tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=4168be8d66f96deb247d2ca939ccd5c207dca8c34ca122764ace76779e4dd396": {
+    "headline_tr": "Pazar Çöküşü: Şu Anda Satın Almak İçin En İyi 3 Temettü Hissesi",
+    "summary_tr": "Bir pazar düşüşüne hazırlanıyorsanız, Pepsi, Black Hills ve Colgate-Palmolive'e yatırım yapmayı düşünün."
+  },
+  "https://finnhub.io/api/news?id=f1d88ce0dd2b7e6cf82d0136e081f23d0fe5bbb4cdb2328cdf5f10452b709278": {
+    "headline_tr": "Micron'un değerlemesi 1 trilyon dolara ulaştı, Eli Lilly ve Berkshire ile neredeyse eşit",
+    "summary_tr": "Micron (MU) 2011'den bu yana en iyi işlem gününü yaşıyor ve 1 trilyon dolarlık bir değerlemeyle kapanmaya hazırlanıyor; bu, pazar değerini Eli Lilly (LLY) ve Berkshire Hathaway'inkileriyle neredeyse eşit hale getirecek."
+  },
+  "https://finnhub.io/api/news?id=e677dfc6ce51f491fd358f1737111902885a3d69025cffa0aa3b975c9d7f3654": {
+    "headline_tr": "Cisco Bir Ayda %32 Yükseldi, Arista %10 Düştü, Broadcom Sabit Kaldı: Yapay Zeka Ağ Ticaretinin Net Kazananı Var",
+    "summary_tr": "Yapay zeka ağ ticareti yılın en keskin liderlik değişimlerinden birini üretmiş ve bu, birçok yatırımcının vazgeçtiği şirketi desteklemektedir. Geçtiğimiz ay içinde Cisco Systems (NASDAQ:CSCO) hissesi"
+  },
+  "https://finnhub.io/api/news?id=cad5c88b6fbe36f41558778e52c9c023d3a7e6ce188619f0661038e5381d92e8": {
+    "headline_tr": "UBS'e Göre Micron 'Geliştirilmiş' Uzun Vadeli Anlaşmalardan Faydalanmaya Hazır",
+    "summary_tr": "Micron Technology'nin (MU) değerlemesi, bellek alanındaki uzun vadeli anlaşmalardan daha da artacaktır"
+  },
+  "https://finnhub.io/api/news?id=ea54b40978a461dcea706d3526708067d7ae76a31183df3be0a7a9cd5576b974": {
+    "headline_tr": "Nvidia Tüm Kredileri Alıyor, Ancak Bu 4 Hisse 725 Milyar Dolarlık Yapay Zeka İnşaatını Sessizce Yakalıyor",
+    "summary_tr": "Bu sermayenin çoğu muhtemelen bir şekilde bu diğer şirketlere aktarılıyor."
+  },
+  "https://finnhub.io/api/news?id=37542323f02d9c5983a631e1cecb3e98174f617e873dbba188e4c4837c3d5da6": {
+    "headline_tr": "Micron (MU) Hisse Senedi Neden Bugün Yükselişte",
+    "summary_tr": "Bellek çipi üreticisi Micron'un (NASDAQ:MU) hisseleri, UBS analisti Timothy Arcuri'nin fiyat hedefini 535 dolardan 1.625 dolara üçe katlamasının ardından sabah seansında %16,8 yükseldi ve hisse senedini 1 trilyon doların üzerine taşıdı"
+  },
+  "https://finnhub.io/api/news?id=3c6c480c4bd2c43e82374dbb838503b278c91a37c1ec03337c9d04dff333e156": {
+    "headline_tr": "Salı günü S&P500 hisse senetlerinde hangileri öne çıkıyor öğrenin.",
+    "summary_tr": "Bugünün seansında S&P500 hisse senetleri arasındaki en son gelişmeleri keşfedin. Salı günü S&P500 endeksinin en çok kazanan ve kaybeden hisse senetlerine dikkat edin."
+  },
+  "https://finnhub.io/api/news?id=1b69fa90e460dbd254f4dc59b02bcce3d6813f2675522654ba142caf8ebe6b2f": {
+    "headline_tr": "Nvidia, AMD ve Intel Hisse Yatırımcıları için 200 Milyar Dolarlık Bir Uyarı Sunuyor",
+    "summary_tr": "Nvidia, şu anda AMD ve Intel tarafından hakim olan hızla büyüyen bir pazarda büyük bir etki yaratmaya hazırlanıyor."
+  },
+  "https://finnhub.io/api/news?id=6d13c52e11a18f84d6c789bb9369e23e93c81968ae73657e4352f422c6424153": {
+    "headline_tr": "Temettü Ödeyen Bu Çip Hissesi Fiyatını İkiye Katladı ve Analistler Bunun Hala %50 Düşün Değerlendiğini Söylüyor",
+    "summary_tr": "Marvell Technology (NASDAQ:MRVL) hiperscaler veri merkezleri için özel silikon ve ağ çipleri tasarlamaktadır. Portföy, özel AI XPU'ları, elektro-optik, PAM DSP'leri ve DCI modüllerini kapsıyor ve şirket"
+  },
+  "https://finnhub.io/api/news?id=8c2599b2aa13493e0decf16c3d40e65e324c7f671b45a6fb96e33f4271b82142": {
+    "headline_tr": "AMD Hissesi Yeni Nesil AI Çipi Üretim Aşamasına Girdikçe Rekor Seviyeye Yükseliyor",
+    "summary_tr": "Lisa Su Yeni AI Büyüme Dalgasını İşaret Ettikçe AMD Yeni Zirveye Ulaştı"
+  },
+  "https://finnhub.io/api/news?id=cc22ca3a129c86fc7eeb89dacbe49b5d1c9a81682e0f08ba6c61bd4b3acd627c": {
+    "headline_tr": "NVDA Rekor Gelire Rağmen 2 Haftada Neredeyse %10 Düştü: Neler Oluyor?",
+    "summary_tr": "Nvidia Corp (NASDAQ:NVDA) bu ay kurumsal tarihin en dengesiz çeyreklerinden birini rapor ettiğinde, hisse senedi hemen hemen hiç tepki göstermedi. Çip devi, %8 artışla birinci çeyrek gelirini 81,6 milyar dolar olarak açıkladı."
+  },
+  "https://finnhub.io/api/news?id=087af345786dd1466a2f1190ee09d44a9ff94a993dcee8063681405454fc540b": {
+    "headline_tr": "$1 Trilyon Micron, Marvell AI Ralliyi Haftaya Başlatıyor. Wall Street'in Sonra Neler Izlediği İşte Burada",
+    "summary_tr": "Micron ve Marvell, Salı günü teknoloji ve yapay zeka hisse senetlerini yükseğe taşıyarak tatil günü kısaltılan ticaret haftasına başladı. Wall Street analisti, bundan sonra daha fazla kazanç olabileceğini ileri sürüyor."
+  },
+  "https://finnhub.io/api/news?id=473474130ab91aae926ee4e54918696b7906e0d8a45479ad637cf96d39f6751b": {
+    "headline_tr": "Hisse Senetleri Savaş Güncellemelerini Takip Ederken Gün İçinde Karışık Seyretti",
+    "summary_tr": "ABD kıyaslama hisse senedi endeksleri, tüccarlar savaştaki son gelişmeleri takip ederken gün içinde karışık bir seyir izledi"
+  },
+  "https://finnhub.io/api/news?id=e519cbdc6fd40d2c8726dec7830b2e21becc74af5bd20234f9f18ab6d95bbe07": {
+    "headline_tr": "Bu Yapay Zeka (AI) Çip Hissesi Az Önce Nvidia, Broadcom, Taiwan Semiconductor ve Samsung ile 1 Trilyon Dolar Kulübüne Katıldı. Şimdi Satın Almak İyi Bir Seçim mi?",
+    "summary_tr": "Olağanüstü bir yükselişin ardından Micron elit kulübe katıldı."
+  },
+  "https://finnhub.io/api/news?id=699199b35c020b7791a39c6e9800de36f1d40213c6798b3117bdad4e7dca0b76": {
+    "headline_tr": "3 Güçlü İçeriden Hissedar Payına Sahip Büyüme Şirketine Spotlight",
+    "summary_tr": "Amerika Birleşik Devletleri pazarı geçen hafta %1,2'lik bir artış ve geçtiğimiz yıl dikkat çekici %29'luk bir artış göstermiş olup, yıllık %17 oranında kazanç büyümesi beklentileri eşliğinde güçlü bir performans sergilemiştir."
+  },
+  "https://finnhub.io/api/news?id=3b5182eaa685c41779a870504395ac24d4965234a1e1baf93600c50662df456c": {
+    "headline_tr": "TSMY: Güçlü Performansla Aldatılmayın",
+    "summary_tr": "TSMY yüksek haftalık gelir sağlıyor ve mevcut getirisi %53'e yakın, ancak yüksek risk taşıyor ve yukarı yönlü potansiyeli sınırlı. TSMY ETF hakkında daha fazla bilgi için okuyun."
+  },
+  "https://finnhub.io/api/news?id=454816fa2e6cfcf643191856aa42224f5819e858e4fe733f0d7f721fa3d25bd2": {
+    "headline_tr": "Northland, değerleme ve veri merkezi harcama endişeleri nedeniyle Intel ve Astera Labs'ı düşürüyor",
+    "summary_tr": "Investing.com -- Northland Capital Markets, Salı günü Intel ve Astera Labs'ı Pazar Performansına indirdi; gerilmiş değerlemeler ve hiper ölçekli yapay zeka harcamalarına ilişkin artan endişeler nedeniyle"
   }
 }
