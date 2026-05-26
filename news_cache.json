@@ -1834,5 +1834,85 @@
   "https://finnhub.io/api/news?id=e51bd70afadfe26bf5f98604d8cc35bebf79745b692ef2317f1ae210df1fb5f0": {
     "headline_tr": "TSM Hissesinin Yükseliş Trendi En İyi Analistin 'En Güvenilir AI Compounder' Çağrısını Doğruluyor",
     "summary_tr": "TSM hisse senedi momentumu ilk %10'a yükseliyor, Bernstein'ın 430 dolar fiyat hedefini ve 'en güvenilir AI compounder' çağrısını doğruluyor."
+  },
+  "https://finnhub.io/api/news?id=b44363f0b91318385037e0556dcb04ad2f89968b617236734981e2817a8aece9": {
+    "headline_tr": "Bugünün seansında dow jones endeksinin en büyük hareketlerini inceleme",
+    "summary_tr": "Bugünün seansında dow jones endeksinde neler olduğunu merak mı ediyorsunuz? Salı günü dow jones endeksindeki en büyük hareketlerle ilgili bilgi sahibi olun."
+  },
+  "https://finnhub.io/api/news?id=2458fbf0ae345aa834f31ae8840cf924b51202cce4ef8cced649e650e88d3011": {
+    "headline_tr": "S&P500 endeksinde bugünkü seansda en çok hareketlenenleri keşfetmek.",
+    "summary_tr": "S&P500 endeksinde bugünün seansında neler olduğunu merak mı ediyorsunuz? Salı günü S&P500 endeksinde en çok hareketlenenleri takip ederek bilgi sahibi kalın."
+  },
+  "https://finnhub.io/api/news?id=1fed41094b0cab6c107737cb39e7fede8cc421d16dd9f88ef8a52acbed9a39c1": {
+    "headline_tr": "Alpha Compute: 21 Milyon Dolarlık NTM Satış Beklentisi Ölçek Büyütme Potansiyelini Gösteriyor – Üç Aylık Güncelleme Raporu",
+    "summary_tr": "Tam Raporu İndirin Alpha Compute Corp. (ALP) Gelir Getiren AI Bilişim Dönüşümü Artık Görülüyor; 21 Milyon Dolarlık NTM Satış Beklentisi Ölçek Büyütme Potansiyelini Vurguluyor Ana Çıkarımlar: 32,2 Milyon Dolarlık AI"
+  },
+  "https://finnhub.io/api/news?id=227da2eba428cf8637d6b4373715621afdabae41323f6a58a2c7fd8026326e55": {
+    "headline_tr": "SpaceX'i Unutun: Sıradaki Sıcak IPO Burada ve Bu Bir Kuantum Bilgisayar Hissesi",
+    "summary_tr": "IPO piyasası yeniden uyanıyor ve SpaceX kadar çok ses getiren birkaç teklif var. Elon Musk'ın ünü, şirketin aradığı bildirilen çok trilyon dolarlık değerlendirmesi ve doktor"
+  },
+  "https://finnhub.io/api/news?id=758fe72319df7ef4ad5ac3043f36c63d2ae97597cfa2a7edec35034aa58ed51b": {
+    "headline_tr": "Öğle Saati En Önemli Haberler: Micron'un Pazar Değeri Kısa Süre İçin 1 Trilyon Dolara Ulaştı; Qualcomm'un ByteDance ile Yapay Zeka Çipi Anlaşması Yaptığı Bildirildi",
+    "summary_tr": "Nasdaq Composite ve S&P 500 yükselişte olurken, Dow Jones Endüstriyel Ortalaması hafif düşüş gösterdi"
+  },
+  "https://finnhub.io/api/news?id=ee4601e5ff6081ab99a28e43201424f4d09f98ffdc9268ee833ea341a4c38e76": {
+    "headline_tr": "Bir Uzman Broadcom'u 630 Dolarla Görüyor — ve Yapay Zeka Altyapısı Matematiği Durumu Destekliyor",
+    "summary_tr": "Broadcom (NASDAQ:AVGO) hisseleri Nisan ayında yükselişten sonra yana doğru dalgalanmaktadır. Ve adı yarı iletken sahnesindeki birçok emsalinden çok daha az sıcak olsa da, kazanımlar"
+  },
+  "https://finnhub.io/api/news?id=f205eb0abfa44a143d5451c002c37c8ffebeefec659daa61b9a7097c1e6a2210": {
+    "headline_tr": "Qualcomm, TikTok Sahibi ByteDance ile Yapay Zeka Çipi Anlaşması İmzaladı",
+    "summary_tr": "(Bloomberg) -- Qualcomm Inc., TikTok'un sahibi ByteDance Ltd. ile yapay zeka veri merkezleri için çip tedariki konusunda bir anlaşmaya vardı. Konuya hakim kişilere göre bu, şirket için önemli bir başarıdır."
+  },
+  "https://finnhub.io/api/news?id=8bd938bf4a1d2c1f02c43a808a7754335fa62e3d02b863688b794bcf93a5c9e6": {
+    "headline_tr": "Broadcom'un Gizli Riski: VMware Baskı Altında mı?",
+    "summary_tr": "Broadcom (AVGO), yapay zeka ticaretinin büyük kazananlarından biri haline geldi ve hisse senedi, yatırımcıların özel AI çiplerine agresif şekilde bahis oynamasıyla son bir yılda %75 oranında artış gösterdi. Ancak yapay zeka anlatısının altında, VMware'in..."
+  },
+  "https://finnhub.io/api/news?id=f2c576b78528de93493ec27120eac6f93489abad918758a970473841e3925d97": {
+    "headline_tr": "Marvell Technology Hisse Senedi Neden Birden Yükseldi",
+    "summary_tr": "Salı günü Marvell hisse senedi için her yönden iyi haberler var."
+  },
+  "https://finnhub.io/api/news?id=20e8f994324bcc7f3078e3f231e224e08440bcdc179177dce39f5e62876eb341": {
+    "headline_tr": "Ön-Pazar Rekor Seviyelerde Açılacak: Perakende Kazançları, Case-Shiller Raporu",
+    "summary_tr": "Q1 kazanç sezonunun sona ermekte olduğunu görüyoruz, ancak bu hafta hala birkaç önemli perakendeci tarafından rapor verilmesini getiriyor."
+  },
+  "https://finnhub.io/api/news?id=df84486b0fc0ac82501d1c97653458adee43c7ee086e91ec21ab6ea2dd6f9dc2": {
+    "headline_tr": "Analog Devices'in Yapay Zeka Veri Merkezi Momentumu Artıyor: Önümüzde Neler Var?",
+    "summary_tr": "ADI'nin yapay zeka veri merkezi gelirleri %90 artış gösterirken, optik ve güç çözümlerine olan talep rekor satışlar ve marj genişlemesi sağlıyor."
+  },
+  "https://finnhub.io/api/news?id=c9045c53ac19ad80d94a07c2e8320fa134ac76c18ad5824d79898864952688d5": {
+    "headline_tr": "Intel düşürüldü, Marvell yükseltildi: Wall Street'in en önemli analisti çağrıları",
+    "summary_tr": "Intel düşürüldü, Marvell yükseltildi: Wall Street'in en önemli analisti çağrıları"
+  },
+  "https://finnhub.io/api/news?id=74ba79cb829dfb0a6fc8c40f190c023e151b11bf6c74e45b6b49733c338c7add": {
+    "headline_tr": "Yatırım fonları hala sarsılmış yazılım hisse senetlerini sevmiyor: Rakamlarla",
+    "summary_tr": "Uzun vadeli parası yazılımı hala seviyor."
+  },
+  "https://finnhub.io/api/news?id=f81404b54d01171a3248a8c02f18d3dc4a260976d35aec0949b63967fd34a820": {
+    "headline_tr": "Lam Research Corporation (LRCX) Yapay Zeka Tarafından Desteklenen Güçlü Talep ile Yükselişe Geçti",
+    "summary_tr": "Yatırım yönetimi şirketi Artisan Partners, \"Artisan Value Fund\" için 2026 yılı ilk çeyrek yatırımcı mektubunu yayınladı. Mektubun bir kopyası indirilmek üzere mevcuttur. Fonun Yatırımcı Sınıfı"
+  },
+  "https://finnhub.io/api/news?id=a8bbd1c497108eaa4c6627a65518f48c295b7fc4206b1dcc76f1288212a078a4": {
+    "headline_tr": "Lam Research Corp (NASDAQ:LRCX) Minervini Trend Template ve Yüksek Büyüme Momentum Kriterlerini Karşılıyor",
+    "summary_tr": "Lam Research (LRCX), Mark Minervini'nin Trend Template ve Yüksek Büyüme Momentum ekranını geçerek, mükemmel teknik skorlar, yükselen hareketli ortalamalar ve %46,8 güçlü EPS büyümesi göstermektedir."
+  },
+  "https://finnhub.io/api/news?id=95534efdc1806eb9bac19c03cd459dd69e21b60b9ac8412d1f66df63b08d02e5": {
+    "headline_tr": "Gerçek Olmayan Yapay Zeka Balonu: Nvidia ve Micron Neden Hala Ucuz Görünüyor",
+    "summary_tr": "BofA, şirket temellerinin yarı iletken balonu söylemini desteklemediğini söylüyor. Nvidia, Micron ve Credo, tarihi F/K oranlarının altında işlem görmektedir."
+  },
+  "https://finnhub.io/api/news?id=42fc292cdf8456120d554899e19b57015ae9f4470dbd1d91b5328d2f08f9ab7d": {
+    "headline_tr": "Wall Street Kazanç İçin Hazırlanıyor, İran Barış Umutları Devam Ediyor: Piyasa Özeti",
+    "summary_tr": "(Bloomberg) -- ABD hisse senedi vadeli işlemleri yükseldi ve Hazineler yükseldi çünkü yatırımcılar, ABD'nin İran'a yönelik en son saldırılarının Orta Doğu çatışmasını sona erdirmek için yapılan görüşmeleri sekteye uğratmayacağı umudunu taşıyorlar. En Çok Okunan"
+  },
+  "https://finnhub.io/api/news?id=b2b2c0ef67988dea792d365e91349ffeaa37a095261cba4e256fc04fecc4c891": {
+    "headline_tr": "Salı Günü Intel Hissesi Neler Oluyor?",
+    "summary_tr": "Intel, Beyaz Saray'ın desteği ve Apple, Nvidia ve SpaceX ile potansiyel kuruluş anlaşmaları ile ivme kazanıyor. INTC hissesi yükseliyor."
+  },
+  "https://finnhub.io/api/news?id=6000b8e9a94c7bcd1daaafb8c6b39609dc724bf18c25e946f4a020a467c07906": {
+    "headline_tr": "NVIDIA'nın Jensen Huang, Çin'i 'Çok Önemli' Bir Pazar Olarak Ilan Etti",
+    "summary_tr": "Kısıtlamalara rağmen, NVIDIA, Çin'i yeni CPU'ları ve onaylanan H200 çip satışları için 'çok büyük' bir pazar olarak görmektedir."
+  },
+  "https://finnhub.io/api/news?id=695b3004a15745e63970135c8166c2ecbf095b9417c59d5d47b95f3a7f00f63a": {
+    "headline_tr": "iPhone 17e'nin Japonya'da Öncülüne Karşı Gerilemesinin Gerçek Nedeni",
+    "summary_tr": "Apple iPhone 17e satışları güçlü bir başlangıçtan sonra Japonya'da yavaşladı ve 16e'nin gerisinde %9,8 oranında kaldı, diyor Counterpoint. Tam analizi okuyun."
   }
 }
