@@ -2054,5 +2054,69 @@
   "https://finnhub.io/api/news?id=61a7f781666c663ca1d761fbfd308356297f2174f70425e147016d0202becf46": {
     "headline_tr": "Yarı İletken ETF'leri Yeni Zirveye Ulaştı: Micron'un Yapay Zeka Hafızası Tezi Güç Kazanıyor",
     "summary_tr": "Micron'un (MU) yapay zeka hafızası rallisi, Micron, Nvidia ve patlamaya giden HBM pazarına maruz kalan çip ETF'lerini ve yapay zeka altyapısı fonlarını destekliyor."
+  },
+  "https://finnhub.io/api/news?id=fb15ebecdf15fb08cc1ff1bc60644c2bcb96e9db05acf779223f1cfc7b31c35c": {
+    "headline_tr": "Marvell Technology (NASDAQ:MRVL) Yapay Zeka Odaklı Q2 Rehberliği ile Yükselişe Geçti; Q1 Sonuçları Beklentiler Seviyesinde",
+    "summary_tr": "Marvell Technology (MRVL) Q1 kazançlarını tahminlerle hemen hemen uyumlu olarak açıkladı, ancak yapay zeka veri altyapısı talebinin yükselişiyle desteklenen güçlü Q2 görünümü sonrasında seansın ardından keskin yükseliş gösterdi."
+  },
+  "https://finnhub.io/api/news?id=820986d15815767b4fc6ec00f59eb4fdd5d08d0b02f3374e1d97d9bcef25ee3b": {
+    "headline_tr": "Micron yükselişe geçti: 1 trilyon dolarlık hafıza çipi üreticisinin yapay zeka ticaretindeki yeri",
+    "summary_tr": "Hafıza çipi üreticisi Micron Technology (MU) hisselerinin bu hafta pazar değeri 1 trilyon doları aştıktan sonra kazançlarını koruması ile birlikte, Yahoo Finance Pazar ve Veri Editörü Jared Blikre çipin nasıl bir karşılaştırma yaptığını inceliyor"
+  },
+  "https://finnhub.io/api/news?id=22ab1ae564f557ad1149c6ea8b3d41e0e2bc756bead30f6eec6081e89d16b150": {
+    "headline_tr": "Sektör Güncellemesi: Teknoloji Hisseleri Öğleden Sonra Düştü",
+    "summary_tr": "Teknoloji hisseleri Çarşamba öğleden sonra düşüş gösterdi, State Street Technology Select Sector SPDR ile"
+  },
+  "https://finnhub.io/api/news?id=50997b5e60c724b3396e65e43e7fd58dcc3ddee17859f2db1dd32712c4e6af35": {
+    "headline_tr": "Yapay zeka liderleri iş kıyameti uyarılarından geri adım atıyor",
+    "summary_tr": "Yapay zekanın en önde gelen isimleri, endüstri AI'ın vaat edilen dönüşümü üzerinde artan kamu düşmanlığıyla karşı karşıya kalırken, kitlesel işsizlik hakkındaki korkunç tahminlerinden geri adım atıyor"
+  },
+  "https://finnhub.io/api/news?id=4d0127900a07403659b70fa81b5e75f5ddcc8d1781918b41f990013ac8f00b5c": {
+    "headline_tr": "Salesforce Kazançları Yapay Zeka Endişelerini Giderebilir, Hisseyi Yükseltebilir",
+    "summary_tr": "(Bloomberg) -- Yazılım hisseleri bu yılın başında yapay zeka nedeniyle yaşanan düşüşten toparlanırken, Salesforce Inc. gerçekten faydalanmamıştır. Ancak Çarşamba günü kapanıştan sonra açıklayacağı kazançları"
+  },
+  "https://finnhub.io/api/news?id=bb77e72efed7cb564db572f32db89bc926e94dc058a7ac1da474da06c7b13255": {
+    "headline_tr": "Zuckerberg Neden Micron Almalısınız Ama Meta'yı Değil Söyledi",
+    "summary_tr": "Meta'nın (NASDAQ:META) Q1 2026 kazanç çağrısında Zuckerberg, diğer birçok hiper ölçekli şirketin göz ardı ettiği bir şey söyledi. Meta Platforms'ın veri merkezi kapasitesini genişletirken ve arttırırken..."
+  },
+  "https://finnhub.io/api/news?id=701f89e8ba6e4a7629550766fae90133eef263a363b7332152ff720f97b89e89": {
+    "headline_tr": "Marvell Kazançları AI Rallyisini Test Ediyor",
+    "summary_tr": "%131'lik artışın ardından yatırımcılar AI talebinin hala hızlanıyor olduğunun kanıtını istiyor."
+  },
+  "https://finnhub.io/api/news?id=1b953cefcd7d4617574c34db10e88b51871bb7de1002adb3ab5bbe3c2f5699a8": {
+    "headline_tr": "AMD Son Bir Yılda Neredeyse %300 Yükseldi. Hâlâ Satın Almaya Değer mi?",
+    "summary_tr": "AMD'nin hisse senedi fiyatı şirketin kendisinden çok daha hızlı büyüyor."
+  },
+  "https://finnhub.io/api/news?id=006fefcb17dd6d9bf5a0611425c9b1929265e9dec362f6d3e1e1f4b64f84ef89": {
+    "headline_tr": "Pazarlar ABD-İran Barış Görüşmelerini İzlerken Hisse Senetleri Gün İçinde Karışık Seyirde",
+    "summary_tr": "ABD kıyaslama hisse senedi endeksleri Çarşamba günü öğleden sonra karışık seyirde hareket etti; tüccarlar ABD-İran görüşmelerini izlemeye devam etti"
+  },
+  "https://finnhub.io/api/news?id=5ffe620266483b3e4d1a96b6d54338bc859588d6ef83ad5cab746f58a60e3772": {
+    "headline_tr": "AMD'nin Veri Merkezi Büyümesi EPYC Talebine Biniyor: Daha Fazla Artış Mümkün mü?",
+    "summary_tr": "AMD'nin veri merkezi geliri EPYC ve Instinct rampasıyla %57 oranında 5,78 milyar dolara yükseldi; Helios/MI platformları şiddetli rakipler arasında büyük yapay zeka tutkularını körüklüyor."
+  },
+  "https://finnhub.io/api/news?id=1514523862475a6267bb265b83822641ce34322d7518b0dc8ddae2d9fd08ecc6": {
+    "headline_tr": "AMD Hissesi 500 Dolarda: Yapay Zeka Potansiyeli, Bir Büyük Uyarı Ile",
+    "summary_tr": "AMD (NASDAQ:AMD) hissesi bu yıl 2 kattan fazla, son on iki ayda 4 kattan fazla yükseldi. AMD hissesi bu yıl 2 kattan fazla, son on iki ayda 4 kattan fazla yükseldi. Nedeni basit: yapay zeka"
+  },
+  "https://finnhub.io/api/news?id=fddd6ce699a7878fbfd8ecc6c15cf1c01f665301b19e37c1885dd2b2de7e8e57": {
+    "headline_tr": "$1.29 Milyar Bitcoin Karanlık Havuz Ticareti: Bilinmesi Gerekenler",
+    "summary_tr": "Scott Melker, BlackRock'ın bitcoin ETF'sinin masif $1.29 milyar karanlık havuz ticaretini tartışıyor, Donald Trump'ın CFTC'nin kripto tahmin piyasalarını düzenlemesini desteklemesi, Tom Lee'nin BitMine'ının yürütmesi"
+  },
+  "https://finnhub.io/api/news?id=2fdd85a6e90f0aa4f357258e0806878818d71e3170785a98ac5c84e713cac5d6": {
+    "headline_tr": "Micron'un Devasa Kazançları: Neden Yükseliş Henüz Bitmedi",
+    "summary_tr": "Micron (MU), yapay zeka tarafından yönlendirilen bellek talebinin ve döngüsel bir iyileşmenin başlaması ile bir satın alma fırsatı gibi görünüyor. Tam analizi burada okuyun."
+  },
+  "https://finnhub.io/api/news?id=1b724e6319eb5a5e47ead17b407b35f9c73ce8818f2453786732d1b5aa96ac1f": {
+    "headline_tr": "Amkor Technology (AMKR) Son Kazanç Raporundan Bu Yana Neden %2,9 Yükseldi?",
+    "summary_tr": "Amkor Technology (AMKR) 30 gün önce kazanç raporunu açıkladı. Hisse senedi için sırada ne var? Ipuçları için kazanç tahminlerine bakıyoruz."
+  },
+  "https://finnhub.io/api/news?id=763f92d174af889656bd92719e20e9d6cea6f6aa8804e545435bd0396c1b0ef2": {
+    "headline_tr": "Nvidia'nın Taiwan Yatırımı Yeni Bir Yapay Zeka Tedarik Zinciri Gerçeğini Vurguluyor",
+    "summary_tr": "Nvidia, Taiwan'da yıllık 150 milyar dolar harcamayı planlıyor. İşte bunun yapay zeka tedarik zinciri ve yarı iletken hisse senetlerini izleyen yatırımcılar için anlamı."
+  },
+  "https://finnhub.io/api/news?id=bb68504d79bc11fec025db647cb46ac105131f9919b666c2651578e8f3fa4161": {
+    "headline_tr": "Taiwan Semiconductor Hissesi 52 Haftalık En Yüksek Seviyeye Ulaştı - İşte Nedeni",
+    "summary_tr": "Taiwan Semiconductor (TSM), NVIDIA'nın harcama artışı sinyalleri ve Taiwan'ın muazzam yapay zeka rolü ile 52 haftalık yeni en yüksek seviyeye ulaştı."
   }
 }
