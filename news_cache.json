@@ -1982,5 +1982,77 @@
   "https://finnhub.io/api/news?id=454816fa2e6cfcf643191856aa42224f5819e858e4fe733f0d7f721fa3d25bd2": {
     "headline_tr": "Northland, değerleme ve veri merkezi harcama endişeleri nedeniyle Intel ve Astera Labs'ı düşürüyor",
     "summary_tr": "Investing.com -- Northland Capital Markets, Salı günü Intel ve Astera Labs'ı Pazar Performansına indirdi; gerilmiş değerlemeler ve hiper ölçekli yapay zeka harcamalarına ilişkin artan endişeler nedeniyle"
+  },
+  "https://finnhub.io/api/news?id=c08d34dc20931643fd4927ed58699ea2440af03f5955215948f371c2f3538879": {
+    "headline_tr": "Bugünün seansında neler oluyor: dow jones hareketleri",
+    "summary_tr": "Bugünün seansının ortasında dow jones'un en büyük kazananlarına ve kaybedenlerine bir göz atalım."
+  },
+  "https://finnhub.io/api/news?id=8da9f4f8ba6cb8c6671adf144ba33055a1cff8f3ebbcd002c7b08bdb8818dbf0": {
+    "headline_tr": "Birkaç Milyarder Amazon Hissesi Satın Aldı",
+    "summary_tr": "Amazon, Q1'de milyarderlerin satın aldığı en popüler hisse senetlerinden biriydi."
+  },
+  "https://finnhub.io/api/news?id=04518f66cb1760c40ca87bf8aa5af04445d4f89054686e7a059ca75695ae1f08": {
+    "headline_tr": "Seninle Her Zaman Kazanç Sağlayacak 3 Enerji Hissesi",
+    "summary_tr": "Chevron enerji sektörünün temettü yıldızıdır, ancak bazı daha az bilinən hisseler de uzun vadeli yatırımcılara karşılık verebilir."
+  },
+  "https://finnhub.io/api/news?id=0155ff67739882bb7899997e1ddc9241544b5b74b84801fd8edbcd106a7ca7df": {
+    "headline_tr": "Broadcom, Yeni 50G Ev Ağ Geçidi SoC ile AI ve Geniş Bant Erişimini Genişletiyor",
+    "summary_tr": "Broadcom (NasdaqGS:AVGO), endüstrinin ilk 50G ITU-PON ev ağ geçidi SoC'si olan BCM68850'yi tanıttı. Çip, cihazda entegre bir sinir işlemcisi içeriyor ve ev için Wi-Fi 8'i destekliyor"
+  },
+  "https://finnhub.io/api/news?id=39a582a33fddff5f0c479fd6433095805c0c26fa68246523b76576b305168e52": {
+    "headline_tr": "Micron'un 'Aşırı' Kazançlarının Arkasındaki 'Doyumsuz' Mantık",
+    "summary_tr": "Bellek çipleri, yapay zeka donanımında en sıcak yatırım alanı ve Micron Technology bu alanda en iyi performans gösteren hisse senetlerinden biri olmuştur. SK Hynix, Güney Koreli bellek çipi üreticisi ile birlikte hareket etmektedir."
+  },
+  "https://finnhub.io/api/news?id=5b49417eccf216f528ed058cf956e556a764202bdb0fc2aef40cd682dcda4496": {
+    "headline_tr": "Micron, 1 trilyon dolarlık kulübte güçlü Walmart'ın yerini alıyor",
+    "summary_tr": "Walmart, Micron tarafından dışarı itiliyor."
+  },
+  "https://finnhub.io/api/news?id=86af8f87de25ee303e6ba1d32813cde564bae1e220d8d7af1b662a2a20140fa2": {
+    "headline_tr": "TSMC, IBD Günün Hissesi, AI Talebinin Ortasında Fiyat Artışı Planladığından Alım Noktasında Oynaşıyor",
+    "summary_tr": "TSM hissesi Çarşamba günü yükseldi; Taiwan Semiconductor Manufacturing (TSMC) son teknoloji çipleri için fiyat artırım planlarını duyurdu."
+  },
+  "https://finnhub.io/api/news?id=6bdda8dd53f35167deaedf980afc34dc6534971acc489dbeacd2f83c554342b6": {
+    "headline_tr": "Bu Yarıiletken Hisse Senetleri Önümüzdeki 12 Ayda %50 Artış Gösterebilir",
+    "summary_tr": "AMD ve Broadcom'un önümüzdeki bir yıl içinde %50 yukarı yönlü potansiyeli bulunmaktadır."
+  },
+  "https://finnhub.io/api/news?id=f8b6b81316bec2aa71a817d09bac5c3821fac0c0a4613d6277e115d18491f9b0": {
+    "headline_tr": "Micron 1 Trilyon Dolar Miline Ulaştı",
+    "summary_tr": "Yapay zeka bellek talebinin Micron'u ilk kez 1 trilyon dolar pazar değerine ulaştırmasına yardımcı oldu."
+  },
+  "https://finnhub.io/api/news?id=acb26c044cd88526fa3ff74a4e4affed8d0739d7ac9cb2d4c934f94b0b9fc700": {
+    "headline_tr": "HPE, Q2 Kazanç Sonuçlarını Açıklamaya Hazırlanıyor: Hisse Senedi İçin Neler Var?",
+    "summary_tr": "Hewlett Packard Enterprise, Q2 kazanç sonuçlarına güçlü ağ oluşturma ve yapay zeka talebinin yanı sıra Juniper entegrasyonu kazanımları ve artan kurumsal modernizasyon harcamalarıyla giriyor."
+  },
+  "https://finnhub.io/api/news?id=d70480a83b9204a0fe81ec056404406b86cab74482b6ca5d08d3d41c8cfa6ddd": {
+    "headline_tr": "Zscaler, Marvell ve Bugünü Açıklayan Diğer Hisse Senetleri",
+    "summary_tr": "Yapay zeka donanım tedarikçisi Marvell Technology'nin kapanıştan sonra açıklayacağı kazanç sonuçlarının öncesinde teknoloji rallisinin Çarşamba günü ivme kaybettiği görülüyordu. Bu arada petrol fiyatları ise..."
+  },
+  "https://finnhub.io/api/news?id=c920d479e65c931a51b102fe9275d8c146e266f6239557cc6c1711e189cd7e2c": {
+    "headline_tr": "Bu S&P500 hisseleri bugün pazar öncesi seansında hareket ediyor",
+    "summary_tr": "Çarşamba günü açılış zilinden önce aktivite gösteren S&P500 hisseleri hakkında merak ediyor musunuz?"
+  },
+  "https://finnhub.io/api/news?id=8e8320b73c925b2b701b7bc5247a9e577ca3c04f95f37f04a9d8f03d9cb02cd6": {
+    "headline_tr": "Astera Labs, Inc. (ALAB) TD Cowen'in 54. Yıllık Teknoloji, Medya ve Telekomünikasyon Konferansında Sunum Yapıyor",
+    "summary_tr": "Astera Labs, Inc. (ALAB) TD Cowen'in 54. Yıllık Teknoloji, Medya ve Telekomünikasyon Konferansı 27 Mayıs 2026 10:05 EDT Şirket Katılımcıları Nicholas Aberle -..."
+  },
+  "https://finnhub.io/api/news?id=21904881c1b8c600a4079682cf90dbf47bf24700949adeff82a3d563f8687feb": {
+    "headline_tr": "Mizuho, Lam Research için Outperform Görüşünü Koruyor, Fiyat Hedefini 380$'a Yükseltiyor",
+    "summary_tr": "Mizuho analiisti Vijay Rakesh, Lam Research (NASDAQ:LRCX) için Outperform görüşünü koruyor ve fiyat hedefini 330$'dan 380$'a yükseltiyor."
+  },
+  "https://finnhub.io/api/news?id=9080f95e9a985afaa7ea00525ed0cadc40fb171dc4ac6c01f0c178a89150d73b": {
+    "headline_tr": "KLA Corporation (KLAC) Hissesi Bugün Neden Yükselişte",
+    "summary_tr": "Yarı iletken üretim ekipmanları üreticisi KLA Corporation (NASDAQ:KLAC) hisseleri, öğleden sonra oturumunda %6,6 oranında yükseldi. Micron'un olağanüstü performansı, yapay zeka tarafından yönlendirilen çip talebinin yapısal olduğunu gösterdi"
+  },
+  "https://finnhub.io/api/news?id=b17938456b89df1505c749cfae6cb7ba45a1f97f2801f88b16ea92a3be95e3df": {
+    "headline_tr": "Micron'dan Sonra, Nvidia Tedarikçisi SK Hynix $1 Trilyon Kulübüne Katıldı - AI Çip Çılgınlığı Yeni Seviyelere Ulaştı - Analist Bellek Patlamasının Henüz Başında Olduğunu Söylüyor",
+    "summary_tr": "Patlayan AI bellek çipi talebinin rekor kâr ve hisse senedi kazançları sağlamasıyla SK Hynix $1 trilyon pazar değerine ulaştı."
+  },
+  "https://finnhub.io/api/news?id=f3b096aba99704db0818ac31ffb9f2d9f501480717333f82eadc18198809613f": {
+    "headline_tr": "David Tepper'ın Appaloosa Management Portföyünü Takip Etme - Q1 2026 Güncellemesi",
+    "summary_tr": "Appaloosa Management'ın Q1 2026 13F: portföyü 5,93 milyar dolara düştü, AMZN hissesi ikiye katlandı; BABA/META pozisyonlarında kesintiler ve yeni alımlar yapıldı. Daha fazla bilgi için okuyun."
+  },
+  "https://finnhub.io/api/news?id=61a7f781666c663ca1d761fbfd308356297f2174f70425e147016d0202becf46": {
+    "headline_tr": "Yarı İletken ETF'leri Yeni Zirveye Ulaştı: Micron'un Yapay Zeka Hafızası Tezi Güç Kazanıyor",
+    "summary_tr": "Micron'un (MU) yapay zeka hafızası rallisi, Micron, Nvidia ve patlamaya giden HBM pazarına maruz kalan çip ETF'lerini ve yapay zeka altyapısı fonlarını destekliyor."
   }
 }
