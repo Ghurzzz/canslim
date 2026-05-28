@@ -2198,5 +2198,57 @@
   "https://finnhub.io/api/news?id=5d54b50615aaabad4903a5f45fc18c0ed300612c068267ec6e91770ed0578eba": {
     "headline_tr": "EWT: Yapay Zeka Devrimi Jeopolitik Gölge ve Aşırı Değerleme ile Karşılaşıyor",
     "summary_tr": "iShares MSCI Taiwan ETF, Taiwan'ın gelişen teknoloji sektörüne yoğunlaştırılmış maruz kalmayı sunuyor ve TSMC en büyük varlığı olarak öne çıkıyor. EWT'nin neden Bekleme konumunda olduğunu görmek için okuyun."
+  },
+  "https://finnhub.io/api/news?id=bc9d4f22e5dd963e5c5e52599a3d09ba5de34172370f3e28c963039c07512163": {
+    "headline_tr": "Hafıza çipi hisse senetleri 'dramatik zirve' hareketlerini göstermeye başlıyor",
+    "summary_tr": "Hafıza çipi hisse senetlerindeki ralli, Micron Technology (MU) hisselerini son hafta içinde %25 oranında yükselterek pazar değerinin 1 trilyon dolar eşiğini aşmasını sağladı. Sandisk (SNDK) savaşını sürdürüyor"
+  },
+  "https://finnhub.io/api/news?id=5c30d81b675895be967ffeef6f157f67522339d5f822ac73bf6751e1ed8c8287": {
+    "headline_tr": "Donald Trump, Micron Hisse Yatırımcılarına Net Bir Mesaj Veriyor",
+    "summary_tr": "Trump'ın Micron Onayı Muazzam Bir Ralliye Yol Açıyor; MU 1.000 Dolara Yaklaşıyor"
+  },
+  "https://finnhub.io/api/news?id=72b0714bb907f09e916f87afe15b50bb08e990f5b1e4b678573854503141e7ef": {
+    "headline_tr": "Palantir 2026'da %20 Düştü ve Yine de Benim En Sevdiğim Hisse Senedi Fikri: İşte Nedeni",
+    "summary_tr": "Satın alma düğmesi çağırmaya devam ediyor ve veriler bunu destekliyor. Palantir (NASDAQ:PLTR) hisse senedi 28 Mayıs itibarıyla 2026 yılında yüzde 20 düştü, ancak düşüşün ortasında inandığım daha da güçlenmiştir. Yüzde 7,65 yükselişte"
+  },
+  "https://finnhub.io/api/news?id=af83d86f3434e753e904ebbf180a0319b2397e9a0b8149a88a98eae0446e61b3": {
+    "headline_tr": "1 Yıl Önce Micron'a 1.000 Dolar Yatırsaydınız, Şimdi Ne Kadar Olurdu? Hisse Senedi Hâlâ Alınmaya Değer mi?",
+    "summary_tr": "Bellek çip üreticisi piyasanın en etkileyici rallilerinden birini gerçekleştirerek bu hafta 1 trilyon dolar pazar değerine ulaştı."
+  },
+  "https://finnhub.io/api/news?id=2db6fbecef4984c750ace997cffc8cf9f7ea9fba75b641ca711f554e0115acb1": {
+    "headline_tr": "Tahmin: SoFi'nin 2030'daki Hisse Senedi Fiyatı Bu Olacak",
+    "summary_tr": "Bu yıl %40 düştü."
+  },
+  "https://finnhub.io/api/news?id=83a78d7b6b8ff6934ee304ba58ffe57b5d1dd6aba88138560f1e935c64596db0": {
+    "headline_tr": "Tim Cook Hiçbir Zaman Yapay Zekayı Hype Etmedi. Apple Hissesi Yine de Rekor Seviyeye Ulaştı",
+    "summary_tr": "NVIDIA (NASDAQ:NVDA) 2026 finansal medyasında fikir birliği yapay zeka oyunu olarak hakim konumdadır. Ancak sessizce onu geçen işlem, CEO'su sihirli kelimeleri söylemeyi reddeden bir şirkete aittir. Apple (NASDAQ:AAPL)"
+  },
+  "https://finnhub.io/api/news?id=e61a7aa1b39565f9a88478cd3b1634aec08a0be4fbe790f168b9a87a74b80f71": {
+    "headline_tr": "Jim Cramer POET'e Dokunmayacak. Reddit Kalabalığı Onun Yanılıyor Olduğunu Düşünüyor. Birisi Çok Para Kaybetmek Üzere",
+    "summary_tr": "Jim Cramer aylar boyunca POET Technologies (NASDAQ:POET) etrafında dolanıyor, sunulan fikrinden ilgilenmiş olsa da harekete geçmekten kaçınıyor. 21 Nisan 2026 tarihli Mad Money bölümünde, optik interpozu inceledi"
+  },
+  "https://finnhub.io/api/news?id=1b03accc06f291e93c4c8575f2b78330bec0abc0076c1841a77e7af91e73c095": {
+    "headline_tr": "Nvidia ile AMD Arasında Savaş Devam Ederken, Qualcomm Sessizce Tarihinin En Büyük Yapay Zeka Anlaşmasını İmzaladı. ByteDance ile",
+    "summary_tr": "Qualcomm (NASDAQ:QCOM) hissesini almaya devam etmek isteyebilirsiniz ve son altı hafta bunu bir kez daha yapmanız için üç neden daha sundu. Finansal basın Nvidia'nın her hareketini takip ederken"
+  },
+  "https://finnhub.io/api/news?id=9309ede27d882b81b248fc3181e62a80c079c25475d14cb4e10ba1d7e06a2861": {
+    "headline_tr": "AI Darboğazındaki Hisse Senetleri %1,000 Arttı. Şimdi Nvidia 20 Kat Daha Fazla Arz Talep Ediyor",
+    "summary_tr": "Yapay zeka patlaması zaten birçok kıtlığı peş peşe tüketti. İlk önce GPU'lar vardı. Sonra yüksek bant genişliğine sahip bellek. Ardından elektrik altyapısı, transformatörler, soğutma sistemleri ve hatta büyük elektrik santrallarının yakınındaki arazi"
+  },
+  "https://finnhub.io/api/news?id=c8ab3c9639e97f12da4030a3cf45120bde78bb9d06044910e90f9706d039b2b4": {
+    "headline_tr": "Her Generatif AI ETF'sini Karşılaştırdıktan Sonra Bu 3 Yazılım Katmanını En İyi Şekilde Yakalar - Çoğu Yatırımcı Bunu Kaçırıyor",
+    "summary_tr": "Generatif AI temasını takip eden sermayenin çoğu çiplere akışkanlaştı. Yariiletken fonları gelen fonların büyük kısmını absorbe etti ve fiyat hareketi bunu gösteriyor: iShares Yariiletken ETF'si (NASDAQ:SOXX)"
+  },
+  "https://finnhub.io/api/news?id=6345f79693d3faa5d5edf12010e5938c2ccd3babe35f5481ce0248b7be9eed26": {
+    "headline_tr": "Broadcom'un BCM68850 AVGO'nun Edge AI İtişini Güçlendiriyor: Daha Fazla Yükseliş Mümkün mü?",
+    "summary_tr": "AVGO'nun yeni BCM68850, 50G fiber ile Wi-Fi 8 ve çip üstü NPU'yu birleştirerek ev ağ geçitlerini sonraki nesil tüketici trafiği için edge-AI düğümlerine dönüştürüyor."
+  },
+  "https://finnhub.io/api/news?id=3461cc3ed5ee26e7794f918ee1912ad4a7f3624874ea0fdf50d93a8153739635": {
+    "headline_tr": "Warner Bros./Paramount Skydance anlaşması 15 milyar dolarlık kaldıraçlı kredi yaratıyor, Küresel Finansal Krizden bu yana en büyük",
+    "summary_tr": "Warner Bros. Discovery (WBD) bu hafta 15 milyar dolar eşdeğerinde sınır ötesi vadeli kredi B finansmanını tamamladı, bu kaldıraçlı kredi piyasasında işlem büyüklüğü açısından rekor kıran bir anlaşma. WBD şu anda"
+  },
+  "https://finnhub.io/api/news?id=cf128028ab4bf992327959029ee2d57a924fed4f2e5eaf18ceccc45f52c6884a": {
+    "headline_tr": "Yarı İletkenler Analistleri Geride Bıraktı",
+    "summary_tr": "Russell 1000'deki ortalama hisse senedi, fikir birliği analist fiyat hedefinin yaklaşık %15 altında işlem görmektedir, ancak yarı iletkenler çok hızlı bir şekilde yükselişe geçerek grup, Wall Street beklentilerini geride bırakmıştır."
   }
 }
