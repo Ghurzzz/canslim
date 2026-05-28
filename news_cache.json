@@ -2118,5 +2118,85 @@
   "https://finnhub.io/api/news?id=bb68504d79bc11fec025db647cb46ac105131f9919b666c2651578e8f3fa4161": {
     "headline_tr": "Taiwan Semiconductor Hissesi 52 Haftalık En Yüksek Seviyeye Ulaştı - İşte Nedeni",
     "summary_tr": "Taiwan Semiconductor (TSM), NVIDIA'nın harcama artışı sinyalleri ve Taiwan'ın muazzam yapay zeka rolü ile 52 haftalık yeni en yüksek seviyeye ulaştı."
+  },
+  "https://finnhub.io/api/news?id=429a07d8e5d544ac5a3852f26d6d216d1408dc9b0d4bfa3e45c22f1391e2242d": {
+    "headline_tr": "Perşembe günü hangi Dow Jones hisseleri hareket ediyor?",
+    "summary_tr": "Perşembe günü hareket halindeki Dow Jones hisselerini merak mı ediyorsunuz? Bugünün seansında Dow Jones endeksi içindeki en büyük hareketlenmeleri keşfetmek için bize katılın."
+  },
+  "https://finnhub.io/api/news?id=ef137411aa6bde624120b08a674469598cc1a1240a06f732f23484dc9489a7ac": {
+    "headline_tr": "Micron ve Sandisk tek değil — bu 3 siber güvenlik hissesine göz atın",
+    "summary_tr": "Siber güvenlik hisseleri yatırımcıların tekrar ilgisini çekiyor."
+  },
+  "https://finnhub.io/api/news?id=d07e85e76615a8689641de3e92a6b0b9880765699bf380b8736375ac9dce0c88": {
+    "headline_tr": "Snowflake'in Premium Değerlemesi Değişen Bulut Ortamında Hayatta Kalabilir mi?",
+    "summary_tr": "$177.49'da Snowflake (NYSE:SNOW), yatırımcılar için bekleme-ve-gözlem alanında yer almaktadır. Veri bulut lideri en güçlü çeyreğini sundu, ancak hisseler 2025 sonu yükseklerinin oldukça altında kalmış ve yatırımcıları"
+  },
+  "https://finnhub.io/api/news?id=8d16c816e98135d270d84613fd556ebb9cd8dab9646804f185c76d18e227f91f": {
+    "headline_tr": "Öğlen Saati Başlıca Haberler: ABD'nin İran ile Anlaşması Trump'ın Onayını Bekliyor; Caesars, Fertitta Tarafından 17,6 Milyar Dolara Satın Alınacak",
+    "summary_tr": "S&P 500 ve Nasdaq Composite yükselirken, Dow Jones Industrial Average hafif düşüş gösterdi"
+  },
+  "https://finnhub.io/api/news?id=de2595e83d474e22fd288a1a873db3f5a9e3f02bd725e5dcf0b874e6709de91c": {
+    "headline_tr": "SCHD'nin 71,6 Milyar Dolarlık Portföyü Bu Yıl %20 Kazanç ve %3,3 Getiri Sağlıyor",
+    "summary_tr": "Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), ülkedeki en çok sahip olunan temettü fonlarından biri haline gelmiş olup 71,6 milyar dolar varlığa ve %0,06 gider oranına sahiptir. SCHD şu anda yaklaşık %3,3 verim sağlamaktadır."
+  },
+  "https://finnhub.io/api/news?id=ecd414a6ae78c4d7eac3579d7d42e33f34b88fafc0ed66214ee252d8ca66777c": {
+    "headline_tr": "Micron Hissesi 2027'de 2.000 Dolara Ulaşacak mı?",
+    "summary_tr": "Micron, yüksek bellek çipi fiyatlarından yararlanıyor."
+  },
+  "https://finnhub.io/api/news?id=cfa6ee2b4756ab5e00b32766443703e596cd9c5e9434071961b9b2f2ab649ded": {
+    "headline_tr": "AI ticareti ısındıkça, Wall Street bir balon endişesi taşımalı mı?",
+    "summary_tr": "ABD hisse senetleri (^DJI, ^IXIC, ^GSPC) Perşembe günü işlem seansının başında dalgalanıyor; Wall Street ise bellek çip üreticisi Micron Technology (MU) hakkında giderek daha iyimser hale geliyor; şirketin pazar değeri arttı"
+  },
+  "https://finnhub.io/api/news?id=5e4760da0645754412e5c553317902f519e9a851f0f23812096df5c6ea1a7b3b": {
+    "headline_tr": "1 Yarı İletken Hissesi Daha İleri Araştırılmaya Değer ve 2 Tanesi Hayal Kırıklığı Yaratıyor",
+    "summary_tr": "Yarı iletkenler modern teknolojinin kazma ve beldir. Yapay zeka ile yaşadığımız ve çalıştığımız şekil değişiyor ve bu daha güçlü çiplere yönelik seküler talep yaratıyor. Sonuç olarak endüstri"
+  },
+  "https://finnhub.io/api/news?id=3f3bc4cac366aa3efd7a64a1b9b8f8b751b1672ad781847f3bcf868c730d4b75": {
+    "headline_tr": "Marvell Technology, İnterbağlantı Talebinin Hızlanmasıyla AI Güdümlü Daha Güçlü Büyüme Görünümü Gösteriyor, Morgan Stanley Söylüyor",
+    "summary_tr": "Marvell Technology (MRVL), hızlanan yapay zeka tarafından yönlendirilen daha güçlü uzun vadeli büyüme görünümü göstermektedir"
+  },
+  "https://finnhub.io/api/news?id=eeda1c4e08eb2946757dd8ea1ae99eaabe8dbf22c2e83a186588e880422b7058": {
+    "headline_tr": "Winmill, Qualys, Inc. Hissesinden 88.000 Adet ile Yeni Bir Pozisyon Açtı",
+    "summary_tr": "Qualys, birden fazla sektördeki kuruluşlara ve kamu sektörü müşterilerine bulut tabanlı güvenlik ve uyum çözümleri sunmaktadır."
+  },
+  "https://finnhub.io/api/news?id=1f2deba554aa1360023ad33b9f8ba827fc5412ad74bdf4e71c595e63403dca97": {
+    "headline_tr": "Nvidia Hissesi 1 Trilyon Dolarlık Satış Hedefine Rağmen Sabit Seyrediyor; 'Pazar Nvidia'nın Beklentileri Aşmaya Devam Etmesini Bekliyor'",
+    "summary_tr": "Reuters Morning Bid'in son bölümü şu anda yapay zeka pazarındaki en garip sinyallerden birine odaklanmıştır. NVIDIA (NASDAQ:NVDA) 80 milyar dolarlık hisse geri alımı duyurdu, temettüsünü keskin bir şekilde yükseltti ve..."
+  },
+  "https://finnhub.io/api/news?id=0188bfcd5d4ba6c4538aac044ffe3b0d5e0a31d8fc2fe60c93d46db8feeb925c": {
+    "headline_tr": "Marvell Technology Q1 Kazançları Tahminleri Karşıladı, Gelirler Yıllık Bazda Arttı",
+    "summary_tr": "MRVL'nin yapay zeka destekli veri merkezi büyümesi, Q1 rekor gelirlerini tetikliyor ve MRVL mali yıl 2027 ve 2028 görünümlerini yükseltiyor."
+  },
+  "https://finnhub.io/api/news?id=1291df86177cc2f9ce33deb7acee3c4524c27d20ae04d4025a3e2d126d24f87a": {
+    "headline_tr": "ETF 100 Bin Doları 1 Yılda 1.28 Milyon Dolara Çevirdi. Reddit Diyor ki Tekrar İki Katına Çıkacak",
+    "summary_tr": "28 Mayıs 2025'te Direxion Daily Semiconductor Bull 3X Shares (NYSEARCA:SOXL)'a yatırılan yüz bin dolar, 27 Mayıs 2026 kapanışında yaklaşık 1.28 milyon dolar değerinde olmuştur. 3X satın alan kişiler"
+  },
+  "https://finnhub.io/api/news?id=0f50004312d571e1057d95736aea778aa03168c24e78ca006c3e727dd7087200": {
+    "headline_tr": "Microsoft'un Yapay Zeka Harcamaları Vanguard'ın VIG'deki Temettü Güvenliğini Baltalamayacak",
+    "summary_tr": "Vanguard Temettü Takdir ETF'si (NYSEARCA:VIG) yalnızca en az 10 ardışık yıl temettü artışı olan şirketlere sahiptir, en yüksek verimlileri filtreler ve bileşik faizin çalışmasına izin verir. VIG yeniden"
+  },
+  "https://finnhub.io/api/news?id=58f6733cda18d0c1d29b61bdbc3f2e8ed86f93e9fbf5e26a686bbdb5aa9e8d03": {
+    "headline_tr": "Q4 Kazançlarından Önce Credo Technology: Yatırımcılar Hisse Satın Almalı mı?",
+    "summary_tr": "CRDO, 1 Haziran'da mali Q4 2026 sonuçlarını açıklayacak; uzlaşı görüşü AEC ve hyperscaler talebinin artmasıyla 1,03 dolar EPS ve 430 milyon dolar geliri öngörmektedir."
+  },
+  "https://finnhub.io/api/news?id=2c3659d35b1f236c879a24a4c83e3e11988d6ccd5e9a99d56c8e8cdb527c4629": {
+    "headline_tr": "TSMC Yöneticisi: Enerji Verimliliği Çip Tasarımının En Önemli Faktörü Haline Geliyor",
+    "summary_tr": "TSMC'nin Kevin Zhang, enerji verimliliğinin artık çip müşterileri için en önemli öncelik olduğunu söyledi. Huawei'nin 'Tau Scaling' teknolojisi devrim niteliğinde değil, 3-D ölçeklendirmedir. Transistor yoğunluğu hala TSMC için önemli bir faktördür."
+  },
+  "https://finnhub.io/api/news?id=3ac878f8d0d0cefc4b33574b6c35c13340e25a8ca04e75c8c0a0e8a258288c5c": {
+    "headline_tr": "Yapay Zeka Ticareti İkinci Dalgasına Giriyor mu? Bu ETF Büyük Bir Faydalanıcı Olabilir.",
+    "summary_tr": "Yapay zeka (AI) devrimi birçok teknoloji şirketini kapsayacak şekilde genişlemiştir. Ancak endüstrinin liderleri önümüzdeki birkaç yıl boyunca büyümeyi yönlendirmeye devam etmesi muhtemeldir."
+  },
+  "https://finnhub.io/api/news?id=47ccdea6928344e85a242279ac6c6954c8e65980577fe850f8e95741ef7c5625": {
+    "headline_tr": "Cramer'ın Alım Satım Durdurması: Marvell Technology",
+    "summary_tr": "CNBC'nin Jim Cramer, Marvell Technology hisselerine neden dikkat ettiğini açıklıyor."
+  },
+  "https://finnhub.io/api/news?id=93bb21f24b8a9405774148de1c72d8e68ceb48e04caead98ce34e93ae2438673": {
+    "headline_tr": "Taiwan Semiconductor Hissesi Perşembe Günü Neler Yaşanıyor?",
+    "summary_tr": "Taiwan Semiconductor hissesi rekor rallisinin ardından küçük bir geri çekilme yaşıyor. Uzun vadeli yükseliş trendi devam ederken MACD soğuluyor. Teknik analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=5d54b50615aaabad4903a5f45fc18c0ed300612c068267ec6e91770ed0578eba": {
+    "headline_tr": "EWT: Yapay Zeka Devrimi Jeopolitik Gölge ve Aşırı Değerleme ile Karşılaşıyor",
+    "summary_tr": "iShares MSCI Taiwan ETF, Taiwan'ın gelişen teknoloji sektörüne yoğunlaştırılmış maruz kalmayı sunuyor ve TSMC en büyük varlığı olarak öne çıkıyor. EWT'nin neden Bekleme konumunda olduğunu görmek için okuyun."
   }
 }
