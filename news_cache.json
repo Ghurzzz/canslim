@@ -2250,5 +2250,81 @@
   "https://finnhub.io/api/news?id=cf128028ab4bf992327959029ee2d57a924fed4f2e5eaf18ceccc45f52c6884a": {
     "headline_tr": "Yarı İletkenler Analistleri Geride Bıraktı",
     "summary_tr": "Russell 1000'deki ortalama hisse senedi, fikir birliği analist fiyat hedefinin yaklaşık %15 altında işlem görmektedir, ancak yarı iletkenler çok hızlı bir şekilde yükselişe geçerek grup, Wall Street beklentilerini geride bırakmıştır."
+  },
+  "https://finnhub.io/api/news?id=22f3e9ef1a2169ce514dbb7c7454e2bae9ccf3d3f8337352f134252bbd9d5406": {
+    "headline_tr": "Dow Jones endeksinde bugünün seansında en çok kazananları ve kaybedenleri keşfedin.",
+    "summary_tr": "Cuma günü günün ortasında Dow Jones endeksi içindeki en iyi performans gösterenleri merak mı ediyorsunuz? Bugünün seansında en çok kazananları ve kaybedenlerin listesine dalın ve kapsamlı bir özet alın."
+  },
+  "https://finnhub.io/api/news?id=76bb9a92a5510449a209b81d97677a4264e735aceb5994cde08cc023276c029b": {
+    "headline_tr": "Sonraki Kazanç Sezonundan Önce Sadece 1 Teknoloji Hissesi Alacaksanız, Bu Olsun",
+    "summary_tr": "Microsoft'u şimdi satın almak için üç harika neden."
+  },
+  "https://finnhub.io/api/news?id=f4f63a620afb48f2572ed4531b5123cfe6393790d3e32a771e7f52f5a7696055": {
+    "headline_tr": "AST SpaceMobile %17 Düşüyor, Planet Labs %8 Düşüyor Blue Origin Patlaması Sonrası, Virgin Galactic %11 Yükseliyor",
+    "summary_tr": "Perşembe geç saatlerinde Blue Origin'in New Glenn roketi Cape Canaveral'da hotfire testinde patlayıncı, uzay stokları Cuma sabahı keskin şekilde ayrışıyor. AST SpaceMobile (NASDAQ:ASTS) hissesi düşüyor"
+  },
+  "https://finnhub.io/api/news?id=dcc994e08c04776386c0875876ff2507d189a2066d4d79a392b26e5160041830": {
+    "headline_tr": "Micron Hissesi 5 Yıl İçinde Nerede İşlem Görecek",
+    "summary_tr": "Micron Technology (NASDAQ:MU) bir yıldan kısa sürede döngüsel hafıza geride bırakanından yapay zeka altyapısı için gerekli olan şirkete dönüştü. Q1 FY2026 döneminde 13.643 milyar dolarlık gelir elde etti, bu da yıldan yıla %56,6 artış anlamına geliyor."
+  },
+  "https://finnhub.io/api/news?id=a73553b713ac2a955990ddcf71add8f159cb8635503628c45217d00e901df420": {
+    "headline_tr": "Tahmin: AMD'nin Hızlı Veri Merkezi Genişlemesi Yükseliş Hedefini Besliyor",
+    "summary_tr": "AMD (NASDAQ:AMD) gibi çok az hisse senedi yapay zeka altyapısı heyecanını yakalamış, yıl başından bu yana %118,3 ve geçen bir yıl içinde %322,28 artış kaydetti. Lisa Su'nun veri merkezi işi hızla büyüdükçe"
+  },
+  "https://finnhub.io/api/news?id=6bc34af857ceb86bd8c7753577ca31a6121de3f0967398188bc707462d25e412": {
+    "headline_tr": "Borsa'nın Özel 1 Trilyon Dolar Kulübü'nün Yeni Üyesini Tanıyın (İpucu: Yapay Zeka Yarı İletken Devi)",
+    "summary_tr": "Bu yarı iletken devi geçen yıl boyunca harika bir performans sergiledi."
+  },
+  "https://finnhub.io/api/news?id=60edf55793ccb192434ea666b6e3ef0bad392847b8e94acb2fc3c78d05e1b9d5": {
+    "headline_tr": "Sandisk'in QLC Stargate Hızlanıyor: Yeni Gelir Büyümesi Katalisörü Olabilir mi?",
+    "summary_tr": "SNDK'nin QLC Stargate, Q4 FY26'da sevkiyatlara başlamaya hazırlanıyor, yapay zeka veri merkezi depolama talebini hedefliyor ve TLC SSD'lerin ötesinde yeni bir büyüme yolu ekliyor."
+  },
+  "https://finnhub.io/api/news?id=3eedc9049684bf30faae8ad8e356e0ecec918a94bd99441aa275d4a1fb00e5df": {
+    "headline_tr": "AMD Çin'de Daha Sessiz Bir Yol İzliyor",
+    "summary_tr": "Nvidia'nın Çin'deki akılması AMD için fırsatlar yaratabilir, ancak AMD'nin yapacak çok işi var."
+  },
+  "https://finnhub.io/api/news?id=bacefd6b3725a4c4ee8e04b9f3618b19f068165992c9b623a48133681560bad0": {
+    "headline_tr": "NVIDIA vs. Marvell Technology: Hangi AI Çip Hissesi Öne Çıkıyor?",
+    "summary_tr": "NVDA'nın güçlü gelir büyümesi, daha yüksek brüt kar marjı, sağlam büyüme görünümü ve daha düşük değerleme, AI altyapısı patlaması ortamında MRVL'ye karşı bir avantaj işaret ediyor."
+  },
+  "https://finnhub.io/api/news?id=b9b5a3e736d1e88c26e1d967fed1abeeb8969f17b508e949618e4f096cdfdfff": {
+    "headline_tr": "Güçlü Q1 Sonuçları Marvell'i Broadcom'un En İnanılır Rakibi Haline Getiriyor",
+    "summary_tr": "Marvell Technology (MRVL), yeni nesil yapay zeka altyapısının en önemli arka plandaki mimarlarından biri olarak ortaya çıkıyor. Pazar bunu fark etti. Hisse senedi yıl başından bu yana %230'dan fazla artış gösterdi."
+  },
+  "https://finnhub.io/api/news?id=103dbce23880754a63db2dabd6bd13f86af93b25f5e767093e181a0ffa01dbc9": {
+    "headline_tr": "Üç Yıllık AI Capex Döngüsü Takibinin Ardından Bu 3 Yarıiletken ETF Ticaretin Başında",
+    "summary_tr": "Üç yıllık hiperölçekli sermaye harcaması çip tasarımcılarına, foundry kapasitesine ve litografi birikimlerine nüfuz ettikten sonra, yarıiletken ETF kompleksi farklı gruplara ayrılmıştır."
+  },
+  "https://finnhub.io/api/news?id=c62e37bb9624fce7475cd2fe5cc2c0ddd58b8cbc391ee917971010a5ed6e4c32": {
+    "headline_tr": "Nvidia, Yapay Zeka Altyapısı İhtiyaçları Arttıkça Fotonikler Üzerine Büyük Bahis Oynuyor",
+    "summary_tr": "Fotonikler, yapay zeka veri merkezlerinin veriyi daha hızlı taşırken daha az enerji kullanmasına yardımcı olabilir."
+  },
+  "https://finnhub.io/api/news?id=1d6fb865cc79a56ee074563fd07a39ec518107beb3c3eebb8c4bf09e0b95e5da": {
+    "headline_tr": "Bugünün Seansında 10 Bilişim Teknoloji Hissesinde Balina Aktivitesi",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=bf047e7a1489df6b87ebf0417aa22404664334ba03aacf4524f7632b119517b1": {
+    "headline_tr": "İran Anlaşmasına Alım Yapılıyor; Dell Kazançları Yarıiletken Ralliyi Destekliyor; Roket Patlaması Uzay Çılgınlığı İçin Kötü Haber",
+    "summary_tr": "Borsa Çılgınlıkları"
+  },
+  "https://finnhub.io/api/news?id=46d44fcc80a4bb2b965383325d17d1645a51cd7f7edff974f39e5dacf63c7803": {
+    "headline_tr": "Broadcom Hissesi Milyarder Alıcıyı Çekiyor AI Momentumu Hızlanırken",
+    "summary_tr": "Milyarder yatırımcı Daniel Loeb Q1'de Broadcom hisselerini artırırken Nvidia ve Taiwan Semiconductor hisselerini keskin şekilde azalttı."
+  },
+  "https://finnhub.io/api/news?id=5606b8a90594380d304eb75a55e1166b078faa8e02c58891d55aef1baf804bd0": {
+    "headline_tr": "Yapay Zekânın Sonraki Kazananları Nvidia'nın Alıcıları Olmayabilir—Tedarikçileri Olabilir",
+    "summary_tr": "Thornburg Investment Management, yatırımcı ilgisinin Nvidia ve hiper ölçekli şirketlerin ötesine yapay zeka tedarik zincirine genişlediğini söylüyor. İşte bu trenden yararlanan beş şirket."
+  },
+  "https://finnhub.io/api/news?id=ddfd18c0fb9460940c25cc9ba19ca91bd4cd9f5119e949934baff6cff124dd6a": {
+    "headline_tr": "Nvidia'nın Ötesinde: Dell, Micron ve Genişleyen AI 'Boom Loop'",
+    "summary_tr": "Son birkaç ay boyunca tartıştığımız boom loop, kurumsal kazançlarda somutlaşmaya devam ediyor. Bunu çip ve bellek hisse senetlerinin kazançlarında gördük. Şimdi ise genişliyor."
+  },
+  "https://finnhub.io/api/news?id=d00434aed958242404c09ddfad221a25bdd154cee49615f9b5cca52b3496ef0f": {
+    "headline_tr": "Yapay Zeka Bellek Kıtlığı Henüz Başlıyor ve Bu 3 ETF Tedarik Zincirinin Her Katmanına Sahip",
+    "summary_tr": "Yüksek bant genişliğine sahip bellek, yapay zeka altyapısının darboğazı haline geldi. NVIDIA'nın Blackwell hızlandırıcıları, yalnızca üç şirketin ölçekte üretebileceği yığılmış DRAM modüllerine bağımlı ve sipariş defterleri..."
+  },
+  "https://finnhub.io/api/news?id=be99ea72b55eff11b3fd024feba2d4e9d13e0ac78b255a0742cc40310596b8db": {
+    "headline_tr": "20 Yıl Önce Lam Research'e Yatırılan 100 Doların Bugün Ne Kadar Değerinde Olacağı",
+    "summary_tr": ""
   }
 }
