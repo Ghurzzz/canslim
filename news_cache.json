@@ -2326,5 +2326,61 @@
   "https://finnhub.io/api/news?id=be99ea72b55eff11b3fd024feba2d4e9d13e0ac78b255a0742cc40310596b8db": {
     "headline_tr": "20 Yıl Önce Lam Research'e Yatırılan 100 Doların Bugün Ne Kadar Değerinde Olacağı",
     "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=4ed5132b8d33a444cd7d0f3fa73b1d60da4f8d68489cb3c4baf438261f6bae8c": {
+    "headline_tr": "Fed Yazın Sessiz Kaldığında Hisse Senetlerine Tarihsel Olarak Ne Oluyor",
+    "summary_tr": "Fed'den gelen yeni haberlerin olmaması genellikle yatırımcıları piyasadan uzaklaştırır."
+  },
+  "https://finnhub.io/api/news?id=c4cfe8d2b68f6ea3906768bdf811493a84ecb2cd214f9b8071358c5c4865e21a": {
+    "headline_tr": "Zillow Konut Piyasası İçin Kasvetli Bir Görünüm Çizdi. İşte Yine de Satın Alınabilecek 3 Hisse Senedi.",
+    "summary_tr": "Bu şirketler konut piyasasındaki uzun süreli bir düşüşe dayanmak ve bir toparlanmadan yararlanmak için gereken özelliklere sahiptir."
+  },
+  "https://finnhub.io/api/news?id=699a18867cb3be346be0bb9b166c4d36c471181ab1c6d9dd2d77474371925a52": {
+    "headline_tr": "Dünyanın en büyük çip şirketlerinin CEO'ları gelecek hafta Tayvan'a geliyor",
+    "summary_tr": "Computex 2026 2 Haziran'da başlıyor."
+  },
+  "https://finnhub.io/api/news?id=2c16c68798295550a30291a8bafc122a4c7cbd063ccedd3255260b020cd7839a": {
+    "headline_tr": "Bu Risk ETF'si Bir Yıldır En İyi Yedi Günlük Dönemini Yaşıyor",
+    "summary_tr": "Daha riskli S&P 500 hisse senetlerine odaklanan bir borsa yatırım fonu, bir yıldır en iyi yedi günlük dönemini yaşıyor. En değişken hisse senetlerinden bazılarına maruz kalma sağlayan Invesco S&P 500 High Beta ETF,"
+  },
+  "https://finnhub.io/api/news?id=6924ed13ea6abd39b0431b3250d8a617a53bf2a58a056b108c9cc860a3c67f89": {
+    "headline_tr": "SanDisk Milyoner Yapan Bir Hisse Senedi mi?",
+    "summary_tr": "Bu trend olan yapay zeka hissesinin bundan sonrası ne olacak?"
+  },
+  "https://finnhub.io/api/news?id=8cd97e4a4bc6185676dba05603e014cad0923d9f63329a07567bdc3d07034e35": {
+    "headline_tr": "Daha Fazla Sürücü Yüksek Kilometre Kulübüne Katılıyor. Bu Hisse Öne Geçebilir.",
+    "summary_tr": "AutoZone'un satışları, Ağustos 2020'de sona eren mali yılda 12,6 milyar dolardan bu mali yılda tahminen 20,5 milyar dolara genişlemiştir."
+  },
+  "https://finnhub.io/api/news?id=cebbe34a17c35359fb7332581a15db1fe5d98d1449c9bff1bd14d2a54a8c76f3": {
+    "headline_tr": "Anthropic'in 36 Milyar Dolarlık AI Çip Anlaşması Apollo ve Blackstone'u Çekiyor",
+    "summary_tr": "Apollo ve Blackstone, Anthropic'in AI altyapısı genişletmesine bağlı TPU destekli bir borç anlaşması için yatırımcı arıyor."
+  },
+  "https://finnhub.io/api/news?id=d26930525520a1656df64f99059f007c7a5d97bc09bb5e5b954ae1ac16f9a41d": {
+    "headline_tr": "İzleme Listemizdeki 3 Nakit Üreten Hisse",
+    "summary_tr": "Nakit üreten şirketler genellikle yatırım yapma, hissedarlara sermaye iade etme veya ekonomik gerilişlerde hayatta kalma esnekliğine sahiptir. Bu işletmelerin en iyileri sadece nakit biriktirmekle kalmaz, aynı zamanda bunu stratejik olarak kullanırlar"
+  },
+  "https://finnhub.io/api/news?id=71a9ee4a5a87d8edde2e4de5d8ea211fec2bfccb15112517ec987a932d897353": {
+    "headline_tr": "Güney Kore 2026'da Neredeyse %96 Yükselişte ve Bu 3 ETF Çip Ülkesi Hikayesini Farklı Risk Seviyelerinde Oynatmanıza İzin Veriyor",
+    "summary_tr": "Güney Kore'nin KOSPI endeksi gelişmekte olan piyasalardaki ihmal edilen bir menkul kıymetten 2026'nın en iyi büyük hisse senedi hikayesine dönüştü ve motor, Dünya'daki her gelişmiş yapay zeka sunucusunun içinde yer alıyor. Samsung Electronics ve SK H"
+  },
+  "https://finnhub.io/api/news?id=5e14c28d4ab92cdaa0545d2e3f2336272f01602a45b11a9284e4d9f23b84985a": {
+    "headline_tr": "Broadcom Hissesi, Fiber Optik Lideri Ciena Başka Bir Yapay Zeka Kazanç Şöleni Öncü Konumda",
+    "summary_tr": "Broadcom hissesi kazanç açıklaması öncesi zirveye yakın seviyelerde bulunurken, Credo Technology ve fiber optik lideri Ciena gibi diğer sıcak teknoloji hisseleri de benzer durumda yer alıyor."
+  },
+  "https://finnhub.io/api/news?id=0b1df80aca62bcdfce204540f85a0fdc7d6dd2ffdfb350c14807d8eac5098b26": {
+    "headline_tr": "Borsa İran Anlaşması Umutlarıyla Zirveye Çıktı; Dell, NetApp, Okta Kazanç Liderleri: Haftalık Özet",
+    "summary_tr": "Borsa bu geçen hafta İran iyimserliği, düşen petrol fiyatları ve çoğunlukla olumlu kazançlarla desteklenerek tüm ana endekslerde yeni zirvelere ulaştı. Snowflake, Dell Technologies, NetApp, Okta, Dycom Indus"
+  },
+  "https://finnhub.io/api/news?id=efc03b211d5f06274fcb371ff8827f645b0171e8127f07395b066f037b6a0283": {
+    "headline_tr": "Qualcomm (QCOM) Son Kazanç Raporundan Bu Yana %35,5 Yükseldi: Devam Edebilir Mi?",
+    "summary_tr": "Qualcomm (QCOM) 30 gün önce kazanç raporu yayınladı. Hisse senedi için sırada ne var? Ipuçları için kazanç tahminlerine bakıyoruz."
+  },
+  "https://finnhub.io/api/news?id=184b83e2d7b5d7a31c3930bb50e472d183e3abb5882d45ff0ab6efd0ca972a05": {
+    "headline_tr": "MRVL Brüt Marjında Yavaş Genişleme Yaşıyor: Önümüzde Neler Var?",
+    "summary_tr": "Marvell Technology'nin yapay zeka çip talebinin gelir artışını sağlaması nedeniyle brüt marj özel silikon maliyetlerinin artması ve rekabetin yoğunlaşması nedeniyle baskı altında kalmaya devam ediyor."
+  },
+  "https://finnhub.io/api/news?id=84a58b98bd8cda69b0c3e84dcd2648abf6a111c15adb37dd7bc4d3adf309caef": {
+    "headline_tr": "Baron Technology ETF Q1 2026 Portföy Aktivitesi",
+    "summary_tr": "Birinci çeyrek döneminde, Google'ın ana şirketi ve dünyanın en değerli teknoloji şirketlerinden biri olan Alphabet Inc.'de bir pozisyon açtık."
   }
 }
