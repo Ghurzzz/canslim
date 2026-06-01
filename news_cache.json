@@ -2382,5 +2382,85 @@
   "https://finnhub.io/api/news?id=84a58b98bd8cda69b0c3e84dcd2648abf6a111c15adb37dd7bc4d3adf309caef": {
     "headline_tr": "Baron Technology ETF Q1 2026 Portföy Aktivitesi",
     "summary_tr": "Birinci çeyrek döneminde, Google'ın ana şirketi ve dünyanın en değerli teknoloji şirketlerinden biri olan Alphabet Inc.'de bir pozisyon açtık."
+  },
+  "https://finnhub.io/api/news?id=bad08f50d4d3ef1222d9fc34867b9199ec52bdc86bcaee4e531be49ad5e3439f": {
+    "headline_tr": "Anthropic, AI Değerlemesi 1 Trilyon Dolara Yaklaşırken Gizli IPO Taslağını Dosyaladı",
+    "summary_tr": "Anthropic, halka arz yolunda ilk resmi adımını atarak gizlice bir S-1 kaydı taslağını sunmuştur..."
+  },
+  "https://finnhub.io/api/news?id=eeda16b0e01d3eb8d4fc15101cf924f96f5730ce2a09120134fb904fc15a4b91": {
+    "headline_tr": "Daha İyi Yatırım Seçeneği: SpaceX mi yoksa Cerebras mı?",
+    "summary_tr": "IPO piyasası ısınıyor ve her iki hisse de umut veriyor, ancak şu anda biri daha iyi bir yatırım gibi görünüyor."
+  },
+  "https://finnhub.io/api/news?id=9e83abdf43574aafe105577ba0e63ab3b4c3dba22183a983789aadb75bb0f31f": {
+    "headline_tr": "Lululemon ve Kurucusu Chip Wilson Kamuoyu Anlaşmazlığını Sonlandırmayı Kabul Etti, Şimdilik. Hisse Senedini Satın Almak Güvenli mi?",
+    "summary_tr": "Şirketin yeni CEO'su Eylül ayında göreve başlayacak ve kurucunun her hareketi eleştirmesi konusunda endişelenmek zorunda kalmayacak, en azından bir süre için."
+  },
+  "https://finnhub.io/api/news?id=6e898baf92c5cdf4c93d09207398ec59a38a7f7eb8a23dd2ce87e5b7739b99b3": {
+    "headline_tr": "Sektor Güncellemesi: Teknoloji Hisseleri Pazartesi Öğleden Sonra Karışık Seyirde",
+    "summary_tr": "Pazartesi günü öğleden sonra teknoloji hisseleri karışık seyirde ilerledi ve State Street Technology Select Sector SPDR ETF"
+  },
+  "https://finnhub.io/api/news?id=499a368ab77a0d1e747712b3891d733681bd4515f021e1cdfb1bec47ad368802": {
+    "headline_tr": "En Yeni 1 Trilyon Dolarlık Hisse Senedini Tanıyın",
+    "summary_tr": "Micron bir yıl önce yaklaşık 100 milyar dolar değerinde değerlendiriliyordu."
+  },
+  "https://finnhub.io/api/news?id=a72dbd5a8a0810794bd9ba7f1b8223851eca3ecc5a1eea0fd8d61b748597de99": {
+    "headline_tr": "Micron %7 Yükselişte, Western Digital ve SanDisk %4 Artarken Bellek Hisseleri Parabolik Yükselişini Devam Ettiriyor",
+    "summary_tr": "Bellek ve depolama hisseleri, yapay zeka bellek süper döngüsü yarı iletkenler sektöründeki en olağanüstü yükselişlerinden birini uzatırken Pazartesi öğle saatlerinde güçlü bir talep görüyor. Micron Technology (NASDAQ:MU) hissesi"
+  },
+  "https://finnhub.io/api/news?id=78e4608053ce1a77f427177b7064fb56ec79c1bcba73cdfc3a3bbd4c1dfec953": {
+    "headline_tr": "AMD Hedefi Yükseltildi, AI CPU Talebinin Artmasıyla",
+    "summary_tr": "Mizuho, CPU pazarında güçlü ajantiş AI talebini gerekçe göstererek AMD hedefini 615 dolara yükseltti."
+  },
+  "https://finnhub.io/api/news?id=c54e10425589275705d34d3cc4c0a77790919f3f275190b10f063f549a5e346d": {
+    "headline_tr": "Nvidia Rallisi Arasında Hisse Senetleri Çoğunlukla Yükselişe Geçiyor; Petrol Sıçrıyor",
+    "summary_tr": "ABD kıyaslama hisse senedi endeksleri gün içinde çoğunlukla yükselişe geçerken Nvidia (NVDA) teknoloji sektörünü yukarı taşımaya yardımcı oldu"
+  },
+  "https://finnhub.io/api/news?id=30af41693051520753f11660a8e8d0f979a5338add9b5c3eafef32bc55bb0257": {
+    "headline_tr": "AMD 52 Haftalık En Yüksek Seviyeye Yaklaşıyor: Al, Sat veya Tut mu?",
+    "summary_tr": "116,10 dolarda işlem gören Advanced Micro Devices (NASDAQ:AMD) tutma pozisyonunda. Hisse, mega-cap teknoloji şirketlerinin en şiddetli yeniden fiyatlandırmalarından birinin ardından 52 haftalık en yüksek seviyesi olan 527,20 doların yaklaşık %10 altında işlem görmektedir. AMD, EPYC serisini tasarlamaktadır."
+  },
+  "https://finnhub.io/api/news?id=99e24a99c2a2f4ea1a4b2361a849a1a2728318a3c0d330396e0074f024aff4aa": {
+    "headline_tr": "Pazartesi günü S&P500 endeksini keşfedin ve bugünkü seansda en aktif olan hisse senetlerini öğrenin.",
+    "summary_tr": "Bugünkü seansda en aktif S&P500 hisse senetlerini mi arıyorsunuz? Pazartesi günü ABD piyasalarına dalış yapın ve ticaret aktivitesine hakim olan ve tempoyu belirleyen hisse senetlerini keşfedin."
+  },
+  "https://finnhub.io/api/news?id=58790b92020c95cab836a650212df027b4a695efe60c094c0499d8479ae5452d": {
+    "headline_tr": "Broadcom'un Çarşamba Günü Pazar Kapanışından Sonra Q2 Kazanç Raporundan Önce Hissesi Satın Almaya Değer Mi?",
+    "summary_tr": "Yarı iletken üreticisinin geçtiğimiz yıl içindeki olağanüstü yükselişi şu soruyu gündeme getiriyor: Hisse şu anda satın almaya değer mi?"
+  },
+  "https://finnhub.io/api/news?id=c1f0cc605d9bf20ab1be813d449b371f972c2db3be3bc7895e6e6a5f1d96b257": {
+    "headline_tr": "Nvidia Hissesi Yeni PC Hamlesi Sonrası Intel ve AMD'de Satış Dalgasını Tetikleyerek Yükseldi",
+    "summary_tr": "Nvidia, Intel ve AMD'ye Yönelik Yeni Tehdidi Ortaya Çıkartıp Sıçradı"
+  },
+  "https://finnhub.io/api/news?id=bc0005ffc9c825be998920cfb64b59070990cad751d6ec876e777c702f40cdbb": {
+    "headline_tr": "Jim Cramer, Arm Holdings Hakkında Yükselişçi",
+    "summary_tr": "Arm Holdings plc (NASDAQ:ARM), Jim Cramer'ın Mad Money programında radar üzerinde olan hisse senetlerinden biriydi. Cramer, birçok yatırımcının pazarın en büyük kazananlarını kaçırabileceğini açıkladı. Cramer, hisse senedinin..."
+  },
+  "https://finnhub.io/api/news?id=13488485034c853a992af7178a14ae659867b8a69f02d69b031938f95e732bfc": {
+    "headline_tr": "Hype'a Değer 5 Çip Hissesi",
+    "summary_tr": "Yarı iletken rallisi devam ediyor ancak sonsuza kadar sürmeyecek. Micron ve Wolfspeed, güçlü temelleri ve büyüme potansiyeli olan iki çip hissesidir."
+  },
+  "https://finnhub.io/api/news?id=97592a0428f5175b3f4d1b9ea6f578a2e63e9ac9f5c7c2df70695bc8622e5a3c": {
+    "headline_tr": "Marvell Technology Hissesi Yeni Zirveye Ulaştı. Hâlâ Satın Almaya Değer mi?",
+    "summary_tr": "Teknoloji hissesi bu yıl %130'dan fazla artış kaydetti."
+  },
+  "https://finnhub.io/api/news?id=d3ee26ae6566338f0bef263ad307e79d7be9cf00d2852b900140440680550a1e": {
+    "headline_tr": "AI Altyapısı Yatırımı Derinleşiyor: Microchip, NXP, ON Semi'ye Bağlı Yeni Kaldıraçlı Yariiletken ETF'leri Piyasaya Çıktı",
+    "summary_tr": "Tradr ETF'lerinin Microchip, NXP Semiconductors, ON Semiconductor'u takip eden yeni 2X kaldıraçlı ETF'leri, Nvidia'nın ötesinde yapay zeka ve çip hisse senetlerine ampliye edilmiş maruz kalma sunuyor."
+  },
+  "https://finnhub.io/api/news?id=483638a4766bdbccc491a46b1a9eb9572b319d728fa006bb78e775ee258193f3": {
+    "headline_tr": "TSMC'nin Fiyat Artışı Nvidia Marjlarına Kötü, Nvidia Hissesine Potansiyel Olarak İyi",
+    "summary_tr": "TSMC, 2026'da 3nm çip fiyatlarında %15 artış ve 2027'de daha fazla artış düşünüyor. Yüksek maliyetler Nvidia marjlarına baskı yapabilirken, bu hamle yapay zeka talebinin daha güçlü kaldığını gösterebilir"
+  },
+  "https://finnhub.io/api/news?id=8314c9d0f5f7e97281adc365b91f26798f735124af8d510b63de51404822e790": {
+    "headline_tr": "Nvidia'nın AI PC Çipi Tanıtımı 3 Hisse Senedi Yararlanıcısını Ön Plana Çıkarıyor ve Intel için Yapısal Risk Oluşturuyor",
+    "summary_tr": "Nvidia'nın RTX Spark AI PC çipi Intel ve AMD'yi hedef alıyor. İşte yatırımcıların Dell, TSMC, MediaTek ve Microsoft etrafında nasıl konumlanması gerektiği."
+  },
+  "https://finnhub.io/api/news?id=cf86bef3831ecef6d21adfea23d749150ce3ea8bc3ff1ea3f1da5ff741c2ebf7": {
+    "headline_tr": "İzleme Listemizdeki 3 Pazar Üstü Performans Gösteren Hisse Senedi",
+    "summary_tr": "Satışlarını, marjlarını veya sermaye getirisini sürekli olarak artıran şirketler genellikle en iyi getirileri elde ederler ve bunu yıllarca üst üste yapabilen şirketler neredeyse daima efsanevi"
+  },
+  "https://finnhub.io/api/news?id=cdff13e97295cbb4f9ca898426bbf40e22598919b6c6ea4abd6c087d6a423786": {
+    "headline_tr": "Lam Research Hissesi S&P 500'ü Geride Bırakıyor mu?",
+    "summary_tr": "Lam Research, geçtiğimiz bir yılda S&P 500'ü önemli ölçüde geride bırakmış ve analistler hisse senedinin beklentileri hakkında oldukça iyimserdir."
   }
 }
