@@ -2462,5 +2462,49 @@
   "https://finnhub.io/api/news?id=cdff13e97295cbb4f9ca898426bbf40e22598919b6c6ea4abd6c087d6a423786": {
     "headline_tr": "Lam Research Hissesi S&P 500'ü Geride Bırakıyor mu?",
     "summary_tr": "Lam Research, geçtiğimiz bir yılda S&P 500'ü önemli ölçüde geride bırakmış ve analistler hisse senedinin beklentileri hakkında oldukça iyimserdir."
+  },
+  "https://finnhub.io/api/news?id=620e956be3503c796926e1e22c9dfce06c91ceb355507c8b3bbd5b529d646ff1": {
+    "headline_tr": "Daha İyi Temettü Büyümesi Hissesi: CVS Health mı yoksa UnitedHealth Group mı?",
+    "summary_tr": "Karar verici faktör verim değil, büyümedir."
+  },
+  "https://finnhub.io/api/news?id=8580e27154f633c535ebd13f250c82d593b599c39fafaef5ba52d9a8fd6c2aea": {
+    "headline_tr": "Micron Hissesi Bugün Yeni Rekor Seviyeye Ulaştı",
+    "summary_tr": "Micron hissesi yılbaşından bu yana %260'tan fazla yükseldi."
+  },
+  "https://finnhub.io/api/news?id=3795918776e66883784f5ace962cd808d3adcd64caecbd6df25ea7f155697006": {
+    "headline_tr": "Bugün Borsa, 1 Haziran: Teknoloji ve Yazılım Hisse Senetleri Piyasaları Yükseltiyor",
+    "summary_tr": "1 Haziran 2026'de Nvidia'nın süper çipi ve yazılım sektörünün geri dönüşü, yüksek petrol fiyatları Dow'u baskı altına alsa da, ABD endekslerini rekor seviyelere yakın tutmaya yardımcı oldu."
+  },
+  "https://finnhub.io/api/news?id=0c24c1221187f6c33058e8507e8abd8839a3badc97dd7972e420c8816795e239": {
+    "headline_tr": "Dow Jones Vadeli İşlemleri: Broadcom, Micron, Nvidia, Sandisk, Tesla Büyük Hareketçi; AI Hissesi Credo Kazançlarla Düştü",
+    "summary_tr": "Dow Jones Vadeli İşlemleri: Broadcom, Micron, Nvidia ve Sandisk pazartesi günü büyük kazananlar oldu. Credo geç saatlerde kazançlarla düştü."
+  },
+  "https://finnhub.io/api/news?id=01ea310b5420de74c4f65df9079feb028732b7b01e4f9f11eab03bc620a07826": {
+    "headline_tr": "DriveNets 410 milyon dolar tutarında yeni finansman turunu güvence altına aldı, AMD yatırımcı olarak katılıyor",
+    "summary_tr": "İsrailli ağ yazılımı şirketi DriveNets, Bessemer Venture Partners ve Atreides Management tarafından yönetilen en son finansman turunda 410 milyon dolar topladığını açıkladı ve toplam sermaye artışını artırdı"
+  },
+  "https://finnhub.io/api/news?id=7305345c17241cde471f0fa9785dfc3ad45f5263f1beefe8e24ad17cf92c4df0": {
+    "headline_tr": "Nvidia'nın Çip Duyurusuyla Arm Hissesi Rekor Seviyeye Ulaştı",
+    "summary_tr": "Nvidia, bir PC çipi piyasaya sunarak yarı iletken sektörünü sarsmıştır. Nvidia, Pazar günü geç saatlerde RTX Spark'ı tanıttı; bu çip, Arm'ın özel bir merkezi işlem birimi tasarımlarını entegre etmektedir. Arm hissesi..."
+  },
+  "https://finnhub.io/api/news?id=e5eba245a1a05afefdd9b3745df84fd34f955cbe355d90ccd04bf98049a58a6e": {
+    "headline_tr": "DriveNets, Büyük Ölçekli AI Dağıtımlarında Ethernet Fabric Talebini Karşılamak için 410 Milyon Dolar Series D Finansmanı Sağladı",
+    "summary_tr": "Büyük ölçekli ağ çözümlerinde lider olan DriveNets, 410 milyon dolarlık Series D finansman turunu tamamladığını ve toplamda 1 milyar dolar sermaye topladığını duyurdu. 1 milyar doların üzerinde güvence altına alınan..."
+  },
+  "https://finnhub.io/api/news?id=e2e5e0e60fd8ccb6cbca4860223ff730d16a2a6e55bb1b61b01b84fa523b3e92": {
+    "headline_tr": "Broadcom, Kapsamlı Multi-Gig Geniş Band ve Wi-Fi 8 İnovasyonları ile AI Kenarını Bağlıyor",
+    "summary_tr": "Gömülü NPU ile uçtan uca geniş band ve kablosuz bağlantı, geliştirilmiş gizlilik koruması ve güvenliği ile kenar ağda duyarlı ve çevik zeka sunuyor."
+  },
+  "https://finnhub.io/api/news?id=cdffdf1d5b3291803bb7e26652e30c377f3b8cbb8af8a4a9732ed3833a58d387": {
+    "headline_tr": "Güncelleme: S&P 500 Şirketlerinin Kazançları %28 Arttı, Rapor Sezonunun Sonuna Yaklaşırken, Oppenheimer Söylüyor",
+    "summary_tr": "Rapor sezonunun sonuna yaklaşırken S&P 500 şirketlerinin kazançları %28 oranında artmıştır. Oppenheimer tarafından doğrulandığı şekilde, dördüncü paragrafta konsolide gelir rakamları dahil edilmek üzere makale güncellenmiştir."
+  },
+  "https://finnhub.io/api/news?id=3783867596100064d80db35e3ba4cbb1119baf0973012bb0e29711e5e8baf19b": {
+    "headline_tr": "Hiperölçekli Şirketler Nvidia'nın GPU'larını Değiştirmeye Çalışıyor - TSMC Her Durumda Kazanıyor",
+    "summary_tr": "TSMC hisse senedi görünümü: Yapay zeka çip yarışı, Google, Nvidia, AMD ve Intel'in siparişleriyle talebi artırıyor. Tam analizi buradan okuyun."
+  },
+  "https://finnhub.io/api/news?id=42fa699e7433f4ecfb967d6cdaba68a2c853b4f70dadb6e09ec58f684ce26072": {
+    "headline_tr": "Wells Fargo, Lam Research'e Yönelik Pozisyonunu Koruyor, Fiyat Hedefini 365$'a Yükseltiyor",
+    "summary_tr": "Wells Fargo analisti Joseph Quatrochi, Lam Research (NASDAQ:LRCX) hissesini Overweight pozisyonuyla koruyor ve fiyat hedefini 320$'dan 365$'a yükseltiyor."
   }
 }
