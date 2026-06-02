@@ -2506,5 +2506,69 @@
   "https://finnhub.io/api/news?id=42fa699e7433f4ecfb967d6cdaba68a2c853b4f70dadb6e09ec58f684ce26072": {
     "headline_tr": "Wells Fargo, Lam Research'e Yönelik Pozisyonunu Koruyor, Fiyat Hedefini 365$'a Yükseltiyor",
     "summary_tr": "Wells Fargo analisti Joseph Quatrochi, Lam Research (NASDAQ:LRCX) hissesini Overweight pozisyonuyla koruyor ve fiyat hedefini 320$'dan 365$'a yükseltiyor."
+  },
+  "https://finnhub.io/api/news?id=1e939934e2e5739e9e6c8226ea4e4c29629eca8fb63f3fdd9c03c88d0f1eec9e": {
+    "headline_tr": "Şu Anda Dikkate Alınması Gereken 2 Kârlı Hisse Senedi ve 1 Tanesi Hakkında Şüphelerimiz Var",
+    "summary_tr": "Bir şirket kârlı olsa bile, bu her zaman harika bir yatırım anlamına gelmez. Bazıları büyümeyi sürdürmekte zorlanır, yaklaşan tehditlerle karşı karşıya kalır veya akıllıca yeniden yatırım yapmayı başaramaz ve bu da gelecekteki potansiyellerini sınırlar."
+  },
+  "https://finnhub.io/api/news?id=72f91437b8ca6f4807b4f97a1182b384553755b256015d0c3422772f5163b8ad": {
+    "headline_tr": "Arm Holdings CEO: ABD'nin AI CPU çip ihracatını Çin'e yasaklaması zor olur",
+    "summary_tr": "Arm Holdings CEO'su Rene Haas, Salı günü, yapay zeka için kullanışlı CPU'ların Çin'e ihracatını engellemesinin zor olacağını, çünkü bu çiplerin yaygın kullanımı nedeniyle engellemenin güç olacağını söyledi."
+  },
+  "https://finnhub.io/api/news?id=4d335590203d282e3ee2d4029841d3c8c6032531b85fd5752469d159842e39bb": {
+    "headline_tr": "Walmart Hissesi Mayıs Ayında Neden %12 Düştü",
+    "summary_tr": "Gelecek hakkında endişeler var."
+  },
+  "https://finnhub.io/api/news?id=8d7868de31e9e689fd6d3b0eb061bb84e61c8786f0f2b5d55267049cc9cb841b": {
+    "headline_tr": "Marvell, Nvidia CEO'su tarafından 'sonraki trilyon dolarlık şirket' olarak nitelendirilmesinin ardından %22 oranında yükselişe geçti",
+    "summary_tr": "Investing.com -- Marvell Technology hissesi, Nvidia şefi Jensen Huang tarafından çip üreticisinin sonraki \"trilyon dolarlık şirket\" olarak tanımlanmasının ardından Salı günü öncü işlemde %22'den fazla artış gösterdi."
+  },
+  "https://finnhub.io/api/news?id=f77e60f87b59f5af4bf3624eb1712b04c71df62c0cb976da6c38a25f2cc23141": {
+    "headline_tr": "Micron'un COMPUTEX AI Bellek Lansmanı Yüksek Değerleme Beklentilerini Karşılıyor",
+    "summary_tr": "Micron Technology (NasdaqGS:MU), COMPUTEX 2026'da yapay zeka odaklı bellek ve depolama ürünlerinin geniş bir yelpazesini tanıttı. Şirket, HBM4 36GB modülleri, 256GB SOCAMM2 modülleri, yüksek hızlı DDR5 RD'yi vurguladı."
+  },
+  "https://finnhub.io/api/news?id=06dc50588dbefcdeae87c84d49fe6ca249e5ab13061fc9cd87f411e1efa9cf9d": {
+    "headline_tr": "SK Hynix Bellek Çipi Kıtlığını Hafifletmek İçin Kapasitesini İkiye Katlamayı Planlıyor",
+    "summary_tr": "(Bloomberg) -- SK Hynix Inc., önümüzdeki beş yıl içinde bellek çipi kapasitesini ikiye katlamayı planlıyor. Bu büyük genişleme, yapay zekanın temel bir bileşeni olan küresel kıtlığı hafifletmeye yardımcı olmalıdır."
+  },
+  "https://finnhub.io/api/news?id=25454214be1f5ca1446f0ec0e8609e930268a4d86b7174cfb40d8e26e47fc7d6": {
+    "headline_tr": "GOOGL Pazar Öncesi Düşüşte: AI İnşası için 80 Milyar Dolar Hisse Senedi Artışı Seyreltme Endişelerini Tetikledi",
+    "summary_tr": "GOOGL için perakende yatırımcı duyarlılığı 'düşüş eğiliminde' kaldı"
+  },
+  "https://finnhub.io/api/news?id=6e622ee859694d5c978e0700cddd347b0ec30e502469bb4159458242f941a598": {
+    "headline_tr": "Marvell Hissesi %24 Yükseldi. Nvidia CEO'su Neden 1 Trilyon Dolara Ulaşacağını Söylüyor.",
+    "summary_tr": "Marvell Technology hissesi, Nvidia CEO'su Jensen Huang'ın büyük bir onayı aldıktan sonra Salı günü erken saatlerde yükselişe geçti. Huang, çip ve ağ şirketi olan şirketin 1 trilyon doların üzerinde bir pazar değerine ulaşabileceğini düşünüyor."
+  },
+  "https://finnhub.io/api/news?id=fdd0c8cfbab7ed7c80a8307d5c4a79a77ff1f70236f1965bce97076c395f30ec": {
+    "headline_tr": "Alphabet'in 80 Milyar Dolarlık Artışı, Huang'ın Yazılım Vaazı ve HPE'de Mesai Saati Sonrası Patlama",
+    "summary_tr": "Pazartesi açılışı ile Salı günü ilk kahvesi arasında, normal bir hafta içinde birlikte görmeyeceğiniz üç olay yaşandı."
+  },
+  "https://finnhub.io/api/news?id=12638314b5718c6d9a7342e010f525d1dda1541bf7c2c3a94573c3d57b32ffcb": {
+    "headline_tr": "Rackspace (RXT) Sessizce Bulut Kimliğini Düzenlenmiş, AMD Destekli Enterprise AI Etrafında Yeniden mi Şekillendiriyor?",
+    "summary_tr": "2026'nın başlarında Rackspace Technology, Instinct GPU'ları ve EPYC CPU'larını tam yönetilen, idareli kurumsal AI bulutuna entegre etmek için AMD ile bir mutabakat zaptı açıkladı ve AI'ı genişletme planlarını duyurdu."
+  },
+  "https://finnhub.io/api/news?id=29746e9cf5892099c913372eba5c8e6f95b807689e6ed0f7e93f84d3b0fbbc57": {
+    "headline_tr": "Hyperliquid Trader'ı $28,000'ı $3 Milyona Çevirdi: 6 Açık İşlem Ortaya Çıktı",
+    "summary_tr": "Bir Hyperliquid trader'ı iki ay içinde $27,950'ı neredeyse $3 milyona çevirdi. Cüzdanın şu anda tuttuğu altı kaldıraçlı uzun pozisyonu görebilirsiniz."
+  },
+  "https://finnhub.io/api/news?id=a78e36ab274d6224e848980ecd089df83c06ff6da8f4878cb8a492a7ed090eed": {
+    "headline_tr": "Jensen Huang: Nvidia, tedarik kısıtlamalarına rağmen yapay zeka büyümesini destekleyebilir",
+    "summary_tr": "HABER: Nvidia CEO'su Jensen Huang, Salı günü şirketinin güçlü büyümeyi desteklemek için yeterli arz sağladığını söyledi. Yapılan açıklamalar, yapay zeka patlaması nedeniyle çiplere yönelik talebinin arttığı şu dönemde geldi. Huang, bunun gerçek olduğunu söylüyor"
+  },
+  "https://finnhub.io/api/news?id=5c213618ac85be55455558ce884824350818e2b97c2deaf62bb72bb5125e67c0": {
+    "headline_tr": "ASIC Talebindeki Artış Broadcom'u 3 Haziran'dan Önce Satın Almayı Kaçınılmaz Hale Getiriyor mu?",
+    "summary_tr": "Broadcom'un özel çipleri yapay zeka (AI) çıkarım patlamasından yararlanmak için çok uygun konumdadır."
+  },
+  "https://finnhub.io/api/news?id=31ee513daeb04af3d5f0dbe0c74e2530971ded7c82ecb41081dc99dfc73e2397": {
+    "headline_tr": "Broadcom 3 Haziran'da Kazanç Açıkladığında Broadcom ve Nvidia Yatırımcılarının Dikkat Etmesi Gereken 3 Şey",
+    "summary_tr": "Broadcom'un özel çipleri ve yapay zeka ağı veri merkezlerinde pazar payı kazanıyor."
+  },
+  "https://finnhub.io/api/news?id=309c6a92d1089601acc42e6914a5bbb020a5e1563b8b48cfb902a3854dde2a98": {
+    "headline_tr": "ValuEngine Haftalık Pazar Özeti ve Yorumu",
+    "summary_tr": "ABD piyasaları haftayı açık bir risk-on eğilimi ile kapattı ve teknoloji ile büyüme odaklı hisse senetlerinin güçlü bir toparlanması başı çekti. QQQM %2,88 kazanırken, XLK %5,89 oranında yükseldi. Daha fazlasını buradan okuyun."
+  },
+  "https://finnhub.io/api/news?id=9fb79b38c52236119fcd20f1b7748c3494212dd0887da6baec1a7c9652aa7714": {
+    "headline_tr": "Bridgewater Associates 13F Portföyü Takibi - Q1 2026 Güncellemesi",
+    "summary_tr": "Bridgewater'ın Q1 2026 13F: yeni TSM hissesi ile teknoloji/yarı iletken inançları, AMZN/NVDA artışları ve büyük çıkışlar (CRM, ADBE). Daha fazla bilgi için buraya bakın."
   }
 }
