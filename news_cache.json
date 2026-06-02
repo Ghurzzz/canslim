@@ -2570,5 +2570,81 @@
   "https://finnhub.io/api/news?id=9fb79b38c52236119fcd20f1b7748c3494212dd0887da6baec1a7c9652aa7714": {
     "headline_tr": "Bridgewater Associates 13F Portföyü Takibi - Q1 2026 Güncellemesi",
     "summary_tr": "Bridgewater'ın Q1 2026 13F: yeni TSM hissesi ile teknoloji/yarı iletken inançları, AMZN/NVDA artışları ve büyük çıkışlar (CRM, ADBE). Daha fazla bilgi için buraya bakın."
+  },
+  "https://finnhub.io/api/news?id=0a3f3d1691ef838e6811c93c218191b7775ad01034e131fd5bd9dd08bc31fdab": {
+    "headline_tr": "Nvidia CEO'su Marvell Hissesi İçin Şaşırtıcı Bir Tahmin Sunuyor",
+    "summary_tr": "Nvidia CEO'su Marvell'i Sonraki Potansiyel 1 Trilyon Dolarlık Çip Devi Olarak Adlandırıyor"
+  },
+  "https://finnhub.io/api/news?id=6ec26f083f03cdc4907044444dae1f1178b8931e10a27bf051841f6caccf4cd1": {
+    "headline_tr": "Dikkat Edilecek Kazançlar: Broadcom (AVGO) Yarın Q1 Sonuçlarını Açıklayacak",
+    "summary_tr": "Fabless çip ve yazılım üreticisi Broadcom (NASDAQ:AVGO), bu Çarşamba günü piyasa kapanışından sonra kazanç sonuçlarını açıklayacak. Yatırımcıların bilmesi gerekenler burada."
+  },
+  "https://finnhub.io/api/news?id=f6acf0aec84290e18b0b7548a4df507edebdbbe283bdbfd4daa8f271726016af": {
+    "headline_tr": "Huang'ın bakır-optik karşılaştırması optik hisse senetlerini yükselişe geçirdi",
+    "summary_tr": "Huang'ın açıklamaları Wall Street'in agresif bir şekilde fiyatlandırdığı bir hiyerarşiyi netleştirdi. \"Bakırı olabildiğince çok ve olabildiğince uzun kullanmalıyız, ancak bakırın sınırları vardır\" dedi. \"Doğru..."
+  },
+  "https://finnhub.io/api/news?id=307bae421cd285aba6df75e12fe83d58f5c5d5f9427d4d9481a6c6d413e00432": {
+    "headline_tr": "Trump İsrail-Hizbullah Ateşkesi için Baskı Yaparken ABD Hisse Senedi Endeksleri Yükselişe Geçti, Teknoloji Kazançlarını Genişletti",
+    "summary_tr": "ABD hisse senedi endeksleri, yatırımcılar İsrail ve Hizbullah'ın Başkan Trump'ın tepkisini tartarken yükselişe geçti"
+  },
+  "https://finnhub.io/api/news?id=bc4b2d229715f85d6cba716909b8ddf531605eca14cb7ad9688c94a46a011c43": {
+    "headline_tr": "Barclays, AMD hisse senedi fiyat hedefini yeniden belirliyor",
+    "summary_tr": "Yapay zeka ticareti neredeyse tamamen GPU'lar hakkında olmak üzere iki yıl geçirdi. Nvidia bu konuşmaya hakim durumdadır ve Wall Street'in çoğu buna göz yummuştur. Barclays'ten Tom O'Malley bu çerçevenin"
+  },
+  "https://finnhub.io/api/news?id=112973e368de623135aa8ff010c8c38221c25a6d26551fa7912fdff05247e062": {
+    "headline_tr": "DRAM 40 İşlem Gününde %128 Arttı. Üç Hisse Tüm İşi Yaptı.",
+    "summary_tr": "Roundhill Memory ETF'ye (CBOE:DRAM) ilk işlem günü olan 2 Nisan 2026'da açılış NAV'ı 27,76 dolardan 10.000 dolarlık bir yatırım, 29 Mayıs Cuma günü kapanışta yaklaşık 22.800 dolar değerinde olacaktır."
+  },
+  "https://finnhub.io/api/news?id=9d7f95805c1f10f96f96369ccc5fcfbb0a48377f863b2efc0ec7d3b0cb5a0ac0": {
+    "headline_tr": "Nvidia'nın GTC Taipei Duyuruları Önemli Büyüme Potansiyeli Sunuyor, Truist Söylüyor",
+    "summary_tr": "Nvidia'nın (NVDA) yakın zamandaki ürün duyuruları, teknoloji devi için önemli büyüme potansiyeli sunuyor"
+  },
+  "https://finnhub.io/api/news?id=812e5711a18a492d8d72543deb19ccecfa9d90b8abd8eec32ed2adf910434996": {
+    "headline_tr": "Broadcom, Marvell, HPE, Alphabet ve Daha Fazlası: Bugünün Piyasasını Açıklayan Hisse Senetleri",
+    "summary_tr": "Yazılım hisse senetlerindeki toparlanma zayıflamaya başlarken, Wall Street son aylarda piyasayı rekor seviyelere taşıyan çip ve sunucu üreticilerine geri döndü. Yatırımcı"
+  },
+  "https://finnhub.io/api/news?id=10e24f4fd2788d296584d821d69c158c04bc3cbb4e559299e14f411c06aaffb7": {
+    "headline_tr": "Broadcom (AVGO) Yaklaşan Kazanç Açıklaması Öncesinde 'Alım' mı?",
+    "summary_tr": "Hisseler yılbaşından bu yana %30'dan fazla artış göstermiş ve ana endeksleri geride bırakmıştır."
+  },
+  "https://finnhub.io/api/news?id=dd50abcecc74ebbc1f60aceaf1138b0dcc4e79c1bfc1ae7c163755c1b390abb2": {
+    "headline_tr": "Silicon Motion'ın Yapay Zeka Bilgisayarları için Son SSD Kontrolörü Büyümeyi Tetikleyebilir mi?",
+    "summary_tr": "SIMO, yapay zeka bilgisayarları için SM2524XT PCIe Gen5 DRAM'sız SSD kontrolörünü piyasaya sürüyor; 14 GB/sn'ye kadar okuma hızı, düşük gecikme süresi ve daha iyi verimlilik sunuyor."
+  },
+  "https://finnhub.io/api/news?id=344821122d395a3a372830649b7141209f4a7fdba2ec52e72b752e797e84a4a3": {
+    "headline_tr": "Nvidia'nın Jensen Huang Marvell Technology'e Büyük Bir Destek Verdi",
+    "summary_tr": "Huang, Marvell Technology için yüksek beklentilere sahip."
+  },
+  "https://finnhub.io/api/news?id=4f35a6713a55203e5799c4c22c6f18b635f2dfe408892735dcb2c2851caf60d9": {
+    "headline_tr": "Marvell Neden Bugün Yükseliyor?",
+    "summary_tr": "Huang onayı 44 milyar doların üzerinde pazar değeri ekledi"
+  },
+  "https://finnhub.io/api/news?id=48662c247558f290995cc47b382890a9e40bf309e9778c2d917e6e51cead4c27": {
+    "headline_tr": "Nvidia CEO'su Marvell'i Sonraki Trilyon Dolarlık Dev Şirket Olarak Destekledi. Hisse %29 Yükseldi.",
+    "summary_tr": "Marvell Technology hissesi Salı günü ortağı Nvidia'nın şirkete verdiği güçlü destek sonrasında hızla yükseldi."
+  },
+  "https://finnhub.io/api/news?id=f681cc941a7faf4e5944ba72bb05afb2a974c6dc2251fc1649924d2699e7c17f": {
+    "headline_tr": "Intel'in Genişletilmiş Yapay Zeka Altyapısı Portföyü Gelecekteki Büyümeyi Sağlayabilir mi?",
+    "summary_tr": "INTC, Xeon 6 Plus çipleri, Ethernet E835 kontrolörleri ve Crescent Island AI GPU'sunu piyasaya sunarak veri merkezi, bulut ve edge yapay zeka verimliliğini artırmayı hedefliyor."
+  },
+  "https://finnhub.io/api/news?id=8dac94c84def29fbff4c67e437feb61bd0710c3154db7bbf8f43f55942fd5938": {
+    "headline_tr": "MU'nun Patlayıcı Yükseliş Potansiyelinin 3 Nedeni",
+    "summary_tr": "Micron için çok yoğun bir dönem geçti. Son altı ayda şirketin hisse senedi fiyatı devasa bir şekilde %334 artarak hisse başına 1.040 dolarlık yeni 52 haftalık yükseklik yaptı. Bu kısmen şirketin"
+  },
+  "https://finnhub.io/api/news?id=d77e388b3349c8cb305e1a33e621f6911ed834e93ed5d7eebcbc90a1cf43c804": {
+    "headline_tr": "Yapay Zeka Çipi Rallisi S&P 500, Nasdaq 100 ve Dow'u Yeni Rekorlara Taşıyor: Bugün Borsa",
+    "summary_tr": "Yapay zeka ve yarı iletken gücü, Salı günü ABD hisse senetlerini Marvell ve HPE öncülüğünde yeni rekorlara taşıdı."
+  },
+  "https://finnhub.io/api/news?id=3cf72b7b574186d5f590ea0a74a30113e454035494909f1b03f73aaf98b64e9d": {
+    "headline_tr": "Yapay Zeka Güç Panoları ve SiC Şebekesi Navitas Semiconductor'ün Beklentilerine Yardımcı Olacak",
+    "summary_tr": "NVTS, veri merkezleri daha yüksek voltajlı DC'ye geçerken yeni GaNFast 20kW ve 10kW yapay zeka güç panoları ile GeneSiC şebeke demolarını övüyor."
+  },
+  "https://finnhub.io/api/news?id=51447cb8c513a2b7bbe5972ba0bd278197bf3c36a5f7dce6a0e5e00b1feb96b0": {
+    "headline_tr": "NVTS Hissesi: Bugünkü Değerlemede Tarafsız Duruş Ne Anlama Geliyor",
+    "summary_tr": "Navitas yılbaşından bu yana %249 yükseldi ve şu anda yüksek değerlemesi, yüksek güçlü yapay zeka veri merkezi gelirini ölçeklendirirken net bir devamını gerektiriyor."
+  },
+  "https://finnhub.io/api/news?id=b48a2062c45df4ff9c6c6ed721b213d467e2296d8c9f1035c54443c2c8816430": {
+    "headline_tr": "Dan Loeb Yapay Zeka Patlamasında Yarı İletkenler Sektörünü 'En Çekici Sektör' Olarak Övdü— Ancak Nvidia Satış Işlemi Farklı Bir Hikaye Anlatıyor",
+    "summary_tr": "Nvidia'nın 'parlak çeyreğini' övmesine rağmen, milyarder Dan Loeb'in Q1 13F dosyası Third Point'in NVDA hissesinin neredeyse %90'ını satıştığını ortaya koymaktadır."
   }
 }
