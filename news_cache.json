@@ -2718,5 +2718,73 @@
   "https://finnhub.io/api/news?id=2010c79b6ca6a1aa702d08cf67b7c463b49d29059cbf0d42d9caccc0114c9f56": {
     "headline_tr": "Salı Günü Taiwan Semiconductor Hissesi Neler Oluyor?",
     "summary_tr": "Taiwan Semiconductor pazar düşüşüne karşı direniş gösteriyor, ileri 3nm çipler için %15 fiyat artışı raporları arasında ön pazar döneminde %0,49 oranında yükselişe geçerek 52 haftalık yüksek seviyelere yakın işlem görüyor."
+  },
+  "https://finnhub.io/api/news?id=320cfb07b1ec883b3cb230e28ea4e5abf395bec9151b8ed98b923ce3fcd10857": {
+    "headline_tr": "Çarşamba seansında S&P500 endeksinin en aktif hisse senetleri hakkında bilgi sahibi olun.",
+    "summary_tr": "Çarşamba seansında S&P500 endeksinin en aktif hisse senetleri hakkında bilgi sahibi olun. En yüksek işlem hacmi oluşturan ve pazar aktivitesini yönlendiren hisse senetlerini keşfedin."
+  },
+  "https://finnhub.io/api/news?id=976f8eadda14955393c832af330740c2a7ab982b6177b83fa715ad39588fc741": {
+    "headline_tr": "Çarşamba seansında en aktif hisse senetlerini keşfedin.",
+    "summary_tr": "Çarşamba seansı yoğun aktiviteyle doluyor. En fazla dikkat çeken ve pazar aktivitesini yönlendiren hisse senetlerini kontrol edin!"
+  },
+  "https://finnhub.io/api/news?id=f1667a35684a3bdaa55c0f418137b8cdee27d2f2827c3fddf82bfe07601e4dd0": {
+    "headline_tr": "HSBC, Broadcom'un hisse senedi fiyat hedefini büyük ölçüde revize etti",
+    "summary_tr": "Her büyük teknoloji döngüsünde, sayıların projeksiyon görünümünden gerçek zamanlı olarak yazılmakta olan tarihe dönüştüğü bir an gelir. Broadcom (AVGO) bu anın kralı olabilir"
+  },
+  "https://finnhub.io/api/news?id=a943b2973cad1c6bf5aa05c309ee23fa3a4ccb7e5cd836341d08ae25909eb01e": {
+    "headline_tr": "24 Haziran Öncesinde Micron Hissesi Almalı Mısınız? Tarih Açık Bir Cevap Veriyor.",
+    "summary_tr": "Micron, bu ayın ilerleyen günlerinde mali üçüncü çeyrek kazançlarını açıklamaya hazırlanıyor."
+  },
+  "https://finnhub.io/api/news?id=85d2ef89be05708440540d569f32c1ae91d9e667e4862489bcf61c4d3a5edcad": {
+    "headline_tr": "Bugün Borsa, 3 Haziran: Yeni Jeopolitik Gerilimler Nedeniyle Hisseler Öğle Saatlerinde Düştü",
+    "summary_tr": "3 Haziran 2026'da bugün, Orta Doğu'daki artan belirsizlik risk iştahını azalttığı için petrol fiyatları sabah saatlerinde kazanç elde etti."
+  },
+  "https://finnhub.io/api/news?id=6a8ef554a6e25cf69ccf90be4cc5e32c8077850e912b5321f98effd387fe215b": {
+    "headline_tr": "Bugün Borsa: Savaş Endişeleri Arasında Dow Düşüşe Geçti, Fed Verileri Bekleniyor; Ollie's Kaybetme Serisini Uzatıyor (Canlı Kapsam)",
+    "summary_tr": "Bugün Borsa: Dow Jones endeksi Çarşamba günü Trump'ın son ABD-İran yorumlarından sonra düşüş yaşadı. Marvell hissesi yükselişe devam etti."
+  },
+  "https://finnhub.io/api/news?id=c8d2bce267fe6f4eec3d1fad32d1471c7ceac4b8ba13d6c694c26e41c115d85f": {
+    "headline_tr": "Marvell Hissesi Yine Sıçradı -- Nvidia CEO Trilyon Dolarlık Geleceği Önerdi",
+    "summary_tr": "Evercore'un AI Büyüme Hikayesini Desteklemesiyle Marvell Yükselişte"
+  },
+  "https://finnhub.io/api/news?id=bfe71a8f1b3ce9b70f95678cc0b0ecc9a6cf65e295f8031183058bf4bf636541": {
+    "headline_tr": "Broadcom (AVGO) Bir Yıllık %89'luk Artışından Sonra Yatırım Yapmak Çok Geç mi?",
+    "summary_tr": "Broadcom hissesinin cazip fiyatlandırılıp yapılmadığını veya zaten yüksek beklentileri yansıtıp yansıtmadığını merak ediyorsanız, mevcut hisse fiyatının farklı"
+  },
+  "https://finnhub.io/api/news?id=95f733a7675d74985b6b9414c552f436dbf472d5e53760d20020cca0d17b5f9a": {
+    "headline_tr": "Marvell, AMD Yükseliş Gösteriyor, Çip Hisse Senetlerini Rekor Seviyeye Taşıyor",
+    "summary_tr": "Philadelphia yarı iletken endeksi SOX rekor seviyeye ulaştı çünkü AMD, Marvell ve diğer çip hisse senetleri yükseldi."
+  },
+  "https://finnhub.io/api/news?id=138eba04ab187db11618c5859d3006291f0a57a683e7d1829f69fe236cfa4ece": {
+    "headline_tr": "AMD, Marvell, Intel, Blackstone, KKR ve Daha Fazla Hisse Senedi Bugünün Piyasasını Açıklıyor",
+    "summary_tr": "ÖZELLİK  Tatmin edilmez çip hisse senetleri rallisi Çarşamba günü devam ederken yazılım baskı altında kalmaya devam etti. Özel kredi etrafındaki yatırımcı endişeleri de piyasayı etkiledi. Görünüşe göre ise"
+  },
+  "https://finnhub.io/api/news?id=c0f3273544d2974ac060458ed87a4fc6182302b0cf8f58a46a891665740da7e1": {
+    "headline_tr": "Broadcom hissesi kazanç öncesinde rekor seviyelerde seyrediyor",
+    "summary_tr": "Broadcom hisseleri şirketin Çarşamba günü yapılacak kazanç açıklaması öncesinde hafif yükseldi."
+  },
+  "https://finnhub.io/api/news?id=9b93c96004850e6486ab34dcb36c158902d669f2d10d4602535551bd4e17952c": {
+    "headline_tr": "Morgan Stanley: Meta, Yapay Zekada Kazanabilir. Hisse Senedi Yine de Kanıt Göstermek Zorunda",
+    "summary_tr": "Meta Platforms yapay zeka konusunda yoğun şekilde harcama yapıyor ve bu durum yatırımcı duyarlılığını olumsuz etkiliyorken, Morgan Stanley şirketin yapay zeka yatırımlarının milyarlarca dolarlık yeni gelir ve kazanç büyümesini ortaya çıkarabileceğini savunuyor"
+  },
+  "https://finnhub.io/api/news?id=00334b347739e8e902b7b4f20e577528753156ee4c1170190132a43f2f2626ff": {
+    "headline_tr": "Güçlü Nakit Akışları Lam Research'ün Hisse Geri Satın Alma Stratejisini Destekleyecek mi?",
+    "summary_tr": "LRCX'in güçlü nakit akışı hisse geri satın alma faaliyetlerini güçlendiriyor. Yapay zeka tarafından yönlendirilen talep gelir ve marjları artırırken, geri satın almalar için 4,3 milyar dolar yetki kalmıştır."
+  },
+  "https://finnhub.io/api/news?id=6c68cde5367e1ce7d90897695cb9bc7f45b8c693b4e9cdea05b24786ef207f4b": {
+    "headline_tr": "Sabit Uzun Vadeli Getiriler için Satın Alınacak En İyi Geniş Hendek Hisse Senetleri",
+    "summary_tr": "EL, TER, LRCX ve ASML, rakipleri savuşturmak ve pazar değişimleri arasında tutarlı getiriler sağlamak için güçlü hendekleri kullanmaktadır."
+  },
+  "https://finnhub.io/api/news?id=ee07056ba8448b1494cfbb1cba2ed6f3274edfdf7eb033b1a2e44ec75c739072": {
+    "headline_tr": "Virtus SGA Global Growth Fund Q1 2026 Portföy Güncellemesi",
+    "summary_tr": "Arm Holdings yönetimi, uzun vadede yaklaşık %20 telif hakkı büyümesini sürdürme konusundaki güvenini yineledi ve piyasanın Arm'ın yapısal büyüme profiline olan güvenini güçlendirdi."
+  },
+  "https://finnhub.io/api/news?id=e5978b2219bca3ea5432504d5314aec5700a923b2e92893ba16af62e622248cb": {
+    "headline_tr": "Baron Global Opportunity Fund Q1 2026 Katkı Sağlayanlar ve Olumsuz Etkileyen Faktörler",
+    "summary_tr": "Performansa en fazla katkı sağlayanlar Space Exploration Technologies Corp., ASML Holding N.V. ve Taiwan Semiconductor Manufacturing Company Limited oldu. Daha fazla bilgi için buraya tıklayın."
+  },
+  "https://finnhub.io/api/news?id=6439fc61645ad887a68c57009ac95d2a004b6cdddb554a26138ac8d08eed4915": {
+    "headline_tr": "Intel, Taiwan Yarı İletken'i Rakip Değil, Güvenilir Partner Olarak Nitelendiriyor",
+    "summary_tr": "Intel (INTC) hisse senedi piyasa öncesi %2,6 yükseldi. CEO Lip-Bu Tan, acentesel yapay zekanın hızlı büyümesiyle tetiklenen artan CPU talebinden bahsetti."
   }
 }
