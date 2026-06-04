@@ -2862,5 +2862,73 @@
   "https://finnhub.io/api/news?id=8e0eeea37dc5e4a18989382aba354fb4747c08ecfc61e2ee0d1891492342b086": {
     "headline_tr": "ABD-İran Düşmanlıklarının Escalasyonu Nedeniyle Hisse Senetleri Düşüyor",
     "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) bugün %0,40 düşüşte, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %0,74 düşüşte ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0,08 düşüşte işlem görmektedir. Haziran E-mini S&P vadeli işlemleri"
+  },
+  "https://finnhub.io/api/news?id=f77efb622d9b1c4fcd9db2f61ca6e1d3361e308f085623c8b3f0e7ada0287d53": {
+    "headline_tr": "EXL, NVIDIA Transaction Foundation Model iş akışı ile entegrasyonunu duyurdu; finansal kurumların dolandırıcılık, risk ve işlem istihbaratı için yeni nesil yapay zeka oluşturmasına yardımcı olacak",
+    "summary_tr": "NEW YORK, 04 Haziran 2026 (GLOBE NEWSWIRE) -- Küresel veri ve yapay zeka şirketi EXL [NASDAQ: EXLS], NVIDIA'nın Build Your Own Transaction Foundation Model geliştirici örneğinin i'ye entegrasyonunu duyurdu"
+  },
+  "https://finnhub.io/api/news?id=a988e38d1cc11417a26efefe02c9803ad8b6c852014239fa1a3e8c5cf30fba5b": {
+    "headline_tr": "Bugün Borsa: Dow 700 Puan Yükseldi; Broadcom %15 Düştü, Ciena Önemli Seviyeyi Kırdı (Canlı Yayın)",
+    "summary_tr": "Bugün Borsa: Dow Jones endeksi Perşembe günü sürpriz haftalık işsizlik başvurusu verilerinin ardından yükseldi. Broadcom ve CrowdStrike kazanç sonuçlarıyla sert düştü."
+  },
+  "https://finnhub.io/api/news?id=7c8e30d3de17f0ee6a460cf90196b8b8df7b6969cbc76395cd6d6d69634fc7d8": {
+    "headline_tr": "Üç Uluslararası Temettü ETF'si 2026'da SCHD'yi Neredeyse 2 Tam Puan Öncede",
+    "summary_tr": "Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) 71.6 milyar dolar varlık ve yaklaşık %3.5 takip getirisiyle ABD yatırımcıları için varsayılan gelir holdinge haline gelmiştir. 2026'da üç uluslararası temettü"
+  },
+  "https://finnhub.io/api/news?id=968de196e88e944ecf06366ea81e03e2f769d16d6e998d269a13fef32355535d": {
+    "headline_tr": "Anthropic Yatırımcılara SpaceX IPO'sundan Kaçınmaları İçin Bir Neden Daha Verdi",
+    "summary_tr": "Anthropic, xAI'ı önemli ölçüde aşırı değerli gösteriyor."
+  },
+  "https://finnhub.io/api/news?id=4c480a539769f00ad4b999c08199dd211e28ebfa7666f3f0deb5795a3b6e710e": {
+    "headline_tr": "Broadcom Hissesi AI Çip Satışları Beklentileri Hayal Kırıklığı Yarattığı İçin Düştü",
+    "summary_tr": "Broadcom hissesi, teknoloji devi Wall Street'in yüksek beklentilerini AI çip satışı hedefleriyle karşılayamadığı için Perşembe günü düştü."
+  },
+  "https://finnhub.io/api/news?id=0be75f98617924adaada79baf366e4101d10f6b7ac5a655eefc71d600a09b774": {
+    "headline_tr": "Amazon'un 50 Milyar Dolarlık Çip Sırrı: Nvidia'nın En Büyük Yapay Zeka Rakibi Olabilir Mi?",
+    "summary_tr": "Yapay zeka, yariiletken hisse senetlerini piyasanın en büyük kazananlarına dönüştürdü. Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), Advanced Micro Devices (NASDAQ:AMD) ve diğer çip üreticileri"
+  },
+  "https://finnhub.io/api/news?id=bb8a7f052bc1d92efde697c651bc449887700b3d1ffac365bf189aab392bc963": {
+    "headline_tr": "ABD İhracat Kısıtlaması ve Daha Geniş CPU Görünümü AMD'nin Yapay Zeka Hikayesini Yeniden Şekillendiriyor",
+    "summary_tr": "ABD düzenleyicileri, AMD ve Nvidia'nın ileri yapay zeka çiplerini Çin dışı yan kuruluşlar aracılığıyla Çinli müşterilere göndermelerine izin veren kilit bir ihracat boşluğunu kapattı. Bu değişiklik AMD'yi doğrudan etkilemektedir."
+  },
+  "https://finnhub.io/api/news?id=81ed2d0e3824d59561b978cc5d1e0038da1511e1b299509edf8df2193836f1eb": {
+    "headline_tr": "Micron %7 Düştü, Broadcom'un Hayal Kırıcı Yapay Zeka Görünümü Yarı İletken Satışını Tetikledi",
+    "summary_tr": "Micron Technology (NASDAQ:MU) hisselerinin değeri, Broadcom'un (NASDAQ:AVGO) piyasalar tarafından yetersiz olarak değerlendirilen yapay zeka çipi görünümü sunmasının ardından 4 Haziran Perşembe günü öğleden sonra 1.004 dolara düşerek yaklaşık %7 oranında geriledi."
+  },
+  "https://finnhub.io/api/news?id=b68333310d3a2990c33e05a6e85815bab9579f18dd26a149cbb1bb92da321a0f": {
+    "headline_tr": "Broadcom'un Hissesi Güçlü Kazançlara Rağmen Düştü. Diğer Çip Stokları da Düşüyor.",
+    "summary_tr": "Broadcom hisseleri perşembe günü beklentileri aşan bir kazanç raporu olmasına rağmen düştü ve diğer çip stokların düşüşüne öncülük etti."
+  },
+  "https://finnhub.io/api/news?id=a906626103b426bce655d4284ffc75f96c393b6295030bbc87be4ebb82386cdf": {
+    "headline_tr": "Jensen Huang'ın 70 Milyar Dolarlık Desteği Marvell'in Risklerini Ortadan Kaldırmadı",
+    "summary_tr": "Tek bir yorum bir gecede bir şirkete 70 milyardan fazla pazar değeri katabilir mi?"
+  },
+  "https://finnhub.io/api/news?id=c55c0b1f5a8e93cc4136ec8aafc320627aa1d90f97349c0eb9127d10095cea03": {
+    "headline_tr": "Perşembe seansında S&P500 hisse senetlerinde boşluk oluşumu",
+    "summary_tr": "Perşembe günü S&P500 yukarı ve aşağı yönlü boşluk oluşturan hisse senetleri hakkında güncel kalın. Bugünün seansı sırasında piyasanın hareketinin bir örneğini alın."
+  },
+  "https://finnhub.io/api/news?id=a487a2b0a23b3b0bf0a6c63d6b22e586385e08fd169c1c56f16079881530ad90": {
+    "headline_tr": "Görüş: Satın Alınacak En İyi Bellek Hissesi Micron veya SanDisk Değil",
+    "summary_tr": "Yatırımcılar, bellek ve depolama hisse senetlerine olan ilgilerini, ağzı sulandıran parabolik hareketlerinden sonra bile kesintiye uğratamıyorlar. Micron (NASDAQ:MU) ve Güney Kore'nin SK Hynix şirketi artık 1 trilyon dolarlık şirketler haline geldi."
+  },
+  "https://finnhub.io/api/news?id=55555e9070a1be1440e20b0988a3aff0c0797ab0223730b39e4a8919f1ff42bf": {
+    "headline_tr": "Ciena Hisse Senedi Earnings Beklentisini Aştığı Halde Düştü. %40 Gelir Büyümesi Yeterli Olmadı.",
+    "summary_tr": "Ağ işletmesi şirketi, mali ikinci çeyreğinde beklentileri aşan kazanç ve geliri bildirmiştir."
+  },
+  "https://finnhub.io/api/news?id=ae7a88d82212bf72a95619afc27f72dd79c44b663084f4fe7b13d9592ff25c60": {
+    "headline_tr": "Nvidia: Blackwell, Yapay Zeka Çıkarımı ve CUDA Büyüme Hikayesini Canlı Tutuyor (Yükseltme)",
+    "summary_tr": "NVIDIA (NVDA) Blackwell ve CUDA ile yapay zeka altyapısında liderlik sağlıyor ve benimsemeyi artırıyor."
+  },
+  "https://finnhub.io/api/news?id=4f0711fb2c05388f040d2b8b6c3e3cac9c5f601e4d9ece85b3bf4d361be79070": {
+    "headline_tr": "Lam Research Corp (LRCX): Temel Çip Üretimine Artan Bağımlılık",
+    "summary_tr": "Green Alpha Investment, yakın zamanda Q1 2026 yatırımcı mektubunu yayınladı. Mektubun bir kopyası buradan indirilebilir. Green Alpha Investment'ın felsefesi, ekonomik büyüme ve portföy getirisinin vurgulandığını belirtir"
+  },
+  "https://finnhub.io/api/news?id=112801cad79c1e95a65782eca145a81b188fa5a3487d93b1cd7bf3cdeb15e142": {
+    "headline_tr": "SCHD'den Esinlenen 4-Faktörlü Temettü Büyüme Stratejisi Haziran 2026 Seçimleri",
+    "summary_tr": "4-Faktörlü Temettü Büyüme Stratejisi, SCHD'den esinlenerek, kural tabanlı dört metrik ekran kullanarak yüksek kaliteli, büyümeye yönelik temettü hisse senetlerini hedeflemektedir."
+  },
+  "https://finnhub.io/api/news?id=21ada6c763958f8e76a940769f8c43c6513da9851d4b0a3ff5441bf26493c47e": {
+    "headline_tr": "NVIDIA Hissesinde Perşembe Günü Ne Oluyor?",
+    "summary_tr": "NVIDIA CEO'su Jensen Huang, yapay zeka altyapısı harcamalarını savunuyor ve teknoloji yatırımcıları için en son yatırım getirisini 'inanılmaz derecede karlı' olarak nitelendiriyor."
   }
 }
