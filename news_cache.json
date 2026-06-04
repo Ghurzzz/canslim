@@ -2786,5 +2786,81 @@
   "https://finnhub.io/api/news?id=6439fc61645ad887a68c57009ac95d2a004b6cdddb554a26138ac8d08eed4915": {
     "headline_tr": "Intel, Taiwan Yarı İletken'i Rakip Değil, Güvenilir Partner Olarak Nitelendiriyor",
     "summary_tr": "Intel (INTC) hisse senedi piyasa öncesi %2,6 yükseldi. CEO Lip-Bu Tan, acentesel yapay zekanın hızlı büyümesiyle tetiklenen artan CPU talebinden bahsetti."
+  },
+  "https://finnhub.io/api/news?id=19e2c9991f0b2f35fa9321530a20b615d083cb1eae5fe5f8cfa7be0074cbeb98": {
+    "headline_tr": "Sosyal Güvenlik Yardımı Aldıktan Sonra Çalışmayı Düşünmenin 3 Nedeni",
+    "summary_tr": "Yardım almaya başladıktan sonra maaş kazanmanın bazı avantajları vardır."
+  },
+  "https://finnhub.io/api/news?id=8713e84d726369b041a22d58503d0b3d7bc9880c4bbd24fdab8bfbda9418320d": {
+    "headline_tr": "Alphabet ve Anthropic'in Ortaklığı Büyük Bir Destek Olabilir",
+    "summary_tr": "Anthropic, Alphabet TPU'larının büyük miktarını satın almayı planladığını açıkladı."
+  },
+  "https://finnhub.io/api/news?id=12b208181eadaa9018c89defd9aef3a33cd56858d0369ca02b87060b3d76ce8c": {
+    "headline_tr": "Chewy Yakında Rapor Verecek. İşte Rakamlar Açıklanmadan Önce Neden Alırım",
+    "summary_tr": "Chewy hissesi kazanç açıklaması öncesinde 52 haftalık düşük seviyeye yakın"
+  },
+  "https://finnhub.io/api/news?id=6a0ebb5beece23b6a85cfa80b54c46140b0ecdb315b7779d4f5ca9963d4de6aa": {
+    "headline_tr": "%200 Yapay Zeka Büyümesi Yeterli Değilken ve İran Ateşkes Testini Tekrar Başlatıyor",
+    "summary_tr": "Broadcom yapay zeka çip gelirlerini %200 oranında artıracağını açıkladı, ancak hisse senedi mesai sonrası saatlerde %14'e kadar düştü. Wall Street faiz artırma korkularını sattı, İran yeniden aktif hale geldi ve Meta sonunda yapay zeka aracısını para hale çevirdi."
+  },
+  "https://finnhub.io/api/news?id=6876508b02faaa8ecf675b277218428c3400071388ba9a9d0808f16ffe918085": {
+    "headline_tr": "GOOGL Hissesi Gecede Yükselişe Geçti: Cathie Wood'un ARK'ı 96 Milyon Dolar Alırken AMD, BIDU Hisselerini Azaltıyor",
+    "summary_tr": "ARK Invest, GOOGL hissesini hızlı bir tempoda satın almaya başladı."
+  },
+  "https://finnhub.io/api/news?id=2d09d229ce3b9840eb1da687bb6a547aa509c178d5ade23de06284b0403d7453": {
+    "headline_tr": "Broadcom Q2: Kazanç Sonrası Satışın Ardından Düşük Değerlenmiş (Derecelendirme Düşürüldü)",
+    "summary_tr": "AI bütçelerine yönelik daha sıkı inceleme, Broadcom'un büyüme hızına baskı yapabilir. AVGO hissesinin neden şu anda bekleme pozisyonunda olduğunu, ancak uzun vadeli yükseliş trendinin intakt kaldığını okuyun."
+  },
+  "https://finnhub.io/api/news?id=3e1f91f9130ed558df76800c28c74b91ddf6520f8d5de76b77912ea66b8416e4": {
+    "headline_tr": "'Gating' Özel Sermaye Sektörüne Taşınıyor",
+    "summary_tr": "Partners Group'un 8.6 milyar dolarlık fonu, özel kredi temerrütleri artarken geri çekiliş işlemlerini kısıtlıyor. Temel riskleri, NAV etkilerini ve yatırımcıların şu anda nelere dikkat etmesi gerektiğini inceleyin."
+  },
+  "https://finnhub.io/api/news?id=c4f69d70f9a8819e96fdbd6470ec63d234dd29f70593643a3d4ec4aef31801f8": {
+    "headline_tr": "Sandisk: Micron ile Değerleme Farkı Aşırı Görünüyor",
+    "summary_tr": "Sandisk (SNDK) kurumsal ve yapay zeka depolamasına yöneliyor, marjları ve görünürlüğü artırıyor. Daha fazlasını okuyun."
+  },
+  "https://finnhub.io/api/news?id=1d11d53500afa741433d7c82c9a32d95d390504470cdac2ed5db1809e5b33257": {
+    "headline_tr": "AVGO, MRVL, NVTS Hisseleri 52 Haftalık Zirvelerine Ulaştı: Bu Çip Üreticilerini Neyin Yukarıya Çıkardığı?",
+    "summary_tr": "Marvell Technology, Broadcom ve Navitas Semiconductor bir dizi olumlu şirket gelişmesi ve gelecek beklentileri arasında yeni yıllık zirvelerine yükseldi."
+  },
+  "https://finnhub.io/api/news?id=16cef4d7f8077247811d926964b91f79a0b01e5ed26f445f1f1e31da4c1bfa31": {
+    "headline_tr": "Broadcom hisseleri yapay zeka tahmininin hayal kırıklığı yaratmasının ardından düşüş yaşadı",
+    "summary_tr": "HABER: Yapay zeka patlaması tüm çip hisse senetlerini eşit şekilde artırmıyor. Broadcom hisseleri, talep beklentilerinin yatırımcıları hayal kırıklığına uğratmasının ardından Çarşamba günü %13'e kadar düşüş yaşadı. ABD firması, yapay zeka çipi talebinde beklediği düzeyi açıkladı."
+  },
+  "https://finnhub.io/api/news?id=f8656a73517028ee61e08192e820d8d124d93f81a6da7a22f2521c8f36319490": {
+    "headline_tr": "Super Micro, Helios Lansmanı ve 2 Milyar Dolarlık Anlaşmayla AI Fabrikası Ulaşımını Genişletiyor",
+    "summary_tr": "Super Micro Computer (NasdaqGS:SMCI), hiperölçekli AI, egemen AI ve büyük dil modeli dağıtımlarına yönelik AMD Helios rack-scale AI platformunu piyasaya sürdü. Şirket yeni Arm AGI tanıttı"
+  },
+  "https://finnhub.io/api/news?id=32d6062020f3668a2afc1ed3c5157b00df719081843e9da969db8275a857e29b": {
+    "headline_tr": "TSMC CEO'su Çip Arzının Yapay Zeka Talebini Yıllarca Karşılayamayacağını Uyarıyor",
+    "summary_tr": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. İcra Kurulu Başkanı C.C. Wei, şirketin küresel çip arzının yapay zeka tarafından körüklenen talepleri yıllarca karşılayamayacağını söyledi ve gelir büyümesini sürdürüyor"
+  },
+  "https://finnhub.io/api/news?id=f73d5168529f7bcba28ada3a2d040f9a9292908e9b5681daa0081158d45e33ce": {
+    "headline_tr": "Micron: Artan Bellek Talebi ve Sıkı Arz Güçlü Bir Kurulum Yaratıyor",
+    "summary_tr": "Micron (MU), DRAM/HBM talebinin arttığı yapay zeka bellek süperçevriminde öncü konumdadır; fiyatlandırma rüzgarları ve düşük değerlenmiş F/K oranının neden AL kararını desteklediğini öğrenin—şimdi okuyun."
+  },
+  "https://finnhub.io/api/news?id=dda80af1f1950653c46cf1c735e49165aee596e861aee32c90a979850f4fa46f": {
+    "headline_tr": "Astera Labs, Inc. (ALAB) 2026 Evercore Global TMT Konferansında Sunum Yapıyor",
+    "summary_tr": "Astera Labs, Inc. (ALAB) 2026 Evercore Global TMT Konferansı 3 Haziran 2026 EDT 13:50 Şirket Katılımcıları Desmond Lynch - Mali İşler Müdürü Nicholas..."
+  },
+  "https://finnhub.io/api/news?id=25f383406801e61e31935dc47148ebaa63efab28d5f06d5f5cb4d9a44ae227c0": {
+    "headline_tr": "Virtus SGA Uluslararası Büyüme Portföyü 2026 Q1 Kazananlar, Kaybedanlar, Alımlar ve Satışlar",
+    "summary_tr": "Virtus SGA Uluslararası Büyüme Portföyü, pazar oynaklığına rağmen güçlü temel sonuçlarla üstün performans göstermiştir. Daha fazla detay için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=014e42c0c8d087b245eb29af9c78b9c3743e8bb0a7d327379677c7e2d742e753": {
+    "headline_tr": "Enerji Krizi, Artan Jeopolitik Risk ve Yapay Zeka Momentumunun Engelleri",
+    "summary_tr": "Orta Doğu çatışması ve yapay zeka altyapısı harcamaları küresel enerji ve teknoloji pazarlarını yeniden şekillendiriyor. Daha fazla ayrıntı için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=c15b07df8063ea06404970f3a0d4374997f18827fce4fa4ca71d0429485a266d": {
+    "headline_tr": "ABD-İran Barış Umutları Şüpheli Hale Gelirken Hisseler Geriletdi",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Çarşamba günü %0,74 düşüşle, Dow Jones Sanayi Ortalaması ($DOWI) (DIA) %1,21 düşüşle ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0,29 düşüşle kapandı. Haziran"
+  },
+  "https://finnhub.io/api/news?id=6eb88e7894b18657c89dc5f2556c449237b6b315a5703e91050029546000c413": {
+    "headline_tr": "RiverPark Uzun/Kısa Fırsat Fonu Q1 2026 Temel Katkıda Bulunanlar ve Engel Olanlar",
+    "summary_tr": "RiverPark Uzun/Kısa Fırsat Fonu, Applied Materials'in öncülüğünde Q1 2026 performansını vurgulamaktadır. Daha fazla ayrıntı için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=8e0eeea37dc5e4a18989382aba354fb4747c08ecfc61e2ee0d1891492342b086": {
+    "headline_tr": "ABD-İran Düşmanlıklarının Escalasyonu Nedeniyle Hisse Senetleri Düşüyor",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) bugün %0,40 düşüşte, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %0,74 düşüşte ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0,08 düşüşte işlem görmektedir. Haziran E-mini S&P vadeli işlemleri"
   }
 }
