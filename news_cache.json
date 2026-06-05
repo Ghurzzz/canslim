@@ -2930,5 +2930,73 @@
   "https://finnhub.io/api/news?id=21ada6c763958f8e76a940769f8c43c6513da9851d4b0a3ff5441bf26493c47e": {
     "headline_tr": "NVIDIA Hissesinde Perşembe Günü Ne Oluyor?",
     "summary_tr": "NVIDIA CEO'su Jensen Huang, yapay zeka altyapısı harcamalarını savunuyor ve teknoloji yatırımcıları için en son yatırım getirisini 'inanılmaz derecede karlı' olarak nitelendiriyor."
+  },
+  "https://finnhub.io/api/news?id=4f46a7881253b83b612f3f364cd3c4f573012df4b86776286d5cda9a6b795d8b": {
+    "headline_tr": "Anthropic IPO'sundan Önce Satın Alınacak 2 Yazılım Hissesi",
+    "summary_tr": "65 milyar dolarlık finansman turunu tamamlayan Anthropic, S-1 formunu Menkul Kıymetler ve Borsa Komisyonu'na sundu."
+  },
+  "https://finnhub.io/api/news?id=afe4c0f8bd7c1ead745c76ac5c0b113703eb30fe7d3a70e7d8e45dd885499934": {
+    "headline_tr": "Tayvan'ın Foxconn ikinci çeyrek beklentilerini yükseltiyor",
+    "summary_tr": "Tayvan'ın Foxconn cuma günü, ikinci çeyrek performansının önceden beklenen \"önemli\" büyüme tahmininin çok üzerinde olacağını söyledi. Nvidia'nın en büyük tedarikçisi olan Foxconn,"
+  },
+  "https://finnhub.io/api/news?id=3b76c2f44b2812056535566b2a9a61a7fc8fdfca974c74f0baae1e92fe56b799": {
+    "headline_tr": "SpaceX'in En Büyük Müşterisi Aynı Zamanda En Büyük IPO Rakibi - Yılda 15 Milyar Dolar Ödüyor",
+    "summary_tr": "Anthropic, SpaceX ile aynı hafta IPO başvurusunda bulundu. SpaceX ile 15 milyar dolarlık bilişim işlem anlaşması 90 gün içinde sona erebilir ve bu da birçok riski beraberinde getiriyor."
+  },
+  "https://finnhub.io/api/news?id=718fc2194383f6da9b658b36dbf6544a37ee0d62972f99fae7f99a0891eaa8ef": {
+    "headline_tr": "Dow Rekor Kırdı. Çip Ticareti Duvarla Çarptı. Ve Hezbollah Hayır Dedi.",
+    "summary_tr": "Dow rekor kırdı, Broadcom ise %200 AI büyüme rehberliğinde %13 düştü. Hezbollah Lübnan ateşkes anlaşmasını reddetti, CrowdStrike beklentileri aştığında satışa çıktı ve SpaceX'in 1.77 trilyon dolar IPO'su bir hafta uzakta."
+  },
+  "https://finnhub.io/api/news?id=b9e34eca040a3e1b76cb31e664fe5e4b2502b3342c29e37f8ea23e4657857521": {
+    "headline_tr": "Broadcom İlişkili Yapay Zeka Satışı Güney Kore'de Samsung ve SK Hynix Hisselerini Vurdu: DRAM İkinci Gün Düşüşe Hazırlanıyor",
+    "summary_tr": "Roundhill Memory ETF (DRAM), sıcak hafıza çipi sektörünün bir göstergesidir."
+  },
+  "https://finnhub.io/api/news?id=193e31a7d768151522c7ced5609455ec5b65de792323191e0281f5cc688dacf7": {
+    "headline_tr": "Nvidia'nın Ötesinde: 2026'nın En İyi Performans Gösteren Avrupa AI Hisse Senetleri",
+    "summary_tr": "Avrupa'nın kendi Nvidia'sı olmayabilir, ancak dünyanın en iyi performans gösteren AI hisse senetlerine ev sahipliği yapmaya başlamıştır. Yapay zekanın arkasındaki altyapıyı sağlayan şirketler — lazerlerden başlayarak"
+  },
+  "https://finnhub.io/api/news?id=f1927a692eb0492a71ab3d2de8cb494e86ddfc4dff19fbf8fe40e26172721fb4": {
+    "headline_tr": "Çip Dip Satın Alın: 3 En İyi Yariiletken Hissesi",
+    "summary_tr": "Broadcom'un kazanç sonrası satış dalgasından sonra teknoloji hisseleri düştü. %50'den fazla EPS büyümesi ve en üst düzey karlılığa sahip üç Güçlü Satın Al çip hissesi için buraya bakın."
+  },
+  "https://finnhub.io/api/news?id=2560fb4def895aaef9884166f5db179b20bf5af2d39dd62c929a015f9a538b93": {
+    "headline_tr": "Applied Optoelectronics (AAOI) %10 Yükseldi - Yönetici Optik Teknolojisinin Büyüyen Rolünü Vurguladı",
+    "summary_tr": "Applied Optoelectronics Inc. (NASDAQ:AAOI), Piyasayı Yükselen Getirilerle Ezip Geçen 9 Hisse Senedinden Biri. Applied Optoelectronics, Perşembe günü hisse senedi fiyatlarında %10,22'lik bir artış görerek kapandı"
+  },
+  "https://finnhub.io/api/news?id=e6c8ac20f7c453c52874d7bd52348ea797b28c76e61203b8e05feac3f13313f4": {
+    "headline_tr": "TDVI: Yapay Zeka Büyüme Potansiyeli ve Aylık Gelir Sağlayan Opsiyon ETF'i",
+    "summary_tr": "FT Vest TDVI ETF'yi keşfedin: Yapay zeka potansiyeli ile teknoloji odaklı temettü hedefli gelir, %6,4 getiri ve opsiyon stratejisi—riskleri, getirileri ve uygunluğunu görün."
+  },
+  "https://finnhub.io/api/news?id=cf1e2d1aca93805189d36e476f0622d4786703529b4d38a286e5ef5749b00638": {
+    "headline_tr": "Lam Research (LRCX) Hisseleri Piyasa Yükselişte Düşüyor: İşlem Yapmadan Önce Bilinmesi Gerekenler",
+    "summary_tr": "Lam Research (LRCX) son işlem seansını $336.41'de kapattı ve bu bir önceki günün kapanışından -%2.12'lik bir düşüşü temsil etmektedir."
+  },
+  "https://finnhub.io/api/news?id=0e0e960c071f6f31538b06d71dd31da6c74caa2a880d2f6a84a58763783c42f0": {
+    "headline_tr": "Hisse Senetleri Bankalar ve Yönetilen Sağlık Hizmetlerindeki Güçle Yükselişe Geçti",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Perşembe günü %0,41 artışla kapandı, Dow Jones Endüstriyel Ortalaması ($DOWI) (DIA) %1,73 artışla kapandı ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %0,53 düşüşle kapandı. Haziran E-mi"
+  },
+  "https://finnhub.io/api/news?id=4d1bfe188441dba7474760304d0367ce34acb2aeeea661d086d2bbeaa5259bc5": {
+    "headline_tr": "Nvidia CEO'su Marvell'in Sonraki 1 Trilyon Dolarlık Şirket Olacağını Düşünüyor. Hisseler Bugün Yüzde 5 Daha Yükseldi.",
+    "summary_tr": "Yapay zeka alanında en etkili CEO'nun halka açık olarak başka bir yarı iletken şirketini bir sonraki trilyon dolarlık hisse senedi olarak tayin etmesi her gün olmayan bir şeydir. Bu, NVIDIA'nın Jensen Huan tarafından gerçekleştirildi."
+  },
+  "https://finnhub.io/api/news?id=18385e9b91dc84318bc3e760cddb058294cce29334c7db5d4fd513abfe5ba8dd": {
+    "headline_tr": "Broadcom'un %13 Düşüşü, Yapay Zeka Çip Değerlemelerini İzleme Listesine Aldı",
+    "summary_tr": "Broadcom'un satışındaki düşüş, iki yıllık yapay zeka tarafından yönlendirilen rallinin ardından yüksek yarı iletken değerlemelerine ilişkin incelemeyi yeniden gündeme getirmiştir."
+  },
+  "https://finnhub.io/api/news?id=989abcf9ee1ee1fb5ff1a8dec7b77c00f2c02160514110f921fcea86e2eb0c1c": {
+    "headline_tr": "KLA Hissesinin Geleceğe Bakışı",
+    "summary_tr": "Yönetim, çok yıllı talep artışını işaret ediyor, ancak hisse senedi tüm zamanların en yüksek seviyesinde olduğu için, gerçek soru bundan sonra ne olacağıdır."
+  },
+  "https://finnhub.io/api/news?id=2174de82cf40644f3e93d7996f9d047eddac00348548567d474ee2044daf76f0": {
+    "headline_tr": "Blaize, Winmate ile Edge AI'ı Göz Ardı Edilen Endüstriyel Pazarlara Getirmek için İşbirliği Yapıyor",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=bf0e1d2955233fbff1a056c6f43a55c06661e09dbfa5ca8785b251c276ac53f7": {
+    "headline_tr": "Son Dosya Gösteriyor Ki Milletvekili Cleo Fields 1000 Dolardan Fazla Apple Hissesi Satın Aldı",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=0518b41e690a8d5397c58926bd567aa6a38b2c9c3f1fcaa5ca3894f7b811bce2": {
+    "headline_tr": "Astera Labs, AI Altyapısı Büyümesini Desteklemek için Taiwan Operasyonlarını Genişletiyor",
+    "summary_tr": "Raf ölçekli AI altyapısı için yarı iletken tabanlı bağlantı çözümlerinde lider olan Astera Labs, Inc. (NASDAQ:ALAB), bugün Taiwan operasyonlarının ve Bulut Ölçeğinin önemli bir genişlemesini duyurdu"
   }
 }
