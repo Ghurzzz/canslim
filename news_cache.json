@@ -2998,5 +2998,69 @@
   "https://finnhub.io/api/news?id=0518b41e690a8d5397c58926bd567aa6a38b2c9c3f1fcaa5ca3894f7b811bce2": {
     "headline_tr": "Astera Labs, AI Altyapısı Büyümesini Desteklemek için Taiwan Operasyonlarını Genişletiyor",
     "summary_tr": "Raf ölçekli AI altyapısı için yarı iletken tabanlı bağlantı çözümlerinde lider olan Astera Labs, Inc. (NASDAQ:ALAB), bugün Taiwan operasyonlarının ve Bulut Ölçeğinin önemli bir genişlemesini duyurdu"
+  },
+  "https://finnhub.io/api/news?id=97abb9d9335b3721bc510743e2f4d18dc0e4bbc4e4bf851f241ac6ff006295f0": {
+    "headline_tr": "Vanguard Utilities ETF Nedir ve Kim Satın Almalı?",
+    "summary_tr": "Bu düşük maliyetli kamu hizmetleri ETF'si, temettü odaklı yatırımcılar için iyi bir savunma oyunu olabilir - ancak hikayenin daha fazlası var."
+  },
+  "https://finnhub.io/api/news?id=c76ec10ffa4b50ecba06a3786f2716de7b80a83ca340bbd0623ce1de199881cd": {
+    "headline_tr": "S&P 500 SpaceX'i Görmezden Geliyor, Elon Musk Yaklaşan 'Kütlesel Büyüme Aşaması'ndan Bahsediyor",
+    "summary_tr": "Elon Musk, bu hafta JPMorgan tarafından düzenlenen yatırımcı etkinliğinde SpaceX'i yeni bir döneme girdiğini söyleyerek Jamie Dimon'a şirketin 'muazzam bir yeni büyüme aşamasına giriştiğini ve sermayeye ihtiyaç duyduğunu' belirtti"
+  },
+  "https://finnhub.io/api/news?id=546cd13334aa45dee9cdf3666b8617ed985de2ae34ded015cc2f31e5b265c31a": {
+    "headline_tr": "Bugün Borsa: Çipler Düşerken Nasdaq %2 Geriledi, Getiriler Yükseldi; AMD, Intel Yarı İletken Satışını Öncüledi (Canlı Takip)",
+    "summary_tr": "Bugün Borsa: Dow Jones endeksi Mayıs işsizlik raporunun şaşırtıcı sonuçları nedeniyle Cuma günü düştü. Lululemon hisse senedi kazanç raporunun ardından çakıldı."
+  },
+  "https://finnhub.io/api/news?id=5dcab3cb59257bd07b930c8e408b2e37f935f1c3603a7b75a4787f5d25d53f7f": {
+    "headline_tr": "Cathie Wood Perşembe Günü Satın Aldığı 3 Hisse Senedi",
+    "summary_tr": "Eğer bir mega cap'in yükselişler ormanında düşmesi halinde ses çıkar mı? Agresif bir büyüme yatırımcısı için, bu ses bir fırsattır."
+  },
+  "https://finnhub.io/api/news?id=3c8d7b4e9e955be7939c6d7e7cff19ac0d9dfc9cc77c1111ec3dfe54f12ba3a0": {
+    "headline_tr": "Micron'un Nvidia ile HBM4 Sertifikasyonu AI Bellek Marjlarını Odak Noktasına Getiriyor",
+    "summary_tr": "Micron Technology (NasdaqGS:MU), Nvidia'nın yeni nesil Vera Rubin AI platformu için HBM4 bellek tedarikçisi olarak sertifika aldı. Samsung ve SK Hynix de Micron'un yanında doğrulandı ve üçü de..."
+  },
+  "https://finnhub.io/api/news?id=712782b28bef18ab8ce5e84340bac7fc568ab8d973406326aa0cb66b08ec7fb5": {
+    "headline_tr": "Micron Hissesi Bugün Neden Düşüyor",
+    "summary_tr": "Nvidia son zamanlarda Micron yatırımcılarına iyi haberler verdi, ancak yatırımcılar bugün diğer değerleme katalizörlerine odaklanıyor."
+  },
+  "https://finnhub.io/api/news?id=cd2d1eeab62323069f6fd0cfffdf13853dfa31c2a19d3b79645e20d8927654e9": {
+    "headline_tr": "GPU'ları Unutun: AMD, NVDA, INTC, ARM AI'ın Sonraki Büyük Ödülü İçin Yarışıyor — 120 Milyar Dolarlık CPU Pazarı",
+    "summary_tr": "GPU'lar AI çıkarsamasını güçlendiren motorlar olmaya devam ederken, Kindig CPU'ların AI çağının trafik kontrolörleri haline geldiğini savunuyor."
+  },
+  "https://finnhub.io/api/news?id=c6f469eab700fc2bff074453eb1764c047fb749d43217d575a3f81683290c147": {
+    "headline_tr": "Scott Galloway: AI Değerlemeleri 24 Ay İçinde %50-70 Düşecek. İşte Nedenleri.",
+    "summary_tr": "Scott Galloway, AI ticareti hakkında şimdiye kadarki en agresif tahmini yaptı. Prof G Markets segmentinde 'AI Maliyetine Değer Olmayabilir: İşte Nedenleri' başlıklı bölümde, AI şirketlerinin dramatik olarak aşırı değerlendiğini savundu."
+  },
+  "https://finnhub.io/api/news?id=5a270752b0cfc581ba37819118b56387476b6efb8b60e6ff4231e47379939a7e": {
+    "headline_tr": "Nvidia, Palantir ve Bu IPO Liderini Analiz Etmek için Satırların Arasını Okuyun",
+    "summary_tr": "Apple, Nvidia ve Palantir gibi büyüme hisse senetlerine yatırım yapmayı öğrenmek bu satırların arasını okumakla başlar."
+  },
+  "https://finnhub.io/api/news?id=53ba9c5d3b86fcb30ab5730d5d26834fabb1543e7dd582c183275a4f4ee94f28": {
+    "headline_tr": "Micron, SanDisk ve Marvell Düşüşe Geçti; 'Parabolik 7' Ticareti Geri Çekiliyor",
+    "summary_tr": "2026'nın en patlamalı üç yariiletken şirketinin hisseleri Cuma sabahı işleminde sert düşüş yaşıyor. Micron Technology (NASDAQ:MU) hissesi %5 düşüşle 942 dolara, SanDisk (NASDAQ:SNDK) hissesi düşüş gösteriyor"
+  },
+  "https://finnhub.io/api/news?id=060b792b9440926bb4d1d158ad1b75ff9659e9876e26c8b1117e858887ee0fbe": {
+    "headline_tr": "Jun 5, 2026 Tarihli Şirket Haberleri",
+    "summary_tr": "Haberlerde Yer Alan Şirketler: CMCO,LULU,AMD,LRCX"
+  },
+  "https://finnhub.io/api/news?id=c57369c47aa907aaf1780d15a262ad0b4f4f1dab02017c63aa94889e370381aa": {
+    "headline_tr": "Cuma öncesi piyasa seansında S&P500'ün en çok hareket eden hisseleri",
+    "summary_tr": "ABD piyasası Cuma günü açılmadan önce, ön piyasa seansını inceleyip S&P500'ün en çok kazanan ve kaybeden hisselerini ortaya koyalım."
+  },
+  "https://finnhub.io/api/news?id=9e9ed3b96218a498b2b61b31bfffe57e92e0239ecc4e4c904a959bc47f86a0eb": {
+    "headline_tr": "Teknoloji ve Döviz: Kısa Vadeli Oynaklık Uzun Vadeli Trendi Gölgeleyebilir",
+    "summary_tr": "Özellikle Kore'deki çip üreticileri için zor bir hafta oldu. Daha fazla bilgi için buraya bakın."
+  },
+  "https://finnhub.io/api/news?id=e5639720c1317bd9a565a76a7d64124c44f484ade9a55abe2724467af9d80b2a": {
+    "headline_tr": "Broadcom'un Marvell Sorunu Var",
+    "summary_tr": "Broadcom'un yapay zeka beklentileri karşılanamadı ve bu Marvell'e kıyasla değerleme endişeleri ortaya çıkardı. Satıştan sonra bu hisse senedinin size uygun olup olmadığını görmek için bu AVGO kazanç güncellemesini okuyun."
+  },
+  "https://finnhub.io/api/news?id=fbc196ebbc7c2db03b83bdd1c37b78317952c6dcea7acda66d47426a1408bd62": {
+    "headline_tr": "Bellek Çipi Fiyatları 2026 Yılı Sonundan Önce DRAM ETF'nin Kaderini Belirleyecek",
+    "summary_tr": "Roundhill Memory ETF (CBOE:DRAM), endüstrinin en şiddetli döngülerinden birinin ortasında inen ilk ABD listeli saf bellek çipi ETF'sidir. DRAM, Nisan ayında piyasaya çıktı"
+  },
+  "https://finnhub.io/api/news?id=492b49934e78893ad5c9daac90f9773e1cf9dd97c432f65ddc04390f7015595d": {
+    "headline_tr": "Taiwan Semiconductor Hissesi Cuma Günü Neler Oluyor?",
+    "summary_tr": "Taiwan Semiconductor hisse senedi geri çekilişi bir alım sinyali midir? Teknik göstergeler, hisseler önemli hareketli ortalamaların oldukça üzerinde tutulurken yükselişe devam etmektedir."
   }
 }
