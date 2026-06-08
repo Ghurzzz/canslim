@@ -3062,5 +3062,73 @@
   "https://finnhub.io/api/news?id=492b49934e78893ad5c9daac90f9773e1cf9dd97c432f65ddc04390f7015595d": {
     "headline_tr": "Taiwan Semiconductor Hissesi Cuma Günü Neler Oluyor?",
     "summary_tr": "Taiwan Semiconductor hisse senedi geri çekilişi bir alım sinyali midir? Teknik göstergeler, hisseler önemli hareketli ortalamaların oldukça üzerinde tutulurken yükselişe devam etmektedir."
+  },
+  "https://finnhub.io/api/news?id=11722b73f36a7262f8f4219dab11339cd4332d063c94118b497656ee889c85da": {
+    "headline_tr": "Ferrari Hisse Senedi Temmuz 2025'ten Beri %33 Düştü: Pazarın Yanıldığı 1 Neden",
+    "summary_tr": "Pazar, tarihsel olarak istisnai bir işletmeden gelen gelişmelere aşırı tepki veriyor olabilir."
+  },
+  "https://finnhub.io/api/news?id=92e72c6c4aa6944b8d31cec417ef7cfc7b2ebe20b803d088ead3037f2692a5c2": {
+    "headline_tr": "2 Yükselen Hisse Senedi Umut Verici Beklentilerle ve 1 Tanesi Göz Ardı Ettiklerimiz",
+    "summary_tr": "Bu makalede yer alan hisse senetleri için heyecan verici gelişmeler yaşanmaktadır. Bunların tümü, son bir ay içinde yeni ürünler ve olumlu medya kapsamı gibi katalizörler sayesinde daha geniş pazarın önünde ilerlemiştir."
+  },
+  "https://finnhub.io/api/news?id=468904889f55532320749166a2b5f8ea22d337a5053fc710aec24323bf7ea379": {
+    "headline_tr": "Grail Neden Herkesin Fark Etmek Üzere Olduğu Gizli Hisse Senedi Olabilir",
+    "summary_tr": "Grail, 50 milyar dolarlık bir pazarda kazanmak için bir arayışta."
+  },
+  "https://finnhub.io/api/news?id=69e54b3c2dd02c6304cd4dd0abba3fca19178dc5f3402146c098dadef9433a07": {
+    "headline_tr": "Fed'in En Son Enflasyon Tahmini Daha Kötü Hale Geldi. Bunun Yatırımlarınızı Nasıl Etkileyebileceği.",
+    "summary_tr": "Yatırımcılar faiz oranları ile hisse senedi fiyatları arasındaki ilişkiyi anlamalıdır."
+  },
+  "https://finnhub.io/api/news?id=5d96c4dcd4d171cc0bb93ea551ca202ebda993cb614a136b4b2cf23436701310": {
+    "headline_tr": "SOXQ Yarı İletken ETF'si %181,74 Oranında Yükseldi - AI Çip Patlaması NVIDIA, Broadcom ve AMD'yi Taşıdı",
+    "summary_tr": "Invesco PHLX Yarı İletken ETF'si (NASDAQ:SOXQ), AI harcama döngüsü sırasında doğrudan yarı iletken maruziyeti için en temiz ve en düşük maliyetli araçlardan biri haline gelmiştir. Fon PHLX Yarı İletken endeksini takip etmektedir."
+  },
+  "https://finnhub.io/api/news?id=ebf3755cac05d616ad578edaaa36a00a51e179e79a0c015216283d208bba309b": {
+    "headline_tr": "SMCX Bir Yılda %67 Düştü Oysa Altta Yatan Hisse %2 Yükseldi",
+    "summary_tr": "Tek bir yapay zeka sunucu hissesine ait swaplardan oluşan 2x günlük kaldıraçlı bir ETF, yapay zeka sunucu ticareti kırıldığında 2x günlük kaldıraçlı ETF'lerin yaptığını yaptı. Defiance Daily Target 2"
+  },
+  "https://finnhub.io/api/news?id=3e921c73cf04d090b19e54043131d275dc0440a2e59c1dacd545fccc9bcdee53": {
+    "headline_tr": "Nasdaq, S&P 500, Dow Vadeli İşlemleri Karışık: İran-İsrail Gerginliği Petrol Fiyatlarını Yükseltiyor - NVDA, STI, MRVL, LLY, SOC Odak Noktasında",
+    "summary_tr": "Perakende yatırımcı duyarlılığı yapıcı kaldı. Stocktwits verileri, tüccarların SPY üzerinde 'yükseliş' ve QQQ üzerinde 'tarafsız' bir duruş sergilemelerine devam ettiğini gösterdi."
+  },
+  "https://finnhub.io/api/news?id=e952843a1d0589972df1da8300055325847f3395a0ae7b2f441377b3b19895a6": {
+    "headline_tr": "Trump yapay zeka şirketlerinde devlet hissesi düşünürken teknoloji hisseleri yükselişe geçti",
+    "summary_tr": "Investing.com -- ABD Başkanı Donald Trump Cuma günü ekibinin yapay zeka şirketlerinin Amerikan halkına firmalarında hisse vermesi fikrini araştırdığını söyledi ve yapay zeka ile ilgili bir toplantı düzenleyeceğini planladığını belirtti"
+  },
+  "https://finnhub.io/api/news?id=83b2beb08f91ef4aae2c2bd2c9c3e1261bce7491e44e3af081b365c3249236f3": {
+    "headline_tr": "AMD, Birleşik Krallık'ta Yapay Zeka İnovasyonu ve Araştırmasını Hızlandırmak için 2 Milyar Sterline Kadar Yatırım Yapacak",
+    "summary_tr": "Haber Özeti: Birleşik Krallık genelinde ileri hesaplama, bilimsel araştırma ve işgücü geliştirmeyi desteklemek için beş yıl boyunca 2 milyar sterlin yatırım. Imperial College ile yeni stratejik ortaklıklar."
+  },
+  "https://finnhub.io/api/news?id=bdc3b4f8c8acfd1770e1f016cf11ee733521337829585eeb66901ae47c71207a": {
+    "headline_tr": "ABD Borsa Bugün: Güçlü İşgücü Verileri ve Getiriler Nedeniyle S&P 500 Vadeli İşlemleri Düşüşte",
+    "summary_tr": "Sabah Boğası - ABD Piyasası Sabah Güncellemesi Pazartesi, Haz, 8 2026 ABD borsa vadeli işlemleri bu sabah aşağı yönlü işaret ediyor; E-mini S&P 500 kontratları yaklaşık %2,6 düşüş ve Nasdaq 100 vadeli işlemleri neredeyse %4,8 düşüş gösteriyor."
+  },
+  "https://finnhub.io/api/news?id=fea71b83251297a46139608a57760cb1c4bf2df6536777aa7809d8e2e2d37fef": {
+    "headline_tr": "Nasdaq Bir Yıldan Fazla Bir Süre İçinde En Kötü Gününü Yaşadı. İşgücü Piyasası Fitili Ateşledi.",
+    "summary_tr": "Nasdaq, patlamış bir istihdam raporu faiz artırımı olasılığını iki katına çıkardıktan sonra en kötü gününü Nisan 2025'ten beri %4,2 oranında kaydetti. Çip hisseleri çöktü, Meta'nın büyük bir hisse senedi artırımı planladığı bildirildi ve SpaceX'in rekor 75 milyar dolarlık halka arzı."
+  },
+  "https://finnhub.io/api/news?id=ff7bc405867f5d2d57afcfe438453133658c30769539900c2f89015433e6159e": {
+    "headline_tr": "Haziran 2026 için En İyi 50 Yüksek Kaliteli Temettü Büyüme Hissesi",
+    "summary_tr": "50 yüksek kaliteli temettü büyüme hissesinden oluşan seçilmiş bir evren, değerleme ve ileri getiri potansiyeline dayalı çekici giriş noktalarını tanımlar. Listeyi buradan kontrol edin."
+  },
+  "https://finnhub.io/api/news?id=43d2b746b07d37f09f750598fe01ec802ad1a7840036e1a14b559f5cf32c5a4c": {
+    "headline_tr": "Alger AI Enablers & Adopters ETF 2026 Q1 Portföy Güncellemesi",
+    "summary_tr": "Alger AI Enablers & Adopters ETF, 2026 Q1 performansını rapor etti; Western Digital ve Nebius Group'u öne çıkardı. Daha fazla detay için tam analizi okuyun."
+  },
+  "https://finnhub.io/api/news?id=95fb7e93a40a121d35c39e0f62945dac1f20c372e5b84da68183b9658bb7f51c": {
+    "headline_tr": "Yeni ABD-Çin Çip İhracat Kısıtlamaları Lam Research (LRCX) Yatırımcılarını Nasıl Etkileyecek",
+    "summary_tr": "Haziran 2026 başında, Lam Research, Çin müşterilerine yönelik çip ekipmanı sevkiyatlarına ilişkin yeni ABD kısıtlamalarının, Broadcom'un zayıf performansını takiben geniş tabanlı bir yariiletken gerilemesiyle çakışması nedeniyle baskı altına girdi"
+  },
+  "https://finnhub.io/api/news?id=2ec082de7c1e01af4bff53847a6a737c93061ea7e3ff6aeca3baded2d06cdfd9": {
+    "headline_tr": "Chase Coleman'ın Tiger Global Portföyünü Takip Etme - 2026 Q1 Güncellemesi",
+    "summary_tr": "Tiger Global'ın 2026 Q1 13F portföy değeri 22.85 milyar dolara düştü. Portföyün yeni pozisyonlarını, pozisyon tasfiyelerini, artışlarını ve azalışlarını buradan kontrol edin."
+  },
+  "https://finnhub.io/api/news?id=f3a1324f9164a786f20f1203aa7da0185f43333dd5f55b636a03f839f493f7af": {
+    "headline_tr": "Yatırımcılar Dikkat: Gelecek Hafta Oracle ve Adobe Kazançları Bekleniyor",
+    "summary_tr": "Wall Street Hafta Öncesi: TÜFE, ÜFE, önemli kazançlar (Oracle, Adobe), temettüler ve SpaceX gibi halka arzları takip edin. Daha fazla ayrıntı için buraya bakın."
+  },
+  "https://finnhub.io/api/news?id=f9ed647f81681d62f970f6c974d084012c268200cdb5bda2e1375ec4b2953aaf": {
+    "headline_tr": "Applied Materials, Lam Research ve Nova Hisseleri Düşüşte, Bilmeniz Gerekenler",
+    "summary_tr": "AVGO kazanç baskısı ve beklenenden daha güçlü işsizlik raporu, yılın en geniş kapsamlı küresel çip satışından birini tetiklemek için birleşerek öğleden sonra seansında bir dizi hissenin düşüşe geçmesine neden oldu."
   }
 }
