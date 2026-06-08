@@ -3130,5 +3130,73 @@
   "https://finnhub.io/api/news?id=f9ed647f81681d62f970f6c974d084012c268200cdb5bda2e1375ec4b2953aaf": {
     "headline_tr": "Applied Materials, Lam Research ve Nova Hisseleri Düşüşte, Bilmeniz Gerekenler",
     "summary_tr": "AVGO kazanç baskısı ve beklenenden daha güçlü işsizlik raporu, yılın en geniş kapsamlı küresel çip satışından birini tetiklemek için birleşerek öğleden sonra seansında bir dizi hissenin düşüşe geçmesine neden oldu."
+  },
+  "https://finnhub.io/api/news?id=8c8257dc9c69632011b8062e3a77a81c1b77ef6d1569d0dadb8eced14e6490a6": {
+    "headline_tr": "Bugünkü seansda Dow Jones hisse senetleri arasındaki en son gelişmeleri keşfedin.",
+    "summary_tr": "Pazartesi günü Dow Jones endeksinin performansı hakkında bilgi edinin. Bugünkü seansda Dow Jones endeksi içinde en çok kazananları ve kaybedenleri keşfedin."
+  },
+  "https://finnhub.io/api/news?id=5857db0a868d3a2bf63ccdff15b717d7e9e2aa9ce2500206141629564917851d": {
+    "headline_tr": "Bu S&P500 hisseleri bugünün seansında hareket ediyor",
+    "summary_tr": "Bugünün seansının ortasında S&P500'ün en büyük kazananlarına ve kaybedenlerine bakalım."
+  },
+  "https://finnhub.io/api/news?id=5444daa2ca2fbd469c0982ac11dcae22ca3cec6d6509bedd530925c0d8325c4b": {
+    "headline_tr": "Marvell Bir Sonraki Nvidia mi?",
+    "summary_tr": "Marvell hissesi bu yıl şimdiye kadar %270 kazanç sağladı."
+  },
+  "https://finnhub.io/api/news?id=ada35678bdd4d000b4132f20c1771ad7d8a3ebaaf8cf92c48790ebd82d5023cc": {
+    "headline_tr": "Warsh-Trump Balayısı Resmi Olarak Bitti. Ne Olursa Olsun, Borsa Muhtemelen Kaybedecek",
+    "summary_tr": "Borsa 2026'nın çoğunu iyimserlik duvarına tırmanarak geçirdi. S&P 500, daha düşük vergiler, daha hafif düzenleme, yapay zeka harcamalarının devamı ve inanç beklentileri üzerine yükselişe geçti"
+  },
+  "https://finnhub.io/api/news?id=8b28465e1fcbd9a41ce9243557ec396c2d76fb22b946cdc1eb942e8b24bc192b": {
+    "headline_tr": "Öğle Saati En İyi Haberler: ABD, Yapay Zeka Şirketlerindeki Mali Riskleri Değerlendiriyor; Google ve Nvidia, TSMC'nin Talep Sorunlarıyla Boğuşurken Intel'e Yöneliyor",
+    "summary_tr": "Pazartesi günü geç sabah saatlerinde üç büyük ABD hisse senedi endeksi de yükselişte işlem görüyor; İran Dışişleri Bakanlığı'nın..."
+  },
+  "https://finnhub.io/api/news?id=54e08c2e88de0caedf2bec2be7a65421b9a20e588a7a72e8565ed7804b44376e": {
+    "headline_tr": "Bugün Borsa: İran Saldırıları Durdurduktan Sonra Nasdaq Yükseliyor; Marvell, Intel Rallisi (Canlı Yayın)",
+    "summary_tr": "Bugün Borsa: Dow Jones endeksi Pazartesi günü Trump'ın son İran yorumları üzerine yükseldi. Nvidia güç gösterirken Marvell hızlı yükseliyor."
+  },
+  "https://finnhub.io/api/news?id=a3860219df17bb641aa72e7b2e0b57337613a9a3287b8b594a57d68d88615dc0": {
+    "headline_tr": "Jim Cramer, Broadcom Hakkında: \"Hayal Kırıcı Kazançlar Düşündüğümüz Kadar Ezici Olmayabilir\"",
+    "summary_tr": "Broadcom Inc. (NASDAQ:AVGO), Jim Cramer'ın Mad Money'de vurguladığı hisse senetleri arasında yer aldı. Cramer, pazar hisse senetlerine iştah gösterdiğini belirterek hisse senedinin çeyrek dönem öncesindeki parabolik hareketini vurguladı."
+  },
+  "https://finnhub.io/api/news?id=3b8fdf205e6f06577bba7d5f7e7b15ee707da762e93dfaf5b2809e7ce3e78c1d": {
+    "headline_tr": "Tahmin: AMD Hissesi 2027'de Bu Fiyattan İşlem Görecek",
+    "summary_tr": "Lisa Su şu anda piyasadaki en temiz yapay zeka altyapısı hikayelerinden birini yönetiyor. Advanced Micro Devices (NASDAQ:AMD) Veri Merkezi gelirinin 5,78 milyar dolara ulaştığı bir çeyrek sundu ve bu rakam %5 artış gösterdi"
+  },
+  "https://finnhub.io/api/news?id=f9dc77d03559fb8bdd3a6494546658d8107df4be73b8c33ba6a8bfc914912992": {
+    "headline_tr": "Warren Buffett Berkshire Hathaway'in CEO'su Olarak Geri Dönecek mi?",
+    "summary_tr": "Warren Buffett'ın Berkshire Hathaway'de endişelenecek çok şeyi var. Bunların arasında bu yıl net değerinin 5 milyar dolar düşerek 146 milyar dolara inmesi ve Steve Ballm'erin gerisinde kalması yer almaktadır."
+  },
+  "https://finnhub.io/api/news?id=5a61984df67915be21422e2b3ff92a942c52813d8e93a988a5341736ce96a67a": {
+    "headline_tr": "Bu çip hissesindeki düşüşü satın alın, Mizuho tavsiye ediyor",
+    "summary_tr": "Investing.com -- Mizuho, yatırımcıların özel çip pazarında bir anahtar yarıiletken adının rakiplere karşı zemin kaybetmesiyle ilgili endişelerinin abartılı olduğunu söyledi ve müşterilerine son düşüşü satın almalarını tavsiye etti"
+  },
+  "https://finnhub.io/api/news?id=de065ce185eded90855188159653d05799782879bb53735e6c39dc0e1b629dbd": {
+    "headline_tr": "Micron Technology, Inc. (MU) Şimdi Satın Almak İçin İyi Bir Hisse mi?",
+    "summary_tr": "MU iyi bir satın alma hissesi mi? Beyond the Noise'un Substack'inde Cristobal Botanch tarafından yazılan Micron Technology, Inc. hakkında bir yükseliş tezini bulduk. Bu makalede, MU hakkındaki boğaların tezini özetleyeceğiz."
+  },
+  "https://finnhub.io/api/news?id=a6c7ba60638f7530568e705bdee8f188b355df4e193ff2bea9b148ad4eae1196": {
+    "headline_tr": "Nvidia ve Broadcom'u Satın Almak Çok Geç mi? İşte Tarih Ne Söylüyor.",
+    "summary_tr": "Nvidia ve Broadcom güçlü yapay zeka kazananları olmaya devam ediyor, ancak artık değerleme hype'tan daha önemli."
+  },
+  "https://finnhub.io/api/news?id=3290b52472b5fbc432e04e49ee9c088e05aa93462e45e223fe2b4a77d429889f": {
+    "headline_tr": "AMD, Birleşik Krallık'ta yapay zeka süper bilgisayarları ve araştırmalar için 2 milyar sterlin taahhüt etti",
+    "summary_tr": "Çip üreticisinin beş yıllık taahhüdü, Cambridge'de yeni yapay zeka süper bilgisayarlarını ve Imperial College London ile ortaklıkları içeriyor"
+  },
+  "https://finnhub.io/api/news?id=38fdd26c4f3ae8797e23a7cc12c49e164bbfdd9ac5764ceff67e5a62f1293b66": {
+    "headline_tr": "Campbell's Kazançları Beklentiyi Aştı; Eli Lilly Obezite İlacı Sonuçları | Hisse Senedi Hareketleri",
+    "summary_tr": "Stock Movers with Alexis Christoforous'un bu bölümünde: - The Campbell's Company (CPB) hisseleri, konserve çorba üreticisinin düzeltilmiş hisse başına kazançları rapor etmesinin ardından ABD piyasası açılışından önce hafif yükseldi"
+  },
+  "https://finnhub.io/api/news?id=96cbcccf882206af4590f26ccade1e685dfa2f98459adcb6bd782c58e72c5245": {
+    "headline_tr": "Bir Yılda %167 Yükselen AMAT Hissesini Almalı, Satmalı mı yoksa Tutmalı mısınız?",
+    "summary_tr": "Applied Materials, yapay zeka tarafından desteklenen talep sayesinde bir yılda %166,8 oranında yükselişe geçerek mantık, DRAM ve paketleme pazarlarını canlandırırken, şirketin değerlemesi ve görünümü hakkında sorular ortaya çıkmaktadır."
+  },
+  "https://finnhub.io/api/news?id=f43afec367c80593cb493d08718bbef9896d5caed7264bc3f38403037260dd07": {
+    "headline_tr": "%11 Düşüşün Ardından, XSD Yatırımcıları Broadcom'dan Nefret Etmelidir",
+    "summary_tr": "Perşembe kapanışında SPDR S&P Semiconductor ETF (NYSEARCA:XSD)'de 10.000 dolarlık bir pozisyon, Cuma kapanışında yaklaşık 8.873 dolara düşmüş ve buraya ulaşan insanlar tek bir hisseye sahip değildi."
+  },
+  "https://finnhub.io/api/news?id=05f84593ad17ec0567cb60868312de95eb28af0fa23c3af9e4e244f8a1d113eb": {
+    "headline_tr": "Marvell'in S&P 500'e Dahil Edilmesi Değerleme Endişelerine Rağmen Taze ETF Alımlarını Tetikleyebilir",
+    "summary_tr": "Marvell hissesi S&P 500'de yer almayı sağladıktan sonra yükselişe geçti. Pasif ETF akışlarının artan değerleme endişelerine rağmen hisseleri nasıl destekleyebileceği aşağıda açıklanmıştır."
   }
 }
