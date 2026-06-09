@@ -3198,5 +3198,73 @@
   "https://finnhub.io/api/news?id=05f84593ad17ec0567cb60868312de95eb28af0fa23c3af9e4e244f8a1d113eb": {
     "headline_tr": "Marvell'in S&P 500'e Dahil Edilmesi Değerleme Endişelerine Rağmen Taze ETF Alımlarını Tetikleyebilir",
     "summary_tr": "Marvell hissesi S&P 500'de yer almayı sağladıktan sonra yükselişe geçti. Pasif ETF akışlarının artan değerleme endişelerine rağmen hisseleri nasıl destekleyebileceği aşağıda açıklanmıştır."
+  },
+  "https://finnhub.io/api/news?id=4a075424b061ff27fdab9a9e42b338a0a316be08a344feec5c6f94f25769678e": {
+    "headline_tr": "Çipler Toparlanıyor, Intel 3 Milyon Dolarlık Sipariş Rüzgarını Yakalarken, OpenAI IPO Kuyruğuna Katıldı",
+    "summary_tr": "Çip şirketleri Cuma günkü düşüşün ardından sert bir şekilde toparlandı. Intel, Google TPU siparişinin bildirilmesi üzerine %11 arttı. Apple'ın WWDC'si hayal kırıklığı yarattı. OpenAI, gözlemci kuruluş olarak halka açılmak için başvuruda bulundu ve özkaynaklar duvarına katkı sağladı."
+  },
+  "https://finnhub.io/api/news?id=04d8593a053e6aa1cdaa239c30ca387ecda970576ffbb197d0c61cdba29b3b62": {
+    "headline_tr": "Google'ın 4 Ayaklı Yapay Zeka Stratejisi, Nvidia'yı Geçerek Dünyanın En Değerli Şirketi Olmasına Yardımcı Olabilir",
+    "summary_tr": "Şirketin tam yığın yapay zeka stratejisi meyvesini vermeye başladı"
+  },
+  "https://finnhub.io/api/news?id=4f3db4249bee698ba787246d30f603155749f9a4d313c721d166c92b80bad339": {
+    "headline_tr": "Defiance, Micron Technology Inc. için İlk 2X Kısa ETF'yi Başlattı: MUZ",
+    "summary_tr": "Defiance, Micron Technology Inc. için İlk 2X Kısa ETF'yi Başlattı: MUZ. Defiance ETFs, Defiance Daily Target 2X Short MU ETF'nin (Ticker: MUZ) piyasaya sürülüşünü duyurmaktan gurur duymaktadır. Bu, en yeni eklentidir"
+  },
+  "https://finnhub.io/api/news?id=4e249365020d67cfa877b51839912a362a639f04a98a1264acef0c9b10472f88": {
+    "headline_tr": "Micron (MU) Hisseleri Neden Bugün Yükseliyor",
+    "summary_tr": "Bellek çipi üreticisi Micron'un (NASDAQ:MU) hisseleri, Nvidia'nın çok yıllı teknoloji duyurusunun tetiklediği yapay zeka bellek sektöründe yatırımcı iyimserliğinin artmasıyla öğleden sonra oturumunda %7,9 oranında yükseldi"
+  },
+  "https://finnhub.io/api/news?id=a68a6f95401cb3d8782bde10ba28da3216f257073f8cea6d2ab2cac3f48b6476": {
+    "headline_tr": "Broadcom (AVGO) – Milyarder Ken Fisher'ın En İyi 11 Temettü Hisse Senedi Seçimleri Arasında",
+    "summary_tr": "Broadcom Inc. (NASDAQ:AVGO) Milyarder Ken Fisher'ın En İyi 11 Temettü Hisse Senedi Seçimleri arasında yer almaktadır. 4 Haziran'da DA Davidson, Broadcom Inc. (NASDAQ:AVGO) için fiyat tavsiyesini 400 dolara yükseltti"
+  },
+  "https://finnhub.io/api/news?id=656a0de0e2a41c759a1ea49b6f9e7698f66ac5fd051a425a3c1e074409e3f77d": {
+    "headline_tr": "Bank of America, Sandisk hisse senedi fiyat hedefini sıfırlıyor",
+    "summary_tr": "Sandisk, teknoloji sektöründe bu yıl en olağanüstü hisse senedi rallilerinden birini zaten gerçekleştirdi; geçen haftanın düşüşünden önce 2026'da %550'den fazla yükseldi. Bellek şirketi %1'den fazla düştü"
+  },
+  "https://finnhub.io/api/news?id=9fdcdbd6d139f369df8e69fb40816a57063d34168c7600a14adc88d412ca7a2b": {
+    "headline_tr": "Marvell Hissesi Bugün Neden Yükseldi",
+    "summary_tr": "Yapay zeka (AI) çip üreticisi, tanınmış bir endekse ekleniyor."
+  },
+  "https://finnhub.io/api/news?id=703eacb112afddd8fc18971b3251c9255d17042cdbd9b64c30184d2ab60ebb7b": {
+    "headline_tr": "Mizuho, Süregelen AI Altyapısı Büyümesini Gerekçe Göstererek AMD Hedefini Yükseltiyor",
+    "summary_tr": "Advanced Micro Devices, Inc. (NASDAQ:AMD) milyarder Ken Fisher'ın En İyi 11 Temettü Hisse Senedi Seçimleri arasında yer almaktadır. 1 Haziran'da Mizuho, Advanced Micro Devices, Inc. üzerindeki fiyat tavsiyesini yükseltti."
+  },
+  "https://finnhub.io/api/news?id=3099e70b178f6eed7fcc3950fc9286808fac2c2b863db04fd8787140373ad46c": {
+    "headline_tr": "Semtech, Lam Research ve Photronics Hisseleri Yükseliş Gösteriyor, Bilmeniz Gerekenler",
+    "summary_tr": "Bir önceki işlem seşnunda keskin bir satıştan kurtulduktan sonra geniş yarı iletken sektörü toparlandığında, öğleden sonra seşnunda bir dizi hisse senedi sıçradı."
+  },
+  "https://finnhub.io/api/news?id=03f78bab5f92598d5453366454323c7f01cd24f091cb881c9fc0e76b03ed04dc": {
+    "headline_tr": "ValuEngine Haftalık Pazar Özeti ve Yorumu",
+    "summary_tr": "ABD hisse senedi piyasaları bu hafta düşüş gösterdi, zayıflık büyüme ve teknoloji ile bağlantılı alanlarda yoğunlaştı."
+  },
+  "https://finnhub.io/api/news?id=1b695ab6dcf7973bb3bc2f1f4eb9b970fb5e59c09875f54b23d3ed7291202bec": {
+    "headline_tr": "Astera Labs: Masadan Bazı Çipler Çıkarın (Derecelendirme Düşürülmesi)",
+    "summary_tr": "Astera Labs Q1'de %93 artış gösterdi ve marj genişlemesi ile iyimser Q2 rehberliği sağladı. ALAB hissesinin analizi ve neden hold'a düşürüldüğü hakkında buradan okuyun."
+  },
+  "https://finnhub.io/api/news?id=549c6fc09ced3fae09edbede24be5704c12df5c592637d520b938e288ad742f0": {
+    "headline_tr": "Prem Watsa'nın Fairfax Financial Holdings Portföyü Takibi - Q1 2026 Güncellemesi",
+    "summary_tr": "Prem Watsa'nın Fairfax 13F: portföyü 1.94 milyar dolara düştü; Under Armour ve Kraft-Heinz'de büyük hareketler; OXY çıkışı; değerleme vs defter değeri. Daha fazla ayrıntı için buraya bakın."
+  },
+  "https://finnhub.io/api/news?id=0271420dd1f12e6545491596842aaab88692349e7c197356e19036f56bdf7b28": {
+    "headline_tr": "Geniş Pazar Yükselişle Kapandı, Çip Üreticileri Rallisi Gerçekleşti",
+    "summary_tr": "S&P 500 Endeksi ($SPX) (SPY) Pazartesi günü %0,30 yükselişle kapandı, Dow Jones Sanayi Ortalaması ($DOWI) (DIA) %0,16 düşüşle kapandı ve Nasdaq 100 Endeksi ($IUXX) (QQQ) %1,58 yükselişle kapandı. Haziran E-mini"
+  },
+  "https://finnhub.io/api/news?id=1e43f0c3315f080a701688446336ea4429c270f1692c22c5e883bace10cb6406": {
+    "headline_tr": "Pazartesi seansında S&P500'ün en büyük hareketlileri",
+    "summary_tr": "Bugünün seansında piyasa kapanışından bir saat önce S&P500'ün en büyük kazananları ve kaybedenlerini inceleyelim."
+  },
+  "https://finnhub.io/api/news?id=6265a094065ec914967ae0d9406a4b7b04eca67e8b59a4fa9fac4835db4c5d3d": {
+    "headline_tr": "Apple'ın Yapay Zeka Hırsı Bir Kazma-Kürek Ticaretine Sahip — Kazananlar İşte Burada",
+    "summary_tr": "Apple'ın yapay zeka hedefleri TSMC, Broadcom, Arm, Corning ve diğerleri gibi tedarikçiler için kazanç sağlayabilir."
+  },
+  "https://finnhub.io/api/news?id=aed275de0180cebdf851d832e071906e2c3084703c11912eeedcd75300406a23": {
+    "headline_tr": "Taiwan Yariiletken Hisse Senedi Neden Pazartesi Günü Yükseliyor?",
+    "summary_tr": "Taiwan Yariiletken (TSM), teknoloji sektörü rahatlaması ralliisine binereK yatırımcılar sermayeyi yüksek büyüme potansiyeline sahip yapay zeka ve yariiletken şirketlerine geri kaydırıyor."
+  },
+  "https://finnhub.io/api/news?id=fc93198a3c9ff22fb8f2123b3a1c71dc988bcdab7f44b85bcb63c911a7b19403": {
+    "headline_tr": "Nancy Pelosi'nin Borsa ve Warren Buffett'ı Nasıl Yendiği",
+    "summary_tr": "S&P 500, geçtiği on yılda tarihinin en güçlü boğa piyasalarından biri olan yaklaşık %13 yıllık getiri sağlamıştır. Altın standart olan Warren Buffett'ın Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B)"
   }
 }
