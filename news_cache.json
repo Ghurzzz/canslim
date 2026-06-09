@@ -3266,5 +3266,69 @@
   "https://finnhub.io/api/news?id=fc93198a3c9ff22fb8f2123b3a1c71dc988bcdab7f44b85bcb63c911a7b19403": {
     "headline_tr": "Nancy Pelosi'nin Borsa ve Warren Buffett'ı Nasıl Yendiği",
     "summary_tr": "S&P 500, geçtiği on yılda tarihinin en güçlü boğa piyasalarından biri olan yaklaşık %13 yıllık getiri sağlamıştır. Altın standart olan Warren Buffett'ın Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B)"
+  },
+  "https://finnhub.io/api/news?id=36ab63a42524674b8c3a3e2f5755c6495fce0b1ce4279444ab150de1f7bb00c2": {
+    "headline_tr": "Apollo ve Blackstone, Anthropic'in Broadcom ortaklığında 35 milyar dolarlık kapasite genişlemesini finanse ediyor",
+    "summary_tr": "Apollo ve Blackstone, Broadcom'un özel çipleri ve ağ çözümlerini kullanarak Anthropic için 35 milyar dolarlık yapay zeka bilişim kapasitesi genişlemesini finanse ediyor"
+  },
+  "https://finnhub.io/api/news?id=9e6fb9971b6fb05407d7da19411a8b49c9cb0f31a0e7840ea20930c3017c2187": {
+    "headline_tr": "%300 Arttı, AMD Hisse Senedi Hala Satın Almaya Değer mi?",
+    "summary_tr": "Üretken yapay zeka mega trendi henüz bitmedi."
+  },
+  "https://finnhub.io/api/news?id=297d6eeea102c02bb567e23be112d5987d516a9dadca76a063ed2f1004236d82": {
+    "headline_tr": "Qualcomm ByteDance ASIC Anlaşması Nedeniyle %8 Düştü, Marvell %10 Geriledi - Özel Silikon Hisse Senetleri Düşüşe Geçti",
+    "summary_tr": "Qualcomm (NASDAQ:QCOM) hisse senetleri Salı sabahı işlemlerinde %8 düşüşle $201'e, Marvell Technology (NASDAQ:MRVL) hisse senetleri ise %10 düşüşle $260'a geriledi. Katalist, ByteDance'ın hareket etmesi haberi etrafında yoğunlaşıyor"
+  },
+  "https://finnhub.io/api/news?id=ec2c2edf41a7f9677bb886da0f115fa5562a8a2d9ce67bdb11eb526b646b11aa": {
+    "headline_tr": "Öğlen Saati En Önemli Haberler: GSK, Nuvalent'i 10,6 Milyar Dolara Satın Alacak; Apple Siri AI'ı Tanıttı, Ancak AB Piyasasına Giriş Ertelendi",
+    "summary_tr": "Dow Jones Endüstriyel Ortalaması yükselirken, S&P 500 ve Nasdaq Bileşik Endeksi ayın sonlarında düştü"
+  },
+  "https://finnhub.io/api/news?id=e0c49d90894e4f56d2115ef3ece81677f4b70d01f1d84ef3dfa885ce5d0486f6": {
+    "headline_tr": "Ortalama Boğa Piyasası Tam Olarak Ne Kadar Sürer. Saat Tik Tik Mi Ilerliyor?",
+    "summary_tr": "Bu piyasanın sonuna rahatsız edici şekilde yakın olduğunu hissetmek anlaşılabilir, ancak mutlaka endişe verici değildir."
+  },
+  "https://finnhub.io/api/news?id=7099848d6d4c98d49fc75e85ca96b26a4c7ed3622ee7837195b605a0800dcdba": {
+    "headline_tr": "Yatırımcılar AI ticaretini görmezden gelemez ve gelmemelidir",
+    "summary_tr": "Yahoo Finance Breaking News Muhabiri Jake Conley ve Opening Media CEO'su Phil Rosen, Morning Brief'te Julie Hyman ile AI ticaretinin pazar performansının büyük bir itici gücü haline neden geldiğini ve neden tartışmak için katılıyor"
+  },
+  "https://finnhub.io/api/news?id=a6349f98b08a6bcd29e6c5c9586b14e78ca11820e8cdcbeb155f672a0e4fe95f": {
+    "headline_tr": "Bugün Borsa: Nasdaq, Dow Düşüşe Geçti; J.M. Smucker Yükseldi (Canlı Yayın)",
+    "summary_tr": "Güçlü bir açılışın ardından, başlıca borsa endeksleri Salı günü düşüşe geçti ve bu, yatırımcıların Orta Doğu barış anlaşmasının değişen umutları ile olası durumlar arasında denge kurmaya çalıştığı bir pazar içindeki oynaklığı vurguladı."
+  },
+  "https://finnhub.io/api/news?id=24661d55fca38f208256ade1169d71b6aa09546cbf358ac29eb7e1e7ccb1b360": {
+    "headline_tr": "Lam Research (LRCX): Dönüştürücü Sektörde Stratejik Bir Yatırım",
+    "summary_tr": "Sands Capital Management, LLC, \"Select Growth Strategy\" için Q1 2026 yatırımcı mektubunu yayınladı. Mektubun bir kopyası buradan indirilebilir. Select Growth, öncelikle önde gelen ABD işletmelerini hedeflemektedir"
+  },
+  "https://finnhub.io/api/news?id=7d4c7427bff97fc16eb93c62a79a648aac48798a23a6d67b48e41f5d5a187223": {
+    "headline_tr": "Micron'un Hisse Senedinde Söyleyen Ralli",
+    "summary_tr": "Hisse senedi geçen hafta kendi iyi haberlerini görmezden geldi, peki sonunda onu uçuşa geçiren ne oldu? En büyük rakibinin bir anlaşması."
+  },
+  "https://finnhub.io/api/news?id=359485a5fbfabfa766d677f59f30d1f530bffc31c1bb75678de6e4378b52b3f7": {
+    "headline_tr": "Marvell Technology AI Veri Merkezi Büyüme Momentumunu Sürdürebilir mi?",
+    "summary_tr": "MRVL, artan interkoneksiyon, anahtarlama ve özel silikon büyümesiyle AI veri merkezi talebinden yararlanıyor, ancak bu momentum hızlanmaya devam edebilir mi?"
+  },
+  "https://finnhub.io/api/news?id=492c6b63125d50261e26dfdb79965b174bf4dcabc96e32bd3a080e9e36651def": {
+    "headline_tr": "Wall Street, 2026 IPO'larından Önce MANGOS İşlemleriyle AI Ticaretinin Meyvelerini Görüyor",
+    "summary_tr": "MANGOS — hayır, tropikal taşlı meyve değil — 2026'nın en büyük halka arzlarından önce yatırımcıların dikkatinin merkezinde olan en son Big Tech kısaltmasıdır. MANGOS, Meta Platforms (META), Anthropic (ANTH) ve diğer şirketlerden oluşmaktadır."
+  },
+  "https://finnhub.io/api/news?id=0a6f924a1d1c2c0d0999fd849b84a006298d132b99861396a80faf1b0c14d364": {
+    "headline_tr": "Ultra Clean ve Thor Industries Zacks'in Günün Boğası ve Ayısı Olarak Vurgulandı",
+    "summary_tr": "UCTT, artan yapay zeka odaklı çip talebinin ve yükselen kazanç tahminlerinin etkisiyle Zacks'in Günün Boğası olarak vurgulanırken, temkinli sektör ortamı rakiplerini olumsuz etkilemektedir."
+  },
+  "https://finnhub.io/api/news?id=8b8ecf839dba694b54d1b68cb1aac998400398add783fe7264452b895e3374b6": {
+    "headline_tr": "Intel Hissesi Neden Salı Günü Yükseliyor?",
+    "summary_tr": "Intel hissesi, Google'ın büyük bir yapay zeka çipi siparişi ve Nvidia ile paketleme testlerine ilişkin haberler üzerine açılış öncesi dönemde yükseliyor. Ayrıntıları okuyun."
+  },
+  "https://finnhub.io/api/news?id=1cf51b980254e3c9960290902c010093c0a30fb3c27615bf2931c9767f311b2b": {
+    "headline_tr": "Astera Labs: Hâlâ Erken Bir Yapay Zeka Hikâyesi",
+    "summary_tr": "Astera Labs (ALAB), yapay zeka devriminin ön saflarında yer alıyor ve artan yarı iletken talebinden yararlanıyor."
+  },
+  "https://finnhub.io/api/news?id=1430c4a7a8788bec26058f29cb7ea52c76fe5c27d8722f4a3fad5cc0d496ad29": {
+    "headline_tr": "Astera Labs: Açığa Satardım, Ama Katalizör Yok - Uzun Pozisyon Alanlar Dikkat",
+    "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=cc25b0da6b8f4d6239ba8bb42723661d9274fe147035358c3c35a8819da30a52": {
+    "headline_tr": "Taiwan Semiconductor Dünya'nın Dokuzuncu En Değerli Şirketi Oldu",
+    "summary_tr": "Taiwan Semiconductor, yapay zeka talebinin değerini iki katına çıkarmasıyla küresel top 10'a girdi. En son TSM hisse senedi güncellemesi ve görünümü alın."
   }
 }
