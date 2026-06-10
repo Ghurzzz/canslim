@@ -3402,5 +3402,69 @@
   "https://finnhub.io/api/news?id=ba929e11df49d8d9588fd459438f8d16f18a6ad4b9268ac60ccaa7972495c192": {
     "headline_tr": "Bugünün Seansında 10 Bilişim Teknolojisi Hissesinde Balina Aktivitesi",
     "summary_tr": ""
+  },
+  "https://finnhub.io/api/news?id=ead217f5514454708d15a2f3f6be0ed9c12f164ff2da7d1648643f4f26e8af06": {
+    "headline_tr": "Lululemon Hissesi Geçmek İçin Çok Mu Ucuz?",
+    "summary_tr": "Giyim şirketi hissesi bu yıl %40 düştü."
+  },
+  "https://finnhub.io/api/news?id=d9d1f8a01009812cc7b794a222dc345a7c7e0266b55a4f46521fab789a4f1d70": {
+    "headline_tr": "SpaceX IPO'sunu Unutun. Bu Hisse Uzun Vadeli Yatırımcılar İçin Daha İyi Bir Seçim.",
+    "summary_tr": "Saf hype genellikle halka açılmak üzere olan bir şirketin görünür değerini şişirir. En azından, eski ve köklü bir hissenin değerini belirlemek daha kolaydır."
+  },
+  "https://finnhub.io/api/news?id=ea70f5315b20f574bd38c11f584000faa4ce9d09df2205d1175c5761dde24172": {
+    "headline_tr": "Uzman Uyarısı: Amerika'nın Şebekesi O Kadar Geri Kaldı ki, Yapay Zeka Olmasa Bile Elektrik Kesintileri Kaçınılmaz",
+    "summary_tr": "Borneite Capital'in kurucusu Dan Dreyfus, All-In Podcast'te Amerika'nın elektrik şebekesinin o kadar kötü durumda olduğunu uyararak, tamamen elektrik kaybı anlamına gelen kesintilerin ve voltajın azaldığı karartmaların"
+  },
+  "https://finnhub.io/api/news?id=2097204badd0e44afe7bb59ba56aaa47780e0bbb82cc7e3ee29bf8ae64d02eea": {
+    "headline_tr": "Broadcom ve AMD %4 Düştü, NVIDIA %3 Geriledi - Çip Satışı Derinleşiyor",
+    "summary_tr": "Yarıiletken hisse senetleri Çarşamba günü öğlen saatlerinde yeniden baskı altında. Broadcom (NASDAQ:AVGO) hisseleri %4 düşüşle 375 dolara, Advanced Micro Devices (NASDAQ:AMD) hisse senetleri %4 düşüşle 457 dolara ve NVIDIA (NASDAQ:"
+  },
+  "https://finnhub.io/api/news?id=617ac2b3aa83d9a83af74157a962864e1084441d739225c90715757cfa445506": {
+    "headline_tr": "Jensen Huang Marvell Hisse Yatırımcılarına Harika Bir Haber Verdi",
+    "summary_tr": "Nvidia CEO'su Jensen Huang, Marvell'i bir sonraki trilyon dolarlık yapay zeka (AI) hissesi olarak adlandırdı."
+  },
+  "https://finnhub.io/api/news?id=1da6887a5ad8974fe7a21767550119ea0fe7d4320e7e55a3138dce7fee0b5390": {
+    "headline_tr": "CrowdStrike Hisse Bölünmesinden Önce Satın Almalı mısınız?",
+    "summary_tr": "Bu işlem, daha geniş bir yatırımcı yelpazesinin hisse senedini satın almasını kolaylaştırmalıdır."
+  },
+  "https://finnhub.io/api/news?id=19ac5995daa8f8323b467f95c1d08b4d1ca8fdaa840dcf4799c9066b4728e244": {
+    "headline_tr": "Barclays, WFE tahminlerini yükselttikten sonra çip hisse senetlerinde fiyat hedeflerini artırıyor",
+    "summary_tr": "Investing.com -- Barclays, wafer üretim ekipmanı tahminlerini yükseltti ve Pazartesi günü yayınlanan bir notta Applied Materials, KLA Corporation ve Lam Research'ün fiyat hedeflerini artırdı."
+  },
+  "https://finnhub.io/api/news?id=67d2f3b6a31fbad32b92d1cba899a6f24a8e0043565e5094172cfba3c9d9f9c6": {
+    "headline_tr": "Credo Technology, Yapay Zeka Patlaması Ortasında Gelir Büyüyüşünü Sürdürebilir mi?",
+    "summary_tr": "CRDO'nun yapay zeka bağlantı girişimi mali 2026 yılında rekor gelire yol açtı; optik ürünler mali 2027 yılında büyük bir büyüme kırılma noktası için hazırlanıyor."
+  },
+  "https://finnhub.io/api/news?id=2af8772a0b3734c67fcf54102f6d3e89cafb79612338089bd2e225b218004778": {
+    "headline_tr": "Micron, New York Yarı İletken Projesi için Bechtel'i Seçti - ABD İmalat Genişlemesi İlerlemesini Sürdürüyor (MU)",
+    "summary_tr": "Bechtel'in atanması, Micron'un planlanan New York bellek imalat kompleksinin inşaatını ilerleterek, bu projenin ABD'deki en büyük yarı iletken tesisine dönüşmesi bekleniyor. Önemli bir..."
+  },
+  "https://finnhub.io/api/news?id=7b7a853d0488a441caff8ef349f9fef3d37739e848fe5ab3825b1ea60b3a4ff6": {
+    "headline_tr": "SNDK'nın Yeni İş Modelleri NAND Volatilitesine Bağımlılığı Azaltabilir mi?",
+    "summary_tr": "Sandisk'in YİM modeli 42 milyar dolarlık gelir taahhütü sağlayarak talep görünürlüğünü artırmış ve NAND piyasası volatilitesine maruz kalma riskini azaltmayı amaçlamaktadır."
+  },
+  "https://finnhub.io/api/news?id=dd964ead33cba73d8c11387ec757c50129b705ce3d62eb4cb1d0ff1829910ccb": {
+    "headline_tr": "Micron, SanDisk ve SK hynix Yatırımcıları Bir Şeyden Korkmalı: Elon Musk",
+    "summary_tr": "Yariiletken döngüsü her zaman dalgalar halinde hareket etmiştir — kıtlık, aşırı arz, düzeltme, tekrar. Ancak mevcut döngü farklı hissettiriyor. Talep sadece akıllı telefonlar veya bulut hizmetleri tarafından ileri çekilmiyor"
+  },
+  "https://finnhub.io/api/news?id=40908da63ecc7ab69611176ebc606564d6286f8069dd9aa151bd67f62c9c7553": {
+    "headline_tr": "Super Micro, Newmont, Robinhood, Oracle, Cracker Barrel ve Daha Fazla Hisse Senedi Bugünün Piyasasını Açıklıyor",
+    "summary_tr": "Super Micro hissesi yapay zeka ve diğer momentum hisse senetlerindeki satışın hızlanmasıyla düşüyor. Robinhood S&P 500'de öncü konumdadır."
+  },
+  "https://finnhub.io/api/news?id=48ed98ea94d53fdbe227c0a7debdff111de723bdaba4ee37a1310d9eaa84d398": {
+    "headline_tr": "Bu 3 Hisse Senedi Bu Yıl Nasdaq-100'de En Çok Aranan Oldu ve İşte Neden Daha Yükseğe Çıkabilecekleri",
+    "summary_tr": "Teknoloji şirketleri yapay zeka alanına ağır yatırımlar yapmaya devam ettikçe, bu hisse senetleri gelişmeye devam edebilir."
+  },
+  "https://finnhub.io/api/news?id=4db29ccbd002773e99d7b98cc801f28f6435a18aba04506c1d27cba93bdc36ef": {
+    "headline_tr": "AMD, Nvidia'nın Döngüsel Finansman Anlaşmalarını Taklit Ediyor",
+    "summary_tr": "AMD hissesi çarşamba günü düşüş gösterdi. Çip üreticisi, bir neocloud şirketine yatırım yaparak Nvidia'nın izinden gidiyor."
+  },
+  "https://finnhub.io/api/news?id=033a4db9eae83688f259b9ba14bd203f0b2e0210787f02c3b7be0e285b71a765": {
+    "headline_tr": "Credo Technology: $3,000 GPU Başına Bellek Arbitrajı Güçlü Satın Al Tavsiyesi Gerektiriyor (Derecelendirme Yükseltmesi)",
+    "summary_tr": "Credo Tech (CRDO) yapay zeka ara bağlantı ilerlemeleri nedeniyle Güçlü Satın Al'a yükseltildi."
+  },
+  "https://finnhub.io/api/news?id=05247864399157f731295bb25a5ae83bb16f115d352eddf03e7cd366dac805c3": {
+    "headline_tr": "Intel Hissesi Çarşamba Günü Neden Düşüyor?",
+    "summary_tr": "Intel Corp. (NASDAQ: INTC) hissesinin Çarşamba günü neden düştüğünü keşfedin. Perakende yatırımcılar kar realizasyonu, Broadcom'un rehberlik dalgalanmaları ve makroekonomik rüzgarları takip ediyor."
   }
 }
