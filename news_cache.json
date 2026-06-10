@@ -3470,5 +3470,9 @@
   "https://finnhub.io/api/news?id=19f2945c2bd46b8a38cf731c1765dec41d29758ad772a67ed6a931889ef38510": {
     "headline_tr": "Çarşamba seansında S&P500'ün en büyük hareketliler",
     "summary_tr": "Bugünün seansında S&P500 hisse senetlerinin hareketleriyle güncel kalın. Çarşamba günü hangi S&P500 hisse senetlerinin dalgalandığını keşfedin."
+  },
+  "https://finnhub.io/api/news?id=a776024e8740f6f39dbbd438ea4830713818e6353e142930f12318f6d5c2d9f5": {
+    "headline_tr": "Çarşamba günü Dow Jones endeksinde en çok hareket eden hisse senetlerini takip edin.",
+    "summary_tr": "Çarşamba günü günün ortasında Dow Jones endeksinin hareketleri hakkında güncel bilgi alın. Bugünün seansında en çok yükselen ve düşen hisse senetlerini keşfedin."
   }
 }
