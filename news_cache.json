@@ -3466,5 +3466,9 @@
   "https://finnhub.io/api/news?id=05247864399157f731295bb25a5ae83bb16f115d352eddf03e7cd366dac805c3": {
     "headline_tr": "Intel Hissesi Çarşamba Günü Neden Düşüyor?",
     "summary_tr": "Intel Corp. (NASDAQ: INTC) hissesinin Çarşamba günü neden düştüğünü keşfedin. Perakende yatırımcılar kar realizasyonu, Broadcom'un rehberlik dalgalanmaları ve makroekonomik rüzgarları takip ediyor."
+  },
+  "https://finnhub.io/api/news?id=19f2945c2bd46b8a38cf731c1765dec41d29758ad772a67ed6a931889ef38510": {
+    "headline_tr": "Çarşamba seansında S&P500'ün en büyük hareketliler",
+    "summary_tr": "Bugünün seansında S&P500 hisse senetlerinin hareketleriyle güncel kalın. Çarşamba günü hangi S&P500 hisse senetlerinin dalgalandığını keşfedin."
   }
 }
