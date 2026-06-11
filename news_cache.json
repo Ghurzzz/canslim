@@ -3590,5 +3590,45 @@
   "https://finnhub.io/api/news?id=cdb7558b9656cdcd687beab2b85a38bd4f92df0a94ea37123cf68a533438c05d": {
     "headline_tr": "S&P 500'e Dahil Olması ve Artan Yapay Zeka Altyapısı Beklentileri Sonrası Marvell Technology (MRVL) Değerlemesinin Değerlendirilmesi",
     "summary_tr": "Marvell Technology (MRVL), 22 Haziran'da S&P 500'e dahil olmak üzere seçildi ve bu değişim halihazırda endeks izleyicilerinden zorunlu satın almalar çekerek şirketin yapay zeka altyapısındaki rolünü vurgulamaktadır."
+  },
+  "https://finnhub.io/api/news?id=416dd818e5558dbc7e8de6119eb7053e35c130cae8494208134631349476506b": {
+    "headline_tr": "Google SpaceX IPO'su İçin Yatırımcılara 30 Milyar Dolar Razı Olma Nedeni Verdi Mi?",
+    "summary_tr": "Google, SpaceX ile 30 milyar dolarlık bir bilişim kapasitesi anlaşması imzaladı."
+  },
+  "https://finnhub.io/api/news?id=5e6b0813e917077143bb5c3f6b7850aaf38d6b60f8fc22dab1d4bfcfda830001": {
+    "headline_tr": "Dow Jones Vadeli İşlemleri Pazar Sıçramasını Gösteriyor, Ama Sonra Ne Olacak? Oracle Düşüyor, SpaceX IPO Başlama Noktasında",
+    "summary_tr": "Vadeli işlemler Oracle düşüşüne rağmen kilit seviyelerden pazar toparlanmasını gösteriyor. İzlenecek hususlar işte burada. SpaceX IPO gündemde."
+  },
+  "https://finnhub.io/api/news?id=93d51e6019f69329cc2f01d319d8f48151b436c493d9a74ef1f5ea33a5f17cc4": {
+    "headline_tr": "IBM, Verilerinizin Taşınması İçin Çok Inatçı Olduğunu Düşünüyor (ve Yapay Zeka da Katılıyor)",
+    "summary_tr": "Veri yerçekimi gerçek ve IBM, yapay zeka stratejisini buna göre inşa ediyor. Bilmeniz gerekenler:"
+  },
+  "https://finnhub.io/api/news?id=ba05648515d9facddf28c3e7bbad1804848fa7b59c931d26be77aece6af0a82d": {
+    "headline_tr": "SpaceX halka arzı öncesinde ABD-İran çatışmalarına rağmen çip hisse senetleri toparlanıyor",
+    "summary_tr": "S&P 500 vadeli işlemleri piyasa öncesi işlemlerde %0,72 yükselirken, Nasdaq 100 vadeli işlemleri %1,2 artarak yarım iletken hisse senetleri dik haftalık düşüşten kurtuldu"
+  },
+  "https://finnhub.io/api/news?id=9f6bf4b1fe215c0cd8805e9ccc3d58d881e57e8e42728f0999411a08ad58ba6c": {
+    "headline_tr": "SpaceX, OpenAI ve Anthropic halka arzlarının boğa piyasasını sekteye uğratmayacağı nedenleri",
+    "summary_tr": "Goldman Sachs, piyasaya çok fazla hisse senedi gelmesinden endişe etmeyin diye öne sürüyor."
+  },
+  "https://finnhub.io/api/news?id=d28466fadbf75f6ef10f2810e76b1d57c73b40744a7b7a912dc4412371fb7218": {
+    "headline_tr": "Micron Hisse Senedi 2025'ten Beri %1000'den Fazla Arttı ve Artık 1 Trilyon Dolarlık Bir Şirket. Hala Satın Almaya Değer mi?",
+    "summary_tr": "Micron, hafıza çipi kıtlığı nedeniyle daha fazla yükseliş potansiyeline sahip olabilir."
+  },
+  "https://finnhub.io/api/news?id=da5504439d75f12cbde93095967e19855a8cab9be81914f45b5c2b897a3e1f79": {
+    "headline_tr": "Micron Hissesi Rakip Bellek Çip Üreticisinin Tehdidini Göz Ardı Ederek Geri Yükseliyor",
+    "summary_tr": "ABD ve İran ikinci gün üst üste ateş açmasına rağmen yatırımcılar teknoloji hisse senetlerindeki düşüşü satın alırken hisseler rallide yükseliyor"
+  },
+  "https://finnhub.io/api/news?id=33f5dbd7eb6d7f1fde983e50cfeca72119552ff416fbe54dfab264469928f777": {
+    "headline_tr": "Pazar Marvell'i Yanlış Anlıyor",
+    "summary_tr": "Yönetim, FY2027'de gelirin 11,5 milyar dolara ve FY2028'de yaklaşık 16,5 milyar dolara ulaşmasını beklemektedir."
+  },
+  "https://finnhub.io/api/news?id=db92105483e0bcc35b0967bd57df9a10906b106cc4155d88bd8503373cc56247": {
+    "headline_tr": "Marvell Technology: Nvidia'dan Daha İyi Bir Yapay Zeka Hissesi",
+    "summary_tr": "Marvell Technology, son sonuçları ve stratejik hamleleriyle değer önerisini güçlendiren önemli bir yapay zeka altyapı hissesi olarak ortaya çıkmaktadır. MRVL hakkında daha fazla bilgi edinin."
+  },
+  "https://finnhub.io/api/news?id=0107706e38ba1dc69c45301f5d863f660f8e6fd17a38caf0afad16e6f3b5c08d": {
+    "headline_tr": "Wall Street satıştan sonra kazançlara doğru ilerliyor, petrol fiyatları düşüyor",
+    "summary_tr": "ABD finansal piyasaları, yapay zeka hisse senetlerinin başka bir satış dalgasının ardından Perşembe günü güçlü kazançlarla açılmaya hazırlanıyor. Dow Jones Endüstri Futures..."
   }
 }
