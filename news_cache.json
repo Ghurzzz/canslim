@@ -3538,5 +3538,29 @@
   "https://finnhub.io/api/news?id=aea82987576dd57de0c83e480d01907cc897ce3fdf2c92d9b3e64ae756e8b11a": {
     "headline_tr": "Dün büyük hareketler yapan hisse senetleri: J. M. Smucker, International Flavors & Fragrances, Lam Research, Portillo's ve Redwire",
     "summary_tr": "Dün manşetleri yapan şirketleri kontrol edin:"
+  },
+  "https://finnhub.io/api/news?id=ac524f290e558ecdd10c7ed687ea6a3be944e1ad5c353e10a7983e675e4c5a57": {
+    "headline_tr": "Trump'ın İran Encore'u Nasdaq'ı %2 Düşürüyor, Oracle'ın Capex Faturası Ödeme Zamanı Geldi",
+    "summary_tr": "Trump'ın İran'a yönelik bir başka vuruş turu vaadi sonrası Nasdaq %2 düşüş yaşadı. Daha ılımlı CPI verisi prarı fark ettirmedi. Super Micro $7 milyar artırımda %28 oranında çöktü. Oracle çeyreği geçti ancak capex rakamı"
+  },
+  "https://finnhub.io/api/news?id=8d7e4ec0c5aebd0d0b797157438c89856b20c44951eafc157cdcf92cd6278b10": {
+    "headline_tr": "Apple, AI'dan Milyarlar Kazanacak: İşte 2 Yol. Hisse Senedi Almak için Zaman Geldi mi?",
+    "summary_tr": "Artan hizmet gelirleri ve muazzam bir iPhone yükseltme döngüsü yakında gelmesi bekleniyor."
+  },
+  "https://finnhub.io/api/news?id=dbe38370b642710d4ee478781ea0d50739dd6aa0c60c067087d6eef268f31af0": {
+    "headline_tr": "Nvidia Hissedarlar İçin Potansiyel Bir Kazanç Duyurdu",
+    "summary_tr": "Çipset üreticisi son derece karlı bir yatırım olmuştur, ancak Nvidia bunu bir sonraki seviyeye taşıyor."
+  },
+  "https://finnhub.io/api/news?id=8b465f644936729fac6e143a793ee931ea8b1c4f27442cbc6e21670e39fc8b3d": {
+    "headline_tr": "Super Micro Computer (SMCI) Muazzam 7 Milyar Dolar Adi ve Tercihli Hisse Arzından Sonra %38,3 Düştü",
+    "summary_tr": "Bu hafta başında Super Micro Computer, yaklaşık 39 milyar dolar değerindeki bileşenleri finanse etmek için adi hisse senedi ve dönüştürülebilir tercihli mevduat hisseleri aracılığıyla yaklaşık 7 milyar dolar artırma planlarını açıkladı"
+  },
+  "https://finnhub.io/api/news?id=4c7a7bc262078903cb35a27d900b2117d19bed4bdc7dd2becfde2e16b6420045": {
+    "headline_tr": "Broadcom Hissesi Şimdi Nvidia'dan Daha İyi Bir Alım mı?",
+    "summary_tr": "Broadcom'un hissesi, zayıf karşılanan bir kazanç raporunun ardından düştü."
+  },
+  "https://finnhub.io/api/news?id=c21cb719d6525bce77201be6ea2a1320af690bc705ea19a8982fe69ea7a10b66": {
+    "headline_tr": "Broadcom: Uzun Vadeli Büyüme için Zayıflıktan Yararlanmak",
+    "summary_tr": "Broadcom, çok yıllı XPU anlaşmalarıyla desteklenen eFY27'de yapay zeka tarafından yönlendirilen bir dönüm noktasına hazır. AVGO hisse senedinin neden güçlü bir satın alma olduğunu öğrenin."
   }
 }
