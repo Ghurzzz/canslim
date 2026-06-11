@@ -3562,5 +3562,33 @@
   "https://finnhub.io/api/news?id=c21cb719d6525bce77201be6ea2a1320af690bc705ea19a8982fe69ea7a10b66": {
     "headline_tr": "Broadcom: Uzun Vadeli Büyüme için Zayıflıktan Yararlanmak",
     "summary_tr": "Broadcom, çok yıllı XPU anlaşmalarıyla desteklenen eFY27'de yapay zeka tarafından yönlendirilen bir dönüm noktasına hazır. AVGO hisse senedinin neden güçlü bir satın alma olduğunu öğrenin."
+  },
+  "https://finnhub.io/api/news?id=791e9ba96495ec73134553919c0277116b35bc938b8e378e15a356945c805c0e": {
+    "headline_tr": "Bir Robinhood İçerden Kişisi Az Önce Düşük Performans Gösteren Hissenin Büyük Miktarını Satın Aldı. Yatırımcılar Aynısını Yapmalı Mı?",
+    "summary_tr": "Yönetim Kurulu Üyesi Micky Malka kısa süre önce hisseleri satın almaktaydı."
+  },
+  "https://finnhub.io/api/news?id=8338ae2f7352f79824ea151c76bd714eda257f1f2b90a2bfce554c0e36977bc8": {
+    "headline_tr": "SpaceX Yerine Her Gün Satın Almak İsteyeceğim 3 Sıkıcı Temettü Hisse Senedi",
+    "summary_tr": "Sıkıcı, sahip olmak istediğiniz temettü hisse senetleri için harika bir sıfattır."
+  },
+  "https://finnhub.io/api/news?id=b423dedf38b97f542be1f195ce108f72885d3270adba4557fb663c5bbdd29cd0": {
+    "headline_tr": "Broadcom'un Kazanç Sonrası Düşüşü Cazip Bir Satın Alma Fırsatı",
+    "summary_tr": "Kısa vadeli bir düzeltme, uzun vadeli katalizörlerin şekillenmesini engellemeyecektir."
+  },
+  "https://finnhub.io/api/news?id=a515902dfb0a74b276fbd66adc33a8c65f54480731685d4cc384b4f0d812a421": {
+    "headline_tr": "Nasdaq, S&P 500, Dow Vadeli İşlemleri PPI Verileri Öncesinde Toparlanıyor; İran Gerilimi Devam Ederken: ORCL, CRWV, ADBE, BATL, MU, ADTX Neden Odakta?",
+    "summary_tr": "Stocktwits verileri, perakende yatırımcıların temkinli bir tutum aldığını göstermiş; SPY'de duyarlılık 'düşüşe eğilimli', QQQ'de ise 'tarafsız' seviyeye düşmüştür."
+  },
+  "https://finnhub.io/api/news?id=dad51a70cc3612a16a744479586ea6fb58f98e983f4e597b8fe47130ffa4fd11": {
+    "headline_tr": "Haziran Ayında Daha İyi Yapay Zeka (AI) Hissesi Satın Alma: AMD vs. Nvidia (Kazanan Sizi Şaşırtabilir)",
+    "summary_tr": "AMD iyi bir yıl geçirdi, ancak Nvidia hızlı bir şekilde yetişebilir."
+  },
+  "https://finnhub.io/api/news?id=348b218a101a005d625c0000fda77220a6aa9c24163489461318bceff160c9dc": {
+    "headline_tr": "MU, SNDK, WDC, STX İran Endişeleri Sonrası Toparlanıyor: SK Hynix 2034'e Kadar Wafer Kapasitesini Üçe Katlamaya Hazırlanıyor",
+    "summary_tr": "Perakende yatırımcılar, bellek hisse senetlerinin rekor seviyelerden son zamanda yaşadığı düşüşü giderek artan oranda satın alma fırsatı olarak görüyor."
+  },
+  "https://finnhub.io/api/news?id=cdb7558b9656cdcd687beab2b85a38bd4f92df0a94ea37123cf68a533438c05d": {
+    "headline_tr": "S&P 500'e Dahil Olması ve Artan Yapay Zeka Altyapısı Beklentileri Sonrası Marvell Technology (MRVL) Değerlemesinin Değerlendirilmesi",
+    "summary_tr": "Marvell Technology (MRVL), 22 Haziran'da S&P 500'e dahil olmak üzere seçildi ve bu değişim halihazırda endeks izleyicilerinden zorunlu satın almalar çekerek şirketin yapay zeka altyapısındaki rolünü vurgulamaktadır."
   }
 }
