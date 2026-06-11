@@ -3474,5 +3474,69 @@
   "https://finnhub.io/api/news?id=a776024e8740f6f39dbbd438ea4830713818e6353e142930f12318f6d5c2d9f5": {
     "headline_tr": "Çarşamba günü Dow Jones endeksinde en çok hareket eden hisse senetlerini takip edin.",
     "summary_tr": "Çarşamba günü günün ortasında Dow Jones endeksinin hareketleri hakkında güncel bilgi alın. Bugünün seansında en çok yükselen ve düşen hisse senetlerini keşfedin."
+  },
+  "https://finnhub.io/api/news?id=4bcb16637169897ff21c2e8801e404c12163f4a35f58d51f157529e89871bcc7": {
+    "headline_tr": "Redwire Milyoner Yapan Bir Hisse Senedi mi?",
+    "summary_tr": "Bu uzay ve havacılık şirketi için sırada ne var?"
+  },
+  "https://finnhub.io/api/news?id=05d7578a3e6661c98718fcc1eade7d4af9a1772ef1c3ac73ddbdb2d51c1d6797": {
+    "headline_tr": "IREN'in 5.8 GW İnşaat Projesi ve Nvidia Anlaşması Yapay Zeka Büyüme Hikayesini Yeniden Şekillendiriyor",
+    "summary_tr": "IREN (NasdaqGS:IREN), küresel veri merkezi geliştirme boru hattını 5.8 GW'ye genişleterek, yüksek performanslı bilgi işlem sitelerinin çok daha büyük bir inşaat projesini işaret etmektedir. Şirket, çok yıllı bir $3 anlaşmasına girmiştir."
+  },
+  "https://finnhub.io/api/news?id=0e6a6fcb27d1b4f7d4f5bcc24beb6ad478f8a93598b185e6ecc056284059fd93": {
+    "headline_tr": "MaxLinear Bir Sonraki 10 Katına Çıkacak AI Hissesi mi?",
+    "summary_tr": "MaxLinear yıl başından bu yana yaklaşık 4 katına çıkmış ve bazı yatırımcılar daha da artış potansiyeli olduğuna inanıyor."
+  },
+  "https://finnhub.io/api/news?id=99bccfb76375cb1ae54b7c4ff3f52eaf3d2e185b62fd1bdbf149c0796dcade59": {
+    "headline_tr": "Satıştan Sonra Daha Yakından İncelemeye Değer 3 Düşük Performans Gösteren AI Çipi Hisse Senedi",
+    "summary_tr": "AI çipi ticaretinin en keskin geri çekilişlerinden birinin ardından, sektörün üç lider şirketi aniden son zamanlardaki yüksek seviyelerinin çok altında işlem görmektedir."
+  },
+  "https://finnhub.io/api/news?id=a62ee155df87540cf379ef993c6176cf6877602e643598404eb2000de5fa0170": {
+    "headline_tr": "SpaceX: Uzay Kıyafeti Giyen AI IPO'su",
+    "summary_tr": "Goldman Sachs, SpaceX'in 2025'teki 18.7 milyar dolarlık gelirini 2030'da 474 milyar dolara çıkaracağını öngörmektedir."
+  },
+  "https://finnhub.io/api/news?id=29b6567bb6484b86dec619a3ff9352e6b1cfdc34670f884f99518c18351302b4": {
+    "headline_tr": "Apollo Global Management (APO) Broadcom'un 35 Milyar Dolarlık Yapay Zeka Altyapısı Planını Destekledikten Sonra %5,5 Yükseldi",
+    "summary_tr": "Son zamanlarda Broadcom, Apollo Global Management ve Blackstone ile birlikte AI XPV Platformu başlattığını duyurdu; Apollo, 35 milyar ABD doları sermaye çözümünü liderlik etmekte ve bunun daha fazlasını desteklemesi amaçlanmaktadır"
+  },
+  "https://finnhub.io/api/news?id=762b3e37892d25a272e265cb09182bb8d06e1e73fc691fde014e73b384487f64": {
+    "headline_tr": "Marvell (MRVL) S&P 500 Endeksine Katılacak",
+    "summary_tr": "Marvell Technology, Inc. (NASDAQ:MRVL) 2026 yılında şimdiye kadar en iyi performans gösteren 10 büyüme hisse senedinden biri olmuştur. 5 Haziran'da Reuters tarafından yapılan habere göre, Marvell Technology, Inc. (NASDAQ:MRVL) S&P 500 endeksine katılmaya hazırlanmaktadır."
+  },
+  "https://finnhub.io/api/news?id=2450f2c0bb4813a2b7e309d3be0577f8b8a5be1a31ef02bcde4191e60ef3be64": {
+    "headline_tr": "Apollo & Blackstone Inc. (BX) Anthropic AI Anlaşmasını 35 Milyar Dolara Kapatıyor",
+    "summary_tr": "Blackstone Inc. (NYSE:BX) şu anda yatırım yapılacak değerli bir hisse senedidir. 6 Haziran 2026'de Apollo Global Management (NYSE:APO) ve Blackstone (NYSE:BX), Anthropic için 35 milyar dolarlık bir finansman paketini tamamladı."
+  },
+  "https://finnhub.io/api/news?id=9c6e5fc30d833c13a06ee1686542a845d063c5501bdaee2a08f0e5099aa308c6": {
+    "headline_tr": "Nvidia Corp (NVDA) Micron HBM4 ile Yapay Zeka Platformunu Güçlendiriyor",
+    "summary_tr": "Nvidia Corp (NASDAQ:NVDA) milyarderlere göre yatırım yapılacak en iyi veri merkezi hisse senetlerinden biridir. Nvidia hisseleri geçen ay içinde %14 artış göstermiş ve geçen bir yılda %48'den fazla artmıştır. 6 Haziran'da,"
+  },
+  "https://finnhub.io/api/news?id=a0a89622259bfd5388bf15c4c1d7a5757f6e5b5743fcbc32eb337d081a583a6d": {
+    "headline_tr": "Broadcom Hissesi ve Gölgede Kalan İki Müşteri",
+    "summary_tr": "Şirketin yapay zeka büyümesi spektaküler olsa da, müşteri listesine yakından bakıldığında yatırımcıların göz ardı etmemesi gereken milyar dolarlık bir soru işareti ortaya çıkıyor."
+  },
+  "https://finnhub.io/api/news?id=72a7b7fd9a67c4b499f2465f241076c5acd2a9d95f92be17f332ce6238ee7e55": {
+    "headline_tr": "Lam Research: Yapay Zeka Büyümesinin Kritik Sağlayıcısı, Alım Tavsiyesini Yineliyor",
+    "summary_tr": "Lam Research, yapay zeka tarafından yönlendirilen yarı iletken talebinin hızlanmasıyla devam eden büyüme için istisnai bir konumdadır. LRCX hisse senedinin neden bir Alım olduğunu okuyun."
+  },
+  "https://finnhub.io/api/news?id=1086a13f760591391c832f7d209a9a742c8b32350aea28d87ab10034dbb9b033": {
+    "headline_tr": "Yazılım Motoru: Broadcom Hisse Senedi Ayılarının Gözden Kaçırdığı",
+    "summary_tr": "Wall Street yapay zeka çip satışlarına odaklanırken, farklı ve yüksek kar marjlı bir işletme, en büyük riski çözebilecek istikrarı sağlamaktadır."
+  },
+  "https://finnhub.io/api/news?id=16846464d87fab7ade4597442c956e44ddf44079f3ef924ca848bb986844dbd2": {
+    "headline_tr": "Wall Street CIO: AI Trendi \"Teknik Olarak Sürdürülemez.\" Bunun Yerine Bu İki Sektörü Satın Alın.",
+    "summary_tr": "One Point BFG Wealth Partners'ın Yatırım Şefi Peter Boockvar, 10 Haziran'da CNBC'ye AI ticaretinin teknik yapısının saçma bir hale geldiğini söyledi. \"AI ticaretindeki hisse senetleri o kadar yüksekte kaldı ki"
+  },
+  "https://finnhub.io/api/news?id=5d7a336e4a8524f6beca74a4c1eef14d74eadc927144708a2d5a4dd0df6d6b58": {
+    "headline_tr": "Lam Research (LRCX) Geniş Pazardan Daha Keskin Düşüş Yaşıyor: Yatırımcıların Bilmesi Gerekenler",
+    "summary_tr": "Lam Research (LRCX), son işlem seansını 321,8 dolar ile kapattı ve bu, bir önceki günün kapanışından -%1,64 oranında bir düşüş anlamına geliyor."
+  },
+  "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0": {
+    "headline_tr": "Sızıntı: Broadcom (AVGO) Diğer Yapay Zeka Ticareti mi?",
+    "summary_tr": "Broadcom (AVGO) Diğer Yapay Zeka Ticareti mi? IPO Edge Editöryel Ekibi tarafından Broadcom'un (AVGO) yapay zeka işi neredeyse herkesin beklediğinden daha hızlı büyüyor. Geçen çeyrekte, yapay zeka yariiletken geliri 10,8 milyar dolara ulaştı"
+  },
+  "https://finnhub.io/api/news?id=aea82987576dd57de0c83e480d01907cc897ce3fdf2c92d9b3e64ae756e8b11a": {
+    "headline_tr": "Dün büyük hareketler yapan hisse senetleri: J. M. Smucker, International Flavors & Fragrances, Lam Research, Portillo's ve Redwire",
+    "summary_tr": "Dün manşetleri yapan şirketleri kontrol edin:"
   }
 }
