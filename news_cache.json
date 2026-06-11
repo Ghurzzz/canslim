@@ -3630,5 +3630,69 @@
   "https://finnhub.io/api/news?id=0107706e38ba1dc69c45301f5d863f660f8e6fd17a38caf0afad16e6f3b5c08d": {
     "headline_tr": "Wall Street satıştan sonra kazançlara doğru ilerliyor, petrol fiyatları düşüyor",
     "summary_tr": "ABD finansal piyasaları, yapay zeka hisse senetlerinin başka bir satış dalgasının ardından Perşembe günü güçlü kazançlarla açılmaya hazırlanıyor. Dow Jones Endüstri Futures..."
+  },
+  "https://finnhub.io/api/news?id=f8205004c86b95abe8752861730a9033111a1e4234413223e5fb2f5ce54b435c": {
+    "headline_tr": "Bugünün seansında neler oluyor: S&P500 hareketliler",
+    "summary_tr": "Perşembe günü S&P500 endeksinde hareket halinde olan hisse senetlerini merak mı ediyorsunuz? Bugünün seansında S&P500 endeksi içinde en çok hareket eden hisse senetlerini keşfetmek için bize katılın."
+  },
+  "https://finnhub.io/api/news?id=67ed05d2571f5e2b05574e2e7a603f1ff2b513574397366517af57b6c51c1d2c": {
+    "headline_tr": "MP Materials Hisse Senedini Yeni Yüksekliklere Taşıyabilecek 2 Güçlendirici Trend",
+    "summary_tr": "MP Materials, kritik minerallerin önde gelen yurtiçi madencisi ve işleyicisi olup, iki güçlü olumlu gelişmeden yararlanabilir."
+  },
+  "https://finnhub.io/api/news?id=08bdfedb56299c1e7e31a8fa37703a2fc2cbe303763d957997f121015222a745": {
+    "headline_tr": "Nvidia 200 Doların Altına Düştü, Ayı Piyasası Bölgesine Yaklaşıyor. Daha Ne Kadar Düşebilir?",
+    "summary_tr": "Pazar alışılmadık bir faza girdi; burada yatırımcılar artık yapay zeka ile ilişkili her şirketi ödüllendirmiyor. Bunun yerine, sermaye daha seçici hale geliyor. Yüksek profilli fırsatlar..."
+  },
+  "https://finnhub.io/api/news?id=7f6a54facea8cb30a29f714966e30eb0f077a7349200254a01e0f4a43821bc50": {
+    "headline_tr": "Bu Yapay Zeka Dehası %1.000 Getiri Sağladı ve Şimdi 20 Milyar Dolar Yönetiyor. İşte Son Alımları",
+    "summary_tr": "Gerçekten de inanılmaz geliyor: 24 yaşında eski bir OpenAI araştırmacısının milyarlarca dolarlık bir riskten korunma fonu kurması ve başlangıcından bu yana %1.000 getiri sağlaması. Kuşkusuz, söz ettiğim adamın"
+  },
+  "https://finnhub.io/api/news?id=432ce3efed2474007f110041458745ad4e6b1d6782a53e6c6b3bc364177e50b1": {
+    "headline_tr": "Oracle'ın %20'lik Düşüşü Micron'un Hep Bildiğini Kanıtlıyor: Yapay Zeka Talebinin Çöküşe Gitmek Üzere Olduğu",
+    "summary_tr": "Wall Street yapay zekanın karşısına dönüyor olabilir, çünkü Oracle (NYSE:ORCL) son beş günde değerinin beşte birini kaybetti. Bu, CEO'su Başkan Donald'ın yanında kürsüye çıkan kutlanmış bir yapay zeka yıldızıydı."
+  },
+  "https://finnhub.io/api/news?id=37f16cce28bc9bc8b7278e0a420613f1c532cbf0dec08f954259054f0d92fbf4": {
+    "headline_tr": "OpenAI, Anthropic ile Yapay Zeka Fiyat Savaşını Düşünüyor. Teknoloji Hisseleri İçin Büyük Bir Risk.",
+    "summary_tr": "OpenAI, rakip Anthropic ile rekabet etmek için fiyatları düşürürse, yapay zeka hisseleri büyük bir sınava tabi tutulabilir."
+  },
+  "https://finnhub.io/api/news?id=54a32db0d907441b4de59a67a3b35642565813c9b426fac8d57b48868e5e57ee": {
+    "headline_tr": "Elon Musk'ın Ötesinde: SpaceX'in Yönetim Kurulu'na Yakından Bakış",
+    "summary_tr": "Yahoo Finance Kıdemli Muhabiri Brooke DiPalma ve Yahoo Finance Kıdemli İşletme Muhabiri Ines Ferré, yatırımcıların SpaceX'in (SPAX.PVT) CEO'su Elon Musk dışında kalan yönetim kurulu üyeleri hakkında bilmeleri gereken konuları anahatlarıyla sunuyor."
+  },
+  "https://finnhub.io/api/news?id=6a196657af5266352ecce85cf39f240fb8cc9efe9ee4730dd3cffd105c92adf7": {
+    "headline_tr": "Applied Materials ve KLA Hızlı Yükseliyor. Analist Neden Bu Hisse Senetlerini Satın Almanız Gerektiğini Söylüyor.",
+    "summary_tr": "Barclays, yeni çip arzına güçlü yatırım ortamında Applied Materials ve KLA için Fazla Ağırlık (Overweight) derecelendirmesini yineledi."
+  },
+  "https://finnhub.io/api/news?id=2e35b6016eec1d1f411ceae19f15568b8b11f860e3102936f6ba920e127dba8b": {
+    "headline_tr": "Super Micro, Lam Research ve Daha Fazla Hisse Senedi Bugünün Piyasasını Nasıl Açıklıyor",
+    "summary_tr": "Oracle hissesi düşüyor, S&P 500 bileşenleri arasında önde gelen düşüşler kaydediliyor. Intel, Sandisk ve Micron, acı bir satış dalgasının ardından teknoloji hisseleri toparlanırken yükseliyor."
+  },
+  "https://finnhub.io/api/news?id=7b2e4e105bc418e906688a9d7865f13ebaf068d525eb7154625ac4d3878ee396": {
+    "headline_tr": "Bank of America: Artan Agentic AI İş Yükleri CPU Talebini Artıracak",
+    "summary_tr": "Agentic yapay zekânın yükselişinin, talep artışını önemli ölçüde hızlandırarak genişletmesi beklenmektedir"
+  },
+  "https://finnhub.io/api/news?id=6f84949b398a78f5234c0dcbd3c6fb5827afdb89c2c7682f8ed033b58c70e1be": {
+    "headline_tr": "Robotlar Nvidia Hissesini Kurtarabilir mi?",
+    "summary_tr": "Nvidia hissesi geçtiği bir yıl içinde rakiplerine kıyasla geri kalmıştır ancak yeni bir yatırım, şirketin liderliği geri almayı umduğu alanı göstermektedir."
+  },
+  "https://finnhub.io/api/news?id=42c1a97218318774fb71aefdde86a69bd85a1d51f63a00902767f763e002c473": {
+    "headline_tr": "NVIDIA Hissesinin Yeni CPU Hikayesi, Çin Sessizliğini Kapatmaya Yeterli Mi?",
+    "summary_tr": "Yönetim büyük bir yeni pazara doğru keskin bir şekilde dönerken, Çin tarafından bırakılan milyarlarca dolarlık boşluğu detaylandırmayı durdurmuş; büyüme yavaşladıkça yatırımcıların göz ardı edemeyeceği sessiz bir değişim."
+  },
+  "https://finnhub.io/api/news?id=e772cc60b508479ed4fdc6d59ffdf8a6885525fdc805f58b65071743bc496ced": {
+    "headline_tr": "Daha İyi Yapay Zeka (AI) Hissesi: Marvell Technology vs. Broadcom",
+    "summary_tr": "Şu anda portföylerine bu AI hisse senetlerinden birini eklemek isteyen yatırımcıların kolayca bir seçim yapabilecekleri var."
+  },
+  "https://finnhub.io/api/news?id=2e943f8b079d83dde925768b61908b0404f033c03851ff11731dff1e6c007893": {
+    "headline_tr": "Nasdaq yarı iletken hisse senetleri Trump'ın yeni İran saldırıları uyarısına rağmen toparlanma rallisine öncülük ediyor",
+    "summary_tr": "Gıda ve enerji hariç olmak üzere bitmiş tüketici mallarının fiyatları Mayıs ayında %0,3 oranında yükseldi"
+  },
+  "https://finnhub.io/api/news?id=e8aaf2ce498a4c458f6ea88bb01d50e0e26b3f12e3b0960db81a47f30bcd0c5c": {
+    "headline_tr": "Stitch Fix, Intel, KLA ve Diğer Büyük Hisse Senetleri Perşembe Günü Yükseliş Gösteriyor",
+    "summary_tr": "Stitch Fix (SFIX) beklentileri aşan finansal sonuçlar açıkladı ve hisse senetleri %15,8 oranında yükseldi. Diğer büyük kazananlar arasında Velo3D, Virgin Galactic ve Intel yer almaktadır."
+  },
+  "https://finnhub.io/api/news?id=6908eab56d68aadd21a365c87626a80f282aedb36440741dc97fee8397ce8a20": {
+    "headline_tr": "Intel'in Başarı Veya Başarısızlık Anı Düşündüğünüzden Daha Yakın",
+    "summary_tr": "Intel Corporation 12 ayda yaklaşık %400 oranında yükselmiş, güçlü bir iyileştirme ve foundry doğrulaması tarafından desteklenmiştir. INTC hissesinin neden bir satın alma fırsatı olduğunu okuyun."
   }
 }
