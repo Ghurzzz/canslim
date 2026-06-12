@@ -3694,5 +3694,61 @@
   "https://finnhub.io/api/news?id=6908eab56d68aadd21a365c87626a80f282aedb36440741dc97fee8397ce8a20": {
     "headline_tr": "Intel'in Başarı Veya Başarısızlık Anı Düşündüğünüzden Daha Yakın",
     "summary_tr": "Intel Corporation 12 ayda yaklaşık %400 oranında yükselmiş, güçlü bir iyileştirme ve foundry doğrulaması tarafından desteklenmiştir. INTC hissesinin neden bir satın alma fırsatı olduğunu okuyun."
+  },
+  "https://finnhub.io/api/news?id=be0e199e76cdd1cbcbb60b02120125c806a6fe8ba028031b71c6de1d019d2f50": {
+    "headline_tr": "Wall Street'e Göre %44 ve %60 Düşmeden Önce Satılması Gereken 2 Popüler Yapay Zeka Hissesi",
+    "summary_tr": "Micron ve Intel hisseleri bu yıl üç haneli kazançlar sağladı, ancak bazı analistler hisselerin keskin bir şekilde düşmesini bekliyor."
+  },
+  "https://finnhub.io/api/news?id=125cf2594cc1e3898414ce6847183b3370da3317231f64cc8e0fda8624c1a1a0": {
+    "headline_tr": "SpaceX Halka Arzı: Perakende Yatırımcıların Büyük Dolandırılışı Daha Karanlık Bir Dönüşe Girdi",
+    "summary_tr": "Perakende yatırımcıların tam ihtiyacı olan şey... Wall Street'in tarihinin en büyük halka arzının aynı gününde debüt yapan kaldıraçlı SpaceX ETF'si."
+  },
+  "https://finnhub.io/api/news?id=64796e47e0802547258a8cde2855c9939a576a4f4675dde9f5fbffb191b514c7": {
+    "headline_tr": "S&P 500, Nasdaq, Dow Vadeli İşlemleri Yükseliyor SpaceX IPO Yaklaşırken, ABD-İran Barış Anlaşması Görünürde: ADBE, NVDA, CRWV, RKLB, SATS Odak Noktasında",
+    "summary_tr": "Stocktwits verileri, perakende yatırımcı duyarlılığının yumuşadığını, SPY üzerinde 'düşüş eğilimi' ve QQQ üzerinde 'nötr' eğilim gösterdiğini ortaya koymuştur."
+  },
+  "https://finnhub.io/api/news?id=5dcefebd3afd4ad6c155a295ed39f82b5f4e63cf20a9e2281308cf5086fb313e": {
+    "headline_tr": "Nakit Yüksek 2 Hisse Senedi ve İhmal Ettiğimiz 1 Hisse",
+    "summary_tr": "Nakit açısından zengin bir bilanço genellikle güç belirtisi olsa da, her zaman böyle değildir. Bazı şirketler borçtan kaçınırlar çünkü zayıf iş modellerine, sınırlı genişleme fırsatlarına veya tutarsız nakit akışlarına sahiptirler."
+  },
+  "https://finnhub.io/api/news?id=5103604630899aa91521e08e5d81bfa9126cdb5a49758002191a5220ca9dd023": {
+    "headline_tr": "Trump Tetiği Geri Çekti, Nasdaq %2,5 Sıçradı ve SpaceX Tarihin En Büyük IPO'sunu Rezerve Etti",
+    "summary_tr": "Trump, İran'a planlanan saldırıları iptal etti ve Nasdaq %2,5 geri sıçradı, çip şirketleri toparlanmayı öncülük etti, petrol 88 doların altına düştü ve 10 yıllık getiri bir oturumda 10 baz puan gerilemesi yaşadı. Oracle kan kaybetmeye devam etti"
+  },
+  "https://finnhub.io/api/news?id=f8b83307e32a141edc30a2bda3c4e52d57d9834d233c8dcdd27dceeef802d552": {
+    "headline_tr": "Özel-Nvidia, Çin müşterilerine Vera CPU satış sunumunu başlattı, kaynaklar söylüyor",
+    "summary_tr": "Nvidia, Çin müşterilerine yeni 'Vera' yapay zeka veri merkezi merkezi işlemcilerinin Ağustos ayı kadar erken kullanılabilir olabileceğini ve sipariş vermeye başlayabileceklerini söylemiştir, durumdan haberdar üç kaynağa göre"
+  },
+  "https://finnhub.io/api/news?id=311676641e294b08ca6936aec72e99ac02e68509f0d46434c29b7a508d8ec347": {
+    "headline_tr": "Marvell, AI Altyapı Büyümesi Yüksek Değerlemelerle Karşılaşırken Dan Durn'u CFO Olarak Atadı",
+    "summary_tr": "Marvell Technology (NasdaqGS:MRVL), eski Adobe CFO'su Dan Durn'u yeni Mali İşler Müdürü (CFO) olarak atamıştır. Durn, Willem Meintjes'in yerini alacak ve Marvell'in yönetim kurulundan ayrılarak bu pozisyona geçmektedir."
+  },
+  "https://finnhub.io/api/news?id=873b98658ff580c301d09b8df9445c9d7d114b62a19846ff6ddf550afa4720e6": {
+    "headline_tr": "Broadcom, Yapay Zeka Alanında Temel Altyapı Kazananı Haline Geliyor",
+    "summary_tr": "Broadcom'un özel hızlandırıcıları, yüksek hızlı ağ teknolojisi ve XPV finansman platformu, onu yapay zeka sermaye harcama trendlerinin yüksek değerli ucunda konumlandırmaktadır. AVGO hissesinin neden bir alım olduğunu okuyun."
+  },
+  "https://finnhub.io/api/news?id=3df8cb0572104801b17a0885eae7f7235c4a924a341d378c47a629eff6c4816a": {
+    "headline_tr": "Broadcom Hisse Senedi Kazanç Açıklamasından Sonra Şiddetli Dalgalanma Yaşadı",
+    "summary_tr": "Broadcom, güçlü sonuçlar bildirmesine rağmen yaklaşık %15 düşüş yaşadı."
+  },
+  "https://finnhub.io/api/news?id=3f38bafa1d8f00e36f5d52e2b479bca016eb5b583b1c89e1e1c0672b1df231b3": {
+    "headline_tr": "MU, STX, WDC, DRAM: İran Barış Anlaşması Umutları Arasında Bellek Stokları Yükselişe Geçti, SNDK Yeni Zirveye Ulaştı",
+    "summary_tr": "Yapay zeka tarafından yönlendirilen veri merkezi harcamaları sektörün rallisini besirken, bellek ve yarı iletken stokları için ilgi güçlü kalmaktadır."
+  },
+  "https://finnhub.io/api/news?id=e47878c357a3d3f39e61ddb4670c1fc715b6f431ac5dce10e73e5096eff8b03d": {
+    "headline_tr": "Jeff Bezos'un Yeni Girişimi Amazon'dan Daha Büyük Bir Fikir Mi? CNBC'ye 'Medeniyetsel Zenginlik' Yaratacağını Söylüyor",
+    "summary_tr": "Jeff Bezos, 11 Haziran 2026'de CNBC ile görüşerek, bir sonraki adımının Amazon'dan daha büyük olabileceğini savundu. Prometheus'un kurucu ortağı ve ortak CEO'su olan Bezos, bir tez sunuyor ve"
+  },
+  "https://finnhub.io/api/news?id=9ac2364df0cb12d6d16e3a7ae7f386184fd9636ffe6f2792d20815e039a1e5a8": {
+    "headline_tr": "Marvell Sonraki Trilyon Dolarlık Şirket Olabilir, Ancak Hisse Senedini Satın Almamalısınız",
+    "summary_tr": "Marvell (MRVL), NVIDIA'nın trilyon dolarlık açıklamasıyla sıçradı, ancak değerleme yüksek. Analist projeksizyonları 2030 yılına kadar 26 milyar dolarlık gelir anlamına gelmektedir. Daha fazla detay için buraya bakınız."
+  },
+  "https://finnhub.io/api/news?id=bff41cb9a96e43ecfaa19630e7d22326d47d1265804b38ed1ab7f4b2938a2cca": {
+    "headline_tr": "Lam Research, Nova ve Teradyne Hisseleri Yükselişte, Bilmeniz Gerekenler",
+    "summary_tr": "Nasdaq'ın %1,8 oranında toparlanmasının ardından öğleden sonra oturumunda bir dizi hisse senedi sıçradı, çünkü Trump'ın İran barış anlaşması duyurusu hafta boyunca sektöre baskı yapan oran baskısını hafifletmiştir."
+  },
+  "https://finnhub.io/api/news?id=44f36e901eb99f274b80b0a2d2af2233741c3dc4944167e96a354d1a94fe223c": {
+    "headline_tr": "Astera Labs AI Rack'lerinin Sinir Sistemini İnşa Ediyor ve Pazar Bunu Fark Etmeye Başlıyor",
+    "summary_tr": "Astera Labs, Inc. bir retimer tedarikçisinden AI rack'leri için bağlantı kumaş katmanına evrim geçiriyor. ALAB hissesi hakkında daha fazla bilgi edinin."
   }
 }
