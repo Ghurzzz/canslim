@@ -33,6 +33,29 @@
     "MU",
     "NVDA",
     "LRCX",
-    "AVGO"
-  ]
+    "AVGO",
+    "COHR"
+  ],
+  "portfolio_cost": {
+    "MU": {
+      "cost": 771.53,
+      "lot": 6
+    },
+    "NVDA": {
+      "cost": 206.82,
+      "lot": 8.09
+    },
+    "LRCX": {
+      "cost": 400.43,
+      "lot": 2.85
+    },
+    "AVGO": {
+      "cost": 387.55,
+      "lot": 3.07
+    },
+    "COHR": {
+      "cost": 379.91,
+      "lot": 3.76
+    }
+  }
 }
